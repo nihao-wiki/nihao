@@ -1,8 +1,8 @@
-import { createRequire } from 'module'
-import { defineConfig, type DefaultTheme } from 'vitepress'
+import { createRequire } from 'module';
+import { defineConfig, type DefaultTheme } from 'vitepress';
 import pkg from '../../../package.json';
 
-const require = createRequire(import.meta.url)
+const require = createRequire(import.meta.url);
 
 export const en = defineConfig({
   lang: 'en-US',
@@ -13,27 +13,27 @@ export const en = defineConfig({
 
     sidebar: {
       '/guide/': { base: '/guide/', items: sidebarGuide() },
-      '/chongqing/': { base: '/chongqing/', items: sidebarChongqing() }
+      '/chongqing/': { base: '/chongqing/', items: sidebarChongqing() },
     },
 
     editLink: {
       pattern: `${pkg.repository}edit/main/docs/:path`,
-      text: 'Edit this page on GitHub'
+      text: 'Edit this page on GitHub',
     },
 
     footer: {
       message: 'Released under the MIT License.',
       copyright: `Copyright © ${new Date().getFullYear()} nihao.wiki`,
-    }
-  }
-})
+    },
+  },
+});
 
 function nav(): DefaultTheme.NavItem[] {
   return [
     {
       text: 'Guide',
       link: '/guide/what-is-vitepress',
-      activeMatch: '/visa/'
+      activeMatch: '/visa/',
     },
     {
       text: 'Destinations',
@@ -41,31 +41,20 @@ function nav(): DefaultTheme.NavItem[] {
         {
           text: 'Chongqing',
           link: '/chongqing/',
-          activeMatch: '/visa/'
+          activeMatch: '/visa/',
         },
         {
           text: 'Chengdu',
           link: '/chengdu/',
-          activeMatch: '/visa/'
-        }
-      ]
-    }
-  ]
+          activeMatch: '/visa/',
+        },
+      ],
+    },
+  ];
 }
 
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
-  return [
-    {
-      text: 'Introduction',
-      collapsed: false,
-      items: [
-        { text: 'What is VitePress?', link: 'what-is-vitepress' },
-        { text: 'Getting Started', link: 'getting-started' },
-        { text: 'Routing', link: 'routing' },
-        { text: 'Deploy', link: 'deploy' }
-      ]
-    },
-  ]
+  return [];
 }
 
 function sidebarChongqing(): DefaultTheme.SidebarItem[] {
@@ -74,15 +63,17 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
       text: 'Chongqing',
       items: [
         { text: 'Arrival', link: 'arrival' },
+        { text: 'Traffic', link: 'traffic' },
+        { text: 'Wonders', link: 'wonders' },
         {
           text: 'Cuisine',
           base: '/chongqing/cuisine/',
           items: [
             { text: 'Hot Pot', link: 'hot-pot' },
             { text: 'Noodles', link: 'noodles' },
-          ]
-        }
-      ]
-    }
-  ]
+          ],
+        },
+      ],
+    },
+  ];
 }
