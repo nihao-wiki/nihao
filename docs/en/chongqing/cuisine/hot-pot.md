@@ -1,10 +1,33 @@
 # Hot Pot Delights: Your Guide to Local Favourites and Must-Try Dishes
 
-The estimated number of hot pot restaurants in Chongqing is around 30,000. It's no exaggeration to say that they can be found on virtually every street corner.
+## Introduction
 
-## Broth
+Chongqing hotpot originated on the Yangtze River banks in the early 20th century. Dock workers, seeking warmth and economy, cooked cheaper offal and scraps in a broth of chili and Sichuan pepper. Over time, this developed into the distinctive Chongqing hotpot known for its numbing spiciness and aroma.
 
-When you step into a hot pot restaurant, the very first thing you'll be asked is what kind of broth you'd like your hot pot to be – it’s the crucial starting point for any hot pot dining experience.
+The estimated number of hotpot restaurants in Chongqing is around 30,000. It's no exaggeration to say that they can be found on virtually every street corner.
+
+Chongqing residents' love for hotpot knows no season; even in the scorching summer, the allure of hotpot remains undiminished. They believe that spicy food promotes perspiration, aiding the body in dissipating heat under high temperatures, making hotpot a part of their diet even in summer months.
+
+In addition, Chongqing's hotpot culture has transcended mere dietary habits; it has become a manifestation of social activities and a way of life. Whether it's family gatherings, dinners with friends, or business banquets, hotpot is always among the top choices.
+
+## Diversity
+
+The diversity of Chongqing hotpot is reflected in its numerous variations, categorized into "old-school hotpot," "skewered hotpot," and other types of hotpot.
+- <Speech>老火锅</Speech>(Old-School Hot Pot): This is the most traditional form of Chongqing hotpot, characterized by a base of beef tallow, Sichuan peppercorns, dried chili peppers, and other spices, creating a rich and numbing flavor that epitomizes authentic Chongqing hotpot.
+- <Speech>串串火锅</Speech>(Skewered Hot Pot): Skewered hotpot offers a more convenient dining format, where ingredients are threaded onto bamboo skewers, making them easy to cook and facilitating billing based on the number of skewers consumed.
+
+## Ultimate Guide
+
+### Duration
+
+The duration of a hotpot meal typically ranges from 1 hour to 4 hours. It can largely be attributed to several factors:
+- Social Nature: Hotpot is a highly social dining format. People gather around a shared table, cooking and eating together, which naturally extends the mealtime as it provides ample opportunity for friends and family to interact.
+- Cooking Process: Ingredients need to be cooked individually in the simmering broth, which requires time. Moreover, to ensure the best texture and flavor, some ingredients demand specific cooking durations that cannot be rushed.
+- Variety of Ingredients: The vast array of ingredients available for hotpot, ranging from meats and seafood to vegetables, tofu, and noodles, necessitates time for selection, preparation, and tasting.
+
+### Broth
+
+When you step into a hotpot restaurant, the very first thing you'll be asked is what kind of broth you'd like your hotpot to be – it’s the crucial starting point for any hotpot dining experience.
 
 <table>
   <thead>
@@ -33,7 +56,7 @@ When you step into a hot pot restaurant, the very first thing you'll be asked is
   </tbody>
 </table>
 
-## Spiciness
+### Spiciness
 
 If you choose spicy broth, you'll be asked is how spicy you'd prefer.
 
@@ -69,9 +92,9 @@ If you choose spicy broth, you'll be asked is how spicy you'd prefer.
   </tbody>
 </table>
 
-## Dipping Sauce
+### Dipping Sauce
 
-At a hot pot restaurant, the oil dip is typically self-service. However, you can always ask a server for assistance if needed.
+At a hotpot restaurant, the oil dip is typically self-service. However, you can always ask a server for assistance if needed.
 
 <table>
   <thead>
@@ -105,32 +128,32 @@ At a hot pot restaurant, the oil dip is typically self-service. However, you can
 </dl>
 
 
-### Garlic Chili Oil Dip
+#### Garlic Chili Oil Dip
 
-The classic dipping sauce in Chongqing hot pot culture, which includes **sesame oil** and **garlic**, can be referred to as "<Speech>香油蒜泥油碟</Speech>(Garlic Chili Oil Dip)".
+The classic dipping sauce in Chongqing hotpot culture, which includes **sesame oil** and **garlic**, can be referred to as "<Speech>香油蒜泥油碟</Speech>(Garlic Chili Oil Dip)".
 
-When indulging in Chongqing hot pot, It plays several key roles, notably in:
+When indulging in Chongqing hotpot, It plays several key roles, notably in:
 
-- **Cooling Down**: It helps to reduce the surface temperature of the hot pot ingredients, preventing scalding when consuming.
-- **Mitigating Spiciness**: It can temper the spiciness of the food, allowing even those sensitive to heat to better enjoy their hot pot experience.
-- **Enhancing Flavor**: It adds an extra layer of flavor to the hot pot ingredients, enriching the overall dining experience.
+- **Cooling Down**: It helps to reduce the surface temperature of the hotpot ingredients, preventing scalding when consuming.
+- **Mitigating Spiciness**: It can temper the spiciness of the food, allowing even those sensitive to heat to better enjoy their hotpot experience.
+- **Enhancing Flavor**: It adds an extra layer of flavor to the hotpot ingredients, enriching the overall dining experience.
 - **Protect Gastrointestinal**: It assists in alleviating these adverse reactions associated with spicy consumption.
 
-_Pro Tip_: As the hot pot gets spicier with each serving, you can add '<Speech>陈醋</Speech>(aged vinegar)' to your oil dip at opportune moments to further ease the spiciness.
+_Pro Tip_: As the hotpot gets spicier with each serving, you can add '<Speech>陈醋</Speech>(aged vinegar)' to your oil dip at opportune moments to further ease the spiciness.
 
-### Vegetable Oil Dip
+#### Vegetable Oil Dip
 
 The hidden specialty oil dip, typically not readily available and only obtainable by asking a server. Similar to the garlic sesame oil dip, but made with vegetable oil instead. It has a distinctive flavor. Unlike some dips, it does not mitigate spiciness and can be extremely hot when consumed.
 
-### Dry Chili Dip
+#### Dry Chili Dip
 
 The dry version, known as "<Speech as="甘油碟">干油碟</Speech>(dry oil dip)", primarily consists of **chili powder**, **crushed peanuts**, **sesame seeds**, and other dry seasonings.
 
 ## Essential Picks
 
-Chongqing hot pot is renowned for its unique spicy and numbing flavor, featuring a variety of must-try dishes. Here are some popular ingredients that are essential to the Chongqing hot pot experience:
+Chongqing hotpot is renowned for its unique spicy and numbing flavor, featuring a variety of must-try dishes. Here are some popular ingredients that are essential to the Chongqing hotpot experience:
 
-### Must-Try Dessert
+### Dessert
 
 <table>
   <thead>
@@ -154,7 +177,7 @@ Chongqing hot pot is renowned for its unique spicy and numbing flavor, featuring
   </tbody>
 </table>
 
-### Must-Try Drinks
+### Drinks
 
 <table>
   <thead>
@@ -178,7 +201,7 @@ Chongqing hot pot is renowned for its unique spicy and numbing flavor, featuring
   </tbody>
 </table>
 
-### Must-Try Snacks
+### Snacks
 
 <table>
   <thead>
@@ -202,110 +225,189 @@ Chongqing hot pot is renowned for its unique spicy and numbing flavor, featuring
   </tbody>
 </table>
 
-### Must-Try Ingredients
+### Staples
+
+In the context of a hotpot feast, plain white rice, fried rice with egg, and pickled vegetables each play distinctive roles and contribute different flavors:
+- <Speech>白米饭</Speech>(White Rice): the blandness of rice enhances the flavors of hotpot ingredients, acting as a perfect foil to the bold tastes.
+- <Speech>蛋炒饭</Speech>(Fried Rice with Egg): egg-fried rice, with its golden hue and rich texture, complements a hotpot meal splendidly. The combination of egg aroma and rice creates an additional layer of flavor.
+- <Speech>咸菜</Speech>(Pickled Vegetables): such as sour cabbage or kimchi, with their tangy profile, help cut through the fattiness of hotpot dishes, providing a refreshing contrast.
+
+### Ingredients
+
+#### Must-Try Ingredients
 
 <table>
   <thead>
     <tr>
-      <th rowspan="2">Pick</th>
-      <th rowspan="2">Ingredient</th>
-      <th colspan="2">Broth-Friendly</th>
-      <th rowspan="2">Spiciness <sup>2</sup></th>
-    </tr>
-    <tr>
-      <th>Clear<sup>1</sup></th>
-      <th>Spicy</th>
+      <th>Pick</th>
+      <th>Broth<sup>1</sup></th>
+      <th>Blanch<br/>Time<sup>2</sup></th>
+      <th>Spiciness<sup>3</sup></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><Speech>毛肚</Speech>(Tripe)</td>
-      <td>Beef Omasum</td>
-      <td>×</td>
-      <td>✓</td>
+      <td><Speech>毛肚</Speech>(Beef Tripe)</td>
+      <td>Spicy</td>
+      <td>10s</td>
       <td>🌶️</td>
     </tr>
     <tr>
       <td><Speech>鸭肠</Speech>(Duck Intestine)</td>
-      <td>Duck Intestine</td>
-      <td>×</td>
-      <td>✓</td>
+      <td>Spicy</td>
+      <td>15s</td>
       <td>🌶️</td>
     </tr>
     <tr>
       <td><Speech>鹅肠</Speech>(Goose Intestine)</td>
-      <td>Goose Intestine</td>
-      <td>×</td>
-      <td>✓</td>
+      <td>Spicy</td>
+      <td>15s</td>
       <td>🌶️</td>
     </tr>
     <tr>
       <td><Speech>嫩牛肉</Speech>(Tender Beef Slices)</td>
-      <td>Beef Slices</td>
-      <td>✓</td>
-      <td>✓</td>
+      <td>Both</td>
+      <td>1min</td>
       <td>🌶️</td>
     </tr>
     <tr>
       <td><Speech>麻辣牛肉</Speech>(Spicy Beef Slices)</td>
-      <td>Beef Slices</td>
-      <td>×</td>
-      <td>✓</td>
+      <td>Spicy</td>
+      <td>1min</td>
       <td>🌶️🌶️🌶️🌶️</td>
     </tr>
     <tr>
-      <td><Speech>黄喉</Speech>(Yellow Gullet)</td>
-      <td>Cow's Esophagus</td>
-      <td>✓</td>
-      <td>✓</td>
+      <td><Speech>牛黄喉</Speech>(Cow's Gullet)</td>
+      <td>Both</td>
+      <td>2min</td>
       <td>🌶️</td>
     </tr>
     <tr>
-      <td><Speech>肥肠</Speech>(Pork Intestine)</td>
-      <td>Pork Intestine</td>
-      <td>-</td>
-      <td>✓</td>
-      <td>🌶️🌶️</td>
-    </tr>
-    <tr>
-      <td><Speech>土豆</Speech>(Potato Slices)</td>
-      <td>Potato Slices</td>
-      <td>✓</td>
-      <td>✓</td>
+      <td><Speech>土豆片</Speech>(Potato Slices)</td>
+      <td>Both</td>
+      <td>1-4min</td>
       <td>🌶️</td>
     </tr>
     <tr>
-      <td><Speech>耗儿鱼</Speech>(Leatherjacket)</td>
-      <td>Fish</td>
-      <td>✓</td>
-      <td>✓</td>
+      <td><Speech as="耗而鱼">耗儿鱼</Speech>(Leatherjacket)</td>
+      <td>Both</td>
+      <td>3-5min</td>
       <td>🌶️</td>
     </tr>
     <tr>
-      <td><Speech>藕片</Speech>(Lotus Root)</td>
-      <td>Lotus Root Slices</td>
-      <td>✓</td>
-      <td>✓</td>
+      <td><Speech>藕片</Speech>(Lotus Root Slices)</td>
+      <td>Both</td>
+      <td>>1min</td>
       <td>🌶️</td>
     </tr>
     <tr>
       <td><Speech>苕粉</Speech>(Sweet Potato Noodles)</td>
-      <td>Sweet Potato</td>
-      <td>✓</td>
-      <td>✓</td>
+      <td>Both</td>
+      <td>5min</td>
       <td>🌶️🌶️</td>
     </tr>
     <tr>
-      <td><Speech>鸭血</Speech>(Duck Blood Cube)</td>
-      <td>Duck Blood</td>
-      <td>✓</td>
-      <td>✓</td>
+      <td><Speech>冷锅鸭血</Speech>(Duck Blood Cube)</td>
+      <td>Both</td>
+      <td>10-15min</td>
       <td>🌶️</td>
     </tr>
   </tbody>
 </table>
 
 <dl style="font-size:12px;">
-<dd style="margin:0;">Clear Broth-Friendly<sup>1</sup>: the "-" symbol means the ingredient can be cooked in a clear Broth, but the flavor is not the best.</dd>
-<dd style="margin:0;">Spiciness<sup>2</sup>: referring to the spiciness after being cooked in the spicy Broth.</dd>
+<dd style="margin:0;">Broth-Friendly<sup>1</sup>: the "Both" means The ingredient can be cooked in both clear broth and spicy broth, but it is generally more delicious when cooked in the spicy broth.</dd>
+<dd style="margin:0;">Blanch Time<sup>2</sup>: the blanching time is generally derived from experiential assessment, and it specifically refers to the duration of cooking by quickly immersing the ingredients in the boiling hotpot broth. Actual cooking times may vary and should be adjusted according to personal preference and the specific conditions of the hotpot.</dd>
+<dd style="margin:0;">Spiciness<sup>3</sup>: referring to the spiciness after being cooked in the spicy Broth.</dd>
 </dl>
+
+#### More Ingredients
+
+<table>
+  <thead>
+    <tr>
+      <th>Pick</th>
+      <th>Broth<</th>
+      <th>Spiciness</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><Speech>雪花牛肉</Speech>(Snowflake Beef)</td>
+      <td>Both</td>
+      <td>🌶️🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>虾滑</Speech>(Shrimp Paste)</td>
+      <td>Both</td>
+      <td>🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>海带苗</Speech>(Young Kelp)</td>
+      <td>Both</td>
+      <td>🌶️🌶️🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>发鱿鱼</Speech>(Rehydrated Squid)</td>
+      <td>Both</td>
+      <td>🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>火箭鱿鱼</Speech>(Rocket Squid)</td>
+      <td>Both</td>
+      <td>🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>泥鳅</Speech>(Loach)</td>
+      <td>Both</td>
+      <td>🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>猪脑花</Speech>(Pork Brain)</td>
+      <td>Spicy</td>
+      <td>🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>鹌鹑蛋</Speech>(Quail Eggs)</td>
+      <td>Both</td>
+      <td>🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>金针菇</Speech>(Enoki Mushrooms)</td>
+      <td>Both</td>
+      <td>🌶️🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>平菇</Speech>(King Oyster Mushrooms)</td>
+      <td>Both</td>
+      <td>🌶️🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>蘑菇</Speech>(Mushrooms)</td>
+      <td>Both</td>
+      <td>🌶️🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>豆腐皮</Speech>(Tofu Skin)</td>
+      <td>Both</td>
+      <td>🌶️🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>豆干</Speech>(Firm Tofu)</td>
+      <td>Both</td>
+      <td>🌶️🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>梅林午餐肉</Speech>(Maling Brand Luncheon Meat)</td>
+      <td>Both</td>
+      <td>🌶️🌶️</td>
+    </tr>
+    <tr>
+      <td><Speech>牛肝</Speech>(Beef Liver)</td>
+      <td>Spicy</td>
+      <td>🌶️🌶️🌶️🌶️</td>
+    </tr>
+  </tbody>
+</table>
+
+Please note that the array of ingredients for hotpot is exceedingly diverse. Ranging from meats, seafood, vegetables, bean products, noodles to various specialty snacks, hotpot menus encompass hundreds to even thousands of distinct options. Different hotpot restaurants offer varying selections of dishes, with some establishments featuring signature specialties unique to their menu.

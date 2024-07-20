@@ -6,3 +6,15 @@
 .VPImage.logo {
   margin: 0;
 }
+
+@media (max-width: 768px) {
+  .VPHome .VPHero .tagline {
+    font-size: 4vw !important;
+  }
+  .VPButton.medium {
+    font-size: 3vw !important;
+  }
+  .VPButton.medium.alt[href="/contribute"] {
+    display: none;
+  }
+}

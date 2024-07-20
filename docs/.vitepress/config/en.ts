@@ -74,6 +74,7 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
       text: 'Chongqing',
       items: [
         { text: 'Arrival', link: 'arrival' },
+        { text: 'Traffic', link: 'traffic' },
         {
           text: 'Cuisine',
           base: '/chongqing/cuisine/',

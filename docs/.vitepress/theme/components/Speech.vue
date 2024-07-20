@@ -11,10 +11,11 @@ const props = defineProps({
 const reading = ref(false);
 const fill = computed(() => (reading.value ? 'var(--vp-badge-tip-text)' : 'var(--vp-c-default-1)'));
 const slots = useSlots();
+const isSupport = 'speechSynthesis' in window;
 
 const speak = () => {
   const text: unknown = props.as ? props.as : slots.default?.()?.[0]?.children;
-  if (typeof text === 'string' && 'speechSynthesis' in window) {
+  if (isSupport && typeof text === 'string') {
     var utterance = new SpeechSynthesisUtterance();
     utterance.onstart = () => (reading.value = true);
     utterance.onend = () => (reading.value = false);
@@ -31,7 +32,7 @@ const speak = () => {
 <template>
   <span>
     <slot></slot>
-    <span class="speak-icon" @click="speak">
+    <span v-if="isSupport" class="speak-icon" @click="speak">
       <svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg">
         <path
           :fill="fill"

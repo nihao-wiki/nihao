@@ -27,6 +27,11 @@ export default defineConfig({
   head: [
     ['meta', { name: 'theme-color', content: '#3c8772' }],
   ],
+  markdown: {
+    image: {
+      lazyLoading: true,
+    },
+  },
   themeConfig: {
     logo: { src: '/nihao.svg', width: 30, height: 30 },
     nav: nav(),
