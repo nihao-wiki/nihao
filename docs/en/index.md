@@ -19,6 +19,11 @@ hero:
       text: Contribute
       link: /contribute
 
+poi:
+  - text: Discover Chongqing's Spicy Cuisine.
+    brand: 'Discover Chongqing'
+    link: /chongqing/cuisine/hot-pot
+
 features:
   - icon: 📝
     title: Focus on Your Content
