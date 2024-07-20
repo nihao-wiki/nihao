@@ -11,9 +11,9 @@ const props = defineProps({
 const reading = ref(false);
 const fill = computed(() => (reading.value ? 'var(--vp-badge-tip-text)' : 'var(--vp-c-default-1)'));
 const slots = useSlots();
-const isSupport = 'speechSynthesis' in window;
 
 const speak = () => {
+  const isSupport = 'speechSynthesis' in window;
   const text: unknown = props.as ? props.as : slots.default?.()?.[0]?.children;
   if (isSupport && typeof text === 'string') {
     var utterance = new SpeechSynthesisUtterance();
