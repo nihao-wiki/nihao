@@ -8,7 +8,7 @@ Chongqing Jiangbei International Airport is a large-scale, Grade 4F civil airpor
 
 Chongqing's night views are incredibly famous. Should you happen to arrive in Chongqing at night, opting for a window seat on **the left side** of the aircraft gives you <u>a 50% chance (determined by wind direction) to witness the beautiful urban night scenery of Chongqing</u> just before the plane lands.
 
-![Night View from Above](../assets//cq-night.jpg)
+![Night View from Above](./assets/cq-night.jpg)
 
 > <font size="2">The runway numbers at Chongqing Jiangbei International Airport are 02/20. Runway 02 is used for landings and takeoffs on a heading of north-east. The approach path for this runway happens to pass over the most beautifully lit urban area of Chongqing, presenting a stunning night view. Whether Runway 02 or Runway 20 is used for actual landings depends on the wind direction. Planes typically land into the wind, so when there is a southwest wind, there's a high probability that planes will be landing on Runway 02.</font>
 
@@ -27,5 +27,17 @@ Alternatively, you can reach the city center by taking the metro.
 For more information, see [Chongqing Traffic](/chongqing/traffic)
 
 </div>
-<div><img src="../assets/yellow-taxi.jpg" alt="Yellow Taxis" /></div>
+<div><img src="./assets/yellow-taxi.jpg" alt="Yellow Taxis" /></div>
 </Flex>
+
+## Stays
+
+You may choose to stay at a hotel in the city center, which is conveniently close to all the internet-famous attractions. A classic itinerary would be: start with a walk to Kuixinglou, marveling at Chongqing’s unique topography where what appears to be the first floor is actually the twentieth level; then, take Line 2 of the light rail to Liziba Station, to witness the extraordinary spectacle of the train passing right through a building.
+
+For more information, see [Chongqing Wonders](/chongqing/wonders)
+
+<Map height="40vh" center="106.552003,29.562696" :zoom="13" driving="106.638691,29.717337,airport|106.577708,29.567822,Skyline Viewpoint|106.587897,29.565634,Raffles" points="106.638691,29.717337,airport|106.578953,29.562165,Hongyadong|106.530586,29.550659,Liziba Monorail Piercing Building|106.587897,29.565634,Raffles|106.582809,29.557813,Yangtze River Cable Car|106.573579,29.559729,Kuixinglou"></Map>
+
+> If your route takes you across the Qiansimen Bridge, you'll be treated to a magnificent skyline view of Chongqing just before ascending the bridge.
+
+![Chongqing SKyline](./assets/skyline.jpg)
