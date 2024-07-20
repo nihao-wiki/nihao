@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { useSlots, computed, defineProps, ref } from 'vue';
+import { useSlots, onMounted, computed, defineProps, ref } from 'vue';
 
 const props = defineProps({
   as: {
@@ -9,18 +9,32 @@ const props = defineProps({
 });
 
 const reading = ref(false);
+const isSupport = ref(false);
 const fill = computed(() => (reading.value ? 'var(--vp-badge-tip-text)' : 'var(--vp-c-default-1)'));
 const slots = useSlots();
 
+onMounted(() => {
+  if ('speechSynthesis' in window) {
+    const getVoices = () => {
+      const voices = window.speechSynthesis.getVoices();
+      if (voices.length === 0) {
+        setTimeout(getVoices, 1000);
+      } else {
+        isSupport.value = !!voices.find((voice) => voice.lang === 'zh-CN');
+      }
+    };
+    getVoices();
+  }
+});
+
 const speak = () => {
-  const isSupport = 'speechSynthesis' in window;
   const text: unknown = props.as ? props.as : slots.default?.()?.[0]?.children;
-  if (isSupport && typeof text === 'string') {
+  if (typeof text === 'string') {
+    reading.value = true;
     var utterance = new SpeechSynthesisUtterance();
-    utterance.onstart = () => (reading.value = true);
     utterance.onend = () => (reading.value = false);
-    utterance.text = text;
     utterance.lang = 'zh-CN';
+    utterance.text = text;
     utterance.rate = 0.6;
     utterance.pitch = 1;
     utterance.volume = 1;

@@ -2,13 +2,11 @@
 
 ## Introduction
 
-Chongqing hotpot originated on the Yangtze River banks in the early 20th century. Dock workers, seeking warmth and economy, cooked cheaper offal and scraps in a broth of chili and Sichuan pepper. Over time, this developed into the distinctive Chongqing hotpot known for its numbing spiciness and aroma.
+Chongqing hotpot originated on the Yangtze River banks in the early 20th century. Dock workers cooked cheaper offal and scraps in a broth of chili and Sichuan pepper. Over time, this developed into the distinctive Chongqing hotpot.
 
-The estimated number of hotpot restaurants in Chongqing is around 30,000. It's no exaggeration to say that they can be found on virtually every street corner.
+The estimated number of hotpot restaurants in Chongqing is around 30,000. Chongqing residents' love for hotpot knows no season; even in the scorching summer, the allure of hotpot remains undiminished.
 
-Chongqing residents' love for hotpot knows no season; even in the scorching summer, the allure of hotpot remains undiminished. They believe that spicy food promotes perspiration, aiding the body in dissipating heat under high temperatures, making hotpot a part of their diet even in summer months.
-
-In addition, Chongqing's hotpot culture has transcended mere dietary habits; it has become a manifestation of social activities and a way of life. Whether it's family gatherings, dinners with friends, or business banquets, hotpot is always among the top choices.
+In addition, it has become a manifestation of social activities. Whether it's family gatherings, dinners with friends, or business banquets, hotpot is always among the top choices.
 
 ## Diversity
 
@@ -55,6 +53,8 @@ When you step into a hotpot restaurant, the very first thing you'll be asked is 
     </tr>
   </tbody>
 </table>
+
+![Spicy Broth](../assets//broth.jpg)
 
 ### Spiciness
 
