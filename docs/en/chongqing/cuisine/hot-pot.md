@@ -54,6 +54,8 @@ When you step into a hotpot restaurant, the very first thing you'll be asked is 
   </tbody>
 </table>
 
+![Spicy Broth](../assets//broth.jpg)
+
 ### Spiciness
 
 If you choose spicy broth, you'll be asked is how spicy you'd prefer.
