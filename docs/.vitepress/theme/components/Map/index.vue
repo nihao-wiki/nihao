@@ -85,16 +85,16 @@ export default {
 <template>
   <div class="map-wrapper">
     <v-map
-      :center="this._center"
-      :points="this._points"
-      :divesites="this._divesites"
-      :walking="this._walking"
-      :transit="this._transit"
-      :driving="this._driving"
-      :line="this._line"
-      :height="this.height"
-      :padding="this.padding"
-      :zoom="this.zoom"
+      :center="_center"
+      :points="_points"
+      :divesites="_divesites"
+      :walking="_walking"
+      :transit="_transit"
+      :driving="_driving"
+      :line="_line"
+      :height="height"
+      :padding="padding"
+      :zoom="zoom"
     ></v-map>
   </div>
 </template>
