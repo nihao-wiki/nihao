@@ -14,4 +14,13 @@
     padding-right: 0;
   }
 }
+
+@media (max-width: 768px) {
+  .flex > div {
+    padding-bottom: 16px;
+  }
+  .flex > div:nth-last-child(1) {
+    padding-bottom: 0;
+  }
+}
 </style>
