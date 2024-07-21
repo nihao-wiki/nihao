@@ -1,4 +1,4 @@
-# Hot Pot Delights: Your Guide to Local Favourites and Must-Try Dishes
+# Chongqing Hot Pot Delights: Your Guide to Local Favourites and Must-Try Dishes
 
 ## Introduction
 
@@ -249,6 +249,10 @@ In the context of a hotpot feast, plain white rice, fried rice with egg, and pic
 - <Speech>咸菜</Speech>(Pickled Vegetables): Such as sour cabbage or kimchi, with their tangy profile, help cut through the fattiness of hotpot dishes, providing a refreshing contrast.
 
 ### Ingredients
+
+::: info Tips
+Some ingredients, such as luncheon meat, shrimp dumplings, and sausages, do not explicitly indicate pork content in their names. If you are concerned, please inform the server before ordering — '<Speech>不要有猪肉猪油的东西</Speech>nothing with pork or pork lard, please.'
+:::
 
 #### Must-Try Ingredients
 
