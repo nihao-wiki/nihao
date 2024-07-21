@@ -8,19 +8,21 @@ const props = defineProps({
   },
 });
 
-const reading = ref(false);
-const isSupport = ref(false);
+const reading = ref<boolean>(false);
+const isSupport = ref<boolean>(localStorage.getItem('supportSpeechSynthesis') === 'true');
 const fill = computed(() => (reading.value ? 'var(--vp-badge-tip-text)' : 'var(--vp-c-default-1)'));
 const slots = useSlots();
 
 onMounted(() => {
-  if ('speechSynthesis' in window) {
+  if ('speechSynthesis' in window && isSupport.value !== true) {
     const getVoices = () => {
       const voices = window.speechSynthesis.getVoices();
       if (voices.length === 0) {
         setTimeout(getVoices, 1000);
       } else {
-        isSupport.value = !!voices.find((voice) => voice.lang === 'zh-CN');
+        const result: any = !!voices.find((voice) => voice.lang === 'zh-CN');
+        localStorage.setItem('supportSpeechSynthesis', JSON.stringify(result));
+        isSupport.value = result;
       }
     };
     getVoices();
