@@ -21,11 +21,14 @@ The diversity of Chongqing hotpot is reflected in its numerous variations, categ
 
 ### Duration
 
-A hotpot meal usually lasts 1-4 hours, due primarily to various contributing factors.
+A hotpot meal usually lasts 1-4 hours.
+In the cooking process, ingredients are individually prepared in broth, requiring time to achieve optimal texture and flavor, with some needing precise cooking durations. The diverse hotpot ingredient range requires time for selection, prep, and tasting.
 
-- It is a social dining style where people cook and eat together at a shared table.
-- In the cooking process, ingredients are individually prepared in broth, requiring time to achieve optimal texture and flavor, with some needing precise cooking durations.
-- The diverse hotpot ingredient range requires time for selection, prep, and tasting.
+Above all, it is a social dining style where friends and family eat together at a shared table.
+
+<Youtube href="https://youtu.be/cVUobDfBDNs?si=q2Zpk2v9j3b6oZ0t&t=605" title="Finally met my hero | واخيراً التقيت بفناني المفضل">
+<img src="../../assets/youtube/finally-met-my-hero.jpg" alt="Finally met my hero | واخيراً التقيت بفناني المفضل" />
+</Youtube>
 
 ### Broth Choice
 
@@ -144,10 +147,6 @@ The classic dipping sauce in Chongqing hotpot culture, which includes **sesame o
 - **Mitigating Spiciness**: It can temper the spiciness of the food, allowing even those sensitive to heat to better enjoy their hotpot experience.
 - **Enhancing Flavor**: It adds an extra layer of flavor to the hotpot ingredients.
 - **Protect Gastrointestinal**: It helps reduce negative effects linked to eating spicy foods.
-
-::: info Local Tips
-As the hotpot gets spicier with each serving, you can add '<Speech>陈醋</Speech>(aged vinegar)' to your oil dip at opportune moments to further ease the spiciness.
-:::
 
 #### Vegetable Oil Dip
 
@@ -439,6 +438,34 @@ Please note that the array of ingredients for hotpot is exceedingly diverse. Ran
 
 ## Eat Like a Local
 
+### Finding the Best Restaurant
+
+Don't judge a restaurant by its surroundings; good restaurants are typically found on the street rather than in malls.
+
+The best restaurants are often recognizable by the aroma of hotpot that greets you even before you enter; they are usually bustling with activity, filled with diners, and sometimes there's even a queue to get in.
+
 ### Blanching Sequence
 
-Start with meat before moving on to vegetables. Typically, you begin with meat items such as tripe, duck intestines, and fatty beef slices.
+When everything is ready, you can start by adding some hardier ingredients (in an amount that can be finished after cooking), and then start with meat items such as tripe, duck intestines, and fatty beef slices. By the time the tripe and duck intestines have been eaten, the ingredients cooked earlier should also be just about ready.
+
+### Using the Dip
+
+Don't put the freshly cooked ingredients straight into your mouth; you can instead transfer a good amount of food onto your bowl, allowing the dipping sauce to reduce their temperature and spice level; or you could use this time to have another couple of slices of tripe.
+
+### Using the Tool
+
+You can ask the server for an extra pair of chopsticks to use as serving <Speech>筷子</Speech>(chopsticks), specifically for handling raw meats and such; a <Speech>漏瓢</Speech>(skimmer ladle) is a handy tool that can help you locate and retrieve the ingredients you want from the pot.
+
+### Spiciness Increases Over Time
+
+It's common for the spiciness to increase as you eat more in a hotpot, especially if you've chosen a Sichuan peppery base. The spiciness builds up over time because the capsaicin in the chili peppers gradually releases and accumulates in the broth.
+
+Desserts should be consumed during the meal, and having drinks and desserts can help alleviate the spiciness.
+
+::: info Local Tips
+As the hotpot gets spicier with each serving, you can add '<Speech>陈醋</Speech>(aged vinegar)' to your oil dip at opportune moments to further ease the spiciness. Vinegar also has the effect of protecting your digestive system.
+:::
+
+### Ask the Waitstaff
+
+The people of Chongqing are friendly and generous, always ready to help, even in the cold rain. Use gestures if they might not understand English.
