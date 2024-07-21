@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress';
-import nav from '../nav';
 import sidebar from '../sidebar';
 import { en } from './en';
 import pkg from '../../../package.json';
@@ -34,7 +33,6 @@ export default defineConfig({
   },
   themeConfig: {
     logo: { src: '/nihao.svg', width: 30, height: 30 },
-    nav: nav(),
     outline: [2, 3],
     outlineTitle: '-',
     sidebar: sidebar(),
