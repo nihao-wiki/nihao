@@ -32,8 +32,8 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     {
       text: 'Guide',
-      link: '/guide/what-is-vitepress',
-      activeMatch: '/visa/',
+      link: '/guide/',
+      activeMatch: '/guide/',
     },
     {
       text: 'Destinations',
@@ -41,14 +41,14 @@ function nav(): DefaultTheme.NavItem[] {
         {
           text: 'Chongqing',
           link: '/chongqing/',
-          activeMatch: '/visa/',
-        },
-        {
-          text: 'Chengdu',
-          link: '/chengdu/',
-          activeMatch: '/visa/',
+          activeMatch: '/chongqing/',
         },
       ],
+    },
+    {
+      text: 'Sponsor',
+      link: '/contribute#become-a-sponsor',
+      activeMatch: '/contribute/',
     },
   ];
 }
