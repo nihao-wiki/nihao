@@ -6,6 +6,11 @@
 
 Chongqing <Speech>小面</Speech>(Xiaomian) is one of the most famous noodles, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
 
+#### Overview
+
+The per capita cost for Xiaomian is around <u>8 to 15 yuan (approximately €1.20 to €2.00)</u>.
+Most restaurants operate from <u>8:00 am to 9:00 pm</u>, with a few remaining open for 24 hours.
+
 #### Portion
 
 Noodles are typically offered in two sizes, <Speech>二两</Speech>(100 grams) and <Speech>三两</Speech>(150 grams).
@@ -23,7 +28,7 @@ Xiaomian come in various shapes and textures that cater to different preferences
     <tr>
       <th>Shapes</th>
       <th>Shapes</th>
-      <th>Spiciness</th>
+      <th>Width</th>
       <th>Suitability</th>
     </tr>
   </thead>
@@ -32,7 +37,7 @@ Xiaomian come in various shapes and textures that cater to different preferences
       <td><Speech>细面</Speech>(Thin Noodles)</td>
       <td>●</td>
       <td>2mm</td>
-      <td>Recommended, Locals Favorite</td>
+      <td>Recommended, The Most Common</td>
     </tr>
     <tr>
       <td><Speech>韭菜叶</Speech>(Leek Leaf Noodles)</td>
@@ -87,10 +92,10 @@ Of course, you'll need to choose your level of spiciness.
 #### Adaptations
 
 Chongqing Xiaomian, renowned for its rich variations and distinctive flavors, offers many adaptations beyond the classic spicy version. 
-- <Speech>牛肉面</Speech>(Beef Noodles): They features tender, braised beef as the main topping, usually served in a specially prepared spicy broth that complements the beef’s richness.
-- <Speech>肥肠面</Speech>(Pig Intestine Noodles): Using thoroughly cleaned and seasoned pig intestine as the primary ingredient, this type of noodle soup is characterized by its unique texture and flavor.
-- <Speech>豌杂面</Speech>(Mashed Pea and Minced Pork Noodles): A combination of mashed peas and minced meat sauce creates a noodle dish with distinct layers of sweetness and savory flavors.
-- <Speech>鸡杂面</Speech>(Chicken Offal Noodles): Incorporates chicken giblets such as gizzards, hearts, and livers as toppings, offering a diverse range of textures and tastes.
+- <Speech>牛肉面</Speech>(Beef Noodles): 🌶️ They features tender, braised beef as the main topping, usually served in a specially prepared spicy broth that complements the beef’s richness.
+- <Speech>肥肠面</Speech>(Pig Intestine Noodles): 🌶️ Using thoroughly cleaned and seasoned pig intestine as the primary ingredient, this type of noodle soup is characterized by its unique texture and flavor.
+- <Speech>豌杂面</Speech>(Mashed Pea and Minced Pork Noodles): A combination of mashed peas and minced pork sauce creates a noodle dish with distinct layers of sweetness and savory flavors.
+- <Speech>鸡杂面</Speech>(Chicken Offal Noodles): 🌶️ Incorporates chicken giblets such as gizzards, hearts, and livers as toppings, offering a diverse range of textures and tastes.
 
 ### Cold Noodles
 
@@ -102,7 +107,7 @@ Cold noodles are quite similar to other types of noodles, but what sets them apa
 
 In Chongqing, <speech>米线</speech>(rice noodles) are just as popular as small noodles, and their preparation is largely similar to that of small noodles, with variations such as beef rice noodles and chicken offal rice noodles being common options.
 
-And, in certain restaurants, you might find variations like  <speech>砂锅米线</speech>(Casserole Rice Noodles) or <speech>鸡汁米线</speech>(Chicken Broth Rice Noodles), which offer distinctly different flavors.
+And, in certain restaurants, you might find variations like  <speech>砂锅米线</speech>(Casserole Rice Noodles) 🥬 or <speech>鸡汁米线</speech>(Chicken Broth Rice Noodles) 🥬, which offer distinctly different flavors.
 
 ::: info Tips
 Some vendors may include lard in their noodles seasoning. If you are concerned, please inform the server before ordering — '<Speech>不要有猪肉猪油的东西</Speech>nothing with pork or pork lard, please.'

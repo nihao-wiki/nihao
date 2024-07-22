@@ -13,7 +13,7 @@ In addition, it has become a manifestation of social activities. Whether it's fa
 ### Overview
 
 A hotpot meal usually lasts <u>1-4 hours</u>.
-In the cooking process, ingredients are individually prepared in broth, requiring time to achieve optimal texture and flavor, with some needing precise cooking durations. The diverse hotpot ingredient range requires time for selection, prep, and tasting.
+In the cooking process, ingredients are individually prepared in broth, requiring time to achieve optimal texture and flavor, with some needing precise cooking durations. Also the diverse hotpot ingredient range requires time for selection, prep, and tasting.
 
 Above all, it is <u>a social dining style</u> where friends and family eat together at a shared table. It is typically enjoyed by ; eating it solo might seem a bit unusual.
 
@@ -21,8 +21,7 @@ Above all, it is <u>a social dining style</u> where friends and family eat toget
 <img src="../../assets/youtube/finally-met-my-hero.jpg" alt="Finally met my hero | واخيراً التقيت بفناني المفضل" />
 </Youtube>
 
-The per person cost is generally between <u>60 to 100 RMB (approximately 8 to 12 Euros)</u>.
-
+The per person cost is generally between <u>60 to 100 RMB (approximately €8 to €12)</u>. Most restaurants operate <u>from noon until midnight</u>, with some staying open as late as 2 a.m.
 
 ### Diversity
 
