@@ -9,6 +9,17 @@ reference:
 
 ### Countries
 
+<script setup>
+import { ref, computed } from 'vue'
+import { visaFreeCountries } from './visa';
+
+const European = computed(() => visaFreeCountries.filter(country => country.continent === 'European'));
+const American = computed(() => visaFreeCountries.filter(country => country.continent === 'American'));
+const Oceanian = computed(() => visaFreeCountries.filter(country => country.continent === 'Oceanian'));
+const Asian = computed(() => visaFreeCountries.filter(country => country.continent === 'Asian'));
+console.log(European);
+</script>
+
 <table>
   <thead>
     <tr>
@@ -17,20 +28,20 @@ reference:
   </thead>
   <tbody>
     <tr>
-      <td>European</td>
-      <td>Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, Monaco, Russia, United Kingdom, Ireland, Cyprus, Bulgaria, Romania, Ukraine, Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, Belarus, Norway</td>
+      <td>European ({{ European.length }})</td>
+      <td><template v-for="(country, i) in European">{{ country.name }}{{ i !== European.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
-      <td>American</td>
-      <td>United States, Canada, Brazil, Mexico, Argentina, Chile</td>
+      <td>American ({{ American.length }})</td>
+      <td><template v-for="(country, i) in American">{{ country.name }}{{ i !== American.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
-      <td>Oceanian</td>
-      <td>Australia, New Zealand</td>
+      <td>Oceanian ({{ Oceanian.length }})</td>
+      <td><template v-for="(country, i) in Oceanian">{{ country.name }}{{ i !== Oceanian.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
-      <td>Asian</td>
-      <td>South Korea, Japan, Singapore, Brunei, United Arab Emirates, Qatar</td>
+      <td>Asian ({{ Asian.length }})</td>
+      <td><template v-for="(country, i) in Asian">{{ country.name }}{{ i !== Asian.length - 1 ? ', ' : '' }}</template></td>
     </tr>
   </tbody>
 </table>
