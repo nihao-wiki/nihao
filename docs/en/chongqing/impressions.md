@@ -1,11 +1,5 @@
 # Chongqing's First Impressions: Your Arrival Guide
 
-## Flight
-
-The primary way to arrive in Chongqing is by air, with flights landing at the Jiangbei International Airport.
-
-Chongqing Jiangbei International Airport is a large-scale, Grade 4F civil airport, approximately 19 kilometers away from the city center. The airport has accumulated a total of hundreds international routes, indicating a substantial network of international flights. This includes destinations across Asia, Europe, America, and beyond. For instance, direct flights include: Phnom Penh, Paris, Budapest, Milan, Rome, Osaka, Vientiane, Kuala Lumpur, Penang, Kathmandu, Doha, Moscow, Seoul, Madrid, Colombo, Bangkok, Phuket, Koh Samui, Dubai, London, Ho Chi Minh City, Hanoi.
-
 ## Night View from Above
 
 Chongqing's night views are incredibly famous. Should you happen to arrive in Chongqing at night, opting for a window seat on **the left side** of the aircraft gives you <u>a 50% chance (determined by wind direction) to witness the beautiful urban night scenery of Chongqing</u> just before the plane lands.

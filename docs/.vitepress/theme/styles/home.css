@@ -9,10 +9,10 @@
 
 @media (max-width: 768px) {
   .VPHome .VPHero .tagline {
-    font-size: 4vw !important;
+    font-size: 3.5vw !important;
   }
-  .VPButton.medium {
-    font-size: 3vw !important;
+  .VPHomeHero .actions .action:nth-child(3) {
+    display: none;
   }
   .VPButton.medium.alt[href="/contribute"] {
     display: none;
