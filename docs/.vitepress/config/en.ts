@@ -74,8 +74,10 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
           text: 'Sensational Cuisine',
           base: '/chongqing/cuisine/',
           items: [
-            { text: 'Hot Pot', link: 'hot-pot' },
             { text: 'Noodles', link: 'noodles' },
+            { text: 'Sichuan Cuisine', link: 'sichuan-cuisine' },
+            { text: 'Jianghu Cuisine', link: 'jianghu-cuisine' },
+            { text: 'Hot Pot', link: 'hot-pot' },
           ],
         },
       ],
