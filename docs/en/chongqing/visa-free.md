@@ -52,7 +52,10 @@ const countriesList = ref(directOriginCountries.map(country => ({
 
 const validVisaFreeCountries = computed(() => countriesList.value.filter(country => country.visaFree));
 const destinationCountries = computed(() => countriesList.value.filter(country => country.name !== originName.value));
-const originName = ref(validVisaFreeCountries.value.find(country => country.visaFree).name);
+
+const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone.split('/');
+const originName = ref(validVisaFreeCountries.value.find(country => country.name === timeZone[0] || country.cities.includes(timeZone[1]))?.name || validVisaFreeCountries.value.find(country => country.visaFree).name);
+
 const origin = computed(() => validVisaFreeCountries.value.find(country => country.name === originName.value));
 const finalDestination = computed(() => countriesList.value.filter(country => country.name !== originName.value));
 </script>
