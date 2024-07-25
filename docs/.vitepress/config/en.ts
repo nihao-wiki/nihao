@@ -10,6 +10,7 @@ export const en = defineConfig({
 
   themeConfig: {
     nav: nav(),
+    outlineTitle: 'On this page',
 
     sidebar: {
       '/guide/': { base: '/guide/', items: sidebarGuide() },
