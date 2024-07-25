@@ -10,6 +10,7 @@ export const en = defineConfig({
 
   themeConfig: {
     nav: nav(),
+    outlineTitle: 'On this page',
 
     sidebar: {
       '/guide/': { base: '/guide/', items: sidebarGuide() },
@@ -32,7 +33,7 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     {
       text: 'Guide',
-      link: '/guide/',
+      link: '/guide/visa/',
       activeMatch: '/guide/',
     },
     {
@@ -40,7 +41,7 @@ function nav(): DefaultTheme.NavItem[] {
       items: [
         {
           text: 'Chongqing',
-          link: '/chongqing/',
+          link: '/chongqing/visa-free/',
           activeMatch: '/chongqing/',
         },
       ],
@@ -54,7 +55,12 @@ function nav(): DefaultTheme.NavItem[] {
 }
 
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
-  return [];
+  return [
+    {
+      text: 'Visa',
+      link: 'visa',
+    },
+  ];
 }
 
 function sidebarChongqing(): DefaultTheme.SidebarItem[] {
@@ -62,15 +68,17 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
     {
       text: 'Chongqing',
       items: [
-        { text: 'Arrival', link: 'arrival' },
-        { text: 'Traffic', link: 'traffic' },
-        { text: 'Wonders', link: 'wonders' },
+        { text: 'Visa Free', link: 'visa-free' },
+        { text: 'Impressions', link: 'impressions' },
+        { text: '3D Cityscape', link: 'cityscape' },
         {
-          text: 'Cuisine',
+          text: 'Sensational Cuisine',
           base: '/chongqing/cuisine/',
           items: [
-            { text: 'Hot Pot', link: 'hot-pot' },
             { text: 'Noodles', link: 'noodles' },
+            { text: 'Sichuan Cuisine', link: 'sichuan-cuisine' },
+            { text: 'Jianghu Cuisine', link: 'jianghu-cuisine' },
+            { text: 'Hot Pot', link: 'hot-pot' },
           ],
         },
       ],

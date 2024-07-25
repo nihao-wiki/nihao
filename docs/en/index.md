@@ -7,14 +7,14 @@ titleTemplate: Discover China's Diversity, Delights and Wonders
 hero:
   name: Nihao!
   text: Discover China's Diversity, Delights and Wonders.
-  tagline: The Curious Traveler's Guide to China
+  tagline: 'Your Systematic Travel Guide to China: By Locals'
   actions:
     - theme: brand
       text: Discover Chongqing
       link: /chongqing
     - theme: alt
-      text: Guide & Tips
-      link: /guide/
+      text: 144-Hour Visa-Free Guide
+      link: /guide/visa/
     - theme: alt
       text: Contribute
       link: /contribute
@@ -22,15 +22,12 @@ hero:
 poi:
   - text: Discover Chongqing's Spicy Cuisine.
     brand: 'Discover Chongqing'
-    link: /chongqing/cuisine/hot-pot
+    link: /chongqing/visa-free/
 ---
 
 <style>
 :root {
   --vp-home-hero-name-color: transparent !important;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
-
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
   --vp-home-hero-image-filter: blur(44px) !important;
 }
 

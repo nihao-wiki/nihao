@@ -7,6 +7,7 @@ import Flex from './components/Flex.vue';
 import Speech from './components/Speech.vue';
 import Map from './components/Map/index.vue';
 import Youtube from './components/Youtube.vue';
+import Weekdays from './components/Weekdays.vue';
 import './styles/index.css';
 
 export default {
@@ -16,6 +17,7 @@ export default {
     app.component('Speech', Speech);
     app.component('Map', Map);
     app.component('Youtube', Youtube);
+    app.component('Weekdays', Weekdays);
   },
   Layout() {
     return h(defaultTheme.Layout, null, {

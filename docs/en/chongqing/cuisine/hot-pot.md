@@ -10,6 +10,19 @@ In addition, it has become a manifestation of social activities. Whether it's fa
 
 ## Must-Know
 
+### Overview
+
+A hotpot meal usually lasts <u>1-4 hours</u>.
+In the cooking process, ingredients are individually prepared in broth, requiring time to achieve optimal texture and flavor, with some needing precise cooking durations. Also the diverse hotpot ingredient range requires time for selection, prep, and tasting.
+
+Above all, it is <u>a social dining style</u> where friends and family eat together at a shared table. It is typically enjoyed by ; eating it solo might seem a bit unusual.
+
+<Youtube href="https://youtu.be/cVUobDfBDNs?si=q2Zpk2v9j3b6oZ0t&t=605" title="Finally met my hero | واخيراً التقيت بفناني المفضل">
+<img src="../../assets/youtube/finally-met-my-hero.jpg" alt="Finally met my hero | واخيراً التقيت بفناني المفضل" />
+</Youtube>
+
+The per person cost is generally between <u>60 to 100 RMB (approximately €8 to €12)</u>. Most restaurants operate <u>from noon until midnight</u>, with some staying open as late as 2 a.m.
+
 ### Diversity
 
 The diversity of Chongqing hotpot is reflected in its numerous variations, categorized into "old-school hotpot," "skewered hotpot," and other types of hotpot.
@@ -18,17 +31,6 @@ The diversity of Chongqing hotpot is reflected in its numerous variations, categ
 - <Speech>串串火锅</Speech>(Skewered Hot Pot): It offers a more convenient dining format, where ingredients are threaded onto bamboo skewers.
 
 ![Skewered Hot Pot](../assets//chuanchuan.jpg)
-
-### Duration
-
-A hotpot meal usually lasts 1-4 hours.
-In the cooking process, ingredients are individually prepared in broth, requiring time to achieve optimal texture and flavor, with some needing precise cooking durations. The diverse hotpot ingredient range requires time for selection, prep, and tasting.
-
-Above all, it is a social dining style where friends and family eat together at a shared table.
-
-<Youtube href="https://youtu.be/cVUobDfBDNs?si=q2Zpk2v9j3b6oZ0t&t=605" title="Finally met my hero | واخيراً التقيت بفناني المفضل">
-<img src="../../assets/youtube/finally-met-my-hero.jpg" alt="Finally met my hero | واخيراً التقيت بفناني المفضل" />
-</Youtube>
 
 ### Broth Choice
 

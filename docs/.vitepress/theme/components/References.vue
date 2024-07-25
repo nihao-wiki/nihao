@@ -5,7 +5,7 @@ const frontmatter = useData().frontmatter;
 
 <template>
   <dl class="reference" v-if="frontmatter.reference">
-    <dt class="reference-title">参考资料</dt>
+    <dt class="reference-title">References</dt>
     <dd class="reference-list-wrap">
       <ul class="reference-list">
         <li v-for="ref in frontmatter.reference" class="reference-item">
