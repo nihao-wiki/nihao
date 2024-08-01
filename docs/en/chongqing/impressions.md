@@ -10,7 +10,13 @@ Chongqing's night views are incredibly famous. Should you happen to arrive in Ch
 
 If you're fortunate enough, as the plane clears the final mountain and makes its last right-hand maneuver, you'll catch sight of the Chongqing urban area, with only a few minutes remaining until touchdown.
 
-## Yellow Taxis
+## Arrival
+
+<Youtube href="https://youtu.be/rZb_P7xDVJo?si=K3LCgMCUFiqGQIXr&t=391" title="Entering The LARGEST City in the WORLD (Chongqing, China) 🇨🇳 - KSquared">
+<img src="../assets/youtube/entering-the-largest-city-in-the-world.jpg" alt="Entering The LARGEST City in the WORLD (Chongqing, China) 🇨🇳 - KSquared" />
+</Youtube>
+
+### Yellow Taxis
 
 <Flex>
 <div>
