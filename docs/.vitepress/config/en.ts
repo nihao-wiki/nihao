@@ -47,9 +47,26 @@ function nav(): DefaultTheme.NavItem[] {
       ],
     },
     {
+      text: 'Contribute',
+      items: [
+        {
+          text: 'How to Contribute',
+          link: '/contribute',
+        },
+        {
+          text: 'Our Team',
+          link: '/team',
+        },
+        {
+          text: 'Special Thanks',
+          link: '/thanks',
+        },
+      ],
+    },
+    {
       text: 'Sponsor',
-      link: '/contribute#become-a-sponsor',
-      activeMatch: '/contribute/',
+      link: '/sponsor',
+      activeMatch: '/sponsor/',
     },
   ];
 }
