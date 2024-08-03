@@ -39,3 +39,19 @@ You may choose to stay at a hotel in the city center, which is conveniently clos
 > If your route takes you across the Qiansimen Bridge, you'll be treated to a magnificent skyline view of Chongqing just before ascending the bridge.
 
 ![Chongqing SKyline](./assets/skyline.jpg)
+
+## Prices
+
+Some basic food items in China, such as rice, noodles, and cooking oil, typically have lower prices. In European and American countries, the prices of meat and dairy products are often more reasonable.
+
+| Item             | Prince in China | Price in Europe |
+| :--------------- | :-------------- | :-------------- |
+| Cola 500ml       | €0.4            | €1.5            |
+| Mineral Water 5L | €1.1            | €6L             |
+| Beef 500g        | €9              | €3              |
+| Tomato 500g      | €0.2            | €3              |
+| Apple 500g       | €0.2            | €2              |
+
+<Youtube href="https://youtu.be/6-5wmhpnT_k?si=EWA77ir71zaZr9sI" title="Full Supermarket Tour in China 🇨🇳 (Shocking Prices) - Two Mad Explorers">
+<img src="../assets/youtube/full-supermarket-tour-in-china.jpg" alt="Full Supermarket Tour in China 🇨🇳 (Shocking Prices) - Two Mad Explorers" />
+</Youtube>

@@ -54,6 +54,10 @@ Xiaomian come in various shapes and textures that cater to different preferences
   </tbody>
 </table>
 
+<Youtube href="https://youtu.be/ZehhL5mXV4c?si=KvMraWn0R9m9woSD&t=80" title="My Italian Family Tried Chongqing Noodles for the First Time - Luca&Rachele 路卡和瑞丽">
+<img src="../../assets/youtube/my-italian-family-tried-chongqing-noodles-for-the-first-time.jpg" alt="My Italian Family Tried Chongqing Noodles for the First Time - Luca&Rachele 路卡和瑞丽" />
+</Youtube>
+
 #### Soup Style & Dry-tossed Style
 
 Although noodle soup is the most common form of Xiaomian, a significant number of locals opt for the dry version, known as <Speech as="甘溜">干溜</Speech>(dry-tossed style).
@@ -96,6 +100,10 @@ Chongqing Xiaomian, renowned for its rich variations and distinctive flavors, of
 - <Speech>肥肠面</Speech>(Pig Intestine Noodles): 🌶️ Using thoroughly cleaned and seasoned pig intestine as the primary ingredient, this type of noodle soup is characterized by its unique texture and flavor.
 - <Speech>豌杂面</Speech>(Mashed Pea and Minced Pork Noodles): A combination of mashed peas and minced pork sauce creates a noodle dish with distinct layers of sweetness and savory flavors.
 - <Speech>鸡杂面</Speech>(Chicken Offal Noodles): 🌶️ Incorporates chicken giblets such as gizzards, hearts, and livers as toppings, offering a diverse range of textures and tastes.
+
+<Youtube href="https://youtu.be/NX7Pjd92Hdo?si=s9VLFz8GuSKzzjOt&t=168" title="I found heaven in Chongqing and I'M NEVER LEAVING! - Blondie in China">
+<img src="../../assets/youtube/i-found-heaven-in-chongqing.jpg" alt="I found heaven in Chongqing and I'M NEVER LEAVING! - Blondie in China" />
+</Youtube>
 
 ### Cold Noodles
 

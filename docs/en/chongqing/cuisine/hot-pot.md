@@ -51,7 +51,7 @@ When you step into a hotpot restaurant, the very first thing you'll be asked is 
       <td>Disregarded</td>
     </tr>
     <tr>
-      <td><Speech>鸳鸯锅</Speech>(Double-Flavor Pot)</td>
+      <td><Speech>鸳鸯锅</Speech>(Dual Hot Pot)</td>
       <td>Divided Clear & Spicy Broth</td>
       <td>Recommended for First Try</td>
     </tr>
@@ -64,6 +64,14 @@ When you step into a hotpot restaurant, the very first thing you'll be asked is 
 </table>
 
 ![Spicy Broth](../assets//broth.jpg)
+
+Hotpot is one of the most famous spicy dishes in China, particularly in the regions of Chongqing and Sichuan. However, to say that hotpot is the spiciest food in China might be somewhat exaggerated, as it depends on individual preferences for spiciness and the level of spiciness in the hotpot base chosen.
+
+<Youtube href="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186" title="We are suffering in China…TRYING THE SPICIEST DISH IN CHINA 🔥🇨🇳 - JetLag Warriors">
+<img src="../../assets/youtube//trying-the-spiciest-dish-in-china.jpg" alt="We are suffering in China…TRYING THE SPICIEST DISH IN CHINA 🔥🇨🇳 - JetLag Warriors" />
+</Youtube>
+
+In Chongqing hotpot, Sichuan pepper is used extensively to create a unique numbing sensation, which complements the heat from the chilies. The combination of the numbing effect from the Sichuan pepper and the spiciness from the chilies is what gives Chongqing hotpot its distinctive "ma la" flavor.
 
 ### Spiciness Choice
 
@@ -104,6 +112,10 @@ If you choose spicy broth, you'll be asked is how spicy you'd prefer.
 <Youtube href="https://youtu.be/bKJTaqQBObk?si=u9vXLi4Q20FGgGip&t=736" title="I Went to the World's Only 8D City of Future - PPPeter">
 <img src="../../assets/youtube/i-went-to-the-8d-city.jpg" alt="I Went to the World's Only 8D City of Future - PPPeter" />
 </Youtube>
+
+::: info Local Tips
+Don't put freshly cooked ingredients straight into your mouth; use a dip.
+:::
 
 ### Dipping Sauce
 

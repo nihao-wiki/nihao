@@ -71,14 +71,16 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
         { text: 'Visa Free', link: 'visa-free' },
         { text: 'Impressions', link: 'impressions' },
         { text: '3D Cityscape', link: 'cityscape' },
+        { text: 'Culture', link: 'culture' },
         {
           text: 'Sensational Cuisine',
           base: '/chongqing/cuisine/',
           items: [
             { text: 'Noodles', link: 'noodles' },
+            { text: 'Hot Pot', link: 'hot-pot' },
+            { text: 'Street Food', link: 'street-food' },
             { text: 'Sichuan Cuisine', link: 'sichuan-cuisine' },
             { text: 'Jianghu Cuisine', link: 'jianghu-cuisine' },
-            { text: 'Hot Pot', link: 'hot-pot' },
           ],
         },
       ],
