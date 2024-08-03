@@ -30,15 +30,6 @@ Alternatively, you can reach the city center by taking the metro.
 <div><img src="./assets/yellow-taxi.jpg" alt="Yellow Taxis" /></div>
 </Flex>
 
-## Skyline
-
-If your route takes you across the Qiansimen Bridge, you'll be treated to a magnificent skyline view of Chongqing just before ascending the bridge.
-
-
-<Youtube href="https://youtu.be/Boh66Pjjiq0?si=OOTsd7ocX4XpMMoN&t=775" title="Driving in Chongqing - This is a city with the most complicated traffic in China - China Street View">
-<img src="../assets/youtube/driving-in-chongqing.jpg" alt="Driving in Chongqing - This is a city with the most complicated traffic in China - China Street View" />
-</Youtube>
-
 ## Stays
 
 You may choose to stay at a hotel in the city center, which is conveniently close to all the internet-famous attractions. A classic itinerary would be: start with a walk to Kuixinglou, marveling at Chongqing’s unique topography where what appears to be the first floor is actually the twentieth level; then, take Line 2 of the light rail to Liziba Station, to witness the extraordinary spectacle of the train passing right through a building.
@@ -47,16 +38,26 @@ You may choose to stay at a hotel in the city center, which is conveniently clos
 
 ## Prices
 
+### Items
+
 Some basic food items in China, such as rice, noodles, and cooking oil, typically have lower prices. In European and American countries, the prices of meat and dairy products are often more reasonable.
 
-| Item             | Prince in China | Price in Europe |
-| :--------------- | :-------------- | :-------------- |
-| Cola 500ml       | €0.4            | €1.5            |
-| Mineral Water 5L | €1.1            | €6L             |
-| Beef 500g        | €9              | €3              |
-| Tomato 500g      | €0.2            | €3              |
-| Apple 500g       | €0.2            | €2              |
+| Item             | Price |
+| :--------------- | :---- |
+| Cola 500ml       | €0.4  |
+| Mineral Water 5L | €1.1  |
+| Beef 500g        | €9    |
+| Tomato 500g      | €0.2  |
+| Apple 500g       | €0.2  |
 
 <Youtube href="https://youtu.be/6-5wmhpnT_k?si=EWA77ir71zaZr9sI" title="Full Supermarket Tour in China 🇨🇳 (Shocking Prices) - Two Mad Explorers">
 <img src="../assets/youtube/full-supermarket-tour-in-china.jpg" alt="Full Supermarket Tour in China 🇨🇳 (Shocking Prices) - Two Mad Explorers" />
 </Youtube>
+
+### Accommodations
+
+| Accommodations   | Price       |
+| :--------------- | :---------- |
+| Four-Star Hotels | €38 - 100 |
+| Airbnb           | €12 - 38 |
+| Hostel           | €2.5        |
