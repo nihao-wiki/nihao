@@ -6,6 +6,10 @@ It's known for its bold and spicy flavors, reflecting the culinary traditions of
 
 ## Sliced Green Pepper Chicken
 
+<Youtube href="https://youtu.be/rNs1n45_xfk?si=-06fiV4QdaCcUfzU" title="lost the sense of taste | فقدت حاسة التذوق بسبب الفلفل - Lao Wang in China">
+<img src="../../assets/youtube/lost-the-sense-of-taste.jpg" alt="lost the sense of taste | فقدت حاسة التذوق بسبب الفلفل - Lao Wang in China" />
+</Youtube>
+
 ## Sliced Green Pepper Rabbit
 
 ## Sichuan Pepper Chicken
