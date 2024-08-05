@@ -17,9 +17,13 @@ In the cooking process, ingredients are individually prepared in broth, requirin
 
 Above all, it is <u>a social dining style</u> where friends and family eat together at a shared table. It is typically enjoyed by ; eating it solo might seem a bit unusual.
 
-<Youtube href="https://youtu.be/cVUobDfBDNs?si=q2Zpk2v9j3b6oZ0t&t=605" title="Finally met my hero | واخيراً التقيت بفناني المفضل - Lao Wang in China">
-<img src="../../assets/youtube/finally-met-my-hero.jpg" alt="Finally met my hero | واخيراً التقيت بفناني المفضل - Lao Wang in China" />
+<Youtube link="https://youtu.be/cVUobDfBDNs?si=q2Zpk2v9j3b6oZ0t&t=605">
+<template #cover><img src="../../assets/youtube/finally-met-my-hero.jpg" /></template>
+<template #title>Finally met my hero | واخيراً التقيت بفناني المفضل </template>
+<template #author>Lao Wang in China</template>
+<template #description>I met an excellent actor, and we've been trying to meet up for about two years. Today, we finally did, and he said he'd take me to a great place to eat. We'll see how the taste and price feel.</template>
 </Youtube>
+
 
 The per person cost is generally between <u>60 to 100 RMB (approximately €8 to €12)</u>. Most restaurants operate <u>from noon until midnight</u>, with some staying open as late as 2 a.m.
 
@@ -67,8 +71,11 @@ When you step into a hotpot restaurant, the very first thing you'll be asked is 
 
 Hotpot is one of the most famous spicy dishes in China, particularly in the regions of Chongqing and Sichuan. However, to say that hotpot is the spiciest food in China might be somewhat exaggerated, as it depends on individual preferences for spiciness and the level of spiciness in the hotpot base chosen.
 
-<Youtube href="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186" title="We are suffering in China…TRYING THE SPICIEST DISH IN CHINA 🔥🇨🇳 - JetLag Warriors">
-<img src="../../assets/youtube//trying-the-spiciest-dish-in-china.jpg" alt="We are suffering in China…TRYING THE SPICIEST DISH IN CHINA 🔥🇨🇳 - JetLag Warriors" />
+<Youtube link="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186">
+<template #cover><img src="../../assets/youtube//trying-the-spiciest-dish-in-china.jpg" /></template>
+<template #title>We are suffering in China…TRYING THE SPICIEST DISH IN CHINA</template>
+<template #author>JetLag Warriors</template>
+<template #description>Guided by my Chinese friend, we had hotpot in an ancient town on the outskirts of Chongqing; I tried duck blood for the first time and it was actually pretty good.</template>
 </Youtube>
 
 In Chongqing hotpot, Sichuan pepper is used extensively to create a unique numbing sensation, which complements the heat from the chilies. The combination of the numbing effect from the Sichuan pepper and the spiciness from the chilies is what gives Chongqing hotpot its distinctive "ma la" flavor.
@@ -109,8 +116,11 @@ If you choose spicy broth, you'll be asked is how spicy you'd prefer.
   </tbody>
 </table>
 
-<Youtube href="https://youtu.be/bKJTaqQBObk?si=u9vXLi4Q20FGgGip&t=736" title="I Went to the World's Only 8D City of Future - PPPeter">
-<img src="../../assets/youtube/i-went-to-the-8d-city.jpg" alt="I Went to the World's Only 8D City of Future - PPPeter" />
+<Youtube link="https://youtu.be/bKJTaqQBObk?si=u9vXLi4Q20FGgGip&t=736">
+<template #cover><img src="../../assets/youtube/i-went-to-the-8d-city.jpg" /></template>
+<template #title>I Went to the World's Only 8D City of Future</template>
+<template #author>PPPeter</template>
+<template #description>PPPeter is taking on various levels of spicy hotpot, including the insanely spicy, and he's not using any oil dip. Can PPPeter survive?</template>
 </Youtube>
 
 ::: info Local Tips

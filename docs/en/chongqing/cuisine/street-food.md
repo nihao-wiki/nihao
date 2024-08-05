@@ -6,6 +6,9 @@
 
 <Speech>烤年糕</Speech>(Grilled Rice Cake)
 
-<Youtube href="https://youtu.be/j22aObnfhG4?si=E_BmJzRYcM0jXZMr&t=853" title="Everything I ate in Chongqing, China (ULTIMATE STREET FOOD TOUR) 🇨🇳 - JetLag Warriors">
-<img src="../../assets/youtube/everything-i-ate-in-chongqing.jpg" alt="Everything I ate in Chongqing, China (ULTIMATE STREET FOOD TOUR) 🇨🇳 - JetLag Warriors" />
+<Youtube link="https://youtu.be/j22aObnfhG4?si=E_BmJzRYcM0jXZMr&t=8538">
+<template #cover><img src="../../assets/youtube/everything-i-ate-in-chongqing.jpg" /></template>
+<template #title>Everything I ate in Chongqing, China (ULTIMATE STREET FOOD TOUR)</template>
+<template #author>JetLag Warriors</template>
+<template #description>Chongqing street food has completely captivated me. Once you get used to the spiciness, it becomes incredibly tasty; but at first, it can be quite a tingling surprise. I would give it a five-star rating.</template>
 </Youtube>

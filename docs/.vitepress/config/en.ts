@@ -47,6 +47,10 @@ function nav(): DefaultTheme.NavItem[] {
       ],
     },
     {
+      text: 'Community',
+      link: 'https://www.reddit.com/r/nihaowiki/',
+    },
+    {
       text: 'Contribute',
       items: [
         {
