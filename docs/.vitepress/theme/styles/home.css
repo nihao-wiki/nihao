@@ -11,10 +11,4 @@
   .VPHome .VPHero .tagline {
     font-size: 3.5vw !important;
   }
-  .VPHomeHero .actions .action:nth-child(3) {
-    display: none;
-  }
-  .VPButton.medium.alt[href="/contribute"] {
-    display: none;
-  }
 }
