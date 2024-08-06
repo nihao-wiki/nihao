@@ -9,6 +9,7 @@ import Map from './components/Map/index.vue';
 import Youtube from './components/Youtube.vue';
 import Weekdays from './components/Weekdays.vue';
 import NavReddit from './components/NavReddit.vue';
+import Ads from './components/Ads.vue';
 import './styles/index.css';
 
 export default {
@@ -25,6 +26,7 @@ export default {
     return h(defaultTheme.Layout, null, {
       'home-hero-image': () => h(HomeHeroImage),
       'doc-footer-before': () => h(References),
+      'aside-ads-before': () => h(Ads),
     });
   },
 } satisfies Theme;
