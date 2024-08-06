@@ -5,9 +5,16 @@ const props = defineProps(['link']);
 </script>
 
 <template>
-  <div class="important custom-block github-alert" style="display: flex">
+  <div class="important custom-block github-alert wrapper">
     <div class="cover">
-      <slot name="cover"></slot>
+      <a
+        class="VPLink link VPNavScreenMenuGroupLink"
+        :href="props.link"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <slot name="cover"></slot
+      ></a>
     </div>
     <div class="title">
       <a
@@ -33,21 +40,27 @@ const props = defineProps(['link']);
         <span class="author">@<slot name="author"></slot></span>
       </a>
       <div class="description">
-      <slot name="description"></slot>
-    </div>
+        <slot name="description"></slot>
+      </div>
     </div>
   </div>
 </template>
 
 <style scoped>
-.cover {
-  width: 38.2%;
-  position: relative;
+@media (min-width: 768px) {
+  .wrapper {
+    display: flex;
+  }
+  .cover {
+    width: 38.2%;
+    position: relative;
+  }
+  .title {
+    width: 61.8%;
+    padding: 0 0 0 12px;
+  }
 }
-.title {
-  width: 61.8%;
-  padding: 0 0 0 12px;
-}
+
 .youtube-icon {
   display: inline-block;
   vertical-align: middle;

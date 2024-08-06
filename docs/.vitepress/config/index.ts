@@ -25,6 +25,27 @@ export default defineConfig({
   /* prettier-ignore */
   head: [
     ['meta', { name: 'theme-color', content: '#3c8772' }],
+    [
+      'script',
+      { id: 'register-sw' },
+      `;(() => {
+        if ('serviceWorker' in navigator && location.hostname !== 'localhost') {
+          navigator.serviceWorker.register('/sw.js')
+        }
+      })()`
+    ],
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-7L0HBZJ593' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7L0HBZJ593');`
+    ]
   ],
   markdown: {
     image: {

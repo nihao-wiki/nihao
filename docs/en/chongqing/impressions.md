@@ -16,11 +16,13 @@ If you're fortunate enough, as the plane clears the final mountain and makes its
 
 <Flex>
 <div>
-You won't need any guide to find them; bright yellow taxis will surely greet you upon exiting the airport, ready to take you into the city.
+Chongqing's taxis are famously painted in a uniform yellow color, which has led to their affectionate nickname as "Yellow Ferraris."
 
-The taxi fare from Chongqing Jiangbei International Airport to Downtown is approximately 70 RMB (around 9 Euros).
+The fare from Airport to Downtown is approximately 70 RMB (around 9 Euros).
 
-Alternatively, you can reach the city center by taking the metro.
+Payments via Alipay, WeChat, and cash will be accepted.
+
+[Guide - Payment](/guide/payment).
 
 </div>
 <div><img src="./assets/yellow-taxi.jpg" alt="Yellow Taxis" /></div>
@@ -35,7 +37,7 @@ Alternatively, you can reach the city center by taking the metro.
 
 
 ::: info Local Tips
-Don't trust unlicensed drivers; find a yellow taxi; always by meter.
+Do not trust those "overly enthusiastic" unlicensed drivers; find a yellow taxi; always by meter.
 :::
 
 ## Stays
