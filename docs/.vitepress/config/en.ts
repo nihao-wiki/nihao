@@ -84,6 +84,10 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: 'Visa',
       link: 'visa',
     },
+    {
+      text: 'High Season',
+      link: 'high-season',
+    },
   ];
 }
 
