@@ -88,6 +88,10 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: 'High Season',
       link: 'high-season',
     },
+    {
+      text: 'Payment',
+      link: 'payment',
+    },
   ];
 }
 
