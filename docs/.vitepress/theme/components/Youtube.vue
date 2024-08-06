@@ -54,6 +54,7 @@ const props = defineProps(['link']);
   .cover {
     width: 38.2%;
     position: relative;
+    margin-bottom: 8px;
   }
   .title {
     width: 61.8%;
