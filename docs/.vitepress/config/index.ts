@@ -58,17 +58,13 @@ export default defineConfig({
     outlineTitle: '-',
     sidebar: sidebar(),
     socialLinks: [{ icon: 'github', link: pkg.repository }],
-    footer: {
-      copyright: 'Copyright © 2024 nihao.wiki',
+    search: {
+      provider: 'local',
     },
     // algolia: {
     //   appId: '',
     //   apiKey: '',
     //   indexName: '',
-    // },
-    // carbonAds: {
-    //   code: '',
-    //   placement: '',
     // },
   },
 });

@@ -6,23 +6,15 @@ titleTemplate: "Your Systematic Travel Guide to China: By Locals."
 
 hero:
   name: Nihao!
-  text: Discover China's Diversity, Delights and Wonders.
+  text: Discover Chongqing's 8D Landscape, Spicy Cuisine and Cultures.
   tagline: 'Your Systematic Travel Guide to China: By Locals'
   actions:
     - theme: brand
       text: Discover Chongqing
-      link: /chongqing
+      link: /chongqing/impressions
     - theme: alt
       text: 144-Hour Visa-Free Guide
       link: /guide/visa/
-    - theme: alt
-      text: Contribute
-      link: /contribute
-
-poi:
-  - text: Discover Chongqing's Spicy Cuisine.
-    brand: 'Discover Chongqing'
-    link: /chongqing/visa-free/
 ---
 
 <style>

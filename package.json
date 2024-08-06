@@ -1,7 +1,7 @@
 {
   "private": true,
   "type": "module",
-  "description": "Discover China's Diversity, Delights and Wonders",
+  "description": "Your Systematic Travel Guide to China: By Locals",
   "repository": "https://github.com/nihao-wiki/nihao/",
   "license": "MIT",
   "scripts": {
