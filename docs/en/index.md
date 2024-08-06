@@ -2,7 +2,7 @@
 layout: home
 
 title: Nihao.WiKi
-titleTemplate: Discover China's Diversity, Delights and Wonders
+titleTemplate: "Your Systematic Travel Guide to China: By Locals."
 
 hero:
   name: Nihao!
