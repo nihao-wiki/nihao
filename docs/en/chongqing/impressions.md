@@ -33,6 +33,11 @@ Alternatively, you can reach the city center by taking the metro.
 <template #description>It took only five minutes to fill out the entry forms, and I couldn't wait to jump into a yellow taxi. The driver didn't need GPS, navigating through places that felt like underground parking lots...</template>
 </Youtube>
 
+
+::: info Local Tips
+Don't trust unlicensed drivers; find a yellow taxi; always by meter.
+:::
+
 ## Stays
 
 You may choose to stay at a hotel in the city center, which is conveniently close to all the internet-famous attractions. A classic itinerary would be: start with a walk to Kuixinglou, marveling at Chongqing’s unique topography where what appears to be the first floor is actually the twentieth level; then, take Line 2 of the light rail to Liziba Station, to witness the extraordinary spectacle of the train passing right through a building.
