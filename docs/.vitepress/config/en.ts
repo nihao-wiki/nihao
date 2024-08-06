@@ -47,8 +47,11 @@ function nav(): DefaultTheme.NavItem[] {
       ],
     },
     {
-      text: 'Community',
-      link: 'https://www.reddit.com/r/nihaowiki/',
+      component: 'NavReddit',
+      props: {
+        text: 'Community',
+        link: 'https://www.reddit.com/r/nihaowiki/',
+      },
     },
     {
       text: 'Contribute',
