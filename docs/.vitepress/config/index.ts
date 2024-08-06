@@ -25,6 +25,15 @@ export default defineConfig({
   /* prettier-ignore */
   head: [
     ['meta', { name: 'theme-color', content: '#3c8772' }],
+    [
+      'script',
+      { id: 'register-sw' },
+      `;(() => {
+        if ('serviceWorker' in navigator && location.hostname !== 'localhost') {
+          navigator.serviceWorker.register('/sw.js')
+        }
+      })()`
+    ]
   ],
   markdown: {
     image: {
