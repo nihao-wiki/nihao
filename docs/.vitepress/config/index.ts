@@ -33,6 +33,18 @@ export default defineConfig({
           navigator.serviceWorker.register('/sw.js')
         }
       })()`
+    ],
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-7L0HBZJ593' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7L0HBZJ593');`
     ]
   ],
   markdown: {
