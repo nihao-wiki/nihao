@@ -8,6 +8,7 @@ import Speech from './components/Speech.vue';
 import Map from './components/Map/index.vue';
 import Youtube from './components/Youtube.vue';
 import Weekdays from './components/Weekdays.vue';
+import NavReddit from './components/NavReddit.vue';
 import './styles/index.css';
 
 export default {
@@ -18,6 +19,7 @@ export default {
     app.component('Map', Map);
     app.component('Youtube', Youtube);
     app.component('Weekdays', Weekdays);
+    app.component('NavReddit', NavReddit);
   },
   Layout() {
     return h(defaultTheme.Layout, null, {

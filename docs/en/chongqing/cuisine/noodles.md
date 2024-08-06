@@ -6,6 +6,13 @@
 
 Chongqing <Speech>小面</Speech>(Xiaomian) is one of the most famous noodles, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
 
+<Youtube link="https://youtu.be/ZehhL5mXV4c?si=KvMraWn0R9m9woSD&t=80">
+<template #cover><img src="../../assets/youtube/my-italian-family-tried-chongqing-noodles-for-the-first-time.jpg" /></template>
+<template #title>My Italian Family Tried Chongqing Noodles for the First Time</template>
+<template #author>Luca&Rachele</template>
+<template #description>My Italian family's first visit to the mountain city of Chongqing, marveling at its beauty! Chongqing noodles really suit Italian palates.</template>
+</Youtube>
+
 #### Overview
 
 The per capita cost for Xiaomian is around <u>8 to 15 yuan (approximately €1.20 to €2.00)</u>.
@@ -97,6 +104,13 @@ Chongqing Xiaomian, renowned for its rich variations and distinctive flavors, of
 - <Speech>豌杂面</Speech>(Mashed Pea and Minced Pork Noodles): A combination of mashed peas and minced pork sauce creates a noodle dish with distinct layers of sweetness and savory flavors.
 - <Speech>鸡杂面</Speech>(Chicken Offal Noodles): 🌶️ Incorporates chicken giblets such as gizzards, hearts, and livers as toppings, offering a diverse range of textures and tastes.
 
+<Youtube link="https://youtu.be/NX7Pjd92Hdo?si=s9VLFz8GuSKzzjOt&t=168">
+<template #cover><img src="../../assets/youtube/i-found-heaven-in-chongqing.jpg" /></template>
+<template #title>I found heaven in Chongqing and I'M NEVER LEAVING!</template>
+<template #author>Blondie in China</template>
+<template #description>I'm taking on the challenge of seeing how much delicious food I can get for 50 RMB. Sitting on the curb next to the surreal 3D cityscape, eating Chongqing noodles, is truly a fantastic experience.</template>
+</Youtube>
+
 ### Cold Noodles
 
 Cold noodles are quite similar to other types of noodles, but what sets them apart is that they can be eaten as a snack. That's why you often see them being sold on the roadside in scenic areas.
@@ -114,3 +128,16 @@ Some vendors may include lard in their noodles seasoning. If you are concerned, 
 :::
 
 ## Chaoshou
+
+In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子</Speech>(Dumplings), and <Speech>馄饨</Speech>(Wontons) are all popular traditional foods. Although they share some similarities in appearance, there are distinct differences in their preparation methods, shapes, and ways of eating.
+
+<Speech>抄手</Speech>(Chao Shou) usually have pork as the main ingredient, and sometimes other meats such as shrimp or chicken are added, along with seasonings like scallions and ginger. The wrapper is thin and soft, typically using specialized Chao Shou wrappers that are smaller and more delicate than dumpling wrappers. Chongqing-style Chao Shou generally has a richer and spicier flavor profile.
+
+<Youtube link="https://youtu.be/vLV_43p_3qU?si=sI-jptDxGbSUyOgQ&t=1888">
+<template #cover><img src="../../assets/youtube//exploring-ancient-town-in-chongqing.jpg" /></template>
+<template #title>Exploring Ancient Town in Chongqing, China</template>
+<template #author>Two Mad Explorers</template>
+<template #description>We're exploring an ancient town on the outskirts of Chongqing and successfully found our way into a Chongqing restaurant where traditional noodles and chicken soup chaoshou made a lasting impression.</template>
+</Youtube>
+
+## Suanlafen

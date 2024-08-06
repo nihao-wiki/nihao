@@ -47,9 +47,33 @@ function nav(): DefaultTheme.NavItem[] {
       ],
     },
     {
+      component: 'NavReddit',
+      props: {
+        text: 'Community',
+        link: 'https://www.reddit.com/r/nihaowiki/',
+      },
+    },
+    {
+      text: 'Contribute',
+      items: [
+        {
+          text: 'How to Contribute',
+          link: '/contribute',
+        },
+        {
+          text: 'Our Team',
+          link: '/team',
+        },
+        {
+          text: 'Special Thanks',
+          link: '/thanks',
+        },
+      ],
+    },
+    {
       text: 'Sponsor',
-      link: '/contribute#become-a-sponsor',
-      activeMatch: '/contribute/',
+      link: '/sponsor',
+      activeMatch: '/sponsor/',
     },
   ];
 }
@@ -59,6 +83,10 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     {
       text: 'Visa',
       link: 'visa',
+    },
+    {
+      text: 'High Season',
+      link: 'high-season',
     },
   ];
 }
@@ -71,14 +99,16 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
         { text: 'Visa Free', link: 'visa-free' },
         { text: 'Impressions', link: 'impressions' },
         { text: '3D Cityscape', link: 'cityscape' },
+        { text: 'Culture', link: 'culture' },
         {
           text: 'Sensational Cuisine',
           base: '/chongqing/cuisine/',
           items: [
             { text: 'Noodles', link: 'noodles' },
-            { text: 'Sichuan Cuisine', link: 'sichuan-cuisine' },
-            { text: 'Jianghu Cuisine', link: 'jianghu-cuisine' },
             { text: 'Hot Pot', link: 'hot-pot' },
+            { text: 'Street Food', link: 'street-food' },
+            { text: 'Jianghu Cuisine', link: 'jianghu-cuisine' },
+            { text: 'Sichuan Cuisine', link: 'sichuan-cuisine' },
           ],
         },
       ],
