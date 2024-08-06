@@ -24,7 +24,7 @@ export const en = defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: `Copyright © ${new Date().getFullYear()} nihao.wiki`,
+      copyright: `Copyright © ${new Date().getFullYear()} nihao.wiki <br/><a href="https://beian.miit.gov.cn" target="_blank">渝ICP备2024037934号-1</a>`,
     },
   },
 });
