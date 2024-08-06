@@ -5,7 +5,7 @@ const props = defineProps(['link']);
 </script>
 
 <template>
-  <div class="important custom-block github-alert" style="display: flex">
+  <div class="important custom-block github-alert wrapper">
     <div class="cover">
       <a
         class="VPLink link VPNavScreenMenuGroupLink"
@@ -47,14 +47,20 @@ const props = defineProps(['link']);
 </template>
 
 <style scoped>
-.cover {
-  width: 38.2%;
-  position: relative;
+@media (min-width: 768px) {
+  .wrapper {
+    display: flex;
+  }
+  .cover {
+    width: 38.2%;
+    position: relative;
+  }
+  .title {
+    width: 61.8%;
+    padding: 0 0 0 12px;
+  }
 }
-.title {
-  width: 61.8%;
-  padding: 0 0 0 12px;
-}
+
 .youtube-icon {
   display: inline-block;
   vertical-align: middle;
