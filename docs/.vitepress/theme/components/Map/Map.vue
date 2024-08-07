@@ -219,7 +219,6 @@ export default {
 </script>
 
 <style>
-#bingLogo,
 #MicrosoftNav,
 .CopyrightContainer,
 .bm_bottomRightOverlay {
