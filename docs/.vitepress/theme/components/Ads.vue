@@ -1,6 +1,13 @@
 <template>
   <div class="VPDocAsideCarbonAds">
-    <div class="Ads"></div>
+    <div class="Ads">
+      <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-7020972576331869"
+         data-ad-slot="6623363764"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    </div>
   </div>
 </template>
 

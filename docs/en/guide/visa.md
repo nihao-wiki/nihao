@@ -17,7 +17,6 @@ const European = computed(() => visaFreeCountries.filter(country => country.cont
 const American = computed(() => visaFreeCountries.filter(country => country.continent === 'American'));
 const Oceanian = computed(() => visaFreeCountries.filter(country => country.continent === 'Oceanian'));
 const Asian = computed(() => visaFreeCountries.filter(country => country.continent === 'Asian'));
-console.log(European);
 </script>
 
 <table>
