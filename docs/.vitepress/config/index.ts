@@ -61,10 +61,8 @@ export default defineConfig({
     search: {
       provider: 'local',
     },
-    // algolia: {
-    //   appId: '',
-    //   apiKey: '',
-    //   indexName: '',
-    // },
+    sitemap: {
+      hostname:'https://nihao.wiki',
+    }
   },
 });
