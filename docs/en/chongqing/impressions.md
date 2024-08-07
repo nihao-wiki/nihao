@@ -46,19 +46,13 @@ You may choose to stay at a hotel in the city center, which is conveniently clos
 
 <Map height="40vh" center="106.552003,29.562696" :zoom="13" driving="106.638691,29.717337,airport|106.577708,29.567822,Skyline Viewpoint|106.587897,29.565634,Raffles" points="106.578953,29.562165,Hongyadong|106.530586,29.550659,Liziba Monorail Piercing Building|106.587897,29.565634,Raffles|106.582809,29.557813,Yangtze River Cable Car|106.573579,29.559729,Kuixinglou"></Map>
 
-## Prices
+Four-Star Hotels from €38 to €100, Airbnb from €12 to €38, and Hostel at €2.5.
 
-### Items
+## Prices
 
 Some basic food items in China, such as rice, noodles, and cooking oil, typically have lower prices. In European and American countries, the prices of meat and dairy products are often more reasonable.
 
-| Item             | Price |
-| :--------------- | ----: |
-| Cola 500ml       | €0.4  |
-| Mineral Water 5L | €1.1  |
-| Beef 500g        | €9    |
-| Tomato 500g      | €0.2  |
-| Apple 500g       | €0.2  |
+Cola 500ml for €0.4, Mineral Water 5L for €1.1, Beef 500g for €9, Tomato 500g for €0.2, and Apple 500g for €0.2.
 
 <Youtube link="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186">
 <template #cover><img src="../assets/youtube/full-supermarket-tour-in-china-ks.jpg" /></template>
@@ -73,11 +67,3 @@ Some basic food items in China, such as rice, noodles, and cooking oil, typicall
 <template #author>Two Mad Explorers</template>
 <template #description>Exploring a local supermarket in Chongqing, the prices were surprisingly cheap; We managed to buy everything We wanted for just 20 euros.</template>
 </Youtube>
-
-### Accommodations
-
-| Accommodations   | Price       |
-| :--------------- | ----------: |
-| Four-Star Hotels | €38 - 100 |
-| Airbnb           | €12 - 38 |
-| Hostel           | €2.5        |
