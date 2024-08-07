@@ -17,13 +17,11 @@ export default defineConfig({
   cleanUrls: true,
   sitemap: {
     hostname: 'https://nihao.wiki',
-    transformItems(items) {
-      return items.filter((item) => !item.url.includes('migration'));
-    },
   },
   metaChunk: true,
   /* prettier-ignore */
   head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     [
       'script',
@@ -62,7 +60,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: { src: '/nihao.svg', width: 30, height: 30 },
+    logo: { src: '/favicon.svg', width: 30, height: 30 },
     outline: [2, 3],
     outlineTitle: '-',
     sidebar: sidebar(),
@@ -70,8 +68,5 @@ export default defineConfig({
     search: {
       provider: 'local',
     },
-    sitemap: {
-      hostname:'https://nihao.wiki',
-    }
   },
 });
