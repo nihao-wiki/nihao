@@ -10,6 +10,13 @@ Chongqing's Nicknames:
 - **Fog Capital**: Chongqing has a subtropical humid climate, characterized by high humidity and frequent fog. Especially during autumn and winter, thick mist often shrouds the city in the early morning hours.
 - **Hotpot Capital**: Chongqing is the birthplace of hotpot and is home to over 32,000 hotpot restaurants. By the way, Chongqing is also home to over 80,000 small noodle shops.
 
+<Youtube link="https://youtu.be/0kfhyOKM888?si=AzCMWcMNKhRYBnCb">
+<template #cover><img src="../assets/youtube/the-biggest-city-on-earch-youve-never-heard-of.jpg" /></template>
+<template #title>The Biggest City on Earth You've Never Heard Of</template>
+<template #author>PPPeter</template>
+<template #description>With population of 32,000,000, Chongqing, China is the biggest city on Earth. Its unbelievable area makes it also the largest city in the world.</template>
+</Youtube>
+
 ## Night View from Above
 
 Chongqing's night views are incredibly famous. Should you happen to arrive in Chongqing at night, opting for a window seat on **the left side** of the aircraft gives you <u>a 50% chance (determined by wind direction) to witness the beautiful urban night scenery of Chongqing</u> just before the plane lands.
@@ -42,7 +49,6 @@ Payments via Alipay, WeChat, and cash will be accepted.
 <template #author>KSquared</template>
 <template #description>It took only five minutes to fill out the entry forms, and I couldn't wait to jump into a yellow taxi. The driver didn't need GPS, navigating through places that felt like underground parking lots...</template>
 </Youtube>
-
 
 ::: info Local Tips
 Do not trust those "overly enthusiastic" unlicensed drivers; find a yellow taxi; always by meter.
