@@ -7,18 +7,31 @@ reference:
 
 # Exploring Chongqing Transit Routes and Options Under the 144-Hour Visa-Free Policy
 
+## Visa-Free
+
+[List of Visa-Free Countries](/guide/visa#visa-free)
+
+List of Countries Entitled Visa Exemption with Direct Flights to Chongqing: Qatar, Singapore, Thailand, United Arab Emirates.
+
+|Origin|Max.Stay|
+|:--|:--|
+|Qatar|30 days|
+|Singapore|30 days|
+|Thailand|30 days|
+|United Arab Emirates|30 days|
+
+Countries without direct flights to Chongqing can reach the city via other cities in China.
+
 ## 144-Hour Visa-Free Transit
+
+[List of Countries Entitled to the 72/144-Hour Visa-Free Transit](/guide/visa#visa-free-transit)
 
 To utilize the transit visa for a trip to Chongqing, you can currently only arrive via flights.
 The country or region of entry must be different from the country or region of exit.
 
-Chongqing Jiangbei International Airport is a large-scale, Grade 4F civil airport, approximately 19 kilometers away from the city center. The airport has accumulated a total of hundreds international routes, indicating a substantial network of international flights. This includes destinations across Asia, Europe, America, and beyond.
+Chongqing Jiangbei International Airport has accumulated a total of hundreds international routes, indicating a substantial network of international flights. This includes destinations across Asia, Europe, America, and beyond.
 
-::: info Tips
-The calculation for the 144-hour transit in China starts from midnight on the day following your entry, and the total duration must not exceed 144 hours.
-:::
-
-## Plan Your Flights
+## Transit Plans
 
 <script setup>
 import { ref, computed } from 'vue'
@@ -89,7 +102,7 @@ List of Countries Entitled for the 72/144-Hour Visa-Free Transit with Direct Fli
   </thead>
   <tbody>
     <tr v-for="(country) in finalDestination">
-      <td>{{ origin.cities }} ({{ origin.name }})</td>
+      <td>{{ origin.cities }}</td>
       <td>Chongqing</td>
       <td>{{ country.cities }} ({{ country.name }})</td>
       <td>
@@ -102,3 +115,11 @@ List of Countries Entitled for the 72/144-Hour Visa-Free Transit with Direct Fli
 <dl style="font-size:12px;">
 <dd style="margin:0;">Max.Stay<sup>1</sup>: The value is a theoretical maximum calculated based on the latest flight schedule data. Since it does not account for aircraft turnaround times, under extreme circumstances, the actual number of days one can stay might be less than this figure. Flight schedule data may suffer from issues of untimely updates. Furthermore, factors such as weather leading to flight delays or cancellations can also result in inaccuracies in this figure. If the number of days is less than three, it is generally not recommended to travel, as, after accounting for the time spent on flights, there would be insufficient time left for sightseeing and activities.</dd>
 </dl>
+
+::: info Tips
+The calculation for the 144-hour transit in China starts from midnight on the day following your entry, and the total duration must not exceed 144 hours.
+:::
+
+::: info Tips
+According to the regulations, the scope of stay is limited to the Chongqing Municipality only.
+:::
