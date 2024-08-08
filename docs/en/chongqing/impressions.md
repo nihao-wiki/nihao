@@ -2,13 +2,12 @@
 
 ## Overview
 
-Chongqing's population exceeds 30 million, making it one of the most populous cities in the world. The total area of Chongqing is approximately 82,300 square kilometers, which is roughly the same size as Serbia and twice the size of the Netherlands.
+82,300 square kilometers, twice the size of the Netherlands,exceeds 30 million population, one of the most big cities in the world.
 
-Chongqing's Nicknames:
-- **The Bridge City**: Chongqing, with its numerous rivers, has constructed over 20,000 bridges to connect land and span valleys.
-- **Mountain Metropolis**: Surrounded by mountains, Chongqing's urban architecture follows the natural topography, creating a unique '8D landscape' with buildings at varying elevations.
-- **Fog Capital**: Chongqing has a subtropical humid climate, characterized by high humidity and frequent fog. Especially during autumn and winter, thick mist often shrouds the city in the early morning hours.
-- **Hotpot Capital**: Chongqing is the birthplace of hotpot and is home to over 32,000 hotpot restaurants. By the way, Chongqing is also home to over 80,000 small noodle shops.
+- **Mountain Metropolis**: Surrounded by mountains, Its urban architecture follows the natural topography, creating a unique '8D landscape' with buildings at varying elevations.
+- **The Bridge City**: With its numerous rivers, it has constructed over 20,000 bridges to connect land and span valleys.
+- **Fog Capital**: Chongqing has a subtropical humid climate, characterized by high humidity and frequent fog. Especially during autumn and winter, thick mist often shrouds the city.
+- **Hotpot Capital**: It is the birthplace of hotpot and is home to over 32,000 hotpot restaurants.
 
 ## Night View from Above
 
