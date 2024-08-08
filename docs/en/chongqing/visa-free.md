@@ -89,7 +89,7 @@ List of Countries Entitled for the 72/144-Hour Visa-Free Transit with Direct Fli
   </thead>
   <tbody>
     <tr v-for="(country) in finalDestination">
-      <td>{{ origin.cities }} ({{ origin.name }})</td>
+      <td>{{ origin.cities }}</td>
       <td>Chongqing</td>
       <td>{{ country.cities }} ({{ country.name }})</td>
       <td>
