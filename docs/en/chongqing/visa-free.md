@@ -18,7 +18,7 @@ Chongqing Jiangbei International Airport is a large-scale, Grade 4F civil airpor
 The calculation for the 144-hour transit in China starts from midnight on the day following your entry, and the total duration must not exceed 144 hours.
 :::
 
-## Plan Your Flights
+## Transit Plan Calculator
 
 <script setup>
 import { ref, computed } from 'vue'
