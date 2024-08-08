@@ -1,5 +1,15 @@
 # Chongqing's First Impressions: Your Arrival Guide
 
+## Overview
+
+Chongqing's population exceeds 30 million, making it one of the most populous cities in the world. The total area of Chongqing is approximately 82,300 square kilometers, which is roughly the same size as Serbia and twice the size of the Netherlands.
+
+Chongqing's Nicknames:
+- **The Bridge City**: Chongqing, with its numerous rivers, has constructed over 20,000 bridges to connect land and span valleys.
+- **Mountain Metropolis**: Surrounded by mountains, Chongqing's urban architecture follows the natural topography, creating a unique '8D landscape' with buildings at varying elevations.
+- **Fog Capital**: Chongqing has a subtropical humid climate, characterized by high humidity and frequent fog. Especially during autumn and winter, thick mist often shrouds the city in the early morning hours.
+- **Hotpot Capital**: Chongqing is the birthplace of hotpot and is home to over 32,000 hotpot restaurants. By the way, Chongqing is also home to over 80,000 small noodle shops.
+
 ## Night View from Above
 
 Chongqing's night views are incredibly famous. Should you happen to arrive in Chongqing at night, opting for a window seat on **the left side** of the aircraft gives you <u>a 50% chance (determined by wind direction) to witness the beautiful urban night scenery of Chongqing</u> just before the plane lands.
@@ -10,9 +20,7 @@ Chongqing's night views are incredibly famous. Should you happen to arrive in Ch
 
 If you're fortunate enough, as the plane clears the final mountain and makes its last right-hand maneuver, you'll catch sight of the Chongqing urban area, with only a few minutes remaining until touchdown.
 
-## Arrival
-
-### Yellow Taxis
+## Yellow Taxis
 
 <Flex>
 <div>
