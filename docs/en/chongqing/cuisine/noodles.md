@@ -1,4 +1,4 @@
-# Chongqing Noddles Delights: The Art of Xiaomian, Rice Noodles, and Chaoshou Mastery
+# Local's Guide to Chongqing Noodles: Xiaomian & Hidden Treats
 
 ## Noddles
 
