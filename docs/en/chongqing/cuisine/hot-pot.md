@@ -1,4 +1,4 @@
-# Chongqing Hot Pot Delights: Your Guide to Local Favourites and Must-Try Dishes
+# Guide to Chongqing Hot Pot: Local Favourites & Must-Tries
 
 ## Introduction
 
