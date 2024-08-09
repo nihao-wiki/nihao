@@ -31,7 +31,11 @@ The country or region of entry must be different from the country or region of e
 
 Chongqing Jiangbei International Airport has accumulated a total of hundreds international routes, indicating a substantial network of international flights. This includes destinations across Asia, Europe, America, and beyond.
 
-## Transit Plans
+::: info Tips
+The calculation for the 144-hour transit in China starts from midnight on the day following your entry, and the total duration must not exceed 144 hours.
+:::
+
+## Transit Plan Calculator
 
 <script setup>
 import { ref, computed } from 'vue'
