@@ -117,7 +117,7 @@ List of Countries Entitled for the 72/144-Hour Visa-Free Transit with Direct Fli
 </table>
 
 <dl style="font-size:12px;">
-<dd style="margin:0;">Max.Stay<sup>1</sup>: The value is a theoretical maximum calculated based on the latest flight schedule data. Since it does not account for aircraft turnaround times, under extreme circumstances, the actual number of days one can stay might be less than this figure. Flight schedule data may suffer from issues of untimely updates. Furthermore, factors such as weather leading to flight delays or cancellations can also result in inaccuracies in this figure. If the number of days is less than three, it is generally not recommended to travel, as, after accounting for the time spent on flights, there would be insufficient time left for sightseeing and activities.</dd>
+<dd style="margin:0;">Max.Stay<sup>1</sup>: The value is a theoretical maximum calculated based on the latest flight schedule data. It is based on the estimate that "your flight departs and arrives on the same day"; if the flight arrives the following day, the maximum number of days may be less than this estimate. Flight schedule data may suffer from issues of untimely updates. Furthermore, factors such as weather leading to flight delays or cancellations can also result in inaccuracies in this estimate. If the number of days is less than three, it is generally not recommended to travel, as, after accounting for the time spent on flights, there would be insufficient time left for sightseeing and activities.</dd>
 </dl>
 
 ::: info Tips
