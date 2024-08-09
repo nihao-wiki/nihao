@@ -182,15 +182,11 @@ The hidden specialty oil dip, typically not readily available and only obtainabl
 
 #### Dry Chili Dip
 
-The dry version, known as "<Speech as="甘油碟">干油碟</Speech>(dry oil dip)", primarily consists of **chili powder**, **crushed peanuts**, **sesame seeds**, and other dry seasonings.
-
-::: info Local Tips
-Blazingly spicy 🌶️🌶️🌶️🌶️🌶️
-:::
+The dry version, known as "<Speech as="甘油碟">干油碟</Speech>(dry oil dip)", primarily consists of **chili powder**, **crushed peanuts**, **sesame seeds**, and other dry seasonings. Blazingly spicy.
 
 ## Essential Picks
 
-Chongqing hotpot is renowned for its unique spicy and numbing flavor, featuring a variety of must-try dishes. Here are some popular ingredients that are essential to the Chongqing hotpot experience:
+Here are some popular ingredients that are essential to the Chongqing hotpot experience:
 
 ### Dessert
 
@@ -354,13 +350,17 @@ Some ingredients, such as luncheon meat, shrimp dumplings, and sausages, do not 
       <td>🌶️🌶️</td>
     </tr>
     <tr>
-      <td><Speech>冷锅鸭血</Speech>(Duck Blood Cube)</td>
+      <td><Speech>冷锅鸭血</Speech>(Cold Pot Duck Blood Cube)</td>
       <td>Both</td>
       <td>10-15min</td>
       <td>🌶️</td>
     </tr>
   </tbody>
 </table>
+
+::: info Local Tip
+Cold pot duck blood needs to be placed in the pot before lighting the fire; this is the difference between cold pot duck blood and regular duck blood. Make sure you inform the server that you want cold pot duck blood when ordering.
+:::
 
 <dl style="font-size:12px;">
 <dd style="margin:0;">Broth-Friendly<sup>1</sup>: the "Both" means The ingredient can be cooked in both clear broth and spicy broth, but it is generally more delicious when cooked in the spicy broth.</dd>
