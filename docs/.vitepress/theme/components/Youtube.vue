@@ -1,12 +1,13 @@
 <script setup>
-import { defineProps } from 'vue';
+import { defineProps, useSlots } from 'vue';
 
 const props = defineProps(['link']);
+const slots = useSlots();
 </script>
 
 <template>
   <div class="important custom-block github-alert wrapper">
-    <div class="cover">
+    <div class="cover" v-if="!!slots.cover">
       <a
         class="VPLink link VPNavScreenMenuGroupLink"
         :href="props.link"
@@ -16,7 +17,7 @@ const props = defineProps(['link']);
         <slot name="cover"></slot
       ></a>
     </div>
-    <div class="title">
+    <div>
       <a
         class="VPLink link vp-external-link-icon VPNavScreenMenuGroupLink"
         :href="props.link"
@@ -50,15 +51,12 @@ const props = defineProps(['link']);
 @media (min-width: 768px) {
   .wrapper {
     display: flex;
+    padding-bottom: 12px;
   }
   .cover {
-    width: 38.2%;
+    min-width: 38.2%;
     position: relative;
-    margin-bottom: 8px;
-  }
-  .title {
-    width: 61.8%;
-    padding: 0 0 0 12px;
+    padding: 0 12px 0 0;
   }
 }
 

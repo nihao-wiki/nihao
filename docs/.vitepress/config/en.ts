@@ -23,8 +23,7 @@ export const en = defineConfig({
     },
 
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: `Copyright © ${new Date().getFullYear()} nihao.wiki <br/><a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer">渝ICP备2024037934号-1</a>`,
+      copyright: `Copyright © ${new Date().getFullYear()} Nihao.WiKi <br/><a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer">渝ICP备2024037934号-1</a>`,
     },
   },
 });
@@ -47,23 +46,6 @@ function nav(): DefaultTheme.NavItem[] {
         text: 'Community',
         link: 'https://www.reddit.com/r/nihaowiki/',
       },
-    },
-    {
-      text: 'Contribute',
-      items: [
-        {
-          text: 'How to Contribute',
-          link: '/contribute',
-        },
-        {
-          text: 'Our Team',
-          link: '/team',
-        },
-        {
-          text: 'Special Thanks',
-          link: '/thanks',
-        },
-      ],
     },
     {
       text: 'Sponsor',
@@ -97,7 +79,7 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
         { text: 'Visa Free', link: 'visa-free' },
         { text: 'Impressions', link: 'impressions' },
         { text: '3D Cityscape', link: 'cityscape' },
-        { text: 'Culture', link: 'culture' },
+        { text: 'Ba-Yu Culture', link: 'culture' },
         {
           text: 'Sensational Cuisine',
           base: '/chongqing/cuisine/',

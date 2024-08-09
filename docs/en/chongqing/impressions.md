@@ -4,10 +4,10 @@
 
 82,300 square kilometers, twice the size of the Netherlands,exceeds 30 million population, one of the most big cities in the world.
 
-- **Mountain Metropolis**: Surrounded by mountains, Its urban architecture follows the natural topography, creating a unique '8D landscape' with buildings at varying elevations.
-- **The Bridge City**: With its numerous rivers, it has constructed over 20,000 bridges to connect land and span valleys.
+- **Mountain Metropolis**: Surrounded by mountains, its architecture follows the nature topography, creating a unique '8D landscape' with buildings at varying elevations.
+- **The Bridge City**: With its numerous rivers, it has constructed over 20,000 bridges to connect land and span valleys. The Legend says navigation doesn't work here.
 - **Fog Capital**: Chongqing has a subtropical humid climate, characterized by high humidity and frequent fog. Especially during autumn and winter, thick mist often shrouds the city.
-- **Hotpot Capital**: It is the birthplace of hotpot and is home to over 32,000 hotpot restaurants.
+- **Hotpot Capital**: It is the birthplace of hotpot and has over 32,000 hotpot restaurants.
 
 <Youtube link="https://youtu.be/0kfhyOKM888?si=AzCMWcMNKhRYBnCb">
 <template #cover><img src="../assets/youtube/the-biggest-city-on-earch-youve-never-heard-of.jpg" /></template>
@@ -25,6 +25,12 @@ Chongqing's night views are incredibly famous. Should you happen to arrive in Ch
 > <font size="2">The runway numbers at Chongqing Jiangbei International Airport are 02/20. Runway 02 is used for landings and takeoffs on a heading of north-east. The approach path for this runway happens to pass over the most beautifully lit urban area of Chongqing, presenting a stunning night view. Whether Runway 02 or Runway 20 is used for actual landings depends on the wind direction. Planes typically land into the wind, so when there is a southwest wind, there's a high probability that planes will be landing on Runway 02.</font>
 
 If you're fortunate enough, as the plane clears the final mountain and makes its last right-hand maneuver, you'll catch sight of the Chongqing urban area, with only a few minutes remaining until touchdown.
+
+<Youtube link="https://youtu.be/wOh2wmvNfEU?si=r3OsrNRU0xajeQRJ&t=315">
+<template #title>Magnificent night view of Chongqing, China</template>
+<template #author>Wesley J.</template>
+<template #description>Taken from the flight :)</template>
+</Youtube>
 
 ## Yellow Taxis
 

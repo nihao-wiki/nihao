@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress';
+import { fileURLToPath, URL } from 'node:url';
 import sidebar from '../sidebar';
 import { en } from './en';
 import pkg from '../../../package.json';
@@ -67,6 +68,16 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: pkg.repository }],
     search: {
       provider: 'local',
+    },
+  },
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPFooter\.vue$/,
+          replacement: fileURLToPath(new URL('../theme/components/VPFooter.vue', import.meta.url)),
+        },
+      ],
     },
   },
 });
