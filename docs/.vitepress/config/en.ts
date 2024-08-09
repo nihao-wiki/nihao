@@ -33,7 +33,7 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     {
       text: 'Guide',
-      link: '/guide/visa/',
+      link: '/guide/visa',
       activeMatch: '/guide/',
     },
     {
@@ -41,7 +41,7 @@ function nav(): DefaultTheme.NavItem[] {
       items: [
         {
           text: 'Chongqing',
-          link: '/chongqing/visa-free/',
+          link: '/chongqing/visa-free',
           activeMatch: '/chongqing/',
         },
       ],
