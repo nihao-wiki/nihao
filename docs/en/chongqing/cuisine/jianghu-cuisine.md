@@ -1,3 +1,5 @@
+# Savor Má Là: Local's Guide to Chongqing's Jianghu Cuisine
+
 Chongqing cuisine can itself be seen as a subcategory of Sichuan cuisine, particularly known as Chongqing <Speech>江湖菜</Speech>(Jianghu cuisine).
 
 It's known for its bold and spicy flavors, reflecting the culinary traditions of the local "jianghu" or "river and lake" culture. This term often connotes a more rustic and less refined style of cooking compared to formal Sichuanese cuisine, with an emphasis on hearty and flavorful dishes.
