@@ -1,8 +1,8 @@
 ---
-reference:
-  - title: All scheduled direct (non-stop) flights from Chongqing (CKG)
-    href: https://www.flightsfrom.com/CKG?from=CKG&countries=AU,KH,FR,HU,IT,JP,LA,MY,NP,QA,RU,SG,KR,ES,LK,TH,AE,GB,VN&state=1#
-    site: FlightsFrom.com
+#reference:
+#  - title: All scheduled direct (non-stop) flights from Chongqing (CKG)
+#    href: https://www.flightsfrom.com/CKG?from=CKG&countries=AU,KH,FR,HU,IT,JP,LA,MY,NP,QA,RU,SG,KR,ES,LK,TH,AE,GB,VN&state=1#
+#    site: FlightsFrom.com
 ---
 
 # Exploring Chongqing Transit Routes and Options Under the 144-Hour Visa-Free Policy
@@ -31,11 +31,13 @@ The country or region of entry must be different from the country or region of e
 
 Chongqing Jiangbei International Airport has accumulated a total of hundreds international routes, indicating a substantial network of international flights. This includes destinations across Asia, Europe, America, and beyond.
 
-::: info Tips
-The calculation for the 144-hour transit in China starts from midnight on the day following your entry, and the total duration must not exceed 144 hours.
-:::
+### Boutique Route
 
-## Transit Plan Calculator
+#### China Tour including Hong Kong and Macao
+
+#### Round Trip from Europe
+
+### Transit Plan Calculator
 
 <script setup>
 import { ref, computed } from 'vue'
@@ -62,6 +64,8 @@ const directOriginCountries = [
   { name: 'United Arab Emirates', cities: 'Dubai', weekdays: [0, 1, 0, 0, 1, 0, 1] },
   { name: 'United Kingdom', cities: 'London', weekdays: [0, 0, 0, 1, 0, 0, 1] },
   { name: 'Vietnam', cities: 'Ho Chi Minh City, Hanoi', weekdays: [0, 1, 1, 1, 1, 1, 1] },
+  { name: 'Hong Kong, China', cities: 'Hong Kong', weekdays: [1, 1, 1, 1, 1, 1, 1] },
+  { name: 'Macao, China', cities: 'Macao', weekdays: [1, 0, 1, 0, 1, 1, 0] },
 ];
 
 const countriesList = ref(directOriginCountries.map(country => ({
@@ -80,6 +84,8 @@ const finalDestination = computed(() => countriesList.value.filter(country => co
 </script>
 
 List of Countries Entitled for the 72/144-Hour Visa-Free Transit with Direct Flights to Chongqing: <template v-for="(country, i) in validVisaFreeCountries">{{ country.name }}{{ i === validVisaFreeCountries.length - 1 ? '.' : ', ' }}</template>
+
+You can also choose Hong Kong or Macao as your final destination.
 
 <Flex>
 <div>
