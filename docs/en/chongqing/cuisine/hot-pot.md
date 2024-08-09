@@ -129,7 +129,7 @@ Don't put freshly cooked ingredients straight into your mouth; use a dip.
 
 ### Dipping Sauce
 
-The oil dip is typically self-service. However, you can always ask a server if needed.
+In most of hotpot restaurant, the oil dip is typically self-service. This might explain why foreigners often don't know how to use an oil dipping dish. However, you can always ask a server for help if needed.
 
 <table>
   <thead>
