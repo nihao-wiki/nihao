@@ -33,18 +33,13 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     {
       text: 'Guide',
-      link: '/guide/visa/',
+      link: '/guide/visa',
       activeMatch: '/guide/',
     },
-    {
-      text: 'Destinations',
-      items: [
-        {
-          text: 'Chongqing',
-          link: '/chongqing/visa-free/',
-          activeMatch: '/chongqing/',
-        },
-      ],
+    {   
+      text: 'Chongqing',
+      link: '/chongqing/visa-free',
+      activeMatch: '/chongqing/',
     },
     {
       component: 'NavReddit',
@@ -73,7 +68,6 @@ function nav(): DefaultTheme.NavItem[] {
     {
       text: 'Sponsor',
       link: '/sponsor',
-      activeMatch: '/sponsor/',
     },
   ];
 }
