@@ -37,11 +37,13 @@ Chongqing Jiangbei International Airport has accumulated a total of hundreds int
 
 **France/Italy/Spain → Chongqing → Italy/Spain/France**
 
-Depart from one of countries in Schengen Area(France, Italy, or Spain) and return to another.
+Depart from one of countries in Schengen Area and return to another.
 
 #### Chongqing, Hong Kong and Macao Trip
 
 **Origin → Chongqing → Hong Kong and Macau**
+
+Choose Hong Kong and Macau as the final destination.
 
 #### Round Trip from Europe
 
