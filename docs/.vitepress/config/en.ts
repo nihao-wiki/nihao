@@ -93,7 +93,7 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
         },
         {
           text: 'Essential Routes',
-          link: '/chongqing/routes'
+          link: 'routes'
         },
       ],
     },
