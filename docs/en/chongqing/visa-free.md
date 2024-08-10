@@ -43,8 +43,6 @@ depart from one of the three countries (France, Italy, or Spain) and return to o
 
 **Origin → Chongqing → Hong Kong and Macau**
 
-This succinctly captures the essence of the trip and the use of the transit visa.
-
 #### Round Trip from Europe
 
 ### Transit Plan Calculator
