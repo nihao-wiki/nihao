@@ -87,6 +87,12 @@ const { hasSidebar } = useSidebar();
   text-align: left;
 }
 
+@media (max-width: 768px) {
+  .sitemap .container {
+    display: block;
+  }
+}
+
 .VPFooter {
   position: relative;
   z-index: var(--vp-z-index-footer);
