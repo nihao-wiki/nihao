@@ -39,11 +39,23 @@ Chongqing Jiangbei International Airport has accumulated a total of hundreds int
 
 Depart from one of countries in Schengen Area and return to another.
 
+#### Dubai Trip
+
+**Origin → Chongqing → Dubai**
+
 #### Chongqing, Hong Kong and Macao Trip
 
 **Origin → Chongqing → Hong Kong and Macau**
 
 Choose Hong Kong and Macau as the final destination.
+
+#### East Asia Trip
+
+**Origin → Chongqing → Japan and South Korea**
+
+#### South Asia Trip
+
+**Origin → Chongqing → Singapore, Malaysia and Thailand**
 
 #### Round Trip from Europe
 
