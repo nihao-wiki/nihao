@@ -33,6 +33,12 @@ Chongqing Jiangbei International Airport has accumulated a total of hundreds int
 
 ### Boutique Route
 
+#### Schengen Area Round-trip
+
+**France/Italy/Spain - Chongqing - Italy/Spain/France**
+
+depart from one of the three countries (France, Italy, or Spain) and return to one of the other two.
+
 #### China Tour including Hong Kong and Macao
 
 #### Round Trip from Europe
