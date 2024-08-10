@@ -35,11 +35,15 @@ Chongqing Jiangbei International Airport has accumulated a total of hundreds int
 
 #### Schengen Area Round-trip
 
-**France/Italy/Spain - Chongqing - Italy/Spain/France**
+**France/Italy/Spain → Chongqing → Italy/Spain/France**
 
 depart from one of the three countries (France, Italy, or Spain) and return to one of the other two.
 
-#### China Tour including Hong Kong and Macao
+#### Chongqing, Hong Kong and Macao Trip
+
+**Origin → Chongqing → Hong Kong and Macau**
+
+This succinctly captures the essence of the trip and the use of the transit visa.
 
 #### Round Trip from Europe
 
