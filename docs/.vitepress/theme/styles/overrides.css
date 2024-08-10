@@ -12,3 +12,10 @@
     font-size: 3.5vw !important;
   }
 }
+
+@media (min-width: 768px) {
+  .vp-doc h1 {
+    font-size: 28px;
+    white-space: nowrap;
+  }
+}

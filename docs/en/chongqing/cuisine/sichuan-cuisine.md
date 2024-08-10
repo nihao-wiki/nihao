@@ -1,6 +1,6 @@
-# Local's Guide to Chongqing's Home Cooking: Sichuan Cuisine
+# Taste Chongqing's Home Cooking: Sichuan Cuisine
 
-Up until 1997, when it became a direct-controlled municipality, Chongqing was part of Sichuan Province, and its culinary culture was deeply rooted in the traditions of Sichuan cuisine. Even after becoming a municipality, Chongqing's cuisine has maintained strong ties with Sichuan cuisine, reflecting its heritage and shared culinary history.
+Chongqing's home-style cuisine has close ties with Sichuan cuisine, but it has also developed its own unique style and characteristics. Historically, Chongqing cuisine is a branch of Sichuan cuisine, but over time, it has gradually formed its own set of culinary philosophies and flavor profiles.
 
 ## Douhua Rice
 

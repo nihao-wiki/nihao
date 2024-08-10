@@ -24,7 +24,7 @@ const members = [
       Our Team
     </template>
     <template #lead>
-      The development of Nihao.wiki is guided by an international
+      The development of Nihao.wiki is guided by an domestic
       team, some of whom have chosen to be featured below.
     </template>
   </VPTeamPageTitle>

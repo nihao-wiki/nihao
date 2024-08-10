@@ -59,6 +59,7 @@ const { hasSidebar } = useSidebar();
 <style scoped>
 .sitemap {
   background: var(--vp-c-bg-soft);
+  z-index: 1;
 }
 
 .sitemap .container {
@@ -85,6 +86,12 @@ const { hasSidebar } = useSidebar();
   margin-bottom: 2em;
   break-inside: avoid;
   text-align: left;
+}
+
+@media (max-width: 768px) {
+  .sitemap .container {
+    display: block;
+  }
 }
 
 .VPFooter {
