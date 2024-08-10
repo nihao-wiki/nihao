@@ -91,6 +91,10 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
             { text: 'Sichuan Cuisine', link: 'sichuan-cuisine' },
           ],
         },
+        {
+          text: 'Essential Routes',
+          link: '/chongqing/routes'
+        },
       ],
     },
   ];
