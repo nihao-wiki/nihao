@@ -59,6 +59,7 @@ const { hasSidebar } = useSidebar();
 <style scoped>
 .sitemap {
   background: var(--vp-c-bg-soft);
+  z-index: 1;
 }
 
 .sitemap .container {
