@@ -57,8 +57,6 @@ Choose Hong Kong and Macau as the final destination.
 
 **Origin → Chongqing → Singapore, Malaysia and Thailand**
 
-#### Round Trip from Europe
-
 ### Transit Plan Calculator
 
 <script setup>
