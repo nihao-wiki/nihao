@@ -54,7 +54,13 @@ Xiaomian come in various shapes and textures that cater to different preferences
       <td><Speech>宽面</Speech>(Wide Noodles)</td>
       <td>Flat</td>
       <td>10mm</td>
-      <td>Recommended, Hidden Specialty</td>
+      <td>Recommended</td>
+    </tr>
+    <tr>
+      <td><Speech>刀削面</Speech>(Hand-Sliced Noodles)</td>
+      <td>Flat</td>
+      <td>10mm</td>
+      <td>Recommended</td>
     </tr>
   </tbody>
 </table>
