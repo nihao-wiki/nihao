@@ -41,9 +41,9 @@ Despite having "tea" in its name, it is not actually a tea beverage but rather a
 <template #description>Chongqing street food has completely captivated me. Once you get used to the spiciness, it becomes incredibly tasty; but at first, it can be quite a tingling surprise. I would give it a five-star rating.</template>
 </Go>
 
-### Grilled Tofu
+### Grilled Tofu Block
 
-<Speech>烤豆腐干</Speech>(Grilled Tofu)
+<Speech>烤豆腐干</Speech>(Grilled Tofu Block)
 
 ### Grilled Rice Cake
 
