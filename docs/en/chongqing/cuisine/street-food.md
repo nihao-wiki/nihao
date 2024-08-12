@@ -6,6 +6,8 @@ Noodles is one of the most famous breakfast dishes in Chongqing, and there are m
 
 Chongqing breakfast features the "Five Greats," which include <Speech>豆浆</Speech>(soy milk), <Speech>油条</Speech>(fried dough sticks), <Speech>糍粑块</Speech>(glutinous rice cakes), <Speech>糯米团</Speech>(glutinous rice balls) and <Speech>油茶</Speech>(oily tea).
 
+## Soy-Braised Pork Bun
+
 ## Chongqing-Style Barbecue
 
 ### Grilled Sweet Potato Skin
