@@ -12,3 +12,5 @@ Chongqing <Speech>老君洞</Speech>(Laojundong) is a historic Taoist sanctuary.
 <template #author>Nicolò Balini</template>
 <template #description>Hiking up a mountain in Chongqing to find a Daoist temple, it was dark by the time I arrived; going back the next day, I saw some stunning views of Chongqing from there; Chongqing is worth staying a few more days.</template>
 </Go>
+
+## Dazu Rock Carvings
