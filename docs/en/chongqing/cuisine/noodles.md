@@ -62,6 +62,12 @@ Xiaomian come in various shapes and textures that cater to different preferences
       <td>10mm</td>
       <td>Recommended</td>
     </tr>
+    <tr>
+      <td><Speech>铺盖面</Speech>(Blanket Noodles)</td>
+      <td>Flat</td>
+      <td>100mm-200mm</td>
+      <td>Specialty Store Supply</td>
+    </tr>
   </tbody>
 </table>
 
