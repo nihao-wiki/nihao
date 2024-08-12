@@ -8,6 +8,8 @@ Chongqing breakfast features the "Five Greats," which include <Speech>豆浆</Sp
 
 ## Soy-Braised Pork Bun
 
+## Fried Rice Flour Triangle
+
 ## Chongqing-Style Barbecue
 
 ### Grilled Sweet Potato Skin
