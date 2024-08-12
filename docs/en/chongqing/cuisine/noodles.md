@@ -54,7 +54,7 @@ Xiaomian come in various shapes and textures that cater to different preferences
       <td><Speech>宽面</Speech>(Wide Noodles)</td>
       <td>Flat</td>
       <td>10mm</td>
-      <td>Recommended, Hidden Specialty</td>
+      <td>Recommended</td>
     </tr>
   </tbody>
 </table>
@@ -101,6 +101,8 @@ Some vendors may include lard in their noodles seasoning. If you are concerned, 
 ### Dry-tossed Style
 
 Although noodle soup is the most common form of Xiaomian, a significant number of locals opt for the dry version, known as <Speech as="甘溜">干溜</Speech>(dry-tossed style).
+
+### Hand-Sliced Noodles
 
 ### Adaptations
 

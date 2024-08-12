@@ -1,5 +1,15 @@
 # Chongqing's Hidden Street Eats: Only a Local Knows
 
+## "Five Greats"
+
+Noodles is one of the most famous breakfast dishes in Chongqing, and there are many other options as well.
+
+Chongqing breakfast features the "Five Greats," which include <Speech>豆浆</Speech>(soy milk), <Speech>油条</Speech>(fried dough sticks), <Speech>糍粑块</Speech>(glutinous rice cakes), <Speech>糯米团</Speech>(glutinous rice balls) and <Speech>油茶</Speech>(oily tea).
+
+## Soy-Braised Pork Bun
+
+## Fried Rice Flour Triangle
+
 ## Chongqing-Style Barbecue
 
 ### Grilled Sweet Potato Skin
