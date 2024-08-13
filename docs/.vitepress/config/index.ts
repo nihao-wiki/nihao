@@ -22,7 +22,7 @@ export default defineConfig({
   metaChunk: true,
   /* prettier-ignore */
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.svg' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     [
       'script',
