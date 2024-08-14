@@ -92,14 +92,6 @@ const { hasSidebar } = useSidebar();
   .sitemap .container {
     display: block;
   }
-  .sitemap-col ul {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .sitemap-col ul li {
-    width: 45%;
-    padding-right: 5%;
-  }
 }
 
 .VPFooter {
