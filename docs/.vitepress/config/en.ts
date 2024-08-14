@@ -23,7 +23,7 @@ export const en = defineConfig({
     },
 
     footer: {
-      copyright: `Copyright © ${new Date().getFullYear()} Nihao.WiKi <br/><a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer">渝ICP备2024037934号-1</a>`,
+      copyright: `Copyright © ${new Date().getFullYear()} Nihao.wiki <br/><a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer">渝ICP备2024037934号-1</a>`,
     },
   },
 });
