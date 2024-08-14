@@ -92,6 +92,11 @@ const { hasSidebar } = useSidebar();
   .sitemap .container {
     display: block;
   }
+  .sitemap-col ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+  }
 }
 
 .VPFooter {
