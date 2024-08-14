@@ -94,8 +94,10 @@ const { hasSidebar } = useSidebar();
   }
   .sitemap-col ul {
     display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap-reverse;
+    flex-wrap: wrap;
+  }
+  .sitemap-col ul li {
+    width: 25%;
   }
 }
 
