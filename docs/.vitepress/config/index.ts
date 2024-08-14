@@ -6,7 +6,7 @@ import pkg from '../../../package.json';
 
 export default defineConfig({
   lang: 'en',
-  title: 'Nihao',
+  title: 'Nihao.WiKi',
   description: pkg.description,
   locales: {
     root: { label: 'English', ...en },
