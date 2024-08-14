@@ -78,8 +78,8 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'Visa Free', link: 'visa-free' },
         { text: 'Impressions', link: 'impressions' },
-        { text: '3D Cityscape', link: 'cityscape' },
-        { text: 'Ba-Yu Culture', link: 'culture' },
+        { text: '8D Cyberpunk', link: 'cityscape' },
+        { text: 'Culture', link: 'culture' },
         {
           text: 'Sensational Cuisine',
           base: '/chongqing/cuisine/',
