@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Nihao.WiKi
+title: Nihao.wiki
 titleTemplate: "Your Systematic Travel Guide to China: By Locals."
 
 hero:
