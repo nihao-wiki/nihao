@@ -11,7 +11,7 @@ const { hasSidebar } = useSidebar();
     <div class="sitemap">
       <div class="container">
         <div class="sitemap-col">
-          <h4>Destination</h4>
+          <div class="sitemap-title">Destination</div>
           <ul>
             <li><a class="vp-link link" href="javascript:void;">Beijing</a></li>
             <li><a class="vp-link link" href="/chongqing">Chongqing</a></li>
@@ -19,28 +19,28 @@ const { hasSidebar } = useSidebar();
           </ul>
         </div>
         <div class="sitemap-col">
-          <h4>Guide</h4>
+          <div class="sitemap-title">Guide</div>
           <ul>
             <li><a class="vp-link link" href="/guide/visa">Visa</a></li>
             <li><a class="vp-link link" href="/guide/payment">Payment</a></li>
           </ul>
         </div>
         <div class="sitemap-col">
-          <h4>About</h4>
+          <div class="sitemap-title">About</div>
           <ul>
             <li><a class="vp-link link" href="/team">Team</a></li>
             <li><a class="vp-link link" href="/privacy">Privacy Policy</a></li>
           </ul>
         </div>
         <div class="sitemap-col">
-          <h4>Contribute</h4>
+          <div class="sitemap-title">Contribute</div>
           <ul>
             <li><a class="vp-link link" href="/team">How to Contribute</a></li>
             <li><a class="vp-link link" href="/thanks">Special Thanks</a></li>
           </ul>
         </div>
         <div class="sitemap-col">
-          <h4>Sponsor</h4>
+          <div class="sitemap-title">Sponsor</div>
           <ul>
             <li><a class="vp-link link" href="/sponsor">Become a Sponsor</a></li>
           </ul>
@@ -71,7 +71,7 @@ const { hasSidebar } = useSidebar();
   justify-content: space-between;
 }
 
-.sitemap h4 {
+.sitemap-title {
   font-weight: 500;
   color: var(--vp-c-text-1);
   margin-bottom: 0.25em;
