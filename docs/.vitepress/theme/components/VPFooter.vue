@@ -97,7 +97,8 @@ const { hasSidebar } = useSidebar();
     flex-wrap: wrap;
   }
   .sitemap-col ul li {
-    width: 25%;
+    width: 45%;
+    padding-right: 5%;
   }
 }
 
