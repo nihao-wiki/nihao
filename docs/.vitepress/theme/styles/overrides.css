@@ -23,3 +23,7 @@
     white-space: nowrap;
   }
 }
+
+.NotFound. quote {
+  max-width: 500px !important;
+}
