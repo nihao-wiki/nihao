@@ -22,6 +22,10 @@ export const en = defineConfig({
       text: 'Edit this page on GitHub',
     },
 
+    notFound: {
+      quote: `As a child, winding down from school, I delighted in choosing untraveled paths home, even if they led me through narrow alleys and dead ends. With time, the maze became familiar, and I no longer got lost.`,
+    },
+
     footer: {
       copyright: `Copyright © ${new Date().getFullYear()} Nihao.wiki <br/><a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer">渝ICP备2024037934号-1</a>`,
     },
