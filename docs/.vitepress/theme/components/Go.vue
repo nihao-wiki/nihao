@@ -1,7 +1,21 @@
 <script setup>
 import { defineProps, useSlots } from 'vue';
 
-const props = defineProps(['link', 'type']);
+const loadApi = (cb) => {
+  if (window.YT) return cb();
+  const tag= document.createElement ('script');
+  tag.src = 'https://www.youtube.com/iframe_api';
+  document.body.appendChild(tag);
+
+  window.onYouTubeIframeAPIReadyCallbacks = [...(window.onYouTubeIframeAPIReadyCallbacks || []), cb];
+  window.onYouTubeIframeAPIReady = () => {
+   window.onYouTubeIframeAPIReadyCallbacks.forEach((cb) => cb());
+  delete window.onYouTubeIframeAPIReadyCallbacks;
+  delete window.onYouTubeIframeAPIReady;
+};
+};
+
+const props = defineProps(['link']);
 const slots = useSlots();
 </script>
 
@@ -25,7 +39,6 @@ const slots = useSlots();
         rel="noreferrer"
       >
         <svg
-          v-if="type === 'youtube'"
           class="youtube-icon"
           viewBox="0 0 1024 1024"
           version="1.1"
