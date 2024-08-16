@@ -61,7 +61,8 @@ const loadVideo = () => {
         <slot name="cover"></slot
       ></a>
     </div>
-    <div v-if="!onPlay">
+    <div :id="videoId"></div>
+    <div>
       <a
         class="VPLink link vp-external-link-icon VPNavScreenMenuGroupLink"
         :href="props.link"
@@ -84,11 +85,10 @@ const loadVideo = () => {
         <span class="link-text"><slot name="title"></slot></span>
         <span class="author">@<slot name="author"></slot></span>
       </a>
-      <div v-if="!onPlay" class="description">
+      <div class="description">
         <slot name="description"></slot>
       </div>
     </div>
-    <div :id="videoId"></div>
   </div>
 </template>
 
