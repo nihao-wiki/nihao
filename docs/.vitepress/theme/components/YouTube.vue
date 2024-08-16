@@ -54,7 +54,7 @@ const loadVideo = () => {
 </script>
 
 <template>
-  <div class="important custom-block github-alert wrapper">
+  <div class="important custom-block github-alert wrapper" :style="{ flexWrap: onPlay ? 'wrap' : 'nowrap'}">
     <div class="cover" v-if="!!slots.cover && !onPlay">
       <a @click="loadVideo" class="VPLink link VPNavScreenMenuGroupLink cover">
         <div class="play">click to play</div>
