@@ -1,11 +1,17 @@
 <script setup>
 import { defineProps, useSlots, ref, onUnmounted } from 'vue';
 
-const id = `player-${Math.floor(Math.random() * 10000000000)}`;
 const player = ref();
 const onPlay = ref(false);
 const props = defineProps(['link']);
 const slots = useSlots();
+
+const [url, param] = props.link.split('?');
+const [videoId] = url.split('/').slice(-1);
+const startSeconds = param
+    .split('&')
+    .map((p) => p.split('='))
+    .find((p) => p[0] === 't')?.[1];
 
 onUnmounted(() => {
   player?.value?.destroy?.();
@@ -15,6 +21,7 @@ const loadApi = (cb) => {
   if (window.YT) return cb();
   const tag = document.createElement('script');
   tag.src = 'https://www.youtube.com/iframe_api';
+  tag.error = () => window.open(props.link, '_blank', 'noopener,noreferrer');
   document.body.appendChild(tag);
   window.onYouTubeIframeAPIReadyCallbacks = [
     ...(window.onYouTubeIframeAPIReadyCallbacks || []),
@@ -30,19 +37,18 @@ const loadApi = (cb) => {
 const loadVideo = () => {
   if (onPlay.value === true) return;
   loadApi(() => {
-    const [url, param] = props.link.split('?');
-    const [videoId] = url.split('/').slice(-1);
-    const startSeconds = param
-      .split('&')
-      .map((p) => p.split('='))
-      .find((p) => p[0] === 't')?.[1];
     onPlay.value = true;
-    player.value = new YT.Player(id, {
+    player.value = new YT.Player(videoId, {
       width: '100%',
       playerVars: {
         playsinline: 1,
       },
       events: {
+        onStateChange: () => {
+          if (event.data == YT.PlayerState.ENDED) {
+            onPlay.value = false;
+          }
+        },
         onReady: () => {
           player.value.loadVideoById({ videoId, startSeconds });
         },
@@ -87,7 +93,7 @@ const loadVideo = () => {
         <slot name="description"></slot>
       </div>
     </div>
-    <div :id="id"></div>
+    <div v-show="onPlay" :id="videoId"></div>
   </div>
 </template>
 
