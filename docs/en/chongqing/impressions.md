@@ -9,12 +9,12 @@ Chongqing, which covers 82,300 square kilometers—twice the size of the Netherl
 - **Fog Capital**: Chongqing has a subtropical humid climate, characterized by high humidity and frequent fog. Especially during autumn and winter, thick mist often shrouds the city.
 - **Hotpot Capital**: It is the birthplace of hotpot and has over 32,000 hotpot restaurants.
 
-<Go type="youtube" link="https://youtu.be/0kfhyOKM888?si=AzCMWcMNKhRYBnCb">
+<YouTube link="https://youtu.be/0kfhyOKM888?si=AzCMWcMNKhRYBnCb">
 <template #cover><img src="../assets/youtube/the-biggest-city-on-earch-youve-never-heard-of.jpg" /></template>
 <template #title>The Biggest City on Earth You've Never Heard Of</template>
 <template #author>PPPeter</template>
 <template #description>With population of 32,000,000, Chongqing, China is the biggest city on Earth. Its unbelievable area makes it also the largest city in the world.</template>
-</Go>
+</YouTube>
 
 ## Night View from Above
 
@@ -26,11 +26,11 @@ Chongqing's night views are incredibly famous. Should you happen to arrive in Ch
 
 If you're fortunate enough, as the plane clears the final mountain and makes its last right-hand maneuver, you'll catch sight of the Chongqing urban area, with only a few minutes remaining until touchdown.
 
-<Go type="youtube" link="https://youtu.be/wOh2wmvNfEU?si=r3OsrNRU0xajeQRJ&t=315">
+<YouTube link="https://youtu.be/wOh2wmvNfEU?si=r3OsrNRU0xajeQRJ&t=315">
 <template #title>Magnificent night view of Chongqing, China</template>
 <template #author>Wesley J.</template>
 <template #description>Taken from the flight :)</template>
-</Go>
+</YouTube>
 
 ## Yellow Taxis
 
@@ -48,12 +48,12 @@ Payments via Alipay, WeChat, and cash will be accepted.
 <div><img src="./assets/yellow-taxi.jpg" alt="Yellow Taxis" /></div>
 </Flex>
 
-<Go type="youtube" link="https://youtu.be/rZb_P7xDVJo?si=K3LCgMCUFiqGQIXr&t=391">
+<YouTube link="https://youtu.be/rZb_P7xDVJo?si=K3LCgMCUFiqGQIXr&t=391">
 <template #cover><img src="../assets/youtube/entering-the-largest-city-in-the-world.jpg" /></template>
 <template #title>Entering The LARGEST City in the WORLD (Chongqing, China)</template>
 <template #author>KSquared</template>
 <template #description>It took only five minutes to fill out the entry forms, and I couldn't wait to jump into a yellow taxi. The driver didn't need GPS, navigating through places that felt like underground parking lots...</template>
-</Go>
+</YouTube>
 
 ::: info Local Tips
 Do not trust those "overly enthusiastic" unlicensed drivers; find a yellow taxi; always by meter.
@@ -73,16 +73,16 @@ Some basic food items in China, such as rice, noodles, and cooking oil, typicall
 
 Cola 500ml for €0.4, Mineral Water 5L for €1.1, Beef 500g for €9, Tomato 500g for €0.2, and Apple 500g for €0.2.
 
-<Go type="youtube" link="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186">
+<YouTube link="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186">
 <template #cover><img src="../assets/youtube/full-supermarket-tour-in-china-ks.jpg" /></template>
 <template #title>CHINA: Supermarket Tour 2024 (SHOCKING PRICES) </template>
 <template #author>KSquared</template>
 <template #description>I went to a supermarket in Chongqing, China. I was shocked to see how affordable many of the items were.</template>
-</Go>
+</YouTube>
 
-<Go type="youtube" link="https://youtu.be/6-5wmhpnT_k?si=EWA77ir71zaZr9sI">
+<YouTube link="https://youtu.be/6-5wmhpnT_k?si=EWA77ir71zaZr9sI">
 <template #cover><img src="../assets/youtube/full-supermarket-tour-in-china.jpg" /></template>
 <template #title>Full Supermarket Tour in China (Shocking Prices)</template>
 <template #author>Two Mad Explorers</template>
 <template #description>Exploring a local supermarket in Chongqing, the prices were surprisingly cheap; We managed to buy everything We wanted for just 20 euros.</template>
-</Go>
+</YouTube>

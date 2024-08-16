@@ -34,12 +34,12 @@ Despite having "tea" in its name, it is not actually a tea beverage but rather a
 
 <Speech as="烤芍皮">烤苕皮</Speech>(Grilled Sweet Potato Skin)
 
-<Go type="youtube" link="https://youtu.be/j22aObnfhG4?si=E_BmJzRYcM0jXZMr&t=8538">
+<YouTube link="https://youtu.be/j22aObnfhG4?si=E_BmJzRYcM0jXZMr&t=8538">
 <template #cover><img src="../../assets/youtube/everything-i-ate-in-chongqing.jpg" /></template>
 <template #title>Everything I ate in Chongqing, China (ULTIMATE STREET FOOD TOUR)</template>
 <template #author>JetLag Warriors</template>
 <template #description>Chongqing street food has completely captivated me. Once you get used to the spiciness, it becomes incredibly tasty; but at first, it can be quite a tingling surprise. I would give it a five-star rating.</template>
-</Go>
+</YouTube>
 
 ### Grilled Tofu Block
 
