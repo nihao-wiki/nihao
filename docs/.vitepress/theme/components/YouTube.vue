@@ -2,11 +2,17 @@
 import { defineProps, useSlots, ref, onUnmounted } from 'vue';
 import YouTube from './Icon/YouTube.vue';
 
-const id = `player-${Math.floor(Math.random() * 10000000000)}`;
 const player = ref();
 const onPlay = ref(false);
 const props = defineProps(['link']);
 const slots = useSlots();
+
+const [url, param] = props.link.split('?');
+const [videoId] = url.split('/').slice(-1);
+const startSeconds = param
+    .split('&')
+    .map((p) => p.split('='))
+    .find((p) => p[0] === 't')?.[1];
 
 onUnmounted(() => {
   player?.value?.destroy?.();
@@ -16,6 +22,7 @@ const loadApi = (cb) => {
   if (window.YT) return cb();
   const tag = document.createElement('script');
   tag.src = 'https://www.youtube.com/iframe_api';
+  tag.error = () => window.open(props.link, '_blank', 'noopener,noreferrer');
   document.body.appendChild(tag);
   window.onYouTubeIframeAPIReadyCallbacks = [
     ...(window.onYouTubeIframeAPIReadyCallbacks || []),
@@ -31,14 +38,8 @@ const loadApi = (cb) => {
 const loadVideo = () => {
   if (onPlay.value === true) return;
   loadApi(() => {
-    const [url, param] = props.link.split('?');
-    const [videoId] = url.split('/').slice(-1);
-    const startSeconds = param
-      .split('&')
-      .map((p) => p.split('='))
-      .find((p) => p[0] === 't')?.[1];
     onPlay.value = true;
-    player.value = new YT.Player(id, {
+    player.value = new YT.Player(videoId, {
       width: '100%',
       playerVars: {
         playsinline: 1,
@@ -54,14 +55,15 @@ const loadVideo = () => {
 </script>
 
 <template>
-  <div class="important custom-block github-alert wrapper">
+  <div class="important custom-block github-alert wrapper" :style="{ flexWrap: onPlay ? 'wrap' : 'nowrap'}">
     <div class="cover" v-if="!!slots.cover && !onPlay">
       <a @click="loadVideo" class="VPLink link VPNavScreenMenuGroupLink cover">
         <div class="play"><YouTube size="40" fill="#fff"></YouTube></div>
         <slot name="cover"></slot
       ></a>
     </div>
-    <div v-if="!onPlay">
+    <div :id="videoId" :style="{ margin Bottom: onPlay ? '8px' : '0'}"></div>
+    <div>
       <a
         class="VPLink link vp-external-link-icon VPNavScreenMenuGroupLink"
         :href="props.link"
@@ -72,11 +74,10 @@ const loadVideo = () => {
         <span class="link-text"><slot name="title"></slot></span>
         <span class="author">@<slot name="author"></slot></span>
       </a>
-      <div v-if="!onPlay" class="description">
+      <div class="description">
         <slot name="description"></slot>
       </div>
     </div>
-    <div :id="id"></div>
   </div>
 </template>
 

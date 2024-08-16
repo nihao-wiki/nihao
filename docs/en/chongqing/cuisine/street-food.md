@@ -1,6 +1,6 @@
 # Chongqing's Hidden Street Eats: Only a Local Knows
 
-## "Five Greats"
+## Breakfast & "Five Greats"
 
 Noodles is one of the most famous breakfast dishes in Chongqing, and there are many other options as well.
 
@@ -24,9 +24,21 @@ The outer layer of the glutinous rice ball is coated with a thick layer of yello
 
 Despite having "tea" in its name, it is not actually a tea beverage but rather a porridge-like dish based on rice flour. It is made from a rice flour paste and saozi. Saozi is a type of fried noodle that is typically cut into small pieces and added to the youtea.
 
-## Soy-Braised Pork Bun
+### Soy-Braised Pork Bun
+
+## Ice Jelly
+
+### Ice Grass Jelly
+
+### Ice Rice Flour Jelly
 
 ## Fried Rice Flour Triangle
+
+## Baked Bun
+
+Round Savory Baked Bun: A round baked bun. 
+
+Oval Sweet Baked Bun: An oval-shaped baked bun.
 
 ## Chongqing-Style Barbecue
 
