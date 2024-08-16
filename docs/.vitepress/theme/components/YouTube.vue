@@ -47,6 +47,11 @@ const loadVideo = () => {
         onReady: () => {
           player.value.loadVideoById({ videoId, startSeconds });
         },
+        onStateChange: (event) => {
+          if (event.data === YT.playerState.ENDED) {
+            onPlay.value = false;
+}
+},
       },
     });
   });
@@ -88,7 +93,7 @@ const loadVideo = () => {
         <slot name="description"></slot>
       </div>
     </div>
-    <div :id="id"></div>
+    <div v-show="onPlay" :id="id"></div>
   </div>
 </template>
 
