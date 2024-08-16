@@ -6,7 +6,7 @@ import References from './components/References.vue';
 import Flex from './components/Flex.vue';
 import Speech from './components/Speech.vue';
 import Map from './components/Map/index.vue';
-import Go from './components/Go.vue';
+import YouTube from './components/YouTube.vue';
 import Weekdays from './components/Weekdays.vue';
 import NavReddit from './components/NavReddit.vue';
 import Ads from './components/Ads.vue';
@@ -18,7 +18,7 @@ export default {
     app.component('Flex', Flex);
     app.component('Speech', Speech);
     app.component('Map', Map);
-    app.component('Go', Go);
+    app.component('YouTube', YouTube);
     app.component('Weekdays', Weekdays);
     app.component('NavReddit', NavReddit);
   },
