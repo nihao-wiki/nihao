@@ -10,9 +10,9 @@ const slots = useSlots();
 const [url, param] = props.link.split('?');
 const [videoId] = url.split('/').slice(-1);
 const startSeconds = param
-    .split('&')
-    .map((p) => p.split('='))
-    .find((p) => p[0] === 't')?.[1];
+  .split('&')
+  .map((p) => p.split('='))
+  .find((p) => p[0] === 't')?.[1];
 
 onUnmounted(() => {
   player?.value?.destroy?.();
@@ -55,14 +55,16 @@ const loadVideo = () => {
 </script>
 
 <template>
-  <div class="important custom-block github-alert wrapper" :style="{ flexWrap: onPlay ? 'wrap' : 'nowrap'}">
+  <div
+    class="important custom-block github-alert wrapper"
+    :style="{ flexWrap: onPlay ? 'wrap' : 'nowrap' }"
+  >
     <div class="cover" v-if="!!slots.cover && !onPlay">
       <a @click="loadVideo" class="VPLink link VPNavScreenMenuGroupLink cover">
         <div class="play"><YouTube size="40" fill="#fff"></YouTube></div>
-        <slot name="cover"></slot
-      ></a>
+        <slot name="cover"></slot></a>
     </div>
-    <div :id="videoId" :style="{ margin Bottom: onPlay ? '8px' : '0'}"></div>
+    <div :id="videoId" :style="{ marginBottom: onPlay ? '8px' : '0'}"></div>
     <div>
       <a
         class="VPLink link vp-external-link-icon VPNavScreenMenuGroupLink"
