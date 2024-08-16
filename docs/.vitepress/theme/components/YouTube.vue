@@ -15,7 +15,6 @@ const loadApi = (cb) => {
   if (window.YT) return cb();
   const tag = document.createElement('script');
   tag.src = 'https://www.youtube.com/iframe_api';
-  tag.onerror = () => window.open(props.link, '_blank', 'noopener,noreferrer');
   document.body.appendChild(tag);
   window.onYouTubeIframeAPIReadyCallbacks = [
     ...(window.onYouTubeIframeAPIReadyCallbacks || []),
