@@ -73,7 +73,7 @@ Some basic food items in China, such as rice, noodles, and cooking oil, typicall
 
 Cola 500ml for €0.4, Mineral Water 5L for €1.1, Beef 500g for €9, Tomato 500g for €0.2, and Apple 500g for €0.2.
 
-<YouTube link="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186">
+<YouTube link="https://youtu.be/grWAN8GEJ-I?si=-9PqXF4IWr59AoU9">
 <template #cover><img src="../assets/youtube/full-supermarket-tour-in-china-ks.jpg" /></template>
 <template #title>CHINA: Supermarket Tour 2024 (SHOCKING PRICES) </template>
 <template #author>KSquared</template>
