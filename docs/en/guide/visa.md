@@ -8,6 +8,8 @@ reference:
     site: english.www.gov.cn
 ---
 
+# Exploring China: Guide to the 144-Hour Visa-Free Transit
+
 ## Visa-Free
 
 Albania, Antigua and Barbuda, Armenia, The Bahamas, Barbados, Belarus, Bosnia and Herzegovina, Dominica, Ecuador, Fiji, Georgia, Grenada, Kazakhstan, Maldives, Mauritius, Qatar, San Marino, Serbia, Seychelles, Singapore, Surinam, Thailand, Tonga, United Arab Emirates.
@@ -88,7 +90,7 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
   </tbody>
 </table> -->
 
-### 144-Hour Visa-Free Transit
+### Specific Destination
 
 <table>
   <thead>
@@ -124,7 +126,7 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
     <tr>
       <td>Chongqing Jiangbei<br/>International Airport</td>
       <td>Chongqing Municipality</td>
-      <td><a href="/chongqing/visa-free/">Chongqing Visa-Free Routes Guide</a></td>
+      <td><a href="/chongqing/visa-free/">Chongqing Visa-Free Guide</a></td>
     </tr>
   </tbody>
 </table>
