@@ -1,6 +1,7 @@
 import { createRequire } from 'module';
 import { defineConfig, type DefaultTheme } from 'vitepress';
 import { nav } from './nav';
+import { bottomNav } from './bottom-nav';
 import sidebar from './sidebar';
 import pkg from '../../../../package.json';
 
@@ -11,6 +12,8 @@ export const en = defineConfig({
   description: pkg.description,
   themeConfig: {
     nav: nav(),
+    // @ts-ignore
+    bottomNav: bottomNav(),
     outlineTitle: 'On this page',
     sidebar,
     editLink: {

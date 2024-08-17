@@ -19,9 +19,5 @@ export function nav(): DefaultTheme.NavItem[] {
         link: 'https://www.reddit.com/r/nihaowiki/',
       },
     },
-    {
-      text: 'Sponsor',
-      link: '/sponsor',
-    },
   ];
 }
