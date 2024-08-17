@@ -13,7 +13,7 @@ hero:
       text: Discover Chongqing
       link: /chongqing/impressions
     - theme: alt
-      text: 144-Hour Visa-Free Guide
+      text: Tourism Guide
       link: /guide/visa/
 ---
 

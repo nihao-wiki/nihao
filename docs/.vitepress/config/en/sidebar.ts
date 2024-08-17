@@ -10,12 +10,20 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
           link: 'visa',
         },
         {
-          text: 'High Season',
-          link: 'high-season',
+          text: 'Seasons',
+          link: 'seasons',
         },
         {
-          text: 'Payment',
-          link: 'payment',
+          text: 'Paying Ways',
+          link: 'paying',
+        },
+        {
+          text: 'Safety',
+          link: 'safety',
+        },
+        {
+          text: 'Communication',
+          link: 'communication',
         },
       ],
     },
@@ -24,10 +32,10 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       items: [
         {
           text: 'Chongqing',
-          link: '../chongqing/impressions'
-        }
-      ]
-    }
+          link: '../chongqing/impressions',
+        },
+      ],
+    },
   ];
 }
 

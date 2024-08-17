@@ -56,7 +56,7 @@ Payments via Alipay, WeChat, and cash will be accepted.
 </YouTube>
 
 ::: info Local Tips
-Do not trust those "overly enthusiastic" unlicensed drivers; find a yellow taxi; always by meter.
+Do not trust those "overly enthusiastic" unlicensed taxi drivers; find a yellow taxi; always by meter.
 :::
 
 ## Stays

@@ -18,6 +18,18 @@ export function bottomNav(): DefaultTheme.NavItem[] {
           text: 'Visa',
           link: '/guide/visa',
         },
+        {
+          text: 'Paying Ways',
+          link: '/guide/paying',
+        },
+        {
+          text: 'Safety',
+          link: '/guide/safety',
+        },
+        {
+          text: 'Communication',
+          link: '/guide/communication',
+        },
       ],
     },
     {
