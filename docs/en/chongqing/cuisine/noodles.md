@@ -137,6 +137,8 @@ In the summer, when the weather is particularly hot, locals might even have <Spe
 
 ## Rice Noddles
 
+<Word word="米线" pinyin="mǐ xiàn" ipa="">Rice Noddles</Word>
+
 In Chongqing, <Speech>米线</Speech>(rice noodles) are just as popular as small noodles, and their preparation is largely similar to that of small noodles, with variations such as beef rice noodles and chicken offal rice noodles being common options.
 
 ### Clay Pot Rice Noodle
@@ -148,6 +150,8 @@ Chongqing's <Speech>砂锅米线</Speech>(Clay Pot Rice Noodle) is very popular,
 Chongqing's <Speech>鸡汁米线</Speech>(Chicken Broth Rice Noodle) is a popular dish in Chongqing, known for its rich and flavorful broth.
 
 ## Chaoshou
+
+<Word word="抄手" pinyin="chāo shǒu" ipa="">Wonton</Word>
 
 In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子</Speech>(Dumplings), and <Speech>馄饨</Speech>(Wontons) are all popular traditional foods. Although they share some similarities in appearance, there are distinct differences in their preparation methods, shapes, and ways of eating.
 
