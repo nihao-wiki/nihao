@@ -42,8 +42,6 @@ The fare from Airport to Downtown is approximately 70 RMB (around 9 Euros).
 
 Payments via Alipay, WeChat, and cash will be accepted.
 
-[Guide - Payment](/guide/payment).
-
 </div>
 <div><img src="./assets/yellow-taxi.jpg" alt="Yellow Taxis" /></div>
 </Flex>

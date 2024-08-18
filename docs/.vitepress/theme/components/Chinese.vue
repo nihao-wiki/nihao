@@ -5,7 +5,7 @@ const props = defineProps(['word', 'as']);
 <template>
   <div class="wrapper">
     <div class="word" v-for="w in props.word.split('')">
-      <div>{{ w }}</div>
+      <div class="text">{{ w }}</div>
       <div class="dash middle"></div>
       <div class="dash vertical"></div>
     </div>
@@ -35,6 +35,10 @@ const props = defineProps(['word', 'as']);
   background-color: #eee;
   border-radius: 4px;
   margin-right: 8px;
+}
+
+.word .text {
+  z-index: 1
 }
 
 .word .dash {
