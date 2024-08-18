@@ -87,6 +87,7 @@ const speak = () => {
   path {
     width: 12px;
     height: 12px;
+    fill: var(--vp-c-text-1);
   }
 }
 

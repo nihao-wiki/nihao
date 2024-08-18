@@ -27,13 +27,12 @@ const props = defineProps(['word', 'as']);
   display: inline-block;
   position: relative;
   font-family: '楷体', 'KaiTi', serif;
-  font-size: 40px;
-  width: 50px;
-  height: 50px;
-  line-height: 50px;
-  color: #000;
+  font-size: 30px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
   text-align: center;
-  background-color: #eee;
+  background-color: var(--vp-c-divider);
   border-radius: 4px;
   margin-right: 8px;
 }
@@ -41,27 +40,30 @@ const props = defineProps(['word', 'as']);
 .word .text {
   position: relative;
   z-index: 1;
+  color: var(--vp-c-text-1);
 }
 
 .word .dash {
   position: absolute;
   top: 0;
   left: 0;
-  opacity: 0.5;
+  opacity: 0.2;
+  border-color: var(--vp-c-border);
 }
 .word .dash.middle {
   width: 100%;
   height: 50%;
-  border-bottom: 1px dashed #999;
+  border-bottom: 1px dashed;
 }
 .word .dash.vertical {
   width: 50%;
   height: 100%;
-  border-right: 1px dashed #999;
+  border-right: 1px dashed;
 }
 
 .description {
   font-size: 14px;
+  line-height: 20px;
   color: var(--vp-c-text-2);
 }
 </style>
