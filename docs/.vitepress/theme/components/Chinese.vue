@@ -3,18 +3,19 @@ const props = defineProps(['word', 'as']);
 </script>
 
 <template>
-  <div class="wrapper">
-    <div class="word" v-for="w in props.word.split('')">
-      <div class="text">{{ w }}</div>
-      <div class="dash middle"></div>
-      <div class="dash vertical"></div>
+  <p>
+    <div class="wrapper">
+      <div class="word" v-for="w in props.word.split('')">
+        <div class="text">{{ w }}</div>
+        <div class="dash middle"></div>
+        <div class="dash vertical"></div>
+      </div>
+      <div class="description">
+        <div><slot name="pinyin"></slot> <slot name="ipa"></slot> <Speech :as="props.as || props.word"></Speech></div>
+        <div><slot></slot></div>
+      </div>
     </div>
-    <div class="description">
-      <div><slot name="pinyin"></slot> <Speech :as="props.as || props.word"></Speech></div>
-      <div><slot name="ipa"></slot></div>
-    </div>
-  </div>
-  <div class="description"><slot></slot></div>
+  </p>
 </template>
 
 <style scoped>
@@ -38,7 +39,8 @@ const props = defineProps(['word', 'as']);
 }
 
 .word .text {
-  z-index: 1
+  position: relative;
+  z-index: 1;
 }
 
 .word .dash {

@@ -4,11 +4,11 @@
 
 <Chinese word="小面">
 <template #pinyin>xiǎo miàn</template>
-<template #ipa>/ʃæl/</template>
+<template #ipa>/ʃəʊ miːn/</template>
 Small Noddles
 </Chinese>
 
-Chongqing <Speech>小面</Speech>(Xiaomian) is one of the most famous noodles, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
+Xiaomian is the most famous noodles in Chongqing, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
 
 <YouTube link="https://youtu.be/ZehhL5mXV4c?si=KvMraWn0R9m9woSD&t=80">
 <template #cover><img src="../../assets/youtube/my-italian-family-tried-chongqing-noodles-for-the-first-time.jpg" /></template>
@@ -17,17 +17,14 @@ Chongqing <Speech>小面</Speech>(Xiaomian) is one of the most famous noodles, k
 <template #description>My Italian family's first visit to the mountain city of Chongqing, marveling at its beauty! Chongqing noodles really suit Italian palates.</template>
 </YouTube>
 
-### Overview
-
 The per capita cost for Xiaomian is around <u>8 to 15 yuan (approximately €1.20 to €2.00)</u>.
-Most restaurants operate from <u>8:00 am to 9:00 pm</u>, with a few remaining open for 24 hours.
 
 ### Portion
 
 Noodles are typically offered in two sizes, <Speech>二两</Speech>(100 grams) and <Speech>三两</Speech>(150 grams).
 
 ::: info LOCAL TIPS
-Generally, 100 grams is enough to fill you up, though someone with a larger appetite might go for 300 grams. Typically, locals also add a <Speech>煎蛋</Speech>(fried egg) to their order. You can also request '<Speech>多菜</Speech>(extra vegetables)' or '<Speech>少面</Speech>(less noodles)' according to your preference.
+Generally, 100 grams is enough to fill you up, though someone with a larger appetite might go for 300 grams. Typically, locals also add a <Speech>煎蛋</Speech>(fried egg) to their order.
 :::
 
 ### Varieties
