@@ -2,9 +2,13 @@
 
 ## Xiaomian
 
-<Word word="小面" pinyin="xiǎo miàn" ipa="ʃæl">Small Noddles</Word>
+<Chinese word="小面">
+<template #pinyin>xiǎo miàn</template>
+<template #ipa>/ʃəʊ miːn/</template>
+Small Noddles
+</Chinese>
 
-Chongqing <Speech>小面</Speech>(Xiaomian) is one of the most famous noodles, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
+Xiaomian is the most famous noodles in Chongqing, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
 
 <YouTube link="https://youtu.be/ZehhL5mXV4c?si=KvMraWn0R9m9woSD&t=80">
 <template #cover><img src="../../assets/youtube/my-italian-family-tried-chongqing-noodles-for-the-first-time.jpg" /></template>
@@ -13,17 +17,14 @@ Chongqing <Speech>小面</Speech>(Xiaomian) is one of the most famous noodles, k
 <template #description>My Italian family's first visit to the mountain city of Chongqing, marveling at its beauty! Chongqing noodles really suit Italian palates.</template>
 </YouTube>
 
-### Overview
-
 The per capita cost for Xiaomian is around <u>8 to 15 yuan (approximately €1.20 to €2.00)</u>.
-Most restaurants operate from <u>8:00 am to 9:00 pm</u>, with a few remaining open for 24 hours.
 
 ### Portion
 
 Noodles are typically offered in two sizes, <Speech>二两</Speech>(100 grams) and <Speech>三两</Speech>(150 grams).
 
 ::: info LOCAL TIPS
-Generally, 100 grams is enough to fill you up, though someone with a larger appetite might go for 300 grams. Typically, locals also add a <Speech>煎蛋</Speech>(fried egg) to their order. You can also request '<Speech>多菜</Speech>(extra vegetables)' or '<Speech>少面</Speech>(less noodles)' according to your preference.
+Generally, 100 grams is enough to fill you up, though someone with a larger appetite might go for 300 grams. Typically, locals also add a <Speech>煎蛋</Speech>(fried egg) to their order.
 :::
 
 ### Varieties
@@ -127,13 +128,21 @@ Small noodle shops are usually roadside establishments that offer square tables 
 
 ## Cold Noodles
 
+<Chinese word="凉面">
+<template #pinyin>liáng miàn</template>
+Cold Noodles
+</Chinese>
+
 They are quite similar to other types of noodles, but what sets them apart is that they can be eaten as a snack. That's why you often see them being sold on the roadside in scenic areas. <Speech>凉面</Speech>(Cold Noodles) typically garnished with crushed peanuts, cucumber strips, soy sauce, and vinegar.
 
 In the summer, when the weather is particularly hot, locals might even have <Speech>稀饭</Speech>(congee) and <Speech>凉面</Speech>(Cold Noodles) as their main meal due to their refreshing combination.
 
 ## Rice Noddles
 
-<Word word="米线" pinyin="mǐ xiàn" ipa="">Rice Noddles</Word>
+<Chinese word="米线">
+<template #pinyin>mǐ xiàn</template>
+Rice Noddles
+</Chinese>
 
 In Chongqing, <Speech>米线</Speech>(rice noodles) are just as popular as small noodles, and their preparation is largely similar to that of small noodles, with variations such as beef rice noodles and chicken offal rice noodles being common options.
 
@@ -147,7 +156,10 @@ Chongqing's <Speech>鸡汁米线</Speech>(Chicken Broth Rice Noodle) is a popula
 
 ## Chaoshou
 
-<Word word="抄手" pinyin="chāo shǒu" ipa="">Wonton</Word>
+<Chinese word="抄手">
+<template #pinyin>chāo shǒu</template>
+Wonton
+</Chinese>
 
 In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子</Speech>(Dumplings), and <Speech>馄饨</Speech>(Wontons) are all popular traditional foods. Although they share some similarities in appearance, there are distinct differences in their preparation methods, shapes, and ways of eating.
 
@@ -162,6 +174,11 @@ In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子<
 
 ## Sour and Spicy Sweet Potato Vermicelli
 
-<Speech>酸辣粉</Speech>(Sour and Spicy Sweet Potato Vermicelli) can be considered a main meal or a street food; you can find it in noodle shops, but more often it's available at snack bars.
+<Chinese word="酸辣粉">
+<template #pinyin>suān là fěn</template>
+Sour and Spicy Sweet Potato Vermicelli
+</Chinese>
+
+It can be considered a main meal or a street food; you can find it in noodle shops, but more often it's available at snack bars.
 
 People love sour and spicy sweet potato vermicelli for several reasons. Its tangy and spicy flavor provides a delightful taste experience that is both refreshing and invigorating. The chewy texture of the sweet potato noodles adds an interesting mouthfeel. It's also versatile, serving as both a satisfying main dish or a quick, tasty snack. Additionally, it’s often affordable and widely available, making it a popular choice for many, especially at snack bars and street food stalls.

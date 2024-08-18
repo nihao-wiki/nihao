@@ -1,0 +1,67 @@
+<script setup>
+const props = defineProps(['word', 'as']);
+</script>
+
+<template>
+  <p>
+    <div class="wrapper">
+      <div class="word" v-for="w in props.word.split('')">
+        <div class="text">{{ w }}</div>
+        <div class="dash middle"></div>
+        <div class="dash vertical"></div>
+      </div>
+      <div class="description">
+        <div><slot name="pinyin"></slot> <slot name="ipa"></slot> <Speech :as="props.as || props.word"></Speech></div>
+        <div><slot></slot></div>
+      </div>
+    </div>
+  </p>
+</template>
+
+<style scoped>
+.wrapper {
+  display: flex;
+}
+
+.word {
+  display: inline-block;
+  position: relative;
+  font-family: '楷体', 'KaiTi', serif;
+  font-size: 40px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  color: #000;
+  text-align: center;
+  background-color: #eee;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+.word .text {
+  position: relative;
+  z-index: 1;
+}
+
+.word .dash {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.5;
+}
+.word .dash.middle {
+  width: 100%;
+  height: 50%;
+  border-bottom: 1px dashed #999;
+}
+.word .dash.vertical {
+  width: 50%;
+  height: 100%;
+  border-right: 1px dashed #999;
+}
+
+.description {
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+}
+</style>

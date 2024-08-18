@@ -1,12 +1,28 @@
 # Savor Má Là: Local Guide to Chongqing Jianghu Cuisine
 
+<Chinese word="麻辣">
+<template #pinyin>má là</template>
+</Chinese>
+
 Chongqing cuisine can itself be seen as a subcategory of Sichuan cuisine, particularly known as Chongqing <Speech>江湖菜</Speech>(Jianghu cuisine).
 
 It's known for its bold and spicy flavors, reflecting the culinary traditions of the local "jianghu" or "river and lake" culture. This term often connotes a more rustic and less refined style of cooking compared to formal Sichuanese cuisine, with an emphasis on hearty and flavorful dishes.
 
-## Spicy Chili Chicken
+## Chicken Cuisine
 
-## Sliced Green Pepper Chicken
+### Spicy Chili Chicken
+
+<Chinese word="辣子鸡">
+<template #pinyin>là zǐ jī</template>
+Spicy Chili Chicken
+</Chinese>
+
+### Sliced Green Pepper Chicken
+
+<Chinese word="尖椒鸡">
+<template #pinyin>jiān jiāo jī</template>
+Sliced Green Pepper Chicken
+</Chinese>
 
 The main ingredients for <Speech>尖椒鸡</Speech>(Sliced Green Pepper Chicken) include chicken, green peppers, dried chili peppers, and other seasonings such as Sichuan peppercorns, ginger, and garlic.
 
@@ -19,14 +35,46 @@ In addition to Sliced Green Pepper Chicken, there are also <Speech>尖椒兔</Sp
 <template #description>In an ancient inn in Chongqing, a table full of Jianghu cuisine, where the spiciness erases all worries! It's spicy enough to make your face expressive and lose your sense of taste! But it's so good, it's really delicious.</template>
 </YouTube>
 
-## Taro Chicken
+### Taro Chicken
 
-## Spring Water Chicken
+<Chinese word="芋儿鸡">
+<template #pinyin>yù ér jī</template>
+Taro Chicken
+</Chinese>
 
-## Boiled Fish in Spicy Sauce
+### Spring Water Chicken
 
-## Laifeng Fish
+<Chinese word="泉水鸡">
+<template #pinyin>quán shuǐ jī</template>
+Spring Water Chicken
+</Chinese>
 
-## Wanzhou-style Grilled Fish
+## County Cuisine
 
-## Qianjiang-style Chicken Offal
+### Bishan Rabbit
+
+<Chinese word="璧山兔">
+<template #pinyin>bì shān tù</template>
+Bishan Rabbit
+</Chinese>
+
+### Laifeng Fish
+
+<Chinese word="来凤鱼">
+<template #pinyin>lái fèng yú</template>
+Laifeng Fish
+</Chinese>
+
+### Wanzhou-style Grilled Fish
+
+<Chinese word="万州烤鱼">
+<template #pinyin>wàn zhōu kǎo yú</template>
+Wanzhou-style Grilled Fish
+</Chinese>
+
+### Qianjiang-style Chicken Offal
+
+<Chinese word="黔江鸡杂">
+<template #pinyin>qián jiāng jī zá</template>
+Qianjiang-style Chicken Offal
+</Chinese>

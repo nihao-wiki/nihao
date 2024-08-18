@@ -1,5 +1,5 @@
 <script setup>
-import { defineProps, useSlots, ref, onUnmounted } from 'vue';
+import { useSlots, ref, onUnmounted } from 'vue';
 import YouTube from './Icon/YouTube.vue';
 
 const player = ref();

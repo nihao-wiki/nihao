@@ -2,6 +2,11 @@
 
 ## Introduction
 
+<Chinese word="火锅">
+<template #pinyin>huǒ guō</template>
+Chongqing hotpot
+</Chinese>
+
 Chongqing hotpot originated on the Yangtze River banks in the early 20th century. Dock workers cooked cheaper offal and scraps in a broth of chili and Sichuan pepper. Over time, this developed into the distinctive Chongqing hotpot.
 
 The estimated number of hotpot restaurants in Chongqing is around 30,000. Chongqing residents' love for hotpot knows no season; even in the scorching summer, the allure of hotpot remains undiminished.
