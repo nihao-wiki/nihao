@@ -1,6 +1,5 @@
 <script setup>
-import { defineProps } from 'vue';
-const props = defineProps(['word', 'as', 'pinyin', 'ipa']);
+const props = defineProps(['word', 'as']);
 </script>
 
 <template>
@@ -11,11 +10,11 @@ const props = defineProps(['word', 'as', 'pinyin', 'ipa']);
       <div class="dash vertical"></div>
     </div>
     <div class="description">
-      <div>{{ props.pinyin }} <Speech :as="props.as || props.word"></Speech></div>
-      <div>/{{ props.ipa }}/</div>
-      <div><slot></slot></div>
+      <div><slot name="pinyin"></slot> <Speech :as="props.as || props.word"></Speech></div>
+      <div><slot name="ipa"></slot></div>
     </div>
   </div>
+  <div><slot></slot></div>
 </template>
 
 <style scoped>
@@ -27,10 +26,10 @@ const props = defineProps(['word', 'as', 'pinyin', 'ipa']);
   display: inline-block;
   position: relative;
   font-family: '楷体', 'KaiTi', serif;
-  font-size: 60px;
-  width: 70px;
-  height: 70px;
-  line-height: 70px;
+  font-size: 40px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
   color: #000;
   text-align: center;
   background-color: #eee;

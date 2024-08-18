@@ -10,7 +10,7 @@ import YouTube from './components/YouTube.vue';
 import Weekdays from './components/Weekdays.vue';
 import NavReddit from './components/NavReddit.vue';
 import Ads from './components/Ads.vue';
-import Word from './components/Word.vue';
+import Chinese from './components/Chinese.vue';
 import './styles/index.css';
 
 export default {
@@ -22,7 +22,7 @@ export default {
     app.component('YouTube', YouTube);
     app.component('Weekdays', Weekdays);
     app.component('NavReddit', NavReddit);
-    app.component('Word', Word);
+    app.component('Chinese', Chinese);
   },
   Layout() {
     return h(defaultTheme.Layout, null, {

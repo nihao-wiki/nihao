@@ -2,7 +2,11 @@
 
 ## Xiaomian
 
-<Word word="小面" pinyin="xiǎo miàn" ipa="ʃæl">Small Noddles</Word>
+<Chinese word="小面">
+<template #pinyin>xiǎo miàn</template>
+<template #ipa>/ʃæl/</template>
+<template>Small Noddles</template>
+</Chinese>
 
 Chongqing <Speech>小面</Speech>(Xiaomian) is one of the most famous noodles, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
 
