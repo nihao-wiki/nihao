@@ -14,7 +14,7 @@ const props = defineProps(['word', 'as']);
       <div><slot name="ipa"></slot></div>
     </div>
   </div>
-  <div><slot></slot></div>
+  <div class="description"><slot></slot></div>
 </template>
 
 <style scoped>
@@ -52,5 +52,10 @@ const props = defineProps(['word', 'as']);
   width: 50%;
   height: 100%;
   border-right: 1px dashed #999;
+}
+
+.description {
+  font-size: 14px;
+  color: var(--vp-c-text-2);
 }
 </style>
