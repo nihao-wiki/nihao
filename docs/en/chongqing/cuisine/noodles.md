@@ -172,13 +172,13 @@ In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子<
 <template #description>We're exploring an ancient town on the outskirts of Chongqing and successfully found our way into a Chongqing restaurant where traditional noodles and chicken soup chaoshou made a lasting impression.</template>
 </YouTube>
 
-## Sour and Spicy Sweet Potato Vermicelli
+## Sour and Spicy Sweet Potato Noddles
 
 <Chinese word="酸辣粉">
 <template #pinyin>suān là fěn</template>
-Sour and Spicy Sweet Potato Vermicelli
+Sour and Spicy Sweet Potato Noddles
 </Chinese>
 
 It can be considered a main meal or a street food; you can find it in noodle shops, but more often it's available at snack bars.
 
-People love sour and spicy sweet potato vermicelli for several reasons. Its tangy and spicy flavor provides a delightful taste experience that is both refreshing and invigorating. The chewy texture of the sweet potato noodles adds an interesting mouthfeel. It's also versatile, serving as both a satisfying main dish or a quick, tasty snack. Additionally, it’s often affordable and widely available, making it a popular choice for many, especially at snack bars and street food stalls.
+People love sour and spicy sweet potato noddles for several reasons. Its tangy and spicy flavor provides a delightful taste experience that is both refreshing and invigorating. The chewy texture of the sweet potato noodles adds an interesting mouthfeel. It's also versatile, serving as both a satisfying main dish or a quick, tasty snack. Additionally, it’s often affordable and widely available, making it a popular choice for many, especially at snack bars and street food stalls.
