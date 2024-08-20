@@ -11,6 +11,8 @@ import Weekdays from './components/Weekdays.vue';
 import NavReddit from './components/NavReddit.vue';
 import Ads from './components/Ads.vue';
 import Chinese from './components/Chinese.vue';
+import CNY from './components/CNY.vue';
+import Currency from './components/Currency.vue';
 import './styles/index.css';
 
 export default {
