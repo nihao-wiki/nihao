@@ -69,7 +69,7 @@ Four-Star Hotels from €38 to €100, Airbnb from €12 to €38, and Hostel at
 
 Some basic food items in China, such as rice, noodles, and cooking oil, typically have lower prices. In European and American countries, the prices of meat and dairy products are often more reasonable.
 
-Cola 500ml for €0.4, Mineral Water 5L for €1.1, Beef 500g for €9, Tomato 500g for €0.2, and Apple 500g for €0.2.
+Here are some price references for Chongqing: Cola 500ml for <CNY>3.5</CNY>, Mineral Water 5L for <CNY>8.5</CNY>, Beef 500g for <CNY>75</CNY> and Tomato 500g for <CNY>1.5</CNY>.
 
 <YouTube link="https://youtu.be/grWAN8GEJ-I?si=-9PqXF4IWr59AoU9">
 <template #cover><img src="../assets/youtube/full-supermarket-tour-in-china-ks.jpg" /></template>

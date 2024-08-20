@@ -21,6 +21,7 @@ const { hasSidebar } = useSidebar();
         </div>
       </div>
     </div>
+    <Currency></Currency>
     <footer class="VPFooter">
       <div class="container">
         <p v-if="theme.footer.message" class="message" v-html="theme.footer.message"></p>
