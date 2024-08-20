@@ -38,7 +38,7 @@ If you're fortunate enough, as the plane clears the final mountain and makes its
 <div>
 Chongqing's taxis are famously painted in a uniform yellow color, which has led to their affectionate nickname as "Yellow Ferraris."
 
-The fare from Airport to Downtown is approximately 70 RMB (around 9 Euros).
+The fare from Airport to Downtown is approximately <CNY>70</CNY>.
 
 Payments via Alipay, WeChat, and cash will be accepted.
 
@@ -63,7 +63,7 @@ You may choose to stay at a hotel in the city center, which is conveniently clos
 
 <Map height="40vh" center="106.552003,29.562696" :zoom="13" driving="106.638691,29.717337,airport|106.577708,29.567822,Skyline Viewpoint|106.587897,29.565634,Raffles" points="106.578953,29.562165,Hongyadong|106.530586,29.550659,Liziba Monorail Piercing Building|106.587897,29.565634,Raffles|106.582809,29.557813,Yangtze River Cable Car|106.573579,29.559729,Kuixinglou"></Map>
 
-Four-Star Hotels from €38 to €100, Airbnb from €12 to €38, and Hostel at €2.5.
+Four-Star Hotels from <CNY>300</CNY> to <CNY>800</CNY>, Airbnb above <CNY>100</CNY>, and Hostel at <CNY>20</CNY>.
 
 ## Prices
 

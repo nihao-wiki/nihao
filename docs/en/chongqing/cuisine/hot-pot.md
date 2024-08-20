@@ -30,7 +30,7 @@ Above all, it is <u>a social dining style</u> where friends and family eat toget
 </YouTube>
 
 
-The per person cost is generally between <u>60 to 100 RMB (approximately €8 to €12)</u>. Most restaurants operate <u>from noon until midnight</u>, with some staying open as late as 2 a.m.
+The per person cost is generally between <u><CNY>60</CNY> to <CNY>100</CNY></u>. Most restaurants operate <u>from noon until midnight</u>, with some staying open as late as 2 a.m.
 
 ### Diversity
 

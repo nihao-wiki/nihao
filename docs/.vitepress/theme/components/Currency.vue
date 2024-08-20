@@ -6,6 +6,6 @@ const { currency, currencies } = useCurrency();
 
 <template>
   <select v-model="currency">
-    <option v-for="(c, name) in currencies" :value="name">{{ name }}({{ c.unit }})</option>
+    <option v-for="(c, name) in currencies" :value="name">{{ c.unit }} - {{ name }}</option>
   </select>
 </template>
