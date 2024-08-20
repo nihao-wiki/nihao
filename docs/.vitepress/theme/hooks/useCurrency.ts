@@ -21,11 +21,6 @@ const currencies = {
 
 const currency = ref('EUR');
 
-onMounted(() => {
-  const value = localStorage.getItem('currency');
-  if (value) currency.value = value;
-});
-
 watch([currency], ()=> {
   localStorage.setItem('currency', currency.value);
 });
@@ -35,6 +30,12 @@ export default function useCurrency(amountInCNY = 0) {
     const { unit, ratio } = currencies[currency.value];
     const amount  = (amountInCNY * ratio).toFixed(1);
     return `${unit}${amount}`;
+  });
+
+  onMounted(() => {
+    console.log('onMounted');
+    const value = localStorage.getItem('currency');
+    if (value) currency.value = value;
   });
 
   return { currency, currencies, formattedAmount};
