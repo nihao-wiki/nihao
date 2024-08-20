@@ -2,7 +2,7 @@
 layout: home
 
 title: Nihao.wiki
-titleTemplate: "Your Systematic Travel Guide to China: By Locals."
+titleTemplate: 'Your Systematic Travel Guide to China: By Locals.'
 
 hero:
   name: Nihao!
@@ -15,6 +15,16 @@ hero:
     - theme: alt
       text: Tourism Guide
       link: /guide/visa/
+
+features:
+  - title: Largest City in the world
+    details: Chongqing, one of the world's largest cities, is a sprawling metropolis in Southwest China known for its massive population, stunning riverside location, and vibrant hotpot cuisine culture.
+  - title: Discover 8D Cyberpunk
+    details: Chongqing's 8D terrain is a marvel, with its multi-level architecture, winding roads, and intricate network of bridges and tunnels creating a labyrinthine cityscape that defies traditional spatial logic.
+  - title: Enjoy the Spicy Cuisine
+    details: Chongqing cuisine features spicy Sichuan delights like the iconic hotpot, bold Jianghu dishes, and the beloved Chongqing noodles, all packed with flavor and local character.
+  - title: Experience Chongqing
+    details: Chongqing residents are known for their fiery spirit, warm hospitality, and down-to-earth nature, embodying the vibrant and resilient soul of the city they call home.
 ---
 
 <style>
