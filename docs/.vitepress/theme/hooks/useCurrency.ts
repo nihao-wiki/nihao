@@ -1,4 +1,4 @@
-import { ref, computed, watch } from 'vue';
+import { ref, computed, watch, onMounted } from 'vue';
 
 const currencies = {
   CNY: {
@@ -19,7 +19,12 @@ const currencies = {
   },
 };
 
-const currency = ref(localStorage.getItem('currency') || 'EUR');
+const currency = ref('EUR');
+
+onMounted(() => {
+  const value = localStorage.getItem('currency');
+  if (value) currency.value = value;
+});
 
 watch([currency], ()=> {
   localStorage.setItem('currency', currency.value);
