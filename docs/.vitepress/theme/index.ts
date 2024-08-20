@@ -25,6 +25,8 @@ export default {
     app.component('Weekdays', Weekdays);
     app.component('NavReddit', NavReddit);
     app.component('Chinese', Chinese);
+    app.component('CNY', CNY);
+    app.component('Currency', Currency);
   },
   Layout() {
     return h(defaultTheme.Layout, null, {
