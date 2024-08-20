@@ -3,7 +3,6 @@ import { useData } from 'vitepress';
 import { useSidebar } from 'vitepress/theme';
 
 const { theme, frontmatter } = useData();
-console.log(theme);
 const { hasSidebar } = useSidebar();
 </script>
 
@@ -21,7 +20,11 @@ const { hasSidebar } = useSidebar();
         </div>
       </div>
     </div>
-    <Currency></Currency>
+    <div class="action">
+      <div class="container">
+        <Currency></Currency>
+      </div>
+    </div>
     <footer class="VPFooter">
       <div class="container">
         <p v-if="theme.footer.message" class="message" v-html="theme.footer.message"></p>
@@ -32,18 +35,28 @@ const { hasSidebar } = useSidebar();
 </template>
 
 <style scoped>
-.sitemap {
+.sitemap,
+.action {
   background: var(--vp-c-bg-soft);
   z-index: 1;
 }
 
-.sitemap .container {
+.sitemap .container,
+.action .container {
   max-width: 900px;
   margin: 0 auto;
   columns: 1;
   padding: 24px 32px;
   display: flex;
   justify-content: space-between;
+}
+
+.action .container {
+  padding-top: 0;
+  padding-bottom: 0;
+  select {
+    background: var(--vp-c-bg-soft);
+  }
 }
 
 .sitemap-title {
