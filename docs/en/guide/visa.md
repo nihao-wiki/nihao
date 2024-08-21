@@ -8,7 +8,7 @@ reference:
     site: english.www.gov.cn
 ---
 
-# Exploring China: Guide to 144-Hour Visa-Free Transit
+# China's 144-hour Visa-Free Transit Guide
 
 ## Visa-Free
 
