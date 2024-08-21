@@ -1,4 +1,4 @@
-# Chongqing's Hidden Street Eats: Only a Local Knows
+# Chongqing's Hidden Street Eats
 
 ## Breakfast & "Five Greats"
 
