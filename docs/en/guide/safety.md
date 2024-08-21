@@ -1,4 +1,4 @@
-# Traveling Safely in China: Debunking Online Myths
+# Debunking Myths: China is Safe for Travel
 
 ## Health and Safety
 
