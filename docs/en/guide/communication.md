@@ -1,4 +1,4 @@
-# Communicating in China: Mobile Phone and Apps
+# Communicating in China: Mobile and Apps
 
 ## Stay Online
 
