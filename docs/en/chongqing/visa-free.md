@@ -5,7 +5,7 @@
 #    site: FlightsFrom.com
 ---
 
-# Chongqing Guide: Visa-Free & 144-Hour Transit
+# Visa-Free Transit Guide to Chongqing
 
 ## Visa-Free
 
