@@ -1,4 +1,4 @@
-# Communicating in China: Tips and Tools for Effective Interaction
+# Communicate in China: Tips and Tools for Effective Interaction
 
 ## Stay Online
 
