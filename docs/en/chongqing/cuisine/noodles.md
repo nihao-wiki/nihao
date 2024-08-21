@@ -1,4 +1,4 @@
-# Guide to Chongqing Noodles: Xiaomian & Hidden Treats
+# Savour Chongqing Noddles: Xiaomian & Hidden Treats
 
 ## Xiaomian
 

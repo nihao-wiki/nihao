@@ -1,4 +1,4 @@
-# Exploring Chongqing: 8D Terrain Cyberpunk Adventure
+# Explore Chongqing: 8D Terrain Cyberpunk Adventure
 
 ## Liziba
 
