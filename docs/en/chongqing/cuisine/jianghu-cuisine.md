@@ -1,4 +1,4 @@
-# Savor Má Là: Guide to Chongqing Jianghu Cuisine
+# Savor Má Là: Chongqing Jianghu Cuisine Guide
 
 <Chinese word="麻辣">
 <template #pinyin>má là</template>
