@@ -1,4 +1,4 @@
-# Dive Deep: Experiencing the Unique Ba-Yu Culture
+# Dive Deep: the Unique Ba-Yu Culture
 
 Chongqing historically was part of the ancient states of Ba and Shu. Ba-Yu culture combines elements from the ancient Ba people and various subsequent cultures, forming its own unique style. Chongqing is home to many significant historical sites, such as the Dazu Rock Carvings and Baidi City. Ancient poets and scholars have left behind numerous poems praising the natural scenery of the Ba-Yu region.
 

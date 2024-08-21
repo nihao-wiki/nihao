@@ -1,4 +1,4 @@
-# Savour Chongqing Noddles: Xiaomian & Hidden Treats
+# Chongqing Noddles: Xiaomian & Hidden Treats
 
 ## Xiaomian
 

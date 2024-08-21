@@ -1,4 +1,4 @@
-# Best Season to Visit China: How to Avoid Crowds
+# Best Season to Visit China: Avoid Crowds
 
 ## High Season
 
