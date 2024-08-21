@@ -1,4 +1,4 @@
-# Communicating in China: Tips and Tools
+# Communicating in China: Mobile Phone and Apps
 
 ## Stay Online
 
@@ -12,9 +12,9 @@ Mainland China does **NOT** currently support **eSIM** cards for smartphones.
 
 | Generation | Standard                                                                |
 | :--------- | :---------------------------------------------------------------------- |
+| 2G.        | GSM (China Unicom, China Mobile)<br/>CDMA (China Telecom)|
 | 3G         | WCDMA (China Unicom)<br/>CDMA2000 (China Telecom)<br/>TD-SCDMA (China Mobile) |
-| 4G         | TD-LTE                                                                  |
-| 5G         | NR (New Radio)                                                          |
+| 4G         | TD-LTE<br/>FDD-LTE (China Unicom, China Telecom)                                                                |
 
 Please check if your phone supports the above standards.
 
