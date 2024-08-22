@@ -10,20 +10,20 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
           link: 'visa',
         },
         {
-          text: 'Seasons',
+          text: 'Best Seasons',
           link: 'seasons',
         },
         {
-          text: 'Paying Ways',
+          text: 'Mobile Payment',
           link: 'paying',
-        },
-        {
-          text: 'Safety',
-          link: 'safety',
         },
         {
           text: 'Communication',
           link: 'communication',
+        },
+        {
+          text: 'Safety Tips',
+          link: 'safety',
         },
       ],
     },
