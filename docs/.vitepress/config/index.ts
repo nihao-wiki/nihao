@@ -28,7 +28,7 @@ export default defineConfig({
       'script',
       { id: 'register-sw' },
       `;(() => {
-        if ('serviceWorker' in navigator && location.hostname !== 'localhost') {
+        if ('serviceWorker' in navigator && location.protocol === 'https:') {
           navigator.serviceWorker.register('/sw.js')
         }
       })()`
