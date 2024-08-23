@@ -20,13 +20,11 @@ The Alipay home page will open, so now you will have to add your credit card: ac
 
 ### Scan & Pay
 
-The application is very intuitive and the first useful buttons will be **“Scan”** and **“Pay”**. The “Scan” button is for scanning QR codes: when paying at some stores and restaurants they’ll ask you to scan their QR code on your phone to then enter the amount to pay along with your password to enable payment.
+The application is very intuitive and the first useful buttons will be **“Scan”** and **“Pay”**.
 
-The “Pay” button, instead, will make a bar code appear on the display of your smartphone to show in restaurants and scanner-equipped stores for payment: it’s a little like at supermarkets, your bar code will be scanned and without even having to enter your password the money will be directly transferred from your account.
+The “Scan” button is for scanning QR codes: when paying at some stores and restaurants they’ll ask you to scan their QR code on your phone to then enter the amount to pay along with your password to enable payment.
 
-It’s incredible how everything happens with a simple “scan”, even at the market, here in China, they almost never use the dear old banknotes and the 1 CNY coins already seem like antique relics. But be careful because this method of payment can really cause you to lose track of the money you spend: each time I find it emotional to see that the payment went through without a problem!
-
-This app has many other interesting uses, for example, the “Collect” button will open a new QR code to show people who owe you money. You can specify the amount that they owe you by clicking on “Specify an Amount” before having them scan your code or letting them enter the amount they have to pay you back.
+The “Pay” button, instead, will make a bar code appear on the display of your smartphone to show in restaurants and scanner-equipped stores for payment.
 
 ## WeChat Pay
 
