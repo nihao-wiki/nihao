@@ -32,11 +32,11 @@ Chinese teenagers have all received English education. However, not everyone can
 
 The best translation software. However, Google's services have always had trouble working correctly on China's internet network.
 
-### Microsoft Translate
+#### Microsoft Translate
 
 Microsoft Translator is a translation service by Microsoft, offering real-time text and speech translation in a wide range of languages.
 
-### Baidu Translate
+#### Baidu Translate
 
 Baidu Translate is a language translation service developed by China's leading internet company, Baidu, providing instant text and speech translation into multiple languages.
 
