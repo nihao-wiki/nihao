@@ -28,6 +28,10 @@ Chinese teenagers have all received English education. However, not everyone can
 
 ### Translation
 
+#### Google Translate
+
+The best translation software. However, Google's services have always had trouble working correctly on China's internet network.
+
 ### Chinese Uber
 
 #### Amap
