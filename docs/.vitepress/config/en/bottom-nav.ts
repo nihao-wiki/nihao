@@ -19,11 +19,11 @@ export function bottomNav(): DefaultTheme.NavItem[] {
           link: '/guide/visa',
         },
         {
-          text: 'Paying Ways',
+          text: 'Mobile Payment',
           link: '/guide/paying',
         },
         {
-          text: 'Safety',
+          text: 'Safety Tips',
           link: '/guide/safety',
         },
         {
@@ -40,8 +40,12 @@ export function bottomNav(): DefaultTheme.NavItem[] {
           link: '/team',
         },
         {
-          text: 'Privacy',
+          text: 'Privacy Policy',
           link: '/privacy',
+        },
+        {
+          text: 'Contact Us',
+          link: '/contact',
         },
       ],
     },
