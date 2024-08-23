@@ -5,7 +5,15 @@ const { currency, currencies } = useCurrency();
 </script>
 
 <template>
-  <select v-model="currency">
+  <select class="select" v-model="currency">
     <option v-for="(c, name) in currencies" :value="name">{{ c.unit }} - {{ name }}</option>
   </select>
 </template>
+
+<style scoped>
+.select {
+  border: 1px solid var(--vp-c-text-3);
+  border-radius: 4px;
+  padding: 0 4px;
+}
+</style>
