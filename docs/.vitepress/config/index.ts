@@ -22,7 +22,7 @@ export default defineConfig({
   metaChunk: true,
   /* prettier-ignore */
   head: [
-    ['link', { rel: 'icon', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     [
       'script',
@@ -52,7 +52,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: { src: '/favicon.svg', width: 30, height: 30 },
+    logo: { src: '/logo.png', width: 24, height: 30 },
     outline: [2, 3],
     outlineTitle: '-',
     sidebar: sidebar(),
