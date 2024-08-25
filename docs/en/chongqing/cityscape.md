@@ -1,12 +1,41 @@
 # Chongqing's 8D Metropolis & Cyberpunk
 
-## Liziba
+## Liziba Light Rail Passing Through a Building 
+
+<Chinese word="李子坝">
+<template #pinyin>lǐ zǐ bà</template>
+Liziba
+</Chinese>
+
+The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
 
 ## Hongyadong
 
-## Cable Car
+<Chinese word="洪崖洞">
+<template #pinyin>hóng yá dòng</template>
+Hongyadong
+</Chinese>
+
+Hongya Cave, also known as Hongyadong, is a famous landmark and tourist attraction in Chongqing. It is a multi-level complex featuring traditional Sichuan-style architecture. The buildings are built into the side of a cliff, overlooking the Jialing River, and are illuminated at night, creating a spectacular sight.
+
+Hongyadong is particularly known for its distinctive architectural style and its lively atmosphere, especially during the evening when the lights come on. It has become a popular spot for tourists and locals alike to experience the unique culture and nightlife of Chongqing.
+
+Hongyadong Lighting Schedule:
+- Lighting Time: 8:00 PM to 10:00 PM
+- Best Viewing Time: After 7:00 PM in winter, after 8:00 PM in summer
+
+## Yangtze River Cable Car
+
+<Chinese word="长江索道">
+<template #pinyin>cháng jiāng suǒ dào</template>
+Yangtze River Cable Car
+</Chinese>
+
+The Yangtze River Cable Car is a cable car system that crosses the Yangtze River in Chongqing, China. It was originally designed and used as a means of public transportation in Chongqing, China. Over time, it has become a popular tourist attraction while still serving as a form of transit for locals.
 
 ## Sunset View
+
+Nanshan, also known as South Mountain, is a scenic area in the Nan'an District of Chongqing. It offers some of the best views of the city and is particularly known for its breathtaking night scenes. From the top of Nanshan, you can enjoy panoramic views of Chongqing, including its impressive skyline, the convergence of the Yangtze and Jialing rivers, and the city's many bridges and lights.
 
 <YouTube link="https://youtu.be/ek8eN4VxbjA?si=aB3YnHZYmWuVE7RT&t=960">
 <template #cover><img src="../assets/youtube/chongqing-chinas-mega-city-you-havent-heard-of.jpg" /></template>
@@ -17,9 +46,16 @@
 
 ## Night View
 
+The light show typically starts in the early evening and continues until around 10:00 PM. The exact start time may vary based on the season, with later start times in the summer due to later sunsets and earlier start times in the winter.
+
 ## Yangtze River Cruise
 
-<Speech>长江游轮</Speech>(Yangtze River cruise) in Chongqing that includes a night tour is a particularly scenic and memorable experience.
+<Chinese word="长江游轮">
+<template #pinyin>cháng jiāng yóu lún</template>
+Yangtze River cruise
+</Chinese>
+
+Yangtze River cruise in Chongqing that includes a night tour is a particularly scenic and memorable experience.
 
 <YouTube link="https://youtu.be/hCgd58A-tFU?si=j-uNzN0_0qhQfxFK&t=997">
 <template #cover><img src="../assets/youtube/inside-chinas-monster-city.jpg" /></template>

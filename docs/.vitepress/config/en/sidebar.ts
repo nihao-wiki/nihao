@@ -47,6 +47,7 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
         { text: 'Visa Free', link: 'visa-free' },
         { text: 'Impressions', link: 'impressions' },
         { text: '8D Cyberpunk', link: 'cityscape' },
+        { text: 'Panda, Zoo', link: 'panda' },
         { text: 'Culture', link: 'culture' },
         {
           text: 'Sensational Cuisine',
