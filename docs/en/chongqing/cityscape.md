@@ -1,4 +1,4 @@
-# Chongqing's 8D Metropolis & Cyberpunk
+# 8D Chongqing Cyberpunk One-Day Tour Route
 
 ## Liziba Light Rail Passing Through a Building 
 
@@ -9,20 +9,21 @@ Liziba
 
 The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
 
-## Hongyadong
+## Mountain City Trails
 
-<Chinese word="洪崖洞">
-<template #pinyin>hóng yá dòng</template>
-Hongyadong
+<Chinese word="山城步道">
+<template #pinyin>shān chéng bù dào</template>
+Mountain City Trails
 </Chinese>
 
-Hongya Cave, also known as Hongyadong, is a famous landmark and tourist attraction in Chongqing. It is a multi-level complex featuring traditional Sichuan-style architecture. The buildings are built into the side of a cliff, overlooking the Jialing River, and are illuminated at night, creating a spectacular sight.
+Mountain City Trails typically refer to pedestrian paths built in mountainous cities to facilitate travel for pedestrians. In China, Chongqing is a famous mountain city with many characteristic mountain city trails. These trails are not only a choice for daily commuting for locals but also popular attractions for tourists to experience the unique terrain and culture of Chongqing.
 
-Hongyadong is particularly known for its distinctive architectural style and its lively atmosphere, especially during the evening when the lights come on. It has become a popular spot for tourists and locals alike to experience the unique culture and nightlife of Chongqing.
-
-Hongyadong Lighting Schedule:
-- Lighting Time: 8:00 PM to 10:00 PM
-- Best Viewing Time: After 7:00 PM in winter, after 8:00 PM in summer
+<YouTube link="https://youtu.be/sr_3l726CV4?si=P5sIfQ89FDjY7jl5&t=407">
+<template #cover><img src="../assets/youtube/getting-lost-in-chongqing-china-vlog.jpg" /></template>
+<template #title>GETTING LOST IN CHONGQING! CHINA VLOG</template>
+<template #author>Ride with Gabi</template>
+<template #description>After walking ten minutes from the Lizi Dam monorail through the building, I was completely lost in Chongqing, following endless steps into a mysterious place.</template>
+</YouTube>
 
 ## Yangtze River Cable Car
 
@@ -47,6 +48,21 @@ Nanshan, also known as South Mountain, is a scenic area in the Nan'an District o
 ## Night View
 
 The light show typically starts in the early evening and continues until around 10:00 PM. The exact start time may vary based on the season, with later start times in the summer due to later sunsets and earlier start times in the winter.
+
+## Hongyadong
+
+<Chinese word="洪崖洞">
+<template #pinyin>hóng yá dòng</template>
+Hongyadong
+</Chinese>
+
+Hongya Cave, also known as Hongyadong, is a famous landmark and tourist attraction in Chongqing. It is a multi-level complex featuring traditional Sichuan-style architecture. The buildings are built into the side of a cliff, overlooking the Jialing River, and are illuminated at night, creating a spectacular sight.
+
+Hongyadong is particularly known for its distinctive architectural style and its lively atmosphere, especially during the evening when the lights come on. It has become a popular spot for tourists and locals alike to experience the unique culture and nightlife of Chongqing.
+
+Hongyadong Lighting Schedule:
+- Lighting Time: 8:00 PM to 10:00 PM
+- Best Viewing Time: After 7:00 PM in winter, after 8:00 PM in summer
 
 ## Yangtze River Cruise
 

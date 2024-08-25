@@ -13,7 +13,6 @@ Giant Pandas
 
 Chongqing Zoo currently has more than 20 giant pandas, making it one of the zoos with the largest number of giant pandas in the country.
 
-
 <YouTube link="https://youtu.be/ek8eN4VxbjA?si=5Z-5mYYauUDZOW4a&t=760">
 <template #cover><img src="../assets/youtube/chongqing-chinas-mega-city-you-havent-heard-of2.jpg" /></template>
 <template #title>Chongqing - CHINA'S MEGA CITY - YOU haven't heard of!</template>
