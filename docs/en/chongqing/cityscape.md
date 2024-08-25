@@ -1,14 +1,5 @@
 # Chongqing's 8D Metropolis & Cyberpunk
 
-## Liziba Light Rail Passing Through a Building 
-
-<Chinese word="李子坝">
-<template #pinyin>lǐ zǐ bà</template>
-Liziba
-</Chinese>
-
-The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
-
 ## Hongyadong
 
 <Chinese word="洪崖洞">
@@ -23,6 +14,31 @@ Hongyadong is particularly known for its distinctive architectural style and its
 Hongyadong Lighting Schedule:
 - Lighting Time: 8:00 PM to 10:00 PM
 - Best Viewing Time: After 7:00 PM in winter, after 8:00 PM in summer
+
+## Liziba Light Rail Passing Through a Building 
+
+<Chinese word="李子坝">
+<template #pinyin>lǐ zǐ bà</template>
+Liziba
+</Chinese>
+
+The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
+
+## Mountain City Trails
+
+<Chinese word="山城步道">
+<template #pinyin>shān chéng bù dào</template>
+Mountain City Trails
+</Chinese>
+
+Mountain City Trails typically refer to pedestrian paths built in mountainous cities to facilitate travel for pedestrians. In China, Chongqing is a famous mountain city with many characteristic mountain city trails. These trails are not only a choice for daily commuting for locals but also popular attractions for tourists to experience the unique terrain and culture of Chongqing.
+
+<YouTube link="https://youtu.be/sr_3l726CV4?si=P5sIfQ89FDjY7jl5&t=407">
+<template #cover><img src="../assets/youtube/getting-lost-in-chongqing-china-vlog.jpg" /></template>
+<template #title>GETTING LOST IN CHONGQING! CHINA VLOG</template>
+<template #author>Ride with Gabi</template>
+<template #description>After walking ten minutes from the Lizi Dam monorail through the building, I was completely lost in Chongqing, following endless steps into a mysterious place.</template>
+</YouTube>
 
 ## Yangtze River Cable Car
 
