@@ -46,9 +46,19 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'Visa Free', link: 'visa-free' },
         { text: 'Impressions', link: 'impressions' },
-        { text: '8D Cyberpunk', link: 'cityscape' },
-        { text: 'Panda, Zoo', link: 'panda' },
-        { text: 'Culture', link: 'culture' },
+        {
+          text: 'Essential Routes',
+          items: [
+            { text: '8D Cyberpunk', link: 'cityscape' },
+          ],
+        },
+        {
+          text: 'Optional Routes',
+          items: [
+            { text: 'Panda, Zoo', link: 'panda' },
+            { text: 'Culture', link: 'culture' },
+          ],
+        },
         {
           text: 'Sensational Cuisine',
           base: '/chongqing/cuisine/',
@@ -60,10 +70,7 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
             { text: 'Sichuan Cuisine', link: 'sichuan-cuisine' },
           ],
         },
-        {
-          text: 'Essential Routes',
-          link: 'routes',
-        },
+        
       ],
     },
   ];
