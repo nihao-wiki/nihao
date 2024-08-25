@@ -1,20 +1,5 @@
 # Chongqing's 8D Metropolis & Cyberpunk
 
-## Hongyadong
-
-<Chinese word="洪崖洞">
-<template #pinyin>hóng yá dòng</template>
-Hongyadong
-</Chinese>
-
-Hongya Cave, also known as Hongyadong, is a famous landmark and tourist attraction in Chongqing. It is a multi-level complex featuring traditional Sichuan-style architecture. The buildings are built into the side of a cliff, overlooking the Jialing River, and are illuminated at night, creating a spectacular sight.
-
-Hongyadong is particularly known for its distinctive architectural style and its lively atmosphere, especially during the evening when the lights come on. It has become a popular spot for tourists and locals alike to experience the unique culture and nightlife of Chongqing.
-
-Hongyadong Lighting Schedule:
-- Lighting Time: 8:00 PM to 10:00 PM
-- Best Viewing Time: After 7:00 PM in winter, after 8:00 PM in summer
-
 ## Liziba Light Rail Passing Through a Building 
 
 <Chinese word="李子坝">
@@ -63,6 +48,21 @@ Nanshan, also known as South Mountain, is a scenic area in the Nan'an District o
 ## Night View
 
 The light show typically starts in the early evening and continues until around 10:00 PM. The exact start time may vary based on the season, with later start times in the summer due to later sunsets and earlier start times in the winter.
+
+## Hongyadong
+
+<Chinese word="洪崖洞">
+<template #pinyin>hóng yá dòng</template>
+Hongyadong
+</Chinese>
+
+Hongya Cave, also known as Hongyadong, is a famous landmark and tourist attraction in Chongqing. It is a multi-level complex featuring traditional Sichuan-style architecture. The buildings are built into the side of a cliff, overlooking the Jialing River, and are illuminated at night, creating a spectacular sight.
+
+Hongyadong is particularly known for its distinctive architectural style and its lively atmosphere, especially during the evening when the lights come on. It has become a popular spot for tourists and locals alike to experience the unique culture and nightlife of Chongqing.
+
+Hongyadong Lighting Schedule:
+- Lighting Time: 8:00 PM to 10:00 PM
+- Best Viewing Time: After 7:00 PM in winter, after 8:00 PM in summer
 
 ## Yangtze River Cruise
 
