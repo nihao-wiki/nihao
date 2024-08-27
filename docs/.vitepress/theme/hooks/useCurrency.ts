@@ -1,6 +1,6 @@
 import { ref, computed, watch, onMounted } from 'vue';
 
-const currencies = {
+export const currencies = {
   CNY: {
    ratio: 1,
    unit: '¥',
@@ -16,6 +16,18 @@ const currencies = {
   GPB: {
     ratio: 0.1078,
     unit: '£',
+  },
+  JPY: {
+    ratio: 20.2469,
+    unit: '¥',
+  },
+  KRW: {
+    ratio: 187.02,
+    unit: '₩',
+  },
+  THB: {
+    ratio: 4.7848,
+    unit: '฿',
   },
 };
 
