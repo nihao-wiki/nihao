@@ -71,13 +71,6 @@ Some basic food items in China, such as rice, noodles, and cooking oil, typicall
 
 Here are some price references for Chongqing: Cola 500ml for <CNY>3.5</CNY>, Mineral Water 5L for <CNY>8.5</CNY>, Beef 500g for <CNY>75</CNY> and Tomato 500g for <CNY>1.5</CNY>.
 
-<YouTube link="https://youtu.be/grWAN8GEJ-I?si=-9PqXF4IWr59AoU9">
-<template #cover><img src="../assets/youtube/full-supermarket-tour-in-china-ks.jpg" /></template>
-<template #title>CHINA: Supermarket Tour 2024 (SHOCKING PRICES) </template>
-<template #author>KSquared</template>
-<template #description>I went to a supermarket in Chongqing, China. I was shocked to see how affordable many of the items were.</template>
-</YouTube>
-
 <YouTube link="https://youtu.be/6-5wmhpnT_k?si=EWA77ir71zaZr9sI">
 <template #cover><img src="../assets/youtube/full-supermarket-tour-in-china.jpg" /></template>
 <template #title>Full Supermarket Tour in China (Shocking Prices)</template>

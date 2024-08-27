@@ -25,6 +25,10 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
           text: 'Safety Tips',
           link: 'safety',
         },
+        {
+          text: 'Exchange & Expenses',
+          link: 'currency',
+        },
       ],
     },
     {
