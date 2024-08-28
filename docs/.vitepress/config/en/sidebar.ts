@@ -29,6 +29,10 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
           text: 'Exchange & Expenses',
           link: 'currency',
         },
+        {
+          text: 'Say "Nihao"',
+          link: 'hello',
+        },
       ],
     },
     {
