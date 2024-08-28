@@ -5,4 +5,4 @@
 ## **Please**: 请 *Qǐng*
 ## **Yes**: 是的 *Shì de*
 ## **No**: 不是 *Bù shì*
-## **How much does it cost?**: 多少钱？*Duō shǎo qián?*
+## **How much?**: 多少钱？*Duō shǎo qián?*
