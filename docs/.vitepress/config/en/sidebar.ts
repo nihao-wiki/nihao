@@ -64,7 +64,8 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
           text: 'Optional Routes',
           items: [
             { text: 'Panda, Zoo', link: 'panda' },
-            { text: 'Culture', link: 'culture' },
+            { text: 'Religious & Cultural', link: 'culture' },
+            { text: 'The Three Gorges', link: 'three-gorges' },
           ],
         },
         {

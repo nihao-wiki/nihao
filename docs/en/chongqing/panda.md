@@ -19,9 +19,3 @@ Chongqing Zoo currently has more than 20 giant pandas, making it one of the zoos
 <template #author>Joel Friend</template>
 <template #description>We went to the zoo in this city and saw the national treasure animal of the country — the panda.</template>
 </YouTube>
-
-### Red Pandas
-
-### South China Tigers
-
-### Asian Elephants

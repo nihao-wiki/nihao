@@ -128,7 +128,7 @@ If you choose spicy broth, you'll be asked is how spicy you'd prefer.
 <template #description>PPPeter is taking on various levels of spicy hotpot, including the insanely spicy, and he's not using any oil dip. Can PPPeter survive?</template>
 </YouTube>
 
-::: info Local Tips
+::: info LOCAL TIPS
 Don't put freshly cooked ingredients straight into your mouth; use a dip.
 :::
 
@@ -363,7 +363,7 @@ Some ingredients, such as luncheon meat, shrimp dumplings, and sausages, do not 
   </tbody>
 </table>
 
-::: info Local Tip
+::: info LOCAL TIPS
 Cold pot duck blood needs to be placed in the pot before lighting the fire; this is the difference between cold pot duck blood and regular duck blood. Make sure you inform the server that you want cold pot duck blood when ordering.
 :::
 
@@ -495,7 +495,7 @@ It's common for the spiciness to increase as you eat more in a hotpot, especiall
 
 Desserts should be consumed during the meal, and having drinks and desserts can help alleviate the spiciness.
 
-::: info Local Tips
+::: info LOCAL TIPS
 As the hotpot gets spicier with each serving, you can add '<Speech>陈醋</Speech>(aged vinegar)' to your oil dip at opportune moments to further ease the spiciness. Vinegar also has the effect of protecting your digestive system.
 :::
 
