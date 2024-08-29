@@ -86,6 +86,13 @@ Ice Rice Flour Jelly
 Fried Rice Flour Triangle
 </Chinese>
 
+<YouTube link="https://youtu.be/SXRvH0SRKlk?si=_QBQVI7tig3BBS6n&t=623">
+<template #cover><img src="../../assets/youtube/insane-street-food-in-chongqing.jpg" /></template>
+<template #title>INSANE Street Food in Chongqing, CHINA (2024)</template>
+<template #author>KSquared</template>
+<template #description>The snacks at the night market in downtown Chongqing are beyond description—so delicious and tempting that it's 'too dangerous' to stop eating.</template>
+</YouTube>
+
 ## Clay oven rolls
 
 <Chinese word="烧饼">

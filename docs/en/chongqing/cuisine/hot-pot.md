@@ -222,6 +222,13 @@ Here are some popular ingredients that are essential to the Chongqing hotpot exp
 <div><img alt="ice jelly" src="../assets/bingfen.jpg" /></div>
 </Flex>
 
+<YouTube link="https://youtu.be/UC_3bzHe484?si=1IDBo_5pR_Lt7HDR&t=564">
+<template #cover><img src="../../assets/youtube/crazy-nightlife-in-chongqing-left-me-speechless.jpg" /></template>
+<template #title>CRAZY NIGHTLIFE in Chongqing Left Me SPEECHLESS!</template>
+<template #author>Emeka Iwueze</template>
+<template #description>I explored Chongqing at night with my new friend. We visited Hongyadong, also known as Hongya Cave. It's especially beautiful at night when illuminated by lights. Afterwards, we went for some local sweets.</template>
+</YouTube>
+
 <table>
   <thead>
     <tr>
