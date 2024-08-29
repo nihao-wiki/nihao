@@ -9,6 +9,12 @@ Liziba
 
 The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
 
+::: info LOCAL TIPS
+You can walk to Kuixinglou (the internet-famous attraction that appears to be on the 1st floor but is actually on the 28th floor) for a visit, and then take Line 2 of the monorail from the nearby Linjiangmen Station to reach Liziba Station.
+:::
+
+<Map height="40vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.573579,29.559729,Kuixinglou" points="106.530586,29.550659,Liziba Monorail Piercing Building"></Map>
+
 ## Mountain City Trails
 
 <Chinese word="山城步道">
@@ -17,6 +23,10 @@ Mountain City Trails
 </Chinese>
 
 Mountain City Trails typically refer to pedestrian paths built in mountainous cities to facilitate travel for pedestrians. In China, Chongqing is a famous mountain city with many characteristic mountain city trails. These trails are not only a choice for daily commuting for locals but also popular attractions for tourists to experience the unique terrain and culture of Chongqing.
+
+::: info LOCAL TIPS
+Chongqing has many hidden pedestrian paths that you can choose from based on your itinerary; however, please pay attention to safety and don't get lost.
+:::
 
 <YouTube link="https://youtu.be/sr_3l726CV4?si=P5sIfQ89FDjY7jl5&t=407">
 <template #cover><img src="../assets/youtube/getting-lost-in-chongqing-china-vlog.jpg" /></template>
@@ -45,6 +55,14 @@ Nanshan, also known as South Mountain, is a scenic area in the Nan'an District o
 <template #description>Away from the hustle and bustle of 32 million people, We found a hidden trail leading to a sky forest bar where We could watch the city sunset; We found the magic spot.</template>
 </YouTube>
 
+### Nanshan Hiking Trail
+
+In addition to taking a vehicle up Nanshan, you can also choose to hike up the mountain using one of several hidden hiking trails available.
+
+::: info LOCAL TIPS
+If you choose to hike up the mountain to watch the sunset, please bring a flashlight as there may not be street lamps along the trail, and be sure to pay attention to your safety.
+:::
+
 ## Night View
 
 The light show typically starts in the early evening and continues until around 10:00 PM. The exact start time may vary based on the season, with later start times in the summer due to later sunsets and earlier start times in the winter.
@@ -63,6 +81,12 @@ Hongyadong is particularly known for its distinctive architectural style and its
 Hongyadong Lighting Schedule:
 - Lighting Time: 8:00 PM to 10:00 PM
 - Best Viewing Time: After 7:00 PM in winter, after 8:00 PM in summer
+
+::: info LOCAL TIPS
+You can take the Monorail Line 1 from Xiaoshizi Station and get off at the Grand Theatre Station. There, you'll not only be able to photograph Hongya Cave but also capture the beautiful night views of Chongqing's cityscape. Before that, you can walk back to the Hongya Cave side via the Qiansimen Bridge.
+:::
+
+<Map height="40vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.583646,29.560043,Xiaoshizi" points="106.578953,29.562165,Hongyadong|106.57697,29.569542,Grand Theatre Station"></Map>
 
 ## Yangtze River Cruise
 

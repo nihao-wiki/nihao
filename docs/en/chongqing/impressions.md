@@ -53,7 +53,7 @@ Payments via Alipay, WeChat, and cash will be accepted.
 <template #description>It took only five minutes to fill out the entry forms, and I couldn't wait to jump into a yellow taxi. The driver didn't need GPS, navigating through places that felt like underground parking lots...</template>
 </YouTube>
 
-::: info Local Tips
+::: info LOCAL TIPS
 Do not trust those "overly enthusiastic" unlicensed taxi drivers; find a yellow taxi; always by meter.
 :::
 
