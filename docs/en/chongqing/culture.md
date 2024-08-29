@@ -26,3 +26,23 @@ The Dazu Rock Carvings
 </Chinese>
 
 The Dazu Rock Carvings are a series of Buddhist cave temples and carvings located in Dazu District, Chongqing, China. These rock carvings are renowned for their exceptional artistry and the diversity of their religious subjects, which include not only Buddhism but also Taoism and Confucianism. The carvings span several centuries, from the late Tang Dynasty through the Song Dynasty (650–1250 AD).
+
+These rock carvings not only number in great quantity but also cover a wide range of subjects and contain rich content, encompassing elements from Buddhism, Taoism, Confucianism, and more. They hold significant artistic and historical value. If you plan to visit the Dazu Rock Carvings, it's recommended to allocate sufficient time to appreciate these precious cultural treasures.
+
+::: info LOCAL TIPS
+Traveling by high-speed train to Dazu takes around half an hour, but it requires an additional one-hour drive from Dazu Railway Station to the rock carvings. The round-trip travel costs are approximately <CNY>300</CNY>. It is recommended to allow ample time for your visit.
+:::
+
+<Map height="40vh" points="105.789404,29.746896,Baoding Mountain Rock Carvings|105.709792,29.713152,Beishan Rock Carvings|105.719822,29.683812,Nanshan Rock Carvings"></Map>
+
+### Baoding Mountain Rock Carvings
+
+Baoding Mountain is considered the highlight of the Dazu Rock Carvings, featuring grand scale, exquisite carving, and rich content.
+
+### Beishan Rock Carvings
+
+Beishan Rock Carvings are known for their continuity and systematic nature, reflecting changes and developments in Buddhist sculpture during the Tang and Song dynasties.
+
+### Nanshan Rock Carvings
+
+Nanshan Rock Carvings primarily feature Taoist sculptures, which are an important part of Chinese Taoist rock art.
