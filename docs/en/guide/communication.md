@@ -12,7 +12,7 @@ Mainland China does **NOT** currently support **eSIM** cards for smartphones.
 
 | Generation | Standard                                                                |
 | :--------- | :---------------------------------------------------------------------- |
-| 2G.        | GSM (China Unicom, China Mobile)<br/>CDMA (China Telecom)|
+| 2G         | GSM (China Unicom, China Mobile)<br/>CDMA (China Telecom)|
 | 3G         | WCDMA (China Unicom)<br/>CDMA2000 (China Telecom)<br/>TD-SCDMA (China Mobile) |
 | 4G         | TD-LTE<br/>FDD-LTE (China Unicom, China Telecom)                                                                |
 
