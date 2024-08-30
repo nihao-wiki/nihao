@@ -1,7 +1,7 @@
 <script setup>
 import { data as last } from '../data/lastUpdate.data';
 
-const title = last.src?.split?.('#')?.[1];
+const title = last.src?.split?.(/[#\n]/)?.[1];
 const route = last.url?.split?.('/')?.slice?.(2)?.join?.('/');
 </script>
 
