@@ -39,6 +39,26 @@ Traveling by high-speed train to Dazu takes around half an hour, but it requires
 
 Baoding Mountain is considered the highlight of the Dazu Rock Carvings, featuring grand scale, exquisite carving, and rich content.
 
+#### Dafobay
+
+The cliff face at Dafobay is about 500 meters long and ranges from 8 to 25 meters in height. The sculptures are carved into the east, south, and north cliff walls. They include images of protective deities, the Wheel of Transmigration, the Vast Treasure Pavilion, the Three Saints of Huayan, the Thousand-Armed Guanyin, and the Holy Scene of the Nirvana of Śākyamuni, among others. All the sculptures are richly detailed, with no niche repeated.
+
+##### The Thousand-Armed Guanyin
+
+The Thousand-Armed Guanyin is a very famous and precious Buddhist rock-carving art work in the Dazu Rock Carvings. Located at the Dafowan site on Mount Baoding, the niche stands 7.2 meters high and 12.5 meters wide, covering a total area of 88 square meters. It is the largest extant rock carving that integrates sculpture, gilding, and polychromy. The Thousand-Armed Guanyin was carved during the Southern Song Dynasty, from the Chunxi period to the end of the Southern Song (approximately 1174 to 1252 AD). The arms of the Thousand-Armed Guanyin extend layer by layer from the cliff face, each in a different posture; some fingers are stretched out flat, while others hold religious implements delicately, creating a vivid and lifelike form.
+
+##### The Wheel of Transmigration (Six Realms)
+
+The Wheel of Transmigration (Six Realms) is an important piece in the Dazu Rock Carvings. This work depicts the Buddhist concept of the Six Realms of Existence, which includes the realms of Heaven, Asuras, Humans, Animals, Hungry Ghosts, and Hell. The Wheel of Transmigration illustrates through intricate carvings the process by which beings cycle through these different states of existence based on their karma.
+
+The specific construction period of the Wheel of Transmigration can be traced back to the Chunxi era of the Southern Song Dynasty until the end of the Southern Song, approximately between 1174 and 1252 AD.
+
+##### The Nirvana Trace of the Buddha
+
+The Nirvana Trace of the Buddha is an important work among the Dazu Rock Carvings. This carving depicts the scene of the Buddha's Parinirvana, which is the passing away of the historical Buddha, Siddhartha Gautama, in Buddhist tradition. In this carving, the Buddha is depicted in a reclining position, symbolizing his liberation from physical death and entry into final Nirvana, or complete release from the cycle of birth and death.
+
+The specific construction period of the Nirvana Trace of the Buddha can be traced back to the Chunxi era to the end of the Southern Song Dynasty, approximately between 1174 and 1252 AD.
+
 ### Beishan Rock Carvings
 
 Beishan Rock Carvings are known for their continuity and systematic nature, reflecting changes and developments in Buddhist sculpture during the Tang and Song dynasties.
