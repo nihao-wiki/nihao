@@ -16,7 +16,7 @@ const route = last.url?.split?.('/')?.slice?.(2)?.join?.('/');
 .container {
   padding: 0 48px 48px 48px;
   text-align: center;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .label {
@@ -24,7 +24,7 @@ const route = last.url?.split?.('/')?.slice?.(2)?.join?.('/');
   padding: 6px 12px;
   margin-right: 8px;
   border-radius: 8px;
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 600;
   user-select: none;
 }
