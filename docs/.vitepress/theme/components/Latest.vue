@@ -7,16 +7,17 @@ const route = last.url?.split?.('/')?.slice?.(2)?.join?.('/');
 
 <template>
   <div class="container">
-    <span class="label">Latest Update</span>
+    <span class="label">UPDATE</span>
     <a v-if="title && route" :href="route">{{ title }}</a>
   </div>
 </template>
 
 <style scoped>
 .container {
-  padding: 0 48px 48px 48px;
+  padding: 0 24px 24px 24px;
   text-align: center;
-  font-size: 14px;
+  font-size: 12px;
+  font-weight: 600;
 }
 
 .label {
@@ -24,8 +25,8 @@ const route = last.url?.split?.('/')?.slice?.(2)?.join?.('/');
   padding: 6px 12px;
   margin-right: 8px;
   border-radius: 8px;
-  font-size: 11px;
-  font-weight: 600;
+  font-size: 10px;
+  font-weight: 800;
   user-select: none;
 }
 </style>
