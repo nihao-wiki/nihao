@@ -33,7 +33,7 @@ These rock carvings not only number in great quantity but also cover a wide rang
 Traveling by high-speed train to Dazu takes around half an hour, but it requires an additional one-hour drive from Dazu Railway Station to the rock carvings. The round-trip travel costs are approximately <CNY>300</CNY>. It is recommended to allow ample time for your visit.
 :::
 
-<Map height="40vh" points="105.789404,29.746896,Baoding Mountain Rock Carvings|105.709792,29.713152,Beishan Rock Carvings|105.719822,29.683812,Nanshan Rock Carvings"></Map>
+<Map height="30vh" points="105.789404,29.746896,Baoding Mountain Rock Carvings|105.709792,29.713152,Beishan Rock Carvings|105.719822,29.683812,Nanshan Rock Carvings"></Map>
 
 ### Baoding Mountain Rock Carvings
 

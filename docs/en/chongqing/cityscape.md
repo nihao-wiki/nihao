@@ -13,7 +13,7 @@ The Liziba Light Rail passing through a building is a unique urban feature in Ch
 You can walk to Kuixinglou (the internet-famous attraction that appears to be on the 1st floor but is actually on the 28th floor) for a visit, and then take Line 2 of the monorail from the nearby Linjiangmen Station to reach Liziba Station.
 :::
 
-<Map height="40vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.573579,29.559729,Kuixinglou" points="106.530586,29.550659,Liziba Monorail Piercing Building"></Map>
+<Map height="30vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.573579,29.559729,Kuixinglou" points="106.530586,29.550659,Liziba Monorail Piercing Building"></Map>
 
 ## Mountain City Trails
 
@@ -86,7 +86,7 @@ Hongyadong Lighting Schedule:
 You can take the Monorail Line 1 from Xiaoshizi Station and get off at the Grand Theatre Station. There, you'll not only be able to photograph Hongya Cave but also capture the beautiful night views of Chongqing's cityscape. Before that, you can walk back to the Hongya Cave side via the Qiansimen Bridge.
 :::
 
-<Map height="40vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.583646,29.560043,Xiaoshizi" points="106.578953,29.562165,Hongyadong|106.57697,29.569542,Grand Theatre Station"></Map>
+<Map height="30vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.583646,29.560043,Xiaoshizi" points="106.578953,29.562165,Hongyadong|106.57697,29.569542,Grand Theatre Station"></Map>
 
 ## Yangtze River Cruise
 
