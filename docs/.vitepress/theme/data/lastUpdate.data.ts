@@ -38,8 +38,6 @@ export default createContentLoader('en/**/*.md', {
       if (!lastUpdatePage || timestamp > lastUpdatePage.timestamp) {
         lastUpdatePage = {
           timestamp,
-          // title,
-          // route,
           ...page
         }
       }
