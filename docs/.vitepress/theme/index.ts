@@ -13,6 +13,7 @@ import Ads from './components/Ads.vue';
 import Chinese from './components/Chinese.vue';
 import CNY from './components/CNY.vue';
 import Currency from './components/Currency.vue';
+import Latest from './components/Latest.vue';
 import './styles/index.css';
 
 export default {
@@ -31,6 +32,7 @@ export default {
   Layout() {
     return h(defaultTheme.Layout, null, {
       'home-hero-image': () => h(HomeHeroImage),
+      'home-hero-after': () => h(Latest),
       'doc-footer-before': () => h(References),
       'aside-ads-before': () => h(Ads),
     });

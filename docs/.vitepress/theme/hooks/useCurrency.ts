@@ -45,7 +45,6 @@ export default function useCurrency(amountInCNY = 0) {
   });
 
   onMounted(() => {
-    console.log('onMounted');
     const value = localStorage.getItem('currency');
     if (value) currency.value = value;
   });
