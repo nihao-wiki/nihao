@@ -115,10 +115,10 @@ const loadVideo = () => {
 }
 .play {
   position: absolute;
-  bottom: 50%;
-  left: 0;
+  bottom: 32px;
+  right: 16px;
   width: 100%;
-  text-align: center;
+  text-align: right;
   opacity: 0.4;
   transform: translateY(50%);
 }

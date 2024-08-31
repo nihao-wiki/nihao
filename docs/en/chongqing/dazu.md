@@ -16,6 +16,13 @@ In 1999, the Dazu Rock Carvings were inscribed on the UNESCO World Heritage List
 Traveling by high-speed train to Dazu takes around half an hour, but it requires an additional one-hour drive from Dazu Railway Station to the rock carvings. The round-trip travel costs are approximately <CNY>300</CNY>. If you plan to visit, it's recommended to allocate sufficient time to appreciate these precious cultural treasures.
 :::
 
+<YouTube link="https://youtu.be/Elwv7_oyPZ0?si=3_Qs7WG90Jr8KZ7x">
+<template #cover><img src="../assets/youtube/the-amazing-dazu-rock-carvings.jpg" /></template>
+<template #title>The AMAZING DAZU Rock Carvings - CHONGQING</template>
+<template #author>Nick in China</template>
+<template #description>This UNESCO World Heritage Site needs to be seen to be believed. With the oldest carvings dating from the Tang Dynasty in the 800's and the majority from the Southern Song dynasty in the 1100's there is some real history here.</template>
+</YouTube>
+
 ### Baoding Mountain Rock Carvings
 
 Baoding Mountain is considered the highlight of the Dazu Rock Carvings, featuring grand scale, exquisite carving, and rich content. The most famous part is Dafo Bay.
