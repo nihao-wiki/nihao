@@ -1,4 +1,4 @@
-# Panda Tales: Exploring Chongqing Zoo
+# Explore Chongqing Zoo: A Panda Encounter
 
 ## Chongqing Zoo
 
@@ -19,3 +19,7 @@ Chongqing Zoo currently has more than 20 giant pandas, making it one of the zoos
 <template #author>Joel Friend</template>
 <template #description>We went to the zoo in this city and saw the national treasure animal of the country — the panda.</template>
 </YouTube>
+
+::: info LOCAL TIPS
+You can take Line 2 of the monorail, the same line that goes through the Liziba station building, and it will take you directly to the zoo station.
+:::

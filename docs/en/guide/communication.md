@@ -1,4 +1,4 @@
-# Communication in China: Mobile and Apps
+# Connect in China: Essential Apps & Mobile Internet
 
 ## Stay Online
 

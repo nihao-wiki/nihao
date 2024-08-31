@@ -26,7 +26,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
           link: 'safety',
         },
         {
-          text: 'Exchange & Expenses',
+          text: 'Expenses',
           link: 'currency',
         },
         {
@@ -57,15 +57,16 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
         {
           text: 'Essential Routes',
           items: [
-            { text: '8D Cyberpunk', link: 'cityscape' },
+            { text: 'One Day Urban Tour', link: 'cityscape' },
           ],
         },
         {
           text: 'Optional Routes',
           items: [
             { text: 'Panda, Zoo', link: 'panda' },
-            { text: 'Religious & Cultural', link: 'culture' },
-            { text: 'The Three Gorges', link: 'three-gorges' },
+            { text: 'Cultural Journey', link: 'culture' },
+            { text: 'Dazu Rock Carvings', link: 'dazu' },
+            { text: 'Three Gorges', link: 'three-gorges' },
           ],
         },
         {
