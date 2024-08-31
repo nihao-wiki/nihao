@@ -12,12 +12,12 @@ export function nav(): DefaultTheme.NavItem[] {
       link: '/chongqing/visa-free',
       activeMatch: '/chongqing/',
     },
-    {
-      component: 'NavReddit',
-      props: {
-        text: 'Community',
-        link: 'https://www.reddit.com/r/nihaowiki/',
-      },
-    },
+    // {
+    //   component: 'NavReddit',
+    //   props: {
+    //     text: 'Community',
+    //     link: 'https://www.reddit.com/r/nihaowiki/',
+    //   },
+    // },
   ];
 }

@@ -1,4 +1,4 @@
-# Chongqing's Hidden Street Eats
+# Discover Chongqing's Hidden Street Eats
 
 ## Breakfast & "Five Greats"
 

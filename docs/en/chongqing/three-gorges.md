@@ -1,4 +1,4 @@
-# Explore White Emperor City and the Three Gorges
+# Explore Three Gorges: Unveiling Ancient Culture
 
 ## White Emperor City
 

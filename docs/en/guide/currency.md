@@ -1,4 +1,4 @@
-#  Exchange Rate & Expenses in China
+# Exchange Rates & Not-Expensive Expenses in China
 
 ## Exchange Rate
 
