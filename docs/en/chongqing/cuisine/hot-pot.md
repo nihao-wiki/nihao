@@ -167,11 +167,6 @@ In most of hotpot restaurant, the oil dip is typically self-service. This might 
 <dd style="margin:0;">Spiciness<sup>1</sup>: The influence of the oil dip on the spiciness of the red broth.</dd>
 </dl>
 
-<Flex>
-<div><img alt="garlic chili oil dip" src="../assets/youdie1.jpg" /></div>
-<div><img alt="dry chili dip" src="../assets/youdie2.jpg" /></div>
-</Flex>
-
 #### Garlic Chili Oil Dip
 
 The classic dipping sauce in Chongqing hotpot culture, which includes **sesame oil** and **garlic**, can be referred to as "<Speech>香油蒜泥油碟</Speech>(Garlic Chili Oil Dip)". It plays several key roles, notably in:
@@ -216,11 +211,6 @@ Here are some popular ingredients that are essential to the Chongqing hotpot exp
     </tr>
   </tbody>
 </table>
-
-<Flex>
-<div><img alt="ice tofu pudding" src="../assets/bingtangyuan.jpg" /></div>
-<div><img alt="ice jelly" src="../assets/bingfen.jpg" /></div>
-</Flex>
 
 <YouTube link="https://youtu.be/UC_3bzHe484?si=1IDBo_5pR_Lt7HDR&t=564">
 <template #cover><img src="../../assets/youtube/crazy-nightlife-in-chongqing-left-me-speechless.jpg" /></template>
