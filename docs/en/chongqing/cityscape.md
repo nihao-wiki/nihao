@@ -63,10 +63,6 @@ In addition to taking a vehicle up Nanshan, you can also choose to hike up the m
 If you choose to hike up the mountain to watch the sunset, please bring a flashlight as there may not be street lamps along the trail, and be sure to pay attention to your safety.
 :::
 
-## Night View
-
-The light show typically starts in the early evening and continues until around 10:00 PM. The exact start time may vary based on the season, with later start times in the summer due to later sunsets and earlier start times in the winter.
-
 ## Hongyadong
 
 <Chinese word="洪崖洞">
@@ -88,14 +84,14 @@ You can take the Monorail Line 1 from Xiaoshizi Station and get off at the Grand
 
 <Map height="30vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.583646,29.560043,Xiaoshizi" points="106.578953,29.562165,Hongyadong|106.57697,29.569542,Grand Theatre Station"></Map>
 
-## Yangtze River Cruise
+## The Two Rivers Tour
 
-<Chinese word="长江游轮">
-<template #pinyin>cháng jiāng yóu lún</template>
-Yangtze River cruise
+<Chinese word="两江游">
+<template #pinyin>liǎng jiāng yóu</template>
+The Two Rivers Tour
 </Chinese>
 
-Yangtze River cruise in Chongqing that includes a night tour is a particularly scenic and memorable experience.
+The Two Rivers Tour usually passes by some famous landmarks, such as Chaotianmen, Hongyadong, and Nanbin Road. The night tour of the two rivers is particularly charming because when night falls, the lights on both banks shine brilliantly, presenting another kind of beauty to the entire city.
 
 <YouTube link="https://youtu.be/hCgd58A-tFU?si=j-uNzN0_0qhQfxFK&t=997">
 <template #cover><img src="../assets/youtube/inside-chinas-monster-city.jpg" /></template>

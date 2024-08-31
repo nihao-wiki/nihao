@@ -90,7 +90,9 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
   </tbody>
 </table> -->
 
-### Specific Destination
+### Transit Destination
+
+#### 144 Hours Visa-Free
 
 <table>
   <thead>
@@ -101,9 +103,10 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
     </tr>
   </thead>
   <tbody>
-    <!-- <tr>
+    <tr>
       <td>Beijing Capital<br/>International Airport</td>
-      <td rowspan="7">Beijing Municipality, Tianjin Municipality and Hebei Province</td>
+      <td rowspan="7">Beijing Municipality<br/>Tianjin Municipality<br/>Hebei Province</td>
+      <td rowspan="3"><!--<a href="/beijing/visa-free/">Beijing Guide</a>--></td>
     </tr>
     <tr>
       <td>Beijing Daxing<br/>International Airport</td>
@@ -113,20 +116,103 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
     </tr>
     <tr>
       <td>Tianjin Binhai<br/>International Airport</td>
+      <td rowspan="2"></td>
     </tr>
     <tr>
       <td>Tianjin International Cruise Home Port</td>
     </tr>
     <tr>
       <td>Shijiazhuang Zhengding<br/>International Airport</td>
+      <td rowspan="2"></td>
     </tr>
     <tr>
       <td>Port of Qinhuangdao</td>
-    </tr> -->
+    </tr>
+    <tr>
+      <td>Shanghai Hongqiao<br/>International Airport</td>
+      <td rowspan="10">Shanghai Municipality<br/>Jiangsu Province<br/>Zhejiang Province</td>
+      <td rowspan="4"><!--<a href="/shanghai/visa-free/">Shanghai Guide</a>--></td>
+    </tr>
+    <tr><td>Shanghai Pudong<br/>International Airport</td></tr>
+    <tr><td>Port of Shanghai</td></tr>
+    <tr><td>Exit-Entry Port of Shanghai<br/>Railway Station</td></tr>
+    <tr>
+      <td>Nanjing Lukou<br/>International Airport</td>
+      <td><!--<a href="/nanjing/visa-free/">Nanjing Guide</a>--></td>
+    </tr>
+    <tr>
+      <td>Lianyungang Port</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hangzhou Xiaoshan<br/>International Airport</td>
+      <td><!--<a href="/hangzhou/visa-free/">Hangzhou Guide</a>--></td>
+    </tr>
+    <tr>
+      <td>Ningbo Lishe<br/>International Airport</td>
+      <td rowspan="3"></td>
+    </tr>
+    <tr><td>Wenzhou Port</td></tr>
+    <tr><td>Zhoushan Port</td></tr>
+    <tr>
+      <td>Guangzhou Baiyun<br/>International Airport</td>
+      <td rowspan="5">Guangdong Province</td>
+      <td rowspan="2"><!--<a href="/guangzhou/visa-free/">Guangzhou Guide</a>--></td>
+    </tr>
+    <tr><td>Nansha Port</td></tr>
+    <tr>
+      <td>Shenzhen Bao'an<br/>International Airport</td>
+      <td rowspan="2"><!--<a href="/shenzhen/visa-free/">Shenzhen Guide</a>--></td>
+    </tr>
+    <tr><td>Shekou Port</td></tr>
+    <tr>
+      <td>Jieyang Chaoshan<br/>International Airport</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chengdu Shuangliu<br/>International Airport</td>
+      <td>Chengdu<br/>Leshan<br/>Deyang<br/>Suining<br/>Meishan<br/>Ya'an<br/>Ziyang<br/>Neijiang<br/>Zigong<br/>Luzhou<br/>Yibin</td>
+      <td><!--<a href="/chengdu/visa-free/">Chengdu Guide</a>--></td>
+    </tr>
     <tr>
       <td>Chongqing Jiangbei<br/>International Airport</td>
       <td>Chongqing Municipality</td>
-      <td><a href="/chongqing/visa-free/">Chongqing Visa-Free Guide</a></td>
+      <td><a href="/chongqing/visa-free/">Chongqing Guide</a></td>
     </tr>
+    <tr>
+      <td>Kunming Changshui<br/>International Airport</td>
+      <td rowspan="3">Kunming<br/>Lijiang<br/>Yuxi<br/>Pu'er<br/>Chuxiong<br/>Dali<br/>Xishuangbanna<br/>Honghe<br/>Wenshan</td>
+      <td><!--<a href="/kunming/visa-free/">Kunming Guide</a>--></td>
+    </tr>
+    <tr>
+      <td>Lijiang Sanyi<br/>International Airport</td>
+      <td><!--<a href="/lijiang/visa-free/">Lijiang Guide</a>--></td>
+    </tr>
+    <tr>
+      <td>Exit-Entry Port of Mohan Railway Station</td>
+      <td><!--<a href="/xishuangbanna/visa-free/">Xishuangbanna Guide</a>--></td>
+    </tr>
+    <tr>
+      <td>Xiamen Gaoqi<br/>International Airport</td>
+      <td rowspan="2">Xiamen</td>
+      <td rowspan="2"><!--<a href="/xiamen/visa-free/">Xiamen Guide</a>--></td>
+    </tr>
+    <tr><td>Port of Xiamen</td></tr>
+    <tr>
+      <td>Xi'an Xianyang<br/>International Airport</td>
+      <td>Xi'an and Xianyang</td>
+      <td><!--<a href="/xian/visa-free/">Xi'an Guide</a>--></td>
+    </tr>
+    <tr>
+      <td>Wuhan Tianhe<br/>International Airport</td>
+      <td>Wuhan</td>
+      <td><!--<a href="/wuhan/visa-free/">Wuhan Guide</a>--></td>
+    </tr>
+    <tr>
+      <td>Qingdao Jiaodong<br/>International Airport</td>
+      <td rowspan="2">Shandong Province</td>
+      <td rowspan="2"><!--<a href="/qingdao/visa-free/">Qingdao Guide</a>--></td>
+    </tr>
+    <tr><td>Port of Qingdao</td></tr>
   </tbody>
 </table>
