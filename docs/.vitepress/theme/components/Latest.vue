@@ -1,14 +1,17 @@
 <script setup>
 import { data as last } from '../data/lastUpdate.data';
-
-const title = last.src?.split?.(/[#\n]/)?.[1];
+const title = last.src?.split?.(/[#\n]/)?.filter(Boolean)?.[0]?.trim();
+const date = new Date(last.timestamp).toDateString();
 const route = last.url?.split?.('/')?.slice?.(2)?.join?.('/');
 </script>
 
 <template>
   <div class="container">
     <span class="label">UPDATE</span>
-    <a v-if="title && route" :href="route">{{ title }}</a>
+    <a v-if="title && route" :href="route">
+      <span>{{ title }}</span>
+      <span style="margin-left: 8px">({{ date }})</span>
+    </a>
   </div>
 </template>
 
