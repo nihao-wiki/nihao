@@ -67,6 +67,7 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
             { text: 'Cultural Journey', link: 'culture' },
             { text: 'Dazu Rock Carvings', link: 'dazu' },
             { text: 'Three Gorges', link: 'three-gorges' },
+            { text: 'Fishing City', link: 'hechuan' },
           ],
         },
         {

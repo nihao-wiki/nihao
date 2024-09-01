@@ -17,3 +17,20 @@ Laojundong is a historic Taoist sanctuary. It is situated on Laojun Mountain at 
 <template #author>Nicolò Balini</template>
 <template #description>Hiking up a mountain in Chongqing to find a Daoist temple, it was dark by the time I arrived; going back the next day, I saw some stunning views of Chongqing from there; Chongqing is worth staying a few more days.</template>
 </YouTube>
+
+## Luohan Temple
+
+<Chinese word="罗汉寺">
+<template #pinyin>luó hàn sì</template>
+Luohan Temple
+</Chinese>
+
+Luohan Temple, initially constructed during the Zhiping period of the Northern Song Dynasty (1064–1067), was renovated in the 11th year of Emperor Guangxu's reign during the Qing Dynasty (1885).
+
+The Great Buddha Hall houses many treasures of Buddhist art, including statues of the Sixteen Arhats; copper cast images of the Three Holy Ones of the West from the Ming Dynasty; a jade Buddha statue of Sakyamuni from Myanmar showing his Enlightenment; and a reproduction of the Indian mural 'Sakyamuni Leaving the Palace and Renouncing the World'.
+
+Within the temple grounds, there is an ancient rock formation over 20 meters long that contains more than 400 Song Dynasty rock-carved Buddha images. Among these are the reclining Buddha in nirvana (commonly known as the 'sleeping Buddha'), Guanyin statues, and images of devotees, all of which exhibit a style similar to that of the Dazu Baoding Hill carvings.
+
+::: info LOCAL TIPS
+Luohan Temple is located near Jiefangbei in the center of Chongqing; it is within walking distance. Alternatively, you can take Line 1 of the monirail to Xiaoshizi Station, and it’s just over a hundred meters’ walk away.
+:::
