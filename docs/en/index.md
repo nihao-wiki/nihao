@@ -14,7 +14,7 @@ hero:
       link: /chongqing/impressions
     - theme: alt
       text: Tourism Guide
-      link: /guide/visa/
+      link: /guide/visa
 
 features:
   - title: Largest City in the world
