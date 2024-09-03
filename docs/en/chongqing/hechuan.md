@@ -9,3 +9,5 @@ In 1259, Mongol Khan Möngke led his army south to attack the Song Dynasty and m
 ::: info LOCAL TIPS
 Fishing City is approximately a 1.5-hour drive from the center of Chongqing. You can choose to take a high-speed train to Hechuan Station and then take a taxi to the scenic area. The one-way traffic fare is about <CNY>40</CNY>.
 :::
+
+The ticket price for Fishing City is <CNY>60</CNY> for adults and <CNY>30</CNY> for children.
