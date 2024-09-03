@@ -28,20 +28,20 @@ export default createContentLoader('en/**/*.md', {
   includeSrc: true,
   transform(rawData) {
     let lastUpdatePage: any;
-    rawData.forEach((page) => {
-      let file = page.url.replace(/(^|\/)$/, '$1index');
+    rawData.forEach((rawData) => {
+      let file = rawData.url.replace(/(^|\/)$/, '$1index');
       file = file.replace(/(\.html)?$/, '.md');
       // file = siteConfig.rewrites.inv[file] || file;
       // file = path.join(siteConfig.srcDir, file);
       file = path.join(__dirname, '../../../', file);
       const timestamp = getGitTimestamp(file);
-      if (!lastUpdatePage || timestamp > lastUpdatePage.timestamp) {
+      if (!lastUpdatePage || timestamp > lastUpdatePage?.timestamp) {
         lastUpdatePage = {
           timestamp,
-          ...page
+          ...rawData
         }
       }
     });
-    return lastUpdatePage;
+    return lastUpdatePage || {};
   },
 });
