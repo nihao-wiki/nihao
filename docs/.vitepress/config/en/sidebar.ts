@@ -65,9 +65,15 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
           items: [
             { text: 'Panda, Zoo', link: 'panda' },
             { text: 'Cultural Journey', link: 'culture' },
+          ],
+        },
+        {
+          text: 'Rural Routes',
+          items: [
             { text: 'Dazu Rock Carvings', link: 'dazu' },
             { text: 'Three Gorges', link: 'three-gorges' },
             { text: 'Fishing City', link: 'hechuan' },
+            { text: 'Wulong Karst', link: 'wulong' },
           ],
         },
         {
