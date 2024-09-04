@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress';
 import { fileURLToPath, URL } from 'node:url';
-import sidebar from '../sidebar';
 import { en } from './en';
 import pkg from '../../../package.json';
 
@@ -64,7 +63,6 @@ export default defineConfig({
     logo: { src: '/logo.png', width: 24, height: 30 },
     outline: [2, 3],
     outlineTitle: '-',
-    sidebar: sidebar(),
     socialLinks: [{ icon: 'github', link: pkg.repository }],
     search: {
       provider: 'local',
