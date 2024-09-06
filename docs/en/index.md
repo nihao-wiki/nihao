@@ -2,12 +2,12 @@
 layout: home
 
 title: Nihao.wiki
-titleTemplate: 'Your Travel Guide to China: By Locals.'
+titleTemplate: ':title - Your China Travel Guide with Local Tips'
 
 hero:
   name: Nihao!
   text: Discover Chongqing's 8D Cyberpunk, Spicy Cuisine and Cultures.
-  tagline: 'Your Travel Guide to China: By Locals'
+  tagline: 'Your China Travel Guide with Local Tips'
   actions:
     - theme: brand
       text: Discover Chongqing
