@@ -29,6 +29,7 @@ export default createContentLoader('en/**/*.md', {
   transform(rawData) {
     let lastUpdatePage: any;
     rawData.forEach((rawData) => {
+      if (rawData?.frontmatter?.layout) return;
       let file = rawData.url.replace(/(^|\/)$/, '$1index');
       file = file.replace(/(\.html)?$/, '.md');
       // file = siteConfig.rewrites.inv[file] || file;
