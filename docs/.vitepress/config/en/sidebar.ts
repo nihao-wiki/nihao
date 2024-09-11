@@ -53,7 +53,7 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
       text: 'Chongqing',
       items: [
         { text: 'Visa Free', link: 'visa-free' },
-        { text: 'Impressions', link: 'impressions' },
+        { text: 'First Impressions', link: 'impressions' },
         {
           text: 'Essential Routes',
           items: [
