@@ -99,3 +99,10 @@ The Two Rivers Tour usually passes by some famous landmarks, such as Chaotianmen
 <template #author>JetLag Warriors</template>
 <template #description>This city is built on a mountain, there are many peculiar buildings. Warning: it's very easy to get lost here! So we boarded a night cruise to see Chongqing's night lights; It's truly stunning.</template>
 </YouTube>
+
+<YouTube link="https://youtu.be/0Yt5R3_af6A?si=oGzkYr6pzUmFaPYk&t=627">
+<template #cover><img src="../assets/youtube/china-in-night.jpg" /></template>
+<template #title>China at NIGHT...</template>
+<template #author>Jack Torr & Sophia</template>
+<template #description></template>
+</YouTube>

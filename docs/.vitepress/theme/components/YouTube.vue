@@ -65,7 +65,7 @@ const loadVideo = () => {
         <slot name="cover"></slot></a>
     </div>
     <div :id="videoId" :style="{ marginBottom: onPlay ? '8px' : '0'}"></div>
-    <div>
+    <div class="container">
       <a
         class="VPLink link vp-external-link-icon VPNavScreenMenuGroupLink"
         :href="props.link"
@@ -94,6 +94,12 @@ const loadVideo = () => {
     min-width: 38.2%;
     position: relative;
     margin: 0 12px 0 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    min-width: 400px;
   }
 }
 

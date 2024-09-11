@@ -27,6 +27,13 @@ Traveling by high-speed train to Dazu takes around half an hour, but it requires
 
 Baoding Mountain is considered the highlight of the Dazu Rock Carvings, featuring grand scale, exquisite carving, and rich content. The most famous part is Dafo Bay.
 
+<YouTube link="https://youtu.be/_bWD6edQdA0?si=hD-0HNvceMZJbU7l&t=863">
+<template #cover><img src="../assets/youtube/we-are-shocked-by-what-this-country-offers.jpg" /></template>
+<template #title>We are Shocked by what this country Offers!</template>
+<template #author>Jack Torr & Sophia</template>
+<template #description>We explore the ancient Dazu Rock Carvings, a UNESCO World Heritage site. We also dive into a spectacular rock concert held in a massive local stadium. Buddhist, Taoist, and Confucian sculptures dating back to 7th century.</template>
+</YouTube>
+
 #### Dafo Bay
 
 The cliff face at Dafo Bay is about 500 meters long and ranges from 8 to 25 meters in height. The sculptures are carved into the east, south, and north cliff walls. They include images of protective deities, the Wheel of Transmigration, the Vast Treasure Pavilion, the Three Saints of Huayan, the Thousand-Armed Guanyin, and the Holy Scene of the Nirvana of Śākyamuni, among others. All the sculptures are richly detailed, with no niche repeated.

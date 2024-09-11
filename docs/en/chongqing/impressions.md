@@ -1,4 +1,4 @@
-# Chongqing's Impressions: Arrival Guide
+# Chongqing's First Impressions: Arrival Guide
 
 ## Overview
 
@@ -14,6 +14,12 @@ Chongqing, which covers 82,300 square kilometers—twice the size of the Netherl
 <template #title>The Biggest City on Earth You've Never Heard Of</template>
 <template #author>PPPeter</template>
 <template #description>With population of 32,000,000, Chongqing, China is the biggest city on Earth. Its unbelievable area makes it also the largest city in the world.</template>
+</YouTube>
+
+<YouTube link="https://youtu.be/D2RATbbd9DU?si=obU1QSqT3voZkypr&t=52">
+<template #cover><img src="../assets/youtube/arriving-in-china-our-first-impressions.jpg" /></template>
+<template #title>Arriving in China! (Our First Impressions)</template>
+<template #author>Jack Torr & Sophia</template>
 </YouTube>
 
 ## Night View from Above
