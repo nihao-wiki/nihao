@@ -6,10 +6,12 @@
 <div><i>Name</i><b>Chongqing, Chungking</b></div>
 <div><i>Climate</i><b>Subtropical moist monsoon climate</b></div>
 <div long><i>Nickname</i><b>Mountain City, Fog City, City of Bridges, River City, 8D Magic City</b></div>
+<div><i>Temperature</i><b>30℃ - 48°C in summer</b></div>
 <div><i>Area</i><b>82,402 km²</b></div>
 <div><i>Population</i><b>32 million</b></div>
 <div><i>Region</i><b>Southwest China</b></div>
 <div long><i>Location</i><b>Upper reaches of the Yangtze River, southwestern inland China</b></div>
+<div long><i>Attractions</i><b><a href="/chongqing/cityscape">Hongyadong</a>, <a href="/chongqing/dazu">Dazu Rock Carvings</a>, <a href="/chongqing/wulong">Wulong Karst Tourism Area</a>, <a href="/chongqing/three-gorges">Yangtze River Three Gorges</a>, Ciqikou Ancient Town, <a href="/chongqing/cityscape">Yangtze River Cableway</a></b></div>
 </Description>
 
 <YouTube link="https://youtu.be/0kfhyOKM888?si=AzCMWcMNKhRYBnCb">

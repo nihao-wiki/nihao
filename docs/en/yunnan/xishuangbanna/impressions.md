@@ -4,9 +4,10 @@
 
 <Description>
 <div long><i>Name</i><b>Dai Autonomous Prefecture of Xishuangbanna, Sipsongpanna</b></div>
-<div><i>Climate</i><b>Tropical monsoon climate</b></div>
 <div><i>Nickname</i><b>Mengbalanaxi</b></div>
+<div><i>Climate</i><b>Tropical monsoon climate</b></div>
 <div><i>Area</i><b>19,124.5 km²</b></div>
+<div><i>UV radiation</i><b>Strong</b></div>
 <div><i>Population</i><b>1 million</b></div>
 <div><i>Region</i><b>Yunnan</b></div>
 <div><i>Location</i><b>Southernmost Yunnan</b></div>
