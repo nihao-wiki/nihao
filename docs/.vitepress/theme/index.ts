@@ -14,6 +14,7 @@ import Chinese from './components/Chinese.vue';
 import CNY from './components/CNY.vue';
 import Currency from './components/Currency.vue';
 import Latest from './components/Latest.vue';
+import Description from './components/Description.vue';
 import './styles/index.css';
 
 export default {
@@ -28,6 +29,7 @@ export default {
     app.component('Chinese', Chinese);
     app.component('CNY', CNY);
     app.component('Currency', Currency);
+    app.component('Description', Description);
   },
   Layout() {
     return h(defaultTheme.Layout, null, {

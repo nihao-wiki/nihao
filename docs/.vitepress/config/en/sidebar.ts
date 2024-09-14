@@ -52,13 +52,11 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
     {
       text: 'Chongqing',
       items: [
-        { text: 'Visa Free', link: 'visa-free' },
+        { text: 'How to Arrive', link: 'visa-free' },
         { text: 'First Impressions', link: 'impressions' },
         {
           text: 'Essential Routes',
-          items: [
-            { text: 'One Day Urban Tour', link: 'cityscape' },
-          ],
+          items: [{ text: 'One Day Urban Tour', link: 'cityscape' }],
         },
         {
           text: 'Optional Routes',
@@ -88,8 +86,28 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
             { text: 'Sichuan Cuisine', link: 'sichuan-cuisine' },
           ],
         },
-        
       ],
+    },
+  ];
+}
+
+function sidebarYunnan(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Kunming',
+      items: [{ text: 'First Impressions', link: 'kunming/impressions' }],
+    },
+    {
+      text: 'Dali',
+      items: [{ text: 'First Impressions', link: 'dali/impressions' }],
+    },
+    {
+      text: 'Lijiang',
+      items: [{ text: 'First Impressions', link: 'lijiang/impressions' }],
+    },
+    {
+      text: 'Xishuangbanna',
+      items: [{ text: 'First Impressions', link: 'xishuangbanna/impressions' }],
     },
   ];
 }
@@ -97,4 +115,5 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
 export default {
   '/guide/': { base: '/guide/', items: sidebarGuide() },
   '/chongqing/': { base: '/chongqing/', items: sidebarChongqing() },
+  '/yunnan/': { base: '/yunnan/', items: sidebarYunnan() },
 };
