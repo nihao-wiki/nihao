@@ -2,12 +2,15 @@
 
 ## Overview
 
-Chongqing, which covers 82,300 square kilometers—twice the size of the Netherlands—and has a population exceeding 30 million, is one of the largest cities in the world.
-
-- **Mountain Metropolis**: Surrounded by mountains, its architecture follows the nature topography, creating a unique '8D landscape' with buildings at varying elevations.
-- **The Bridge City**: With its numerous rivers, it has constructed over 20,000 bridges to connect land and span valleys. The Legend says navigation doesn't work here.
-- **Fog Capital**: Chongqing has a subtropical humid climate, characterized by high humidity and frequent fog. Especially during autumn and winter, thick mist often shrouds the city.
-- **Hotpot Capital**: It is the birthplace of hotpot and has over 32,000 hotpot restaurants.
+<Description>
+<div><i>Name</i><b>Chongqing, Chungking</b></div>
+<div><i>Climate</i><b>Subtropical moist monsoon climate</b></div>
+<div long><i>Nickname</i><b>Mountain City, Fog City, City of Bridges, River City, 8D Magic City</b></div>
+<div><i>Area</i><b>82,402 km²</b></div>
+<div><i>Population</i><b>32 million</b></div>
+<div><i>Region</i><b>Southwest China</b></div>
+<div long><i>Location</i><b>Upper reaches of the Yangtze River, southwestern inland China</b></div>
+</Description>
 
 <YouTube link="https://youtu.be/0kfhyOKM888?si=AzCMWcMNKhRYBnCb">
 <template #cover><img src="../assets/youtube/the-biggest-city-on-earch-youve-never-heard-of.jpg" /></template>
@@ -15,6 +18,15 @@ Chongqing, which covers 82,300 square kilometers—twice the size of the Netherl
 <template #author>PPPeter</template>
 <template #description>With population of 32,000,000, Chongqing, China is the biggest city on Earth. Its unbelievable area makes it also the largest city in the world.</template>
 </YouTube>
+
+## Features
+
+Chongqing, which covers 82,300 square kilometers—twice the size of the Netherlands—and has a population exceeding 30 million, is one of the largest cities in the world.
+
+- **Mountain Metropolis**: Surrounded by mountains, its architecture follows the nature topography, creating a unique '8D landscape' with buildings at varying elevations.
+- **The Bridge City**: With its numerous rivers, it has constructed over 20,000 bridges to connect land and span valleys. The Legend says navigation doesn't work here.
+- **Fog Capital**: Chongqing has a subtropical humid climate, characterized by high humidity and frequent fog. Especially during autumn and winter, thick mist often shrouds the city.
+- **Hotpot Capital**: It is the birthplace of hotpot and has over 32,000 hotpot restaurants.
 
 <YouTube link="https://youtu.be/D2RATbbd9DU?si=obU1QSqT3voZkypr&t=52">
 <template #cover><img src="../assets/youtube/arriving-in-china-our-first-impressions.jpg" /></template>
@@ -42,9 +54,9 @@ If you're fortunate enough, as the plane clears the final mountain and makes its
 
 <Flex>
 <div>
-Chongqing's taxis are famously painted in a uniform yellow color, which has led to their affectionate nickname as "Yellow Ferraris."
+Chongqing's taxis are famously painted in a uniform yellow color, which has led to their affectionate nickname as ‘Yellow Ferraris’ because of the drivers' skilled driving techniques.
 
-The fare from Airport to Downtown is approximately <CNY>70</CNY>.
+For reference, it is approximately 25 kilometers from the airport to the city center, and a taxi ride takes about 1 hour with a fare of around <CNY>70</CNY>.
 
 Payments via Alipay, WeChat, and cash will be accepted.
 

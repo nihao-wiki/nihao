@@ -9,6 +9,13 @@ Liziba
 
 The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
 
+<YouTube link="https://youtu.be/qAwbioLzTkk?si=tLuCzXjMDcMGuJd7&t=439">
+<template #cover><img src="../assets/youtube/жителей.jpg" /></template>
+<template #title>33 млн жителей. Огромный китайский мегаполис и самое красивое метро</template>
+<template #author>Касё Гасанов</template>
+<template #description>Taking the Chongqing Light Rail, I arrived at the most famous online celebrity check-in spot.</template>
+</YouTube>
+
 ::: info LOCAL TIPS
 You can walk to Kuixinglou (the internet-famous attraction that appears to be on the 1st floor but is actually on the 28th floor) for a visit, and then take Line 2 of the monorail from the nearby Linjiangmen Station to reach Liziba Station.
 :::

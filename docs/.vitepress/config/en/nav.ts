@@ -9,12 +9,27 @@ export function nav(): DefaultTheme.NavItem[] {
     },
     {
       text: 'Chongqing',
-      link: '/chongqing/visa-free',
+      link: '/chongqing/impressions',
       activeMatch: '/chongqing/',
     },
+    {
+      text: 'Chengdu',
+      link: '/chengdu/impressions',
+      activeMatch: '/chengdu/',
+    },
+    {
+      text: 'Qingdao',
+      link: '/qingdao/impressions',
+      activeMatch: '/qingdao/',
+    },
+    {
+      text: 'Yunnan',
+      link: '/yunnan/kunming/impressions',
+      activeMatch: '/yunnan/',
+    },
     // {
-    //   text: 'Destinations',
-    //   items: [
+    // text: 'Destinations',
+    // items: [
     //     {
     //       text: 'Beijing',
     //       link: 'javascript:void;',
@@ -22,70 +37,66 @@ export function nav(): DefaultTheme.NavItem[] {
     //     },
     //     {
     //       text: 'Shanghai',
-    //       link: '/shanghai/visa-free',
+    //       link: '/shanghai/impressions',
     //       activeMatch: '/shanghai/',
     //     },
     //     {
     //       text: 'Nanjing',
-    //       link: '/nanjing/visa-free',
+    //       link: '/nanjing/impressions',
     //       activeMatch: '/nanjing/',
     //     },
     //     {
     //       text: 'Hangzhou',
-    //       link: '/hangzhou/visa-free',
+    //       link: '/hangzhou/impressions',
     //       activeMatch: '/hangzhou/',
     //     },
     //     {
     //       text: 'Guangzhou',
-    //       link: '/guangzhou/visa-free',
+    //       link: '/guangzhou/impressions',
     //       activeMatch: '/guangzhou/',
     //     },
     //     {
     //       text: 'Shenzhen',
-    //       link: '/shenzhen/visa-free',
+    //       link: '/shenzhen/impressions',
     //       activeMatch: '/shenzhen/',
     //     },
     //     {
     //       text: 'Chengdu',
-    //       link: '/chengdu/visa-free',
+    //       link: '/chengdu/impressions',
     //       activeMatch: '/chengdu/',
     //     },
     //     {
     //       text: 'Kunming',
-    //       link: '/kunming/visa-free',
+    //       link: '/kunming/impressions',
     //       activeMatch: '/kunming/',
     //     },
     //     {
     //       text: 'Lijiang',
-    //       link: '/lijiang/visa-free',
+    //       link: '/lijiang/impressions',
     //       activeMatch: '/lijiang/',
     //     },
     //     {
     //       text: 'Xishuangbanna',
-    //       link: '/xishuangbanna/visa-free',
+    //       link: '/xishuangbanna/impressions',
     //       activeMatch: '/xishuangbanna/',
     //     },
     //     {
     //       text: 'Xiamen',
-    //       link: '/xiamen/visa-free',
+    //       link: '/xiamen/impressions',
     //       activeMatch: '/xiamen/',
     //     },
     //     {
     //       text: 'Xi\'an',
-    //       link: '/xian/visa-free',
+    //       link: '/xian/impressions',
     //       activeMatch: '/xian/',
     //     },
     //     {
     //       text: 'Wuhan',
-    //       link: '/wuhan/visa-free',
+    //       link: '/wuhan/impressions',
     //       activeMatch: '/wuhan/',
     //     },
-    //     {
-    //       text: 'Qingdao',
-    //       link: '/qingdao/visa-free',
-    //       activeMatch: '/qingdao/',
-    //     },
-    // ]
+
+    // ],
     // },
     // {
     //   component: 'NavReddit',
