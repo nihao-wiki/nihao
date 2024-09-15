@@ -6,6 +6,7 @@
 <div><i>Name</i><b>Lijiang City</b></div>
 <div><i>Climate</i><b>Low-latitude Highland Monsoon Climate</b></div>
 <div><i>Nickname</i><b>Gong Benzhi</b></div>
+<div><i>UV radiation</i><b>Strong</b></div>
 <div><i>Area</i><b>20,600 km²</b></div>
 <div><i>Population</i><b>1 million</b></div>
 <div><i>Region</i><b>Yunnan</b></div>

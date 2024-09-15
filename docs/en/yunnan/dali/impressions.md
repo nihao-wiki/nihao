@@ -5,6 +5,7 @@
 <Description>
 <div><i>Name</i><b>Dali Bai Autonomous Prefecture</b></div>
 <div long><i>Climate</i><b>Low-latitude Highland Monsoon Climate</b></div>
+<div><i>UV radiation</i><b>Strong</b></div>
 <div><i>Area</i><b>29,459 km²</b></div>
 <div><i>Population</i><b>3 million</b></div>
 <div><i>Region</i><b>Yunnan</b></div>

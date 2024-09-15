@@ -8,6 +8,21 @@ export function nav(): DefaultTheme.NavItem[] {
       activeMatch: '/guide/',
     },
     {
+      text: 'Beijing',
+      link: '/beijing/impressions',
+      activeMatch: '/beijing/',
+    },
+    {
+      text: 'Shanghai',
+      link: '/shanghai/impressions',
+      activeMatch: '/shanghai/',
+    },
+    {
+      text: 'Hangzhou',
+      link: '/hangzhou/impressions',
+      activeMatch: '/hangzhou/',
+    },
+    {
       text: 'Chongqing',
       link: '/chongqing/impressions',
       activeMatch: '/chongqing/',

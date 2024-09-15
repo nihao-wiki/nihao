@@ -39,8 +39,32 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: 'Destination',
       items: [
         {
+          text: 'Beijing',
+          link: '../beijing/impressions',
+        },
+        {
+          text: 'Shanghai',
+          link: '../shanghai/impressions',
+        },
+        {
+          text: 'Hangzhou',
+          link: '../hangzhou/impressions',
+        },
+        {
           text: 'Chongqing',
           link: '../chongqing/impressions',
+        },
+        {
+          text: 'Chengdu',
+          link: '../chengdu/impressions',
+        },
+        {
+          text: 'Qingdao',
+          link: '../qingdao/impressions',
+        },
+        {
+          text: 'Yunnan',
+          link: '../yunnan/kunming/impressions',
         },
       ],
     },
