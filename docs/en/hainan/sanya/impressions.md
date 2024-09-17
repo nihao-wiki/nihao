@@ -1,0 +1,12 @@
+# Sanya's First Impressions: Arrival Guide
+
+## Overview
+
+<Description>
+<div><i>Name</i><b>Sanya</b></div>
+<div><i>Climate</i><b>Tropical Marine Monsoon Climate</b></div>
+<div><i>Area</i><b>1,921 km²</b></div>
+<div><i>Population</i><b>7 million</b></div>
+<div><i>Region</i><b>Southern Hainan Island</b></div>
+<div long><i>Attractions</i><b>Yalong Bay, Sanya Bay, and Tianyahaijiao</b></div>
+</Description>

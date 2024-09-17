@@ -42,6 +42,11 @@ export function nav(): DefaultTheme.NavItem[] {
       link: '/yunnan/kunming/impressions',
       activeMatch: '/yunnan/',
     },
+    {
+      text: 'Hainan',
+      link: '/hainan/sanya/impressions',
+      activeMatch: '/hainan/',
+    },
     // {
     // text: 'Destinations',
     // items: [

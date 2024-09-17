@@ -136,8 +136,22 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
   ];
 }
 
+function sidebarHainan(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Haikou',
+      items: [{ text: 'First Impressions', link: 'haikou/impressions' }],
+    },
+    {
+      text: 'Sanya',
+      items: [{ text: 'First Impressions', link: 'sanya/impressions' }],
+    },
+  ];
+}
+
 export default {
   '/guide/': { base: '/guide/', items: sidebarGuide() },
   '/chongqing/': { base: '/chongqing/', items: sidebarChongqing() },
   '/yunnan/': { base: '/yunnan/', items: sidebarYunnan() },
+  '/hainan/': { base: '/hainan/', items: sidebarHainan() },
 };
