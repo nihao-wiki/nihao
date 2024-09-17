@@ -8,44 +8,49 @@ export function nav(): DefaultTheme.NavItem[] {
       activeMatch: '/guide/',
     },
     {
-      text: 'Beijing',
-      link: '/beijing/impressions',
-      activeMatch: '/beijing/',
-    },
-    {
-      text: 'Shanghai',
-      link: '/shanghai/impressions',
-      activeMatch: '/shanghai/',
-    },
-    {
-      text: 'Hangzhou',
-      link: '/hangzhou/impressions',
-      activeMatch: '/hangzhou/',
-    },
-    {
       text: 'Chongqing',
       link: '/chongqing/impressions',
       activeMatch: '/chongqing/',
     },
     {
-      text: 'Chengdu',
-      link: '/chengdu/impressions',
-      activeMatch: '/chengdu/',
-    },
-    {
-      text: 'Qingdao',
-      link: '/qingdao/impressions',
-      activeMatch: '/qingdao/',
-    },
-    {
-      text: 'Yunnan',
-      link: '/yunnan/kunming/impressions',
-      activeMatch: '/yunnan/',
-    },
-    {
-      text: 'Hainan',
-      link: '/hainan/sanya/impressions',
-      activeMatch: '/hainan/',
+      text: 'Destinations',
+      items: [
+        {
+          text: 'Beijing',
+          link: '/beijing/impressions',
+          activeMatch: '/beijing/',
+        },
+        {
+          text: 'Shanghai',
+          link: '/shanghai/impressions',
+          activeMatch: '/shanghai/',
+        },
+        {
+          text: 'Chengdu',
+          link: '/chengdu/impressions',
+          activeMatch: '/chengdu/',
+        },
+        {
+          text: 'Hainan',
+          link: '/hainan/sanya/impressions',
+          activeMatch: '/hainan/',
+        },
+        {
+          text: 'Hangzhou',
+          link: '/hangzhou/impressions',
+          activeMatch: '/hangzhou/',
+        },
+        {
+          text: 'Qingdao',
+          link: '/qingdao/impressions',
+          activeMatch: '/qingdao/',
+        },
+        {
+          text: 'Yunnan',
+          link: '/yunnan/kunming/impressions',
+          activeMatch: '/yunnan/',
+        },
+      ],
     },
     // {
     // text: 'Destinations',
