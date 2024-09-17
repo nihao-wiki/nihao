@@ -8,17 +8,15 @@ reference:
     site: english.www.gov.cn
 ---
 
-# China's 144-hour Visa-Free Transit Guide
+# Visa Strategies for Foreigners Visiting China
 
-## Visa-Free
+## 30-Day Visa-Free Entry
 
 Albania, Antigua and Barbuda, Armenia, The Bahamas, Barbados, Belarus, Bosnia and Herzegovina, Dominica, Ecuador, Fiji, Georgia, Grenada, Kazakhstan, Maldives, Mauritius, Qatar, San Marino, Serbia, Seychelles, Singapore, Surinam, Thailand, Tonga, United Arab Emirates.
 
 Visa-free entry does not equate to unlimited stay or residence in the agreement country. According to the requirements of the agreement, individuals holding the relevant passport are generally only permitted to stay for no more than 30 days after visa-free entry. If the holder needs to stay longer than 30 days, they should apply for residency procedures as soon as possible according to the requirements.
 
-## Visa-Free Transit
-
-### Countries
+## 144-Hour Transit Visa Exemption
 
 <script setup>
 import { ref, computed } from 'vue'
@@ -56,8 +54,6 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
   </tbody>
 </table>
 
-### Conditions
-
 - You must hold a valid international travel document(valid for no less than three months).
 - You must hold a connecting ticket to a third country/region with a confirmed date and seat for departure within 72/144 hours.
 
@@ -90,9 +86,7 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
   </tbody>
 </table> -->
 
-### Transit Destination
-
-#### 144 Hours Visa-Free
+#### Destination
 
 <table>
   <thead>
@@ -216,3 +210,13 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
     <tr><td>Port of Qingdao</td></tr>
   </tbody>
 </table>
+
+## Visa Free Entry to Hainan
+
+List of 59 countries eligible for Visa Free Entry to Hainan: Russia, the United Kingdom, France, Germany, Norway, Ukraine, Italy, Austria, Finland, the Netherlands, Denmark, Switzerland, Sweden, Spain, Belgium, Czech Republic, Estonia, Greece, Hungary, Iceland, Latvia, Lithuania, Malta, Poland, Portugal, Slovakia, Slovenia, Ireland, Cyprus, Bulgaria, Romania, Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, the United States, Canada, Brazil, Mexico, Argentina, Chile, Australia, New Zealand, the Republic of Korea, Japan, Singapore, Malaysia, Thailand, Kazakhstan, the Philippines, Indonesia, Brunei, the United Arab Emirates, Qatar, Monaco, Belarus.
+
+1, People from the above 59 countries can travel to Hainan with valid ordinary passports.<br/>
+2, Travel from or via any other locations outside Chinese territory with a direct flight to Hainan.<br/>
+3, Visa-free entry to Hainan though designated ports of entry in Hainan.<br/>
+4, 30-day stay in Hainan after entry.<br/>
+5, Stay and travel in Hainan administrative area only (subject to the relevant provisions if applicable to a mutual visa exemption agreements signed with China)
