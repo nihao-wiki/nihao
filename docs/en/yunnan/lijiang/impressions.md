@@ -11,5 +11,5 @@
 <div><i>Population</i><b>1 million</b></div>
 <div><i>Region</i><b>Yunnan</b></div>
 <div long><i>Location</i><b>Southwest Region, Northwestern Yunnan</b></div>
-<div long><i>Attractions</i><b>Jade Dragon Snow Mountain, <a href="/yunnan/lijiang/cityscape#lijiang-ancient-city">Lijiang Ancient City</a>, Laojun Mountain, Lake Lugu, etc.</b></div>
+<div long><i>Attractions</i><b><a href="/yunnan/lijiang/cityscape#yulong-snow-mountain">Jade Dragon Snow Mountain</a>, <a href="/yunnan/lijiang/cityscape#lijiang-ancient-city">Lijiang Ancient City</a>, Laojun Mountain, Lake Lugu, etc.</b></div>
 </Description>
