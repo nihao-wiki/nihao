@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { useSlots, onMounted, defineProps, ref } from 'vue';
+import { useSlots, onMounted, ref } from 'vue';
 
 const props = defineProps({
   as: {
