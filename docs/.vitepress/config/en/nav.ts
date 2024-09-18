@@ -13,6 +13,11 @@ export function nav(): DefaultTheme.NavItem[] {
       activeMatch: '/chongqing/',
     },
     {
+      text: 'Yunnan',
+      link: '/yunnan/kunming/impressions',
+      activeMatch: '/yunnan/',
+    },
+    {
       text: 'Destinations',
       items: [
         {
@@ -44,11 +49,6 @@ export function nav(): DefaultTheme.NavItem[] {
           text: 'Qingdao',
           link: '/qingdao/impressions',
           activeMatch: '/qingdao/',
-        },
-        {
-          text: 'Yunnan',
-          link: '/yunnan/kunming/impressions',
-          activeMatch: '/yunnan/',
         },
       ],
     },
