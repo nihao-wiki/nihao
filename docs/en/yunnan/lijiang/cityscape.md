@@ -11,9 +11,16 @@ The history of Dali Ancient City can be traced back to the Nanzhao Kingdom, whic
 <template #description>Today we are exploring the real Lijiang in Yunnan. We meet some incredibly friendly locals and have a good laugh with them.</template>
 </YouTube>
 
-### The bonfire party
+### The Bonfire Party
 
 The bonfire party in Lijiang's Si Fang Street is an event full of the local Naxi ethnic flavor, typically held on rain-free nights. Visitors can participate in dancing around the bonfire, experiencing the traditional Naxi dances, which is also a great opportunity to learn about the local culture. The bonfire party usually takes place between 7:00 PM and 8:30 PM, with a large gathering of tourists and locals coming together to celebrate.
+
+<YouTube link="https://youtu.be/I-qrZymMzoo?si=Wwhk63wI8F8pC64p">
+<template #title>Bonfire Hit Jump Dance Party of Dali March Street Ethnic Festival, Yunnan, China</template>
+<template #author>Chao's Travel Log 超思旅行日志</template>
+<template #description>Bonfire Hit Jump Dance Party
+Dali March Street Ethnic Festival</template>
+</YouTube>
 
 ::: info LOCAL TIPS
 The 'Si Fang' in 'Si Fang Street' refers to the east, south, west, and north. Therefore, Si Fang Street can be understood as a central, well-connected public place located right at the heart of the ancient city. If you ever get lost, try following the sounds of music in the evening to find it.
