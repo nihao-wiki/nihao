@@ -1,4 +1,4 @@
-# Lijiang Ancient City Beside the Snow-Capped Mountains
+# Lijiang Ancient City Beside the Snow Mountain
 
 ## Lijiang Ancient City
 
