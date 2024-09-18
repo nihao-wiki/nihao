@@ -27,3 +27,7 @@
 .NotFound .quote {
   max-width: 500px !important;
 }
+
+.MicrosoftMap .bm_LogoContainer .bingLogoLight {
+  display: none !important;
+}

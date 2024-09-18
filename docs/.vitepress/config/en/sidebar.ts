@@ -123,15 +123,30 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
     },
     {
       text: 'Dali',
-      items: [{ text: 'First Impressions', link: 'dali/impressions' }],
+      items: [
+        { text: 'First Impressions', link: 'dali/impressions' },
+        { text: 'Ancient Towns', link: 'dali/cityscape' },
+        { text: 'Natural Wonders', link: 'dali/wonders' },
+      ],
     },
     {
       text: 'Lijiang',
-      items: [{ text: 'First Impressions', link: 'lijiang/impressions' }],
+      items: [
+        { text: 'First Impressions', link: 'lijiang/impressions' },
+        { text: 'Ancient Towns', link: 'lijiang/cityscape' },
+      ],
+    },
+    {
+      text: 'Shangri-la',
+      items: [{ text: 'Natural Wonders', link: 'shangri-la/wonders' }],
     },
     {
       text: 'Xishuangbanna',
       items: [{ text: 'First Impressions', link: 'xishuangbanna/impressions' }],
+    },
+    {
+      text: 'Cuisine',
+      items: [{ text: '"Intoxicating" Mushroom', link: 'cuisine/mushroom' }],
     },
   ];
 }

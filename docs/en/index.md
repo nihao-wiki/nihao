@@ -6,7 +6,7 @@ titleTemplate: ':title - Your China Travel Guide with Local Tips'
 
 hero:
   name: Nihao!
-  text: Discover Chongqing's 8D Cyberpunk, Spicy Cuisine and Cultures.
+  text: "Off the Beaten Path, See Unseen China"
   tagline: 'Your China Travel Guide with Local Tips'
   actions:
     - theme: brand
