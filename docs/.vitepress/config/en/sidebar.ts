@@ -68,6 +68,15 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         },
       ],
     },
+    {
+      text: 'Wonders',
+      items: [
+        {
+          text: 'Snow Mountains',
+          link: 'snowmountains',
+        },
+      ],
+    },
   ];
 }
 
