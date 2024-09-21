@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Special Thanks
 ---
 
 <script setup>
