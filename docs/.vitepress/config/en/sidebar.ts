@@ -68,6 +68,15 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         },
       ],
     },
+    {
+      text: 'Wonders',
+      items: [
+        {
+          text: 'Snow Mountains',
+          link: 'snowmountains',
+        },
+      ],
+    },
   ];
 }
 
@@ -119,7 +128,10 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Kunming',
-      items: [{ text: 'First Impressions', link: 'kunming/impressions' }],
+      items: [
+        { text: 'First Impressions', link: 'kunming/impressions' },
+        { text: 'Kunming Lake', link: 'kunming/lake' },
+      ],
     },
     {
       text: 'Dali',
@@ -164,9 +176,24 @@ function sidebarHainan(): DefaultTheme.SidebarItem[] {
   ];
 }
 
+function sidebarQingdao(): DefaultTheme.SidebarItem[] {
+  return [
+    { text: 'First Impressions', link: 'impressions' },
+    {
+      text: 'Cuisine',
+      items: [
+        { text: 'Tsingtao Beer', link: 'beer' },
+        { text: 'Dumplings', link: 'dumplings' },
+        { text: 'Seafood', link: 'seafood' }
+      ],
+    },
+  ];
+}
+
 export default {
   '/guide/': { base: '/guide/', items: sidebarGuide() },
   '/chongqing/': { base: '/chongqing/', items: sidebarChongqing() },
   '/yunnan/': { base: '/yunnan/', items: sidebarYunnan() },
   '/hainan/': { base: '/hainan/', items: sidebarHainan() },
+  '/qingdao/': { base: '/qingdao/', items: sidebarQingdao() },
 };

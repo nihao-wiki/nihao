@@ -12,3 +12,7 @@ In Yunnan, where there is a rich diversity of wild mushrooms, the Mushroom Hot P
 <template #author>Two Mad Explorers</template>
 <template #description>We had to try the wild mushroom hotpot of Yunnan, China.</template>
 </YouTube>
+
+::: info LOCAL TIPS
+Mushrooms in Yunnan are diverse and can be difficult to identify; every year, there are cases of people poisoning themselves by eating mushrooms. It is essential to consume mushrooms under the guidance of local experts, and the mushrooms must be thoroughly cooked.
+:::

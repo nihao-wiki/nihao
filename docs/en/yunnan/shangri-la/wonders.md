@@ -4,7 +4,7 @@
 
 Tiger Leaping Gorge is one of the deepest gorges in the world, known for its spectacular natural beauty. he gorge is named after a legend that tells of a tiger leaping across the river at this point. Tiger Leaping Gorge sits above the Jinsha River (part of the upper Yangtze River) between Yulong Snow Mountain and Haba Snow Mountain.
 
-he gorge is divided into three sections: Upper, Middle, and Lower, with the Upper section being the most famous, attracting hikers and adventure enthusiasts. Visitors can hike along well-marked trails and enjoy the breathtaking views of the gorge while experiencing the cultures of the Lisu and Naxi peoples who live along the route.
+The gorge is divided into three sections: Upper, Middle, and Lower, with the Upper section being the most famous, attracting hikers and adventure enthusiasts. Visitors can hike along well-marked trails and enjoy the breathtaking views of the gorge while experiencing the cultures of the Lisu and Naxi peoples who live along the route.
 
 <YouTube link="https://youtu.be/56slic7jCXo?si=g-OfCsUpohrybNFG">
 <template #cover><img src="../../assets/youtube/our-craziest-adventure-in-china-tiger-leaping-gorege.jpg" /></template>
@@ -19,6 +19,10 @@ he gorge is divided into three sections: Upper, Middle, and Lower, with the Uppe
 <template #author>Two Mad Explorers</template>
 <template #description>Today we are continuing our journey across the Tiger Leaping Gorge.</template>
 </YouTube>
+
+::: info SAFETY TIPS
+To ensure safety, please make adequate preparations before heading to the gorge, including but not limited to: checking the weather forecast and avoiding hiking in adverse conditions; wearing appropriate hiking gear, such as non-slip hiking boots; following local signs and warnings; and preferably hiking with an experienced guide.
+:::
 
 ## Meili Snow Mountain
 
