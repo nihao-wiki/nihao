@@ -207,6 +207,14 @@ function sidebarChengdu(): DefaultTheme.SidebarItem[] {
   ];
 }
 
+function sidebarBeijing(): DefaultTheme.SidebarItem[] {
+  return [
+    { text: 'First Impressions', link: 'impressions' },
+    { text: 'Imperial Traces', link: 'imperial' },
+    { text: 'Halal Culture', link: 'halal' },
+  ];
+}
+
 export default {
   '/guide/': { base: '/guide/', items: sidebarGuide() },
   '/chongqing/': { base: '/chongqing/', items: sidebarChongqing() },
@@ -214,4 +222,5 @@ export default {
   '/hainan/': { base: '/hainan/', items: sidebarHainan() },
   '/qingdao/': { base: '/qingdao/', items: sidebarQingdao() },
   '/chengdu/': { base: '/chengdu/', items: sidebarChengdu() },
+  '/beijing/': { base: '/beijing/', items: sidebarBeijing() },
 };
