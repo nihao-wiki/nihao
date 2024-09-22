@@ -147,7 +147,7 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
       text: 'Dali',
       items: [
         { text: 'First Impressions', link: 'dali/impressions' },
-        { text: 'Ancient Towns', link: 'dali/cityscape' },
+        { text: 'Around Erhai', link: 'dali/erhai' },
         { text: 'Natural Wonders', link: 'dali/wonders' },
       ],
     },
