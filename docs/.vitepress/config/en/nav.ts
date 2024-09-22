@@ -56,24 +56,9 @@ export function nav(): DefaultTheme.NavItem[] {
     // text: 'Destinations',
     // items: [
     //     {
-    //       text: 'Beijing',
-    //       link: 'javascript:void;',
-    //       activeMatch: '/beijing/',
-    //     },
-    //     {
-    //       text: 'Shanghai',
-    //       link: '/shanghai/impressions',
-    //       activeMatch: '/shanghai/',
-    //     },
-    //     {
     //       text: 'Nanjing',
     //       link: '/nanjing/impressions',
     //       activeMatch: '/nanjing/',
-    //     },
-    //     {
-    //       text: 'Hangzhou',
-    //       link: '/hangzhou/impressions',
-    //       activeMatch: '/hangzhou/',
     //     },
     //     {
     //       text: 'Guangzhou',
@@ -84,26 +69,6 @@ export function nav(): DefaultTheme.NavItem[] {
     //       text: 'Shenzhen',
     //       link: '/shenzhen/impressions',
     //       activeMatch: '/shenzhen/',
-    //     },
-    //     {
-    //       text: 'Chengdu',
-    //       link: '/chengdu/impressions',
-    //       activeMatch: '/chengdu/',
-    //     },
-    //     {
-    //       text: 'Kunming',
-    //       link: '/kunming/impressions',
-    //       activeMatch: '/kunming/',
-    //     },
-    //     {
-    //       text: 'Lijiang',
-    //       link: '/lijiang/impressions',
-    //       activeMatch: '/lijiang/',
-    //     },
-    //     {
-    //       text: 'Xishuangbanna',
-    //       link: '/xishuangbanna/impressions',
-    //       activeMatch: '/xishuangbanna/',
     //     },
     //     {
     //       text: 'Xiamen',
