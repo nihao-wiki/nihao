@@ -14,7 +14,7 @@ There are numerous attractions around the lake, including islands that can be ex
 </YouTube>
 
 ::: info LOCAL TIPS
-To the south of Erhai is the new urban district, which is also where the train station is located. To the west of Erhai is the old town area, where most of the major attractions are concentrated, including [Dali Ancient City](/yunnan/dali/cityscape#dali-ancient-city), [the Three Pagodas of Chongsheng Temple](/yunnan/dali/cityscape#the-three-pagodas-of-chongsheng-temple) and [Xizhou Ancient Town](/yunnan/dali/cityscape#xizhou-ancient-town). The east side of Erhai has [Shuanglang Ancient Town](/yunnan/dali/cityscape#shuanglang-ancient-town), as well as a beautiful coastal road that runs along the lake, making it very suitable for driving around the lake by car.
+To the south of Erhai is the new urban district, which is also where the train station is located. To the west of Erhai is the old town area, where most of the major attractions are concentrated, including [Dali Ancient City](/yunnan/dali/erhai#dali-ancient-city), [the Three Pagodas of Chongsheng Temple](/yunnan/dali/erhai#the-three-pagodas-of-chongsheng-temple) and [Xizhou Ancient Town](/yunnan/dali/erhai#xizhou-ancient-town). The east side of Erhai has [Shuanglang Ancient Town](/yunnan/dali/erhai#shuanglang-ancient-town), as well as a beautiful coastal road that runs along the lake, making it very suitable for driving around the lake by car.
 :::
 
 <YouTube link="https://youtu.be/_Ij1m42vL28?si=f0gpuCC5E4dscGRe&t=154">
