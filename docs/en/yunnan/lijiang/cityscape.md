@@ -12,7 +12,7 @@ The history of Dali Ancient City can be traced back to the Nanzhao Kingdom, whic
 </YouTube>
 
 <YouTube link="https://youtu.be/aZTqN-jM2Iw?si=poiEh1VXmFoIxD-4">
-<template #cover><img src="../../assets/youtube/beyond-the-trip-viaggio-atemppo.png" /></template>
+<template #cover><img src="../../assets/youtube/beyond-the-trip-viaggio-atemppo.jpg" /></template>
 <template #title>Beyond The Trip - Viaggio a Tempo Indeterminato</template>
 <template #author>Two Mad Explorers</template>
 <template #description>Ci sono molti stereotipi sulla Cina e sui suoi abitanti. Oggi andiamo a vedere se quelli più comuni sono veri o falsi. E mentre facciamo queste ricerche, rimaniamo sconvolti da Lijiang e da quello che vediamo.</template>
