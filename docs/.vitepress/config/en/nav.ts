@@ -20,16 +20,16 @@ export function nav(): DefaultTheme.NavItem[] {
     {
       text: 'Destinations',
       items: [
-        {
-          text: 'Beijing',
-          link: '/beijing/impressions',
-          activeMatch: '/beijing/',
-        },
-        {
-          text: 'Shanghai',
-          link: '/shanghai/impressions',
-          activeMatch: '/shanghai/',
-        },
+        // {
+        //   text: 'Beijing',
+        //   link: '/beijing/impressions',
+        //   activeMatch: '/beijing/',
+        // },
+        // {
+        //   text: 'Shanghai',
+        //   link: '/shanghai/impressions',
+        //   activeMatch: '/shanghai/',
+        // },
         {
           text: 'Chengdu',
           link: '/chengdu/impressions',

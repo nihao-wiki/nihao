@@ -4,9 +4,16 @@
 
 The history of Dali Ancient City can be traced back to the Nanzhao Kingdom, which was established in the early 8th century. Dali became a significant political center during the rule of the Duan family under the Dali Kingdom (937 to 1253), when it reached its peak. The current incarnation of Dali Old Town began its construction during the Hongwu period of the Ming Dynasty, around 1382 AD. Thus, if counted from the Ming Dynasty reconstruction, Dali Old Town has a history of over 600 years.
 
+<YouTube link="https://youtu.be/Anb9z7lzW7M?si=usReEzTaniMwVPEA&t=501">
+<template #cover><img src="../../assets/youtube/dali-ancient-city-yunan-one-of-chinas-oldest-towns.jpg" /></template>
+<template #title>Dali Ancient City, Yunnan - One of China's oldest towns</template>
+<template #author>Wilko Wanders</template>
+<template #description>My first train journey in China, travelling from Kunming to Dali, one of the oldest villages in the country. I’ll be staying in Dali Old Town on a friend’s recommendation. I am excited to explore all that this historic area has to offer.</template>
+</YouTube>
+
 <YouTube link="https://youtu.be/kcjOZ7lg770?si=2tmVDxaa6xNEYFuu&t=481">
 <template #cover><img src="../../assets/youtube/impression-dali.jpg" /></template>
-<template #title>Incredible First Impressions of Dali, Yunnan, China </template>
+<template #title>Incredible First Impressions of Dali, Yunnan, China</template>
 <template #author>Two Mad Explorers</template>
 <template #description>It's our very first day in Dali and we can honestly say that we have fallen in love with this city. China never ceases to amaze us when it comes to hospitality, food and amazing scenery.</template>
 </YouTube>
