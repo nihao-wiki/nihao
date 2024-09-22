@@ -9,15 +9,24 @@ import {
   VPTeamPageTitle,
   VPTeamMembers
 } from 'vitepress/theme'
-import laowangzzg from './assets/avatar/Iraq-laowangzzg.jpg'
+import IraqLaowangzzg from './assets/avatar/Iraq-laowangzzg.jpg'
+import TwoMadExplorers from './assets/avatar/TwoMadExplorers.jpg'
 
 const members = [
   {
-    avatar: laowangzzg,
+    avatar: IraqLaowangzzg,
     name: 'Iraq-laowangzzg',
     title: 'China\'s good brother',
     links: [
       { icon: 'youtube', link: 'https://www.youtube.com/@Iraq-laowangzzg' },
+    ]
+  },
+  {
+    avatar: TwoMadExplorers,
+    name: 'TwoMadExplorers',
+    title: 'A Couple Objectively Introducing China',
+    links: [
+      { icon: 'youtube', link: 'https://www.youtube.com/@TwoMadExplorers' },
     ]
   },
 ]

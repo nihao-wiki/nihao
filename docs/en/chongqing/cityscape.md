@@ -1,5 +1,16 @@
 # One Day Urban Tour: See Chongqing's Cyberpunk
 
+## Skywalk Cloud Stroll
+
+"Skywalk Cloud Stroll" is a high-altitude observation experience at Raffles City Chongqing. It offers visitors the opportunity to overlook the urban landscape of Chongqing from hundreds of meters above the ground. Such a height provides a sense of the city's expanse and beauty, while also bringing a certain level of thrill.
+
+<YouTube link="https://youtu.be/oRiCTslilJo?si=7sQ-qtAe11a8YKqo">
+<template #cover><img src="../assets/youtube/chongqing-the-city-that-defies-expectations.jpg" /></template>
+<template #title>Chongqing: The City That Defies Expectations</template>
+<template #author>Wilko Wanders</template>
+<template #description>China’s Mega City Chongqing Blew my mind 🤯 and not just because of the spicy hotpots! 🌶️</template>
+</YouTube>
+
 ## Liziba Light Rail Passing Through a Building 
 
 <Chinese word="李子坝">
