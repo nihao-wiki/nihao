@@ -3,7 +3,6 @@
 ## Xiaomian
 
 <Chinese word="小面">
-<template #pinyin>xiǎo miàn</template>
 <template #ipa>/ʃəʊ miːn/</template>
 Small Noddles
 </Chinese>
@@ -136,7 +135,6 @@ Small noodle shops are usually roadside establishments that offer square tables 
 ## Cold Noodles
 
 <Chinese word="凉面">
-<template #pinyin>liáng miàn</template>
 Cold Noodles
 </Chinese>
 
@@ -147,7 +145,6 @@ In the summer, when the weather is particularly hot, locals might even have <Spe
 ## Rice Noddles
 
 <Chinese word="米线">
-<template #pinyin>mǐ xiàn</template>
 Rice Noddles
 </Chinese>
 
@@ -164,7 +161,6 @@ Chongqing's <Speech>鸡汁米线</Speech>(Chicken Broth Rice Noodle) is a popula
 ## Chaoshou
 
 <Chinese word="抄手">
-<template #pinyin>chāo shǒu</template>
 Wonton
 </Chinese>
 
@@ -182,7 +178,6 @@ In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子<
 ## Sour and Spicy Sweet Potato Noddles
 
 <Chinese word="酸辣粉">
-<template #pinyin>suān là fěn</template>
 Sour and Spicy Sweet Potato Noddles
 </Chinese>
 

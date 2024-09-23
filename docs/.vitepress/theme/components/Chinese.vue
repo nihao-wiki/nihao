@@ -1,5 +1,9 @@
 <script setup>
-const props = defineProps(['word', 'as']);
+import { computed } from 'vue';
+import pinyin from "pinyin";
+const props = defineProps(['word', 'as', 'pinyin']);
+
+const py = computed(() => pinyin(props.word).join(' '));
 </script>
 
 <template>
@@ -11,7 +15,7 @@ const props = defineProps(['word', 'as']);
         <div class="dash vertical"></div>
       </div>
       <div class="description">
-        <div><slot name="pinyin"></slot> <slot name="ipa"></slot> <Speech :as="props.as || props.word"></Speech></div>
+        <div>{{ props.pinyin || py }} <slot name="ipa"></slot> <Speech :as="props.as || props.word"></Speech></div>
         <div><slot></slot></div>
       </div>
     </div>

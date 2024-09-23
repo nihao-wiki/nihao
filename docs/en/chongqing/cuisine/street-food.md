@@ -5,21 +5,18 @@
 ### Ice Grass Jelly
 
 <Chinese word="冰粉">
-<template #pinyin>bīng fěn</template>
 Ice Grass Jelly
 </Chinese>
 
 ### Ice Rice Flour Jelly
 
 <Chinese word="凉虾">
-<template #pinyin>liáng xiā</template>
 Ice Rice Flour Jelly
 </Chinese>
 
 ## Fried Rice Flour Triangle
 
 <Chinese word="三角粑">
-<template #pinyin>sān jiǎo bā</template>
 Fried Rice Flour Triangle
 </Chinese>
 
@@ -33,7 +30,6 @@ Fried Rice Flour Triangle
 ## Clay oven rolls
 
 <Chinese word="烧饼">
-<template #pinyin>shāo bǐng</template>
 Clay oven rolls
 </Chinese>
 
