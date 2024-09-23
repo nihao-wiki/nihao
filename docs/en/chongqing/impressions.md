@@ -33,7 +33,7 @@ Chongqing, which covers 82,300 square kilometers—twice the size of the Netherl
 
 <YouTube link="https://youtu.be/D2RATbbd9DU?si=obU1QSqT3voZkypr&t=52">
 <template #cover><img src="../assets/youtube/arriving-in-china-our-first-impressions.jpg" /></template>
-<template #title>Arriving in China! (Our First Impressions)</template>
+<template #title>Our First Impressions</template>
 <template #author>Jack Torr & Sophia</template>
 </YouTube>
 
@@ -69,7 +69,7 @@ Payments via Alipay, WeChat, and cash will be accepted.
 
 <YouTube link="https://youtu.be/rZb_P7xDVJo?si=K3LCgMCUFiqGQIXr&t=391">
 <template #cover><img src="../assets/youtube/entering-the-largest-city-in-the-world.jpg" /></template>
-<template #title>Entering The LARGEST City in the WORLD (Chongqing, China)</template>
+<template #title>Entering The Largest City in the World</template>
 <template #author>KSquared</template>
 <template #description>It took only five minutes to fill out the entry forms, and I couldn't wait to jump into a yellow taxi. The driver didn't need GPS, navigating through places that felt like underground parking lots...</template>
 </YouTube>

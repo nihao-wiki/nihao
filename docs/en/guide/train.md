@@ -6,7 +6,7 @@ Check passport validity, ensuring it has at least six months remaining beyond th
 
 <YouTube link="https://youtu.be/1Yger7RaOsE?si=PtqOwSdLDp8AOdiq">
 <template #cover><img src="../assets/youtube/chinas-trains-are-incredible-chengdu-to-chongqing.jpg" /></template>
-<template #title>China's Trains are INCREDIBLE Chengdu to Chongqing</template>
+<template #title>China's Trains are INCREDIBLE</template>
 <template #author>Two Mad Explorers</template>
 <template #description>China's High speed rail network is largest railway system on earth. Today, we take an incredibly fast bullet train from Chengdu to Chongqing, China. </template>
 </YouTube>

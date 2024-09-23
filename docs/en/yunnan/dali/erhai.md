@@ -19,9 +19,9 @@ To the south of Erhai is the new urban district, which is also where the train s
 
 <YouTube link="https://youtu.be/_Ij1m42vL28?si=f0gpuCC5E4dscGRe&t=154">
 <template #cover><img src="../../assets/youtube/why-chinese-dali-so-attractive.jpg" /></template>
-<template #title>英国女友：大理的冬天这么美，真想定居在这！Why Chinese Dali So Attractive?</template>
+<template #title>Why Chinese Dali So Attractive?</template>
 <template #author>英国贝丝</template>
-<template #description></template>
+<template #description>My British girlfriend said, 'The winter in Dali is so beautiful; I really want to settle here!'</template>
 </YouTube>
 
 ::: info LOCAL TIPS
