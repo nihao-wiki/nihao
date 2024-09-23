@@ -3,7 +3,6 @@
 ## Introduction
 
 <Chinese word="火锅">
-<template #pinyin>huǒ guō</template>
 Chongqing hotpot
 </Chinese>
 
@@ -78,7 +77,7 @@ Hotpot is one of the most famous spicy dishes in China, particularly in the regi
 
 <YouTube link="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186">
 <template #cover><img src="../../assets/youtube//trying-the-spiciest-dish-in-china.jpg" /></template>
-<template #title>We are suffering in China…TRYING THE SPICIEST DISH IN CHINA</template>
+<template #title>TRYING THE SPICIEST DISH IN CHINA</template>
 <template #author>JetLag Warriors</template>
 <template #description>Guided by my Chinese friend, we had hotpot in an ancient town on the outskirts of Chongqing; I tried duck blood for the first time and it was actually pretty good.</template>
 </YouTube>

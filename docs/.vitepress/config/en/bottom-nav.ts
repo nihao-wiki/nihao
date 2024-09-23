@@ -44,6 +44,10 @@ export function bottomNav(): DefaultTheme.NavItem[] {
           link: '/privacy',
         },
         {
+          text: 'Statement',
+          link: '/statement',
+        },
+        {
           text: 'Contact Us',
           link: '/contact',
         },

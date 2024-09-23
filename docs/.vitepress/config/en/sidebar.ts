@@ -155,7 +155,7 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
       text: 'Lijiang',
       items: [
         { text: 'First Impressions', link: 'lijiang/impressions' },
-        { text: 'Ancient Towns', link: 'lijiang/cityscape' },
+        { text: 'Ancient Towns', link: 'lijiang/ancient' },
       ],
     },
     {
@@ -215,6 +215,13 @@ function sidebarBeijing(): DefaultTheme.SidebarItem[] {
   ];
 }
 
+function sidebarNanjing(): DefaultTheme.SidebarItem[] {
+  return [
+    { text: 'First Impressions', link: 'impressions' },
+    { text: 'Cuisine', link: 'cuisine' },
+  ];
+}
+
 export default {
   '/guide/': { base: '/guide/', items: sidebarGuide() },
   '/chongqing/': { base: '/chongqing/', items: sidebarChongqing() },
@@ -223,4 +230,5 @@ export default {
   '/qingdao/': { base: '/qingdao/', items: sidebarQingdao() },
   '/chengdu/': { base: '/chengdu/', items: sidebarChengdu() },
   '/beijing/': { base: '/beijing/', items: sidebarBeijing() },
+  '/nanjing/': { base: '/nanjing/', items: sidebarNanjing() },
 };

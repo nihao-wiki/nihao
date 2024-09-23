@@ -3,7 +3,6 @@
 ## Xiaomian
 
 <Chinese word="小面">
-<template #pinyin>xiǎo miàn</template>
 <template #ipa>/ʃəʊ miːn/</template>
 Small Noddles
 </Chinese>
@@ -19,9 +18,9 @@ Xiaomian is the most famous noodles in Chongqing, known for its spicy and numbin
 
 <YouTube link="https://youtu.be/PK8h0rr9c_U?si=WE6ddHRMAapWGgrc&t=24">
 <template #cover><img src="../../assets/youtube/geihanguorenganmengle.jpg" /></template>
-<template #title>给韩国人干懵了，重庆人怎么起床就是红汤打底</template>
+<template #title>how do people in Chongqing wake up to a spicy broth?</template>
 <template #author>大一的吃货生活</template>
-<template #description>小面搭配骨汤绝了</template>
+<template #description>Noodles with bone broth are perfect.</template>
 </YouTube>
 
 The per capita cost for Xiaomian is around <u><CNY>8</CNY> to <CNY>15</CNY></u>.
@@ -136,7 +135,6 @@ Small noodle shops are usually roadside establishments that offer square tables 
 ## Cold Noodles
 
 <Chinese word="凉面">
-<template #pinyin>liáng miàn</template>
 Cold Noodles
 </Chinese>
 
@@ -147,7 +145,6 @@ In the summer, when the weather is particularly hot, locals might even have <Spe
 ## Rice Noddles
 
 <Chinese word="米线">
-<template #pinyin>mǐ xiàn</template>
 Rice Noddles
 </Chinese>
 
@@ -164,7 +161,6 @@ Chongqing's <Speech>鸡汁米线</Speech>(Chicken Broth Rice Noodle) is a popula
 ## Chaoshou
 
 <Chinese word="抄手">
-<template #pinyin>chāo shǒu</template>
 Wonton
 </Chinese>
 
@@ -182,7 +178,6 @@ In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子<
 ## Sour and Spicy Sweet Potato Noddles
 
 <Chinese word="酸辣粉">
-<template #pinyin>suān là fěn</template>
 Sour and Spicy Sweet Potato Noddles
 </Chinese>
 

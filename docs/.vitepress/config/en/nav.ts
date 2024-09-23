@@ -50,16 +50,16 @@ export function nav(): DefaultTheme.NavItem[] {
           link: '/qingdao/impressions',
           activeMatch: '/qingdao/',
         },
+        {
+          text: 'Nanjing',
+          link: '/nanjing/impressions',
+          activeMatch: '/nanjing/',
+        },
       ],
     },
     // {
     // text: 'Destinations',
     // items: [
-    //     {
-    //       text: 'Nanjing',
-    //       link: '/nanjing/impressions',
-    //       activeMatch: '/nanjing/',
-    //     },
     //     {
     //       text: 'Guangzhou',
     //       link: '/guangzhou/impressions',

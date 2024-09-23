@@ -14,7 +14,6 @@
 ## Liziba Light Rail Passing Through a Building 
 
 <Chinese word="李子坝">
-<template #pinyin>lǐ zǐ bà</template>
 Liziba
 </Chinese>
 
@@ -33,10 +32,20 @@ You can walk to Kuixinglou (the internet-famous attraction that appears to be on
 
 <Map height="30vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.573579,29.559729,Kuixinglou" points="106.530586,29.550659,Liziba Monorail Piercing Building"></Map>
 
+## The Eighteen Steps
+
+The Eighteen Steps is located in the heart of Chongqing and is an ancient street known for its steep steps, which total eighteen in number, hence the name 'Eighteen Steps.' The Eighteen Steps has witnessed the transformation of Chongqing from ancient times to the present day, and it features many preserved traditional buildings.
+
+<YouTube link="https://youtu.be/sWm6Jk-dzCs?si=Y4K0GAIuhlTMVD0y&t=475">
+<template #cover><img src="../assets/youtube/this-is-why-china-surpasses-the-west.jpg" /></template>
+<template #title>هذا هو سبب تفوق الصين على الغرب ! - Chongqing</template>
+<template #author>Ahmed Alshammari</template>
+<template #description></template>
+</YouTube>
+
 ## Mountain City Trails
 
 <Chinese word="山城步道">
-<template #pinyin>shān chéng bù dào</template>
 Mountain City Trails
 </Chinese>
 
@@ -56,7 +65,6 @@ Chongqing has many hidden pedestrian paths that you can choose from based on you
 ## Yangtze River Cable Car
 
 <Chinese word="长江索道">
-<template #pinyin>cháng jiāng suǒ dào</template>
 Yangtze River Cable Car
 </Chinese>
 
@@ -84,7 +92,6 @@ If you choose to hike up the mountain to watch the sunset, please bring a flashl
 ## Hongyadong
 
 <Chinese word="洪崖洞">
-<template #pinyin>hóng yá dòng</template>
 Hongyadong
 </Chinese>
 
@@ -105,7 +112,6 @@ You can take the Monorail Line 1 from Xiaoshizi Station and get off at the Grand
 ## The Two Rivers Tour
 
 <Chinese word="两江游">
-<template #pinyin>liǎng jiāng yóu</template>
 The Two Rivers Tour
 </Chinese>
 
