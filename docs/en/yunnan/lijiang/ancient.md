@@ -37,6 +37,13 @@ The 'Si Fang' in 'Si Fang Street' refers to the east, south, west, and north. Th
 
 You can see an ancient pictographic script in Lijiang Ancient City, known as Dongba script. Dongba script is primarily used for religious texts, historical records, and folk literary works, written and interpreted by Dongba priests. Dongba priests are religious and cultural leaders in the Naxi society, responsible for preserving these documents and using them in religious ceremonies.
 
+<YouTube link="https://youtu.be/bPcIqGPF5Kg?si=UQZKvbGBk0wSSt2d">
+<template #cover><img src="../../assets//youtube//discover-a-place-you-wont-expect-in-china.jpg" /></template>
+<template #title>اكتشفت مكان ماتتوقعه بالصين ! - Lijiang</template>
+<template #author>Ahmed Alshammari</template>
+<template #description></template>
+</YouTube>
+
 ## Yulong Snow Mountain
 
 Yulong Snow Mountain, also known as Jade Dragon Snow Mountain, is a renowned natural landmark in the region Composed of 13 peaks, the highest of which, Shanzidou, reaches an altitude of 5,596 meters and is perpetually covered in snow. Yulong Snow Mountain is not only famous for its majestic natural beauty but is also considered a sacred place by the Naxi people.

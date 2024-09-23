@@ -155,7 +155,7 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
       text: 'Lijiang',
       items: [
         { text: 'First Impressions', link: 'lijiang/impressions' },
-        { text: 'Ancient Towns', link: 'lijiang/cityscape' },
+        { text: 'Ancient Towns', link: 'lijiang/ancient' },
       ],
     },
     {

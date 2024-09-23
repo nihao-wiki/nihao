@@ -32,6 +32,17 @@ You can walk to Kuixinglou (the internet-famous attraction that appears to be on
 
 <Map height="30vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.573579,29.559729,Kuixinglou" points="106.530586,29.550659,Liziba Monorail Piercing Building"></Map>
 
+## The Eighteen Steps
+
+The Eighteen Steps is located in the heart of Chongqing and is an ancient street known for its steep steps, which total eighteen in number, hence the name 'Eighteen Steps.' The Eighteen Steps has witnessed the transformation of Chongqing from ancient times to the present day, and it features many preserved traditional buildings.
+
+<YouTube link="https://youtu.be/sWm6Jk-dzCs?si=Y4K0GAIuhlTMVD0y&t=475">
+<template #cover><img src="../assets/youtube/this-is-why-china-surpasses-the-west.jpg" /></template>
+<template #title>هذا هو سبب تفوق الصين على الغرب ! - Chongqing</template>
+<template #author>Ahmed Alshammari</template>
+<template #description></template>
+</YouTube>
+
 ## Mountain City Trails
 
 <Chinese word="山城步道">
