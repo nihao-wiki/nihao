@@ -1,6 +1,6 @@
 <script setup>
 import { computed } from 'vue';
-import pinyin from "pinyin/esm/pinyin";
+import pinyin from "pinyin/amd/pinyin";
 const props = defineProps(['word', 'as', 'pinyin']);
 
 const py = computed(() => pinyin(props.word).join(' '));
