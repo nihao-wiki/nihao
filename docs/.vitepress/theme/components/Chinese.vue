@@ -1,7 +1,14 @@
 <script setup>
+import { onMounted, ref } from 'vue';
 import pinyin from "pinyin";
+
 const props = defineProps(['word', 'as', 'pinyin']);
-const py = pinyin(props.word).join(' ');
+
+const py = ref();
+
+onMounted(() => {
+  py.value = pinyin(props.word).join(' ');
+});
 </script>
 
 <template>
