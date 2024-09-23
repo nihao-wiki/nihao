@@ -17,6 +17,13 @@ Xiaomian is the most famous noodles in Chongqing, known for its spicy and numbin
 <template #description>My Italian family's first visit to the mountain city of Chongqing, marveling at its beauty! Chongqing noodles really suit Italian palates.</template>
 </YouTube>
 
+<YouTube link="https://youtu.be/PK8h0rr9c_U?si=WE6ddHRMAapWGgrc&t=24">
+<template #cover><img src="../../assets/youtube/geihanguorenganmengle.jpg" /></template>
+<template #title>给韩国人干懵了，重庆人怎么起床就是红汤打底</template>
+<template #author>大一的吃货生活</template>
+<template #description>小面搭配骨汤绝了</template>
+</YouTube>
+
 The per capita cost for Xiaomian is around <u><CNY>8</CNY> to <CNY>15</CNY></u>.
 
 ### Portion
