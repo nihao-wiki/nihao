@@ -12,4 +12,5 @@
 <div><i>Region</i><b>Yunnan</b></div>
 <div><i>Location</i><b>Central Yunnan</b></div>
 <div long><i>Attractions</i><b>Stone Forest, Dianchi Lake, Cuihu Lake, Golden Temple, Guandu Ancient Town</b></div>
+<div><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
 </Description>
