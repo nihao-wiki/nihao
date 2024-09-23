@@ -21,7 +21,9 @@ export default defineConfig({
   metaChunk: true,
   /* prettier-ignore */
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.ico', type: 'image/x-icon' }],
+    ['link', { rel: 'shortcut icon', href: '/favicon.ico', type: 'image/x-icon' }],
+    ['link', { rel: 'icon', href: '/favicon.png', type: 'image/png' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     [
       'script',
@@ -60,7 +62,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: { src: '/logo.png', width: 24, height: 30 },
+    logo: { src: '/favicon.png', width: 24, height: 30 },
     outline: [2, 3],
     outlineTitle: '-',
     socialLinks: [{ icon: 'github', link: pkg.repository }],
