@@ -25,11 +25,7 @@ To the south of Erhai is the new urban district, which is also where the train s
 </YouTube>
 
 ::: info LOCAL TIPS
-You can visit the Longkan Ancient Ferry to enjoy Erhai Lake, and then take a sightseeing electric cart or rent an electric scooter to travel along Erhai Lake to Xi Zhou Ancient Town.
-:::
-
-::: info LOCAL TIPS
-Driving around Erhai covers a distance of approximately 150 kilometers. Including stops for sightseeing, the journey typically requires a full day.
+You can visit the Longkan Ancient Ferry to enjoy Erhai Lake, and then take a sightseeing electric cart or rent an electric scooter to travel along the western shore of Erhai Lake to Xi Zhou Ancient Town. The journey is approximately 20 kilometers long.
 :::
 
 <YouTube link="https://youtu.be/27JJX0ZnH9U?si=LpCVUJRCuiVBI_vR&t=1111">
@@ -38,6 +34,10 @@ Driving around Erhai covers a distance of approximately 150 kilometers. Includin
 <template #author>Sun Kissed Bucket List</template>
 <template #description>Exploring the countryside of Rural China had always been a dream of ours. To be able to ride around in the lush green valleys and explore the villages.</template>
 </YouTube>
+
+::: info LOCAL TIPS
+Driving around Erhai covers a distance of approximately 150 kilometers. Including stops for sightseeing, the journey typically requires a full day. You can set your navigation route as follows: Start counterclockwise from **Dali Ancient City, heading to Santorini Dali, then Wenbi Village, followed by Shuanglang Ancient Town (with a stop for lunch), then Xizhou Ancient Town, and finally back to Dali Ancient City**.
+:::
 
 ## Dali Ancient City
 
