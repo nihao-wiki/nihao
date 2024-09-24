@@ -15,6 +15,7 @@ import CNY from './components/CNY.vue';
 import Currency from './components/Currency.vue';
 import Latest from './components/Latest.vue';
 import Description from './components/Description.vue';
+import Blog from './layouts/Blog.vue';
 import './styles/index.css';
 
 export default {
@@ -30,6 +31,7 @@ export default {
     app.component('CNY', CNY);
     app.component('Currency', Currency);
     app.component('Description', Description);
+    app.component('blog', Blog);
   },
   Layout() {
     return h(defaultTheme.Layout, null, {
