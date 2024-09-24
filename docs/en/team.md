@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Team
+title: 'Join Our Team: Contribute to Maintaining Together'
 ---
 
 <script setup>

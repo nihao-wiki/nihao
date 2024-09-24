@@ -1,4 +1,4 @@
-# Connect in China: Essential Apps & Mobile Internet
+# Connect in China with Essential Apps & Mobile Internet
 
 ## Stay Online
 
