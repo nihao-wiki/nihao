@@ -32,6 +32,13 @@ You can visit the Longkan Ancient Ferry to enjoy Erhai Lake, and then take a sig
 Driving around Erhai covers a distance of approximately 150 kilometers. Including stops for sightseeing, the journey typically requires a full day.
 :::
 
+<YouTube link="https://youtu.be/27JJX0ZnH9U?si=LpCVUJRCuiVBI_vR&t=1111">
+<template #cover><img src="../../assets/youtube/we-lost-in-dali.jpg" /></template>
+<template #title>WE GOT LOST in Dali</template>
+<template #author>Sun Kissed Bucket List</template>
+<template #description>Exploring the countryside of Rural China had always been a dream of ours. To be able to ride around in the lush green valleys and explore the villages.</template>
+</YouTube>
+
 ## Dali Ancient City
 
 The history of Dali Ancient City can be traced back to the Nanzhao Kingdom, which was established in the early 8th century. Dali became a significant political center during the rule of the Duan family under the Dali Kingdom (937 to 1253), when it reached its peak. The current incarnation of Dali Old Town began its construction during the Hongwu period of the Ming Dynasty, around 1382 AD. Thus, if counted from the Ming Dynasty reconstruction, Dali Old Town has a history of over 600 years.
