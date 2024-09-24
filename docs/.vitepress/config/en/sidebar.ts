@@ -156,11 +156,8 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'First Impressions', link: 'lijiang/impressions' },
         { text: 'Ancient Towns', link: 'lijiang/ancient' },
+        { text: 'Alpine Wonders', link: 'lijiang/wonders' },
       ],
-    },
-    {
-      text: 'Shangri-la',
-      items: [{ text: 'Natural Wonders', link: 'shangri-la/wonders' }],
     },
     {
       text: 'Xishuangbanna',
@@ -188,13 +185,18 @@ function sidebarHainan(): DefaultTheme.SidebarItem[] {
 
 function sidebarQingdao(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'First Impressions', link: 'impressions' },
     {
-      text: 'Cuisine',
+      text: 'Qingdao',
       items: [
-        { text: 'Tsingtao Beer', link: 'beer' },
-        { text: 'Dumplings', link: 'dumplings' },
-        { text: 'Seafood', link: 'seafood' }
+        { text: 'First Impressions', link: 'impressions' },
+        {
+          text: 'Cuisine',
+          items: [
+            { text: 'Tsingtao Beer', link: 'beer' },
+            { text: 'Dumplings', link: 'dumplings' },
+            { text: 'Seafood', link: 'seafood' },
+          ],
+        },
       ],
     },
   ];
@@ -202,23 +204,60 @@ function sidebarQingdao(): DefaultTheme.SidebarItem[] {
 
 function sidebarChengdu(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'First Impressions', link: 'impressions' },
-    { text: 'Panda Base', link: 'panda' },
+    {
+      text: 'Chengdu',
+      items: [
+        { text: 'First Impressions', link: 'impressions' },
+        { text: 'Panda Base', link: 'panda' },
+      ],
+    },
   ];
 }
 
 function sidebarBeijing(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'First Impressions', link: 'impressions' },
-    { text: 'Imperial Traces', link: 'imperial' },
-    { text: 'Halal Culture', link: 'halal' },
+    {
+      text: 'Beijing',
+      items: [
+        { text: 'First Impressions', link: 'impressions' },
+        { text: 'Imperial Traces', link: 'imperial' },
+        { text: 'Halal Culture', link: 'halal' },
+      ],
+    },
   ];
 }
 
 function sidebarNanjing(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'First Impressions', link: 'impressions' },
-    { text: 'Cuisine', link: 'cuisine' },
+    {
+      text: 'Nanjing',
+      items: [
+        { text: 'First Impressions', link: 'impressions' },
+        { text: 'Cuisine', link: 'cuisine' },
+      ],
+    },
+  ];
+}
+
+function sidebarShanghai(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Shanghai',
+      items: [
+        { text: 'First Impressions', link: 'impressions' },
+      ],
+    },
+  ];
+}
+
+function sidebarHangzhou(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Hangzhou',
+      items: [
+        { text: 'First Impressions', link: 'impressions' },
+      ],
+    },
   ];
 }
 
@@ -231,4 +270,6 @@ export default {
   '/chengdu/': { base: '/chengdu/', items: sidebarChengdu() },
   '/beijing/': { base: '/beijing/', items: sidebarBeijing() },
   '/nanjing/': { base: '/nanjing/', items: sidebarNanjing() },
+  '/shanghai/': { base: '/shanghai/', items: sidebarShanghai() },
+  '/hangzhou/': { base: '/hangzhou/', items: sidebarHangzhou() },
 };

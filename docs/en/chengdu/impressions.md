@@ -10,5 +10,5 @@
 <div><i>Population</i><b>21 million</b></div>
 <div><i>Region</i><b>Central Sichuan</b></div>
 <div long><i>Attractions</i><b>Dujiangyan, Mount Qingcheng, Du Fu's Thatched Cottage, Wuhou Temple, Panda Breeding Research Base, Kuanzhai Alley</b></div>
-<div><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
+<div long><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
 </Description>

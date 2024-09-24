@@ -12,7 +12,7 @@
 <div><i>Region</i><b>Southwest China</b></div>
 <div long><i>Location</i><b>Upper reaches of the Yangtze River, southwestern inland China</b></div>
 <div long><i>Attractions</i><b><a href="/chongqing/cityscape#hongyadong">Hongyadong</a>, <a href="/chongqing/dazu">Dazu Rock Carvings</a>, <a href="/chongqing/wulong">Wulong Karst Tourism Area</a>, <a href="/chongqing/three-gorges">Yangtze River Three Gorges</a>, Ciqikou Ancient Town, <a href="/chongqing/cityscape#the-two-rivers-tour">Yangtze River Cableway</a></b></div>
-<div><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
+<div long><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
 </Description>
 
 <YouTube link="https://youtu.be/0kfhyOKM888?si=AzCMWcMNKhRYBnCb">

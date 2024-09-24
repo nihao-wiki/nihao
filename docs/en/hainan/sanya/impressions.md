@@ -9,5 +9,5 @@
 <div><i>Population</i><b>7 million</b></div>
 <div><i>Region</i><b>Southern Hainan Island</b></div>
 <div long><i>Attractions</i><b>Yalong Bay, Sanya Bay, and Tianyahaijiao</b></div>
-<div><i>Visa Strategy</i><b><a href="/guide/visa#visa-free-entry-to-hainan">Visa Free Entry to Hainan</a></b></div>
+<div long><i>Visa Strategy</i><b><a href="/guide/visa#visa-free-entry-to-hainan">Visa Free Entry to Hainan</a></b></div>
 </Description>

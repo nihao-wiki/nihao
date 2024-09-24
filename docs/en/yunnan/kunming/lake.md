@@ -1,8 +1,8 @@
 # Kunming: The Spring City of Yunnan
 
-## Dian Lake
+## Dianchi Lake
 
-Dian Lake, also known as Kunming Lake, is a large lake located near the city. It is the largest lake in Yunnan Province and the sixth-largest freshwater lake in China. Situated at an altitude of approximately 1,886 meters, the lake covers an area of about 330 square kilometers and has a slightly crescent shape, earning it the "Pearl of the Plateau."
+Dianchi Lake, also known as Kunming Lake, is a large lake located near the city. It is the largest lake in Yunnan Province and the sixth-largest freshwater lake in China. Situated at an altitude of approximately 1,886 meters, the lake covers an area of about 330 square kilometers and has a slightly crescent shape, earning it the "Pearl of the Plateau."
 
 Every winter, thousands of seagulls fly from the distant regions of Siberia to spend the winter at Dianchi Lake. These seagulls typically begin arriving at here from late October to early November and remain there until the end of March or early April of the following year. People feed these seagulls at locations around the lake and also at Cuihu Park within the city.
 
@@ -23,7 +23,7 @@ The seagulls generally roost overnight in Cuihu Park.
 Because there are many people feeding the seagulls, the best time for the experience may be in the morning. You can take the cable car up to the Western Hills after feeding the seagulls.
 :::
 
-Taking the cable car allows visitors to enjoy panoramic views of Dian Lake and the city of Kunming, providing a unique perspective of the landscape.
+Taking the cable car allows visitors to enjoy panoramic views of Dianchi Lake and the city of Kunming, providing a unique perspective of the landscape.
 
 <YouTube link="https://youtu.be/4NXieWrJLKM?si=TanaHwOKEAvgFwKf&t=1104">
 <template #cover><img src="../../assets/youtube/we-cant-believe-this-is-kunming.jpg" /></template>

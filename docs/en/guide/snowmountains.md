@@ -39,7 +39,7 @@
 <Description>
 <div><i>Elevation</i><b>6,740 meters</b></div>
 <div><i>FirstAscent</i><b>never</b></div>
-<div><i>Location</i><b><a href="/yunnan/shangri-la/wonders#meili-snow-mountain">Yunan</a></b></div>
+<div><i>Location</i><b><a href="/yunnan/lijiang/wonders#meili-snow-mountain">Yunan</a></b></div>
 </Description>
 
 ## Three Holy Mountains of Yading

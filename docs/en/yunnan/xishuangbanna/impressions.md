@@ -12,5 +12,5 @@
 <div><i>Region</i><b>Yunnan</b></div>
 <div><i>Location</i><b>Southernmost Yunnan</b></div>
 <div long><i>Attractions</i><b>Tropical Botanical Garden, Mangle Grand Buddha Temple, Wild Elephant Valley, Dai Ethnic Village</b></div>
-<div><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
+<div long><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
 </Description>
