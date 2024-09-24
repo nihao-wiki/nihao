@@ -9,5 +9,5 @@
 <div><i>Population</i><b>9 million</b></div>
 <div long><i>Location</i><b>East China, lower reaches of the Yangtze River, southwestern Jiangsu</b></div>
 <div><i>Attractions</i><b>Sun Yat-sen Mausoleum, Confucius Temple, Ming Xiaoling Mausoleum, Ming City Wall, Purple Mountain</b></div>
-<div><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
+<div long><i>Visa Strategy</i><b><a href="/guide/visa#_144-hour-transit-visa-exemption">144-Hour Transit Visa</a></b></div>
 </Description>
