@@ -2,14 +2,56 @@
 
 ## Skywalk Cloud Stroll
 
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime</b></div>
+<div><i>Duration of Stay</i><b>30 Minutes</b></div>
+<div><i>Transportation</i><b>Walk</b></div>
+<div><i>Crowd Level</i><b>Quiet</b></div>
+<div><i>Ticket Price</i><b><CNY>198</CNY></b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
+
 "Skywalk Cloud Stroll" is a high-altitude observation experience at Raffles City Chongqing. It offers visitors the opportunity to overlook the urban landscape of Chongqing from hundreds of meters above the ground. Such a height provides a sense of the city's expanse and beauty, while also bringing a certain level of thrill.
 
-<YouTube link="https://youtu.be/oRiCTslilJo?si=7sQ-qtAe11a8YKqo">
+<YouTube link="https://youtu.be/ui-I6Jg7Qsc?si=TJKyX1QGnK_SRfX7&t=959">
 <template #cover><img src="../assets/youtube/chongqing-the-city-that-defies-expectations.jpg" /></template>
 <template #title>Chongqing: The City That Defies Expectations</template>
 <template #author>Wilko Wanders</template>
 <template #description>China’s Mega City Chongqing Blew my mind 🤯 and not just because of the spicy hotpots! 🌶️</template>
 </YouTube>
+
+## KuixingLou
+
+<Chinese word="魁星楼">
+<template #pinyin>kuí xīng lóu</template>
+KuixingLou
+</Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime</b></div>
+<div><i>Duration of Stay</i><b>Minutes</b></div>
+<div><i>Transportation</i><b>Walk</b></div>
+<div><i>Activities</i><b>Take Pictures</b></div>
+<div><i>Crowd Level</i><b>Quiet</b></div>
+<div><i>Ticket Price</i><b>Free</b></div>
+<div><i>Recommendation</i><b>Not Recommended</b></div>
+</Description>
+
+<YouTube link="https://youtu.be/oRiCTslilJo?si=7sQ-qtAe11a8YKqo">
+<template #cover><img src="../assets/youtube/chongqing-is-one-another-level.jpg" /></template>
+<template #title>Chongqing Is On Another Level</template>
+<template #author>Skan Escapes</template>
+<template #description>A city built upon landscapes of hills , rivers, and valleys.
+It's truly incredible ! A city is a mega city and quickly becoming a huge tourist attraction to many!</template>
+</YouTube>
+
+You may have already seen it online, that place where you think you're on the 1st floor but you're actually on the 22nd. You might not be able to imagine why this is so, or perhaps, as mentioned in "The Prestige," you might not actually want to know the truth; you might just want to be fooled.
+
+![Kuixinlou](./assets/kuixinlou.jpg)
+
+::: info LOCAL TIPS
+You can walk to Kuixinglou for a visit, and then take Line 2 of the monorail from the nearby Linjiangmen Station to reach Liziba Station.
+:::
 
 ## Liziba Light Rail Passing Through a Building 
 
@@ -26,10 +68,6 @@ The Liziba Light Rail passing through a building is a unique urban feature in Ch
 <template #author>Касё Гасанов</template>
 <template #description>Taking the Chongqing Light Rail, I arrived at the most famous online celebrity check-in spot.</template>
 </YouTube>
-
-::: info LOCAL TIPS
-You can walk to Kuixinglou (the internet-famous attraction that appears to be on the 1st floor but is actually on the 28th floor) for a visit, and then take Line 2 of the monorail from the nearby Linjiangmen Station to reach Liziba Station.
-:::
 
 <Map height="30vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.573579,29.559729,Kuixinglou" points="106.530586,29.550659,Liziba Monorail Piercing Building"></Map>
 
