@@ -7,6 +7,19 @@
 Small Noddles
 </Chinese>
 
+<Description>
+<div><i>Type</i><b>Meal</b></div>
+<div><i>Ingredients</i><b>Wheat Flour</b></div>
+<div><i>Flavor</i><b>Adjustable Spiciness</b></div>
+<div><i>Price</i><b><CNY>8</CNY> to <CNY>15</CNY></b></div>
+<div><i>Vegetarian</i><b>Can Be Made</b></div>
+<div><i>Note</i><b>May Contain Pork</b></div>
+<div><i>Recommendation</i><b>Strongly Recommended</b></div>
+<div><i>Dining Duration</i><b>Minutes</b></div>
+<div><i>Dining Method</i><b>Dine-in</b></div>
+<div><i>Commonness</i><b>Very Common</b></div>
+</Description>
+
 Xiaomian is the most famous noodles in Chongqing, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
 
 <YouTube link="https://youtu.be/ZehhL5mXV4c?si=KvMraWn0R9m9woSD&t=80">
@@ -22,8 +35,6 @@ Xiaomian is the most famous noodles in Chongqing, known for its spicy and numbin
 <template #author>大一的吃货生活</template>
 <template #description>Noodles with bone broth are perfect.</template>
 </YouTube>
-
-The per capita cost for Xiaomian is around <u><CNY>8</CNY> to <CNY>15</CNY></u>.
 
 ### Portion
 
@@ -164,6 +175,19 @@ Chongqing's <Speech>鸡汁米线</Speech>(Chicken Broth Rice Noodle) is a popula
 Wonton
 </Chinese>
 
+<Description>
+<div><i>Type</i><b>Meal</b></div>
+<div><i>Ingredients</i><b>Wheat Flour, Pork</b></div>
+<div><i>Flavor</i><b>Adjustable Spiciness</b></div>
+<div><i>Price</i><b><CNY>16</CNY> to <CNY>25</CNY></b></div>
+<div><i>Vegetarian</i><b>No</b></div>
+<div><i>Note</i><b>May Contain Pork</b></div>
+<div><i>Recommendation</i><b>Normal</b></div>
+<div><i>Dining Duration</i><b>Minutes</b></div>
+<div><i>Dining Method</i><b>Dine-in</b></div>
+<div><i>Commonness</i><b>Very Common</b></div>
+</Description>
+
 In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子</Speech>(Dumplings), and <Speech>馄饨</Speech>(Wontons) are all popular traditional foods. Although they share some similarities in appearance, there are distinct differences in their preparation methods, shapes, and ways of eating.
 
 <Speech>抄手</Speech>(Chao Shou) usually have pork as the main ingredient, and sometimes other meats such as shrimp or chicken are added, along with seasonings like scallions and ginger. The wrapper is thin and soft, typically using specialized Chao Shou wrappers that are smaller and more delicate than dumpling wrappers. Chongqing-style Chao Shou generally has a richer and spicier flavor profile.
@@ -180,6 +204,19 @@ In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子<
 <Chinese word="酸辣粉">
 Sour and Spicy Sweet Potato Noddles
 </Chinese>
+
+<Description>
+<div><i>Type</i><b>Meal, Snack</b></div>
+<div><i>Ingredients</i><b>Sweet Potato Flour</b></div>
+<div><i>Flavor</i><b>Adjustable Spiciness</b></div>
+<div><i>Price</i><b><CNY>6</CNY> to <CNY>10</CNY></b></div>
+<div><i>Vegetarian</i><b>Can Be Made</b></div>
+<div><i>Note</i><b>-</b></div>
+<div><i>Recommendation</i><b>Normal</b></div>
+<div><i>Dining Duration</i><b>Minutes</b></div>
+<div><i>Dining Method</i><b>Dine-in, Take-away</b></div>
+<div><i>Commonness</i><b>Common</b></div>
+</Description>
 
 It can be considered a main meal or a street food; you can find it in noodle shops, but more often it's available at snack bars.
 

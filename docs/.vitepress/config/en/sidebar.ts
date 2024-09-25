@@ -178,7 +178,10 @@ function sidebarHainan(): DefaultTheme.SidebarItem[] {
     },
     {
       text: 'Sanya',
-      items: [{ text: 'First Impressions', link: 'sanya/impressions' }],
+      items: [
+        { text: 'First Impressions', link: 'sanya/impressions' },
+        { text: 'Coastline Experience', link: 'sanya/coastline' },
+      ],
     },
   ];
 }
@@ -243,9 +246,7 @@ function sidebarShanghai(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Shanghai',
-      items: [
-        { text: 'First Impressions', link: 'impressions' },
-      ],
+      items: [{ text: 'First Impressions', link: 'impressions' }],
     },
   ];
 }
@@ -254,9 +255,7 @@ function sidebarHangzhou(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Hangzhou',
-      items: [
-        { text: 'First Impressions', link: 'impressions' },
-      ],
+      items: [{ text: 'First Impressions', link: 'impressions' }],
     },
   ];
 }
