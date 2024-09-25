@@ -1,14 +1,5 @@
 <script setup>
-import { onMounted, ref } from 'vue';
-import pinyin from "pinyin";
-
-const props = defineProps(['word', 'as', 'pinyin']);
-
-const py = ref();
-
-onMounted(() => {
-  py.value = pinyin(props.word).join(' ');
-});
+const props = defineProps(['word', 'as']);
 </script>
 
 <template>
@@ -20,7 +11,7 @@ onMounted(() => {
         <div class="dash vertical"></div>
       </div>
       <div class="description">
-        <div>{{ props.pinyin || py }} <slot name="ipa"></slot> <Speech :as="props.as || props.word"></Speech></div>
+        <div><slot name="pinyin"></slot> <slot name="ipa"></slot> <Speech :as="props.as || props.word"></Speech></div>
         <div><slot></slot></div>
       </div>
     </div>

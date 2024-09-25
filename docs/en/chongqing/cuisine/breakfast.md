@@ -5,6 +5,7 @@ Chongqing breakfast features the "Five Greats", which include Soy Milk, Fried Do
 ### Soy Milk and Fried Dough Sticks
 
 <Chinese word="豆浆">
+<template #pinyin>dòu jiāng</template>
 Soy Milk
 </Chinese>
 
@@ -24,6 +25,7 @@ Soy Milk
 Sweet Soy Milk is a very popular traditional Chinese beverage, especially during breakfast. It is made from yellow soybeans and goes through the processes of soaking, grinding, boiling, and straining.
 
 <Chinese word="油条">
+<template #pinyin>yóu tiáo</template>
 Fried Dough Sticks
 </Chinese>
 
@@ -45,6 +47,7 @@ deep-fried dough sticks is often dipped into the soy milk, which softens the dou
 ### Fried Glutinous Rice Cakes
 
 <Chinese word="糍粑块">
+<template #pinyin>cí bā kuài</template>
 Fried Glutinous Rice Cakes
 </Chinese>
 
@@ -66,6 +69,7 @@ Rice cake pieces are typically shaped into flat forms and then deep-fried in hot
 ### Fried Glutinous Rice Cakes
 
 <Chinese word="糯米团">
+<template #pinyin>nuò mǐ tuán</template>
 Fried Glutinous Rice Cakes
 </Chinese>
 
@@ -87,6 +91,7 @@ The outer layer of the glutinous rice ball is coated with a thick layer of yello
 ### Oily Tea
 
 <Chinese word="油茶">
+<template #pinyin>yóu chá</template>
 Oily Tea
 </Chinese>
 
@@ -108,6 +113,7 @@ Despite having "tea" in its name, it is not actually a tea beverage but rather a
 ### Saucy Pork Bun
 
 <Chinese word="酱肉包子">
+<template #pinyin>jiàng ròu bāo zǐ</template>
 Saucy Pork Bun
 </Chinese>
 
@@ -127,6 +133,7 @@ Saucy Pork Bun
 The main feature of saucy meat buns is their unique filling – saucy meat. This filling is typically made from pork that has been marinated with special soy sauce, sugar, five-spice powder, and various other seasonings, resulting in tender and flavorful meat with a rich, savory aroma. The exterior of the bun is soft, while the filling is juicy and savory-sweet, with an aromatic sauce permeating throughout.
 
 <Chinese word="鲜肉包子">
+<template #pinyin>xiān ròu bāo zi</template>
 Fresh Pork Bun
 </Chinese>
 

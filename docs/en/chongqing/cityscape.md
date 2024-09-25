@@ -14,6 +14,7 @@
 ## Liziba Light Rail Passing Through a Building 
 
 <Chinese word="李子坝">
+<template #pinyin>lǐ zǐ bà</template>
 Liziba
 </Chinese>
 
@@ -46,6 +47,7 @@ The Eighteen Steps is located in the heart of Chongqing and is an ancient street
 ## Mountain City Trails
 
 <Chinese word="山城步道">
+<template #pinyin>shān chéng bù dào</template>
 Mountain City Trails
 </Chinese>
 
@@ -65,6 +67,7 @@ Chongqing has many hidden pedestrian paths that you can choose from based on you
 ## Yangtze River Cable Car
 
 <Chinese word="长江索道">
+<template #pinyin>cháng jiāng suǒ dào</template>
 Yangtze River Cable Car
 </Chinese>
 
@@ -92,6 +95,7 @@ If you choose to hike up the mountain to watch the sunset, please bring a flashl
 ## Hongyadong
 
 <Chinese word="洪崖洞">
+<template #pinyin>hóng yá dòng</template>
 Hongyadong
 </Chinese>
 
@@ -112,6 +116,7 @@ You can take the Monorail Line 1 from Xiaoshizi Station and get off at the Grand
 ## The Two Rivers Tour
 
 <Chinese word="两江游">
+<template #pinyin>liǎng jiāng yóu</template>
 The Two Rivers Tour
 </Chinese>
 
