@@ -3,6 +3,7 @@
 ## Introduction
 
 <Chinese word="火锅">
+<template #pinyin>huǒ guō</template>
 Chongqing hotpot
 </Chinese>
 

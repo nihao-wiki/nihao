@@ -7,6 +7,7 @@ The zoo was opened to the public in January 1955. It covers an area of 43.5 hect
 ### Giant Pandas
 
 <Chinese word="大熊猫">
+<template #pinyin>dà xióng māo</template>
 Giant Pandas
 </Chinese>
 

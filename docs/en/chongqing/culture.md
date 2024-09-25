@@ -5,6 +5,7 @@ Chongqing historically was part of the ancient states of Ba and Shu. Ba-Yu cultu
 ## Laojundong
 
 <Chinese word="老君洞">
+<template #pinyin>lǎo jūn dòng</template>
 Laojundong
 </Chinese>
 
@@ -27,6 +28,7 @@ Laojundong is a historic Taoist sanctuary. It is situated on Laojun Mountain at 
 ## Luohan Temple
 
 <Chinese word="罗汉寺">
+<template #pinyin>luó hàn sì</template>
 Luohan Temple
 </Chinese>
 
