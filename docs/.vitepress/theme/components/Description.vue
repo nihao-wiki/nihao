@@ -29,6 +29,13 @@ const props = defineProps({
 .description-container div[long] {
   width: 100%;
 }
+
+@media (max-width: 768px) {
+  .description-container div {
+    width: 100%;
+  }
+}
+
 .description-container div i {
   font-style: normal;
   color: var(--vp-c-text-2);
