@@ -2,10 +2,10 @@
 
 ## Lijiang Ancient City
 
-The history of Dali Ancient City can be traced back to the Nanzhao Kingdom, which was established in the early 8th century. Dali became a significant political center during the rule of the Duan family under the Dali Kingdom (937 to 1253), when it reached its peak. The current incarnation of Dali Old Town began its construction during the Hongwu period of the Ming Dynasty, around 1382 AD. Thus, if counted from the Ming Dynasty reconstruction, Dali Old Town has a history of over 600 years.
+Lijiang Ancient City is a well-preserved minority ancient town and is recognized as a UNESCO World Heritage site. The history of the ancient city dates back to the Song and Yuan dynasties, with a history spanning over 800 years. Its distinctive features include unique architectural styles and an intricate network of waterways. Most of the buildings here retain the style of the Ming and Qing dynasties, primarily constructed with wooden structures. The water channels within the ancient city originate from the melted snow waters of Yulong Snow Mountain, flowing through every corner of the ancient town.
 
 <YouTube link="https://youtu.be/UI5kl3ynt_k?si=Mwt4-jG_nKwsnur3&t=69">
-<template #cover><img src="../../assets/youtube/impression-dali.jpg" /></template>
+<template #cover><img src="../../assets/youtube/chinese-hospitality-left-us-speechless.jpg" /></template>
 <template #title>Chinese Hospitality Left us Speechless</template>
 <template #author>Two Mad Explorers</template>
 <template #description>Today we are exploring the real Lijiang in Yunnan. We meet some incredibly friendly locals and have a good laugh with them.</template>
