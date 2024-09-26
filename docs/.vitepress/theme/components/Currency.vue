@@ -12,7 +12,7 @@ const { currency, currencies } = useCurrency();
 
 <style scoped>
 .select {
-  border: 1px solid var(--vp-c-text-3);
+  border: 1px solid var(--vp-input-border-color);
   border-radius: 4px;
   padding: 0 4px;
 }
