@@ -10,13 +10,35 @@ You can take a train for about 2 hours to get to Wulong, and the train station i
 
 ## Tian Sheng San Qiao
 
+<Chinese word="天生三桥">
+<template #pinyin>tiān shēng sān qiáo</template>
+Tian Sheng San Qiao
+</Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime</b></div>
+<div><i>Activities</i><b>Sightseeing</b></div>
+<div><i>Crowd Level</i><b>Quiet</b></div>
+<div><i>Ticket Price</i><b><CNY>125</CNY></b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
+
 Tian Sheng San Qiao (Three Natural Bridges) is the world's largest cluster of natural arch bridges.
 
-## Furong Cave
-
-Furong Cave is a spectacular underground cave system filled with intricate stalactites and stalagmites.
-
 ## Xian Nv Shan
+
+<Chinese word="仙女山">
+<template #pinyin>xiān nǚ shān</template>
+Xian Nv Shan
+</Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime</b></div>
+<div><i>Activities</i><b>Sightseeing</b></div>
+<div><i>Crowd Level</i><b>Quiet</b></div>
+<div><i>Ticket Price</i><b><CNY>50</CNY></b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
 
 Xian Nv Shan (Fairy Mountain) is a scenic national park with dense forests, waterfalls, and streams.
 

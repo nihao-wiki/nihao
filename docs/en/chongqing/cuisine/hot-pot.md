@@ -7,6 +7,19 @@
 Chongqing hotpot
 </Chinese>
 
+<Description>
+<div><i>Type</i><b>Lunch, Dinner</b></div>
+<div long><i>Ingredients</i><b>Beef Tallow, Sichuan Peppercorns, Chili Peppers</b></div>
+<div><i>Flavor</i><b>Adjustable Spiciness</b></div>
+<div><i>Price</i><b><CNY>60</CNY> to <CNY>100</CNY> per person</b></div>
+<div><i>Vegetarian</i><b>No</b></div>
+<div><i>Note</i><b>May Contain Pork</b></div>
+<div><i>Recommendation</i><b>Strongly Recommended</b></div>
+<div><i>Dining Duration</i><b>Hours</b></div>
+<div><i>Dining Method</i><b>Dine-in</b></div>
+<div><i>Commonness</i><b>Very Common</b></div>
+</Description>
+
 Chongqing hotpot originated on the Yangtze River banks in the early 20th century. Dock workers cooked cheaper offal and scraps in a broth of chili and Sichuan pepper. Over time, this developed into the distinctive Chongqing hotpot.
 
 The estimated number of hotpot restaurants in Chongqing is around 30,000. Chongqing residents' love for hotpot knows no season; even in the scorching summer, the allure of hotpot remains undiminished.
@@ -29,8 +42,7 @@ Above all, it is <u>a social dining style</u> where friends and family eat toget
 <template #description>I met an excellent actor, and we've been trying to meet up for about two years. Today, we finally did, and he said he'd take me to a great place to eat. We'll see how the taste and price feel.</template>
 </YouTube>
 
-
-The per person cost is generally between <u><CNY>60</CNY> to <CNY>100</CNY></u>. Most restaurants operate <u>from noon until midnight</u>, with some staying open as late as 2 a.m.
+Most restaurants operate <u>from noon until midnight</u>, with some staying open as late as 2 a.m.
 
 ### Diversity
 

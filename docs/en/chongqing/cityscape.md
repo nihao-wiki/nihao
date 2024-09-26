@@ -4,8 +4,8 @@
 
 <Description>
 <div><i>Best Time to Visit</i><b>Daytime</b></div>
-<div><i>Duration of Stay</i><b>30 Minutes</b></div>
-<div><i>Transportation</i><b>Walk</b></div>
+<div><i>Duration of Stay</i><b>1 Hour</b></div>
+<div><i>Activities</i><b>Sightseeing, Thrilling</b></div>
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b><CNY>198</CNY></b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
@@ -30,8 +30,7 @@ KuixingLou
 <Description>
 <div><i>Best Time to Visit</i><b>Daytime</b></div>
 <div><i>Duration of Stay</i><b>Minutes</b></div>
-<div><i>Transportation</i><b>Walk</b></div>
-<div><i>Activities</i><b>Take Pictures</b></div>
+<div><i>Activities</i><b>Check-in</b></div>
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b>Free</b></div>
 <div><i>Recommendation</i><b>Not Recommended</b></div>
@@ -60,6 +59,15 @@ You can walk to Kuixinglou for a visit, and then take Line 2 of the monorail fro
 Liziba
 </Chinese>
 
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime</b></div>
+<div><i>Duration of Stay</i><b>Minutes</b></div>
+<div><i>Activities</i><b>Check-in</b></div>
+<div><i>Crowd Level</i><b>Crowd</b></div>
+<div><i>Ticket Price</i><b>Free</b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
+
 The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
 
 <YouTube link="https://youtu.be/qAwbioLzTkk?si=tLuCzXjMDcMGuJd7&t=439">
@@ -72,6 +80,19 @@ The Liziba Light Rail passing through a building is a unique urban feature in Ch
 <Map height="30vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.573579,29.559729,Kuixinglou" points="106.530586,29.550659,Liziba Monorail Piercing Building"></Map>
 
 ## The Eighteen Steps
+
+<Chinese word="十八梯">
+<template #pinyin>shí bā tī</template>
+The Eighteen Steps
+</Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Anytime</b></div>
+<div><i>Activities</i><b>Sightseeing</b></div>
+<div><i>Crowd Level</i><b>Crowd</b></div>
+<div><i>Ticket Price</i><b>Free</b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
 
 The Eighteen Steps is located in the heart of Chongqing and is an ancient street known for its steep steps, which total eighteen in number, hence the name 'Eighteen Steps.' The Eighteen Steps has witnessed the transformation of Chongqing from ancient times to the present day, and it features many preserved traditional buildings.
 
@@ -88,6 +109,14 @@ The Eighteen Steps is located in the heart of Chongqing and is an ancient street
 <template #pinyin>shān chéng bù dào</template>
 Mountain City Trails
 </Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime</b></div>
+<div><i>Activities</i><b>Strolling</b></div>
+<div><i>Crowd Level</i><b>Quiet</b></div>
+<div><i>Ticket Price</i><b>Free</b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
 
 Mountain City Trails typically refer to pedestrian paths built in mountainous cities to facilitate travel for pedestrians. In China, Chongqing is a famous mountain city with many characteristic mountain city trails. These trails are not only a choice for daily commuting for locals but also popular attractions for tourists to experience the unique terrain and culture of Chongqing.
 
@@ -109,9 +138,30 @@ Chongqing has many hidden pedestrian paths that you can choose from based on you
 Yangtze River Cable Car
 </Chinese>
 
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime, Nighttime</b></div>
+<div><i>Activities</i><b>Sightseeing</b></div>
+<div><i>Crowd Level</i><b>Very Crowd</b></div>
+<div><i>Ticket Price</i><b><CNY>20</CNY> to <CNY>30</CNY></b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
+
 The Yangtze River Cable Car is a cable car system that crosses the Yangtze River in Chongqing, China. It was originally designed and used as a means of public transportation in Chongqing, China. Over time, it has become a popular tourist attraction while still serving as a form of transit for locals.
 
-## Sunset View
+## Nanshan
+
+<Chinese word="南山">
+<template #pinyin>nán shān</template>
+Nanshan
+</Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime, Nighttime</b></div>
+<div><i>Activities</i><b>Sightseeing, Hiking</b></div>
+<div><i>Crowd Level</i><b>Quiet</b></div>
+<div><i>Ticket Price</i><b>Free</b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
 
 Nanshan, also known as South Mountain, is a scenic area in the Nan'an District of Chongqing. It offers some of the best views of the city and is particularly known for its breathtaking night scenes. From the top of Nanshan, you can enjoy panoramic views of Chongqing, including its impressive skyline, the convergence of the Yangtze and Jialing rivers, and the city's many bridges and lights.
 
@@ -122,7 +172,7 @@ Nanshan, also known as South Mountain, is a scenic area in the Nan'an District o
 <template #description>Away from the hustle and bustle of 32 million people, We found a hidden trail leading to a sky forest bar where We could watch the city sunset; We found the magic spot.</template>
 </YouTube>
 
-### Nanshan Hiking Trail
+### Hiking Trail
 
 In addition to taking a vehicle up Nanshan, you can also choose to hike up the mountain using one of several hidden hiking trails available.
 
@@ -136,6 +186,14 @@ If you choose to hike up the mountain to watch the sunset, please bring a flashl
 <template #pinyin>hóng yá dòng</template>
 Hongyadong
 </Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Nighttime</b></div>
+<div><i>Activities</i><b>Check-in</b></div>
+<div><i>Crowd Level</i><b>Very Crowd</b></div>
+<div><i>Ticket Price</i><b>Free</b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
 
 Hongya Cave, also known as Hongyadong, is a famous landmark and tourist attraction in Chongqing. It is a multi-level complex featuring traditional Sichuan-style architecture. The buildings are built into the side of a cliff, overlooking the Jialing River, and are illuminated at night, creating a spectacular sight.
 
@@ -157,6 +215,14 @@ You can take the Monorail Line 1 from Xiaoshizi Station and get off at the Grand
 <template #pinyin>liǎng jiāng yóu</template>
 The Two Rivers Tour
 </Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Nighttime</b></div>
+<div><i>Activities</i><b>Sightseeing</b></div>
+<div><i>Crowd Level</i><b>Quiet</b></div>
+<div><i>Ticket Price</i><b><CNY>98</CNY> to <CNY>258</CNY></b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
 
 The Two Rivers Tour usually passes by some famous landmarks, such as Chaotianmen, Hongyadong, and Nanbin Road. The night tour of the two rivers is particularly charming because when night falls, the lights on both banks shine brilliantly, presenting another kind of beauty to the entire city.
 
