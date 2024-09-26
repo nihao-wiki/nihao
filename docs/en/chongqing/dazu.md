@@ -6,6 +6,14 @@
 The Dazu Rock Carvings
 </Chinese>
 
+<Description>
+<div><i>Best Time to Visit</i><b>Daytime</b></div>
+<div><i>Activities</i><b>Sightseeing</b></div>
+<div><i>Crowd Level</i><b>Quiet</b></div>
+<div><i>Ticket Price</i><b><CNY>115</CNY></b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
+
 The Dazu Rock Carvings are a series of Buddhist cave temples and carvings located in Dazu District, Chongqing. These rock carvings are renowned for their exceptional artistry and the diversity of their religious subjects, which include not only Buddhism but also Taoism and Confucianism. The carvings span several centuries, from the late Tang Dynasty through the Song Dynasty (650–1250 AD).
 
 These rock carvings not only number in great quantity but also cover a wide range of subjects and contain rich content, encompassing elements from Buddhism, Taoism, Confucianism, and more.
