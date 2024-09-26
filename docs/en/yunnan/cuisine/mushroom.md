@@ -4,6 +4,10 @@
 
 Mushroom Hot Pot is a specialty dish originating from the Yunnan region of China, featuring a wide variety of wild mushrooms as its primary ingredients. A selection of different mushrooms, such as matsutake, porcini, chicken-of-the-woods, and bamboo fungus, are sliced or kept whole and cooked in a clear broth or specially prepared soup base.
 
+::: info LOCAL TIPS
+Mushrooms in Yunnan are diverse and can be difficult to identify; every year, there are cases of people poisoning themselves by eating mushrooms. It is essential to consume mushrooms under the guidance of local experts, and the mushrooms must be thoroughly cooked.
+:::
+
 In Yunnan, where there is a rich diversity of wild mushrooms, the Mushroom Hot Pot is a beloved culinary delight. However, some wild mushrooms contain toxins that can lead to mushroom poisoning if they are not correctly identified or prepared. One form of mild poisoning is sometimes referred to as the "little people" effect because certain toxins can induce hallucinations, causing people to see visions of elves or "little people."
 
 <YouTube link="https://youtu.be/DCWZirRWGUo?si=LOcivksEYN9lAg-x">
@@ -14,5 +18,5 @@ In Yunnan, where there is a rich diversity of wild mushrooms, the Mushroom Hot P
 </YouTube>
 
 ::: info LOCAL TIPS
-Mushrooms in Yunnan are diverse and can be difficult to identify; every year, there are cases of people poisoning themselves by eating mushrooms. It is essential to consume mushrooms under the guidance of local experts, and the mushrooms must be thoroughly cooked.
+The restaurant might even have a policy of not providing chopsticks and spoons to customers until the mushrooms are thoroughly cooked, to prevent poisoning.
 :::

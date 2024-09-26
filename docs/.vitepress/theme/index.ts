@@ -12,7 +12,8 @@ import NavReddit from './components/NavReddit.vue';
 import Ads from './components/Ads.vue';
 import Chinese from './components/Chinese.vue';
 import CNY from './components/CNY.vue';
-import Currency from './components/Currency.vue';
+import CurrencyBar from './components/CurrencyBar.vue';
+import CurrencyScreen from './components/CurrencyScreen.vue';
 import Latest from './components/Latest.vue';
 import Description from './components/Description.vue';
 import Blog from './layouts/Blog.vue';
@@ -29,7 +30,6 @@ export default {
     app.component('NavReddit', NavReddit);
     app.component('Chinese', Chinese);
     app.component('CNY', CNY);
-    app.component('Currency', Currency);
     app.component('Description', Description);
     app.component('blog', Blog);
   },
@@ -39,6 +39,8 @@ export default {
       'home-hero-after': () => h(Latest),
       'doc-footer-before': () => h(References),
       'aside-ads-before': () => h(Ads),
+      'nav-bar-content-after': () => h(CurrencyBar),
+      'nav-screen-content-after': () => h(CurrencyScreen),
     });
   },
 } satisfies Theme;
