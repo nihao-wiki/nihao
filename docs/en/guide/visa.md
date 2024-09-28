@@ -166,7 +166,7 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
     <tr>
       <td>Chengdu Shuangliu<br/>International Airport</td>
       <td>Chengdu<br/>Leshan<br/>Deyang<br/>Suining<br/>Meishan<br/>Ya'an<br/>Ziyang<br/>Neijiang<br/>Zigong<br/>Luzhou<br/>Yibin</td>
-      <td><!--<a href="/chengdu/visa-free/">Chengdu Guide</a>--></td>
+      <td><!--<a href="/sichuan/chengdu/visa-free/">Chengdu Guide</a>--></td>
     </tr>
     <tr>
       <td>Chongqing Jiangbei<br/>International Airport</td>

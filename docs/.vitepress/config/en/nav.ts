@@ -53,8 +53,8 @@ export function nav(): DefaultTheme.NavItem[] {
         },
         {
           text: 'Chengdu',
-          link: '/chengdu/impressions',
-          activeMatch: '/chengdu/',
+          link: '/sichuan/chengdu/impressions',
+          activeMatch: '/sichuan/chengdu/',
         },
         {
           text: 'Hainan',
