@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import { useData } from 'vitepress';
 const frontmatter = useData().frontmatter;
 </script>
@@ -8,7 +8,7 @@ const frontmatter = useData().frontmatter;
     <dt class="reference-title">References</dt>
     <dd class="reference-list-wrap">
       <ul class="reference-list">
-        <li v-for="ref in frontmatter.reference" class="reference-item">
+        <li v-for="ref in frontmatter.reference" :key="ref.title" class="reference-item">
           <span class="index">-</span>
           <a :href="ref.href" rel="noreferrer" target="_blank" class="text"
             >{{ ref.title }}
