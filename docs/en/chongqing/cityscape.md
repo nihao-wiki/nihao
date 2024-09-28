@@ -77,30 +77,11 @@ The Liziba Light Rail passing through a building is a unique urban feature in Ch
 <template #description>Taking the Chongqing Light Rail, I arrived at the most famous online celebrity check-in spot.</template>
 </YouTube>
 
-<Map height="30vh" center="106.552003,29.562696" :zoom="13" walking="106.587897,29.565634,Raffles|106.573579,29.559729,Kuixinglou" points="106.530586,29.550659,Liziba Monorail Piercing Building"></Map>
-
-## The Eighteen Steps
-
-<Chinese word="十八梯">
-<template #pinyin>shí bā tī</template>
-The Eighteen Steps
-</Chinese>
-
-<Description>
-<div><i>Best Time to Visit</i><b>Anytime</b></div>
-<div><i>Activities</i><b>Sightseeing</b></div>
-<div><i>Crowd Level</i><b>Crowd</b></div>
-<div><i>Ticket Price</i><b>Free</b></div>
-<div><i>Recommendation</i><b>Recommended</b></div>
-</Description>
-
-The Eighteen Steps is located in the heart of Chongqing and is an ancient street known for its steep steps, which total eighteen in number, hence the name 'Eighteen Steps.' The Eighteen Steps has witnessed the transformation of Chongqing from ancient times to the present day, and it features many preserved traditional buildings.
-
-<YouTube link="https://youtu.be/sWm6Jk-dzCs?si=Y4K0GAIuhlTMVD0y&t=475">
-<template #cover><img src="../assets/youtube/this-is-why-china-surpasses-the-west.jpg" /></template>
-<template #title>هذا هو سبب تفوق الصين على الغرب ! - Chongqing</template>
-<template #author>Ahmed Alshammari</template>
-<template #description></template>
+<YouTube link="https://youtu.be/sr_3l726CV4?si=PRiwUD4rgxUXVQeU&t=335">
+<template #cover><img src="../assets/youtube/getting-lost-in-chongqing-china-vlog.jpg" /></template>
+<template #title>GETTING LOST IN CHONGQING! CHINA VLOG</template>
+<template #author>Ride with Gabi</template>
+<template #description>After walking ten minutes from the Liziba monorail through the building, I was completely lost in Chongqing, following endless steps into a mysterious place.</template>
 </YouTube>
 
 ## Mountain City Trails
@@ -124,11 +105,28 @@ Mountain City Trails typically refer to pedestrian paths built in mountainous ci
 Chongqing has many hidden pedestrian paths that you can choose from based on your itinerary; however, please pay attention to safety and don't get lost.
 :::
 
-<YouTube link="https://youtu.be/sr_3l726CV4?si=P5sIfQ89FDjY7jl5&t=407">
-<template #cover><img src="../assets/youtube/getting-lost-in-chongqing-china-vlog.jpg" /></template>
-<template #title>GETTING LOST IN CHONGQING! CHINA VLOG</template>
-<template #author>Ride with Gabi</template>
-<template #description>After walking ten minutes from the Lizi Dam monorail through the building, I was completely lost in Chongqing, following endless steps into a mysterious place.</template>
+## The Eighteen Steps
+
+<Chinese word="十八梯">
+<template #pinyin>shí bā tī</template>
+The Eighteen Steps
+</Chinese>
+
+<Description>
+<div><i>Best Time to Visit</i><b>Anytime</b></div>
+<div><i>Activities</i><b>Sightseeing</b></div>
+<div><i>Crowd Level</i><b>Crowd</b></div>
+<div><i>Ticket Price</i><b>Free</b></div>
+<div><i>Recommendation</i><b>Recommended</b></div>
+</Description>
+
+The Eighteen Steps is located in the heart of Chongqing and is an ancient street known for its steep steps, which total eighteen in number, hence the name 'Eighteen Steps.' The Eighteen Steps has witnessed the transformation of Chongqing from ancient times to the present day, and it features many preserved traditional buildings.
+
+<YouTube link="https://youtu.be/sWm6Jk-dzCs?si=Y4K0GAIuhlTMVD0y&t=475">
+<template #cover><img src="../assets/youtube/this-is-why-china-surpasses-the-west.jpg" /></template>
+<template #title>هذا هو سبب تفوق الصين على الغرب ! - Chongqing</template>
+<template #author>Ahmed Alshammari</template>
+<template #description></template>
 </YouTube>
 
 ## Yangtze River Cable Car
@@ -172,7 +170,7 @@ Nanshan, also known as South Mountain, is a scenic area in the Nan'an District o
 <template #description>Away from the hustle and bustle of 32 million people, We found a hidden trail leading to a sky forest bar where We could watch the city sunset; We found the magic spot.</template>
 </YouTube>
 
-### Hiking Trail
+#### Hiking Trail
 
 In addition to taking a vehicle up Nanshan, you can also choose to hike up the mountain using one of several hidden hiking trails available.
 
