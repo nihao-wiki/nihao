@@ -30,22 +30,14 @@ Fried Rice Flour Triangle
 <template #description>The snacks at the night market in downtown Chongqing are beyond description—so delicious and tempting that it's 'too dangerous' to stop eating.</template>
 </YouTube>
 
-## Clay oven rolls
-
-<Chinese word="烧饼">
-<template #pinyin>shāo bǐng</template>
-Clay oven rolls
-</Chinese>
-
-Round Savory Baked Bun: A round baked bun. 
-
-Oval Sweet Baked Bun: An oval-shaped baked bun.
-
 ## Chongqing-Style Barbecue
 
 ### Grilled Sweet Potato Skin
 
-<Speech as="烤芍皮">烤苕皮</Speech>(Grilled Sweet Potato Skin)
+<Chinese word="烤苕皮" as="烤芍皮">
+<template #pinyin>kǎo sháo pí</template>
+Grilled Sweet Potato Skin
+</Chinese>
 
 <YouTube link="https://youtu.be/j22aObnfhG4?si=xO7KrOkcmKT3NJp2&t=860">
 <template #cover><img src="../../assets/youtube/everything-i-ate-in-chongqing.jpg" /></template>
@@ -56,12 +48,42 @@ Oval Sweet Baked Bun: An oval-shaped baked bun.
 
 ### Grilled Tofu Block
 
-<Speech>烤豆腐干</Speech>(Grilled Tofu Block)
+<Chinese word="烤豆腐干">
+<template #pinyin>kǎo dòu fǔ gàn</template>
+Grilled Tofu Block
+</Chinese>
 
 ### Grilled Rice Cake
 
-<Speech>烤年糕</Speech>(Grilled Rice Cake)
+<Chinese word="烤年糕">
+<template #pinyin>kǎo nián gāo</template>
+Grilled Rice Cake
+</Chinese>
 
 ### Grilled Pig Brain
 
-<Speech>烤脑花</Speech>(Grilled Pig Brain)
+<Chinese word="烤脑花">
+<template #pinyin>kǎo nǎo huā</template>
+Grilled Pig Brain
+</Chinese>
+
+<Description>
+<div><i>Type</i><b>Snack</b></div>
+<div long><i>Ingredients</i><b>Pig Brain</b></div>
+<div><i>Price</i><b><CNY>20</CNY></b></div>
+<div><i>Vegetarian</i><b>No</b></div>
+<div><i>Note</i><b>Contains Pig Brain</b></div>
+<div><i>Recommendation</i><b>Divisive</b></div>
+<div><i>Dining Duration</i><b>Minutes</b></div>
+<div><i>Dining Method</i><b>Dine-in, Take-away</b></div>
+<div><i>Commonness</i><b>Normal</b></div>
+</Description>
+
+<YouTube link="https://youtu.be/vTCuLOAKbgQ?si=rAmlN0TlDvd2eXrg&t=261">
+<template #cover><img src="../../assets/youtube/chongqing-food-street.jpg" /></template>
+<template #title>Chongqing Food Street</template>
+<template #author>Tucker Eats</template>
+<template #description>Not just brains, other things I don’t really enjoy too, the grilled frog however. It’s a grilled delight. I’d insert a frog pun here, but I’m not clever enough. There’s also mashed potato and a baked durian.</template>
+</YouTube>
+
+The main ingredient of grilled brain flower is pig's brain, which is typically cooked with various spices and seasonings. The pig's brain is placed on charcoal or an electric grill to be roasted. During the grilling process, ingredients such as chili peppers, Sichuan peppercorns, minced garlic, and cilantro are added, giving the grilled brain flower its characteristic spicy, numbing, fresh, and fragrant flavor.

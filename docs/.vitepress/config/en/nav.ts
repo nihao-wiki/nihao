@@ -14,8 +14,29 @@ export function nav(): DefaultTheme.NavItem[] {
     },
     {
       text: 'Yunnan',
-      link: '/yunnan/kunming/impressions',
       activeMatch: '/yunnan/',
+      items: [
+        {
+          text: 'Kunming',
+          link: '/yunnan/kunming/impressions',
+          activeMatch: '/yunnan/kunming/',
+        },
+        {
+          text: 'Dali',
+          link: '/yunnan/dali/impressions',
+          activeMatch: '/yunnan/dali/',
+        },
+        {
+          text: 'Lijiang',
+          link: '/yunnan/lijiang/impressions',
+          activeMatch: '/yunnan/lijiang/',
+        },
+        {
+          text: 'Xishuangbanna',
+          link: '/yunnan/xishuangbanna/impressions',
+          activeMatch: '/yunnan/xishuangbanna/',
+        },
+      ],
     },
     {
       text: 'Destinations',
