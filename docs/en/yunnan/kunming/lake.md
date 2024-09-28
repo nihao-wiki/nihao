@@ -1,4 +1,4 @@
-# Kunming: The Spring City of Yunnan
+# Explore Kunming: The Spring City of Yunnan
 
 ## Dianchi Lake
 

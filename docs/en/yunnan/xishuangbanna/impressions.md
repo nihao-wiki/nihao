@@ -1,4 +1,4 @@
-# Xishuangbanna's First Impressions: Arrival Guide
+# Xishuangbanna's Impressions: Arrival Guide
 
 ## Overview
 

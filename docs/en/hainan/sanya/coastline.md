@@ -1,4 +1,4 @@
-# Sanya's Shores and Seafood: A Tropical Coast Trip
+# Sanya's Tropical Shores and Seafood Trip
 
 ## Yalong Bay
 

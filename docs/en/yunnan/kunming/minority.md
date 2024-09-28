@@ -1,4 +1,4 @@
-# Ethnic Diversity in Kunming: Explore Minority Cultures
+# Diversity in Kunming: Minority Cultures
 
 ## Kunming Ethnic Village
 

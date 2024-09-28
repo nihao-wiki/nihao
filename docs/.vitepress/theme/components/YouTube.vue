@@ -55,16 +55,13 @@ const loadVideo = () => {
 </script>
 
 <template>
-  <div
-    class="important custom-block github-alert wrapper"
-    :style="{ flexWrap: onPlay ? 'wrap' : 'nowrap' }"
-  >
+  <div class="info custom-block wrapper" :style="{ flexWrap: onPlay ? 'wrap' : 'nowrap' }">
     <div class="cover" v-if="!!slots.cover && !onPlay">
       <a @click="loadVideo" class="VPLink link VPNavScreenMenuGroupLink cover">
-        <div class="play"><YouTube size="40" fill="#fff"></YouTube></div>
-        <slot name="cover"></slot></a>
+        <slot name="cover"></slot
+      ></a>
     </div>
-    <div :id="videoId" :style="{ marginBottom: onPlay ? '8px' : '0'}"></div>
+    <div :id="videoId" :style="{ marginBottom: onPlay ? '8px' : '0' }"></div>
     <div class="container">
       <a
         class="VPLink link vp-external-link-icon VPNavScreenMenuGroupLink"
@@ -76,9 +73,7 @@ const loadVideo = () => {
         <span class="link-text"><slot name="title"></slot></span>
         <span class="author">@<slot name="author"></slot></span>
       </a>
-      <div class="description">
-        <slot name="description"></slot>
-      </div>
+      <div><slot name="description"></slot></div>
     </div>
   </div>
 </template>
@@ -94,6 +89,8 @@ const loadVideo = () => {
     min-width: 38.2%;
     position: relative;
     margin: 0 12px 0 0;
+    border-radius: 4px;
+    overflow: hidden;
   }
 }
 
@@ -101,6 +98,10 @@ const loadVideo = () => {
   .container {
     min-width: 400px;
   }
+}
+
+.container a {
+  margin: 0;
 }
 
 .youtube-icon {
@@ -119,6 +120,7 @@ const loadVideo = () => {
     opacity: 0.5;
   }
 }
+
 .play {
   position: absolute;
   bottom: 32px;

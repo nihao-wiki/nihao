@@ -8,7 +8,7 @@ reference:
     site: english.www.gov.cn
 ---
 
-# Visa Strategies for Travel in China for Foreigners
+# Foreigners' Travel Visa Strategies for China
 
 ## 30-Day Visa-Free Entry
 
