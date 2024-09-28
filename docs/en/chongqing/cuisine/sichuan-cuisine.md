@@ -9,6 +9,27 @@ Chongqing's home-style cuisine has close ties with Sichuan cuisine, but it has a
 Bean Curd with Rice
 </Chinese>
 
+<Description>
+<div><i>Type</i><b>Meal</b></div>
+<div><i>Ingredients</i><b>Soybean</b></div>
+<div><i>Flavor</i><b>Adjustable Spiciness</b></div>
+<div><i>Price</i><b><CNY>6</CNY>(additional charges for ordering)></b></div>
+<div><i>Vegetarian</i><b>Yes</b></div>
+<div><i>Recommendation</i><b>Strongly Recommended</b></div>
+<div><i>Dining Duration</i><b>Minutes</b></div>
+<div><i>Dining Method</i><b>Dine-in</b></div>
+<div><i>Commonness</i><b>Common</b></div>
+</Description>
+
+The main ingredient of douhua rice is smooth douhua (tofu pudding), served with condiments, rice, and other dishes, forming a simple yet delicious meal.
+
+<YouTube link="https://youtu.be/XbbREufg8z4?si=B3tnZJ9hNqq755gN&t=428">
+<template #cover><img src="../../assets/youtube/chinese-streect-food-tour-in-chongqing.jpg" /></template>
+<template #title>Chinese Street Food Tour in Chongqing, China | BEST Alleyway Food in China</template>
+<template #author>The Food Ranger</template>
+<template #description>I made my way to Chongqing, in search of the best Chinese street food and unique Chinese Sichuan food. I found a ton of street food and specialty Chongqing snacks. There was a lot of Chinese street food on every corner.</template>
+</YouTube>
+
 ## Fish-Flavored Shredded Pork
 
 <Chinese word="鱼香肉丝">

@@ -1,21 +1,5 @@
 # Discover Chongqing's Hidden Street Eats
 
-## Ice Jelly
-
-### Ice Grass Jelly
-
-<Chinese word="冰粉">
-<template #pinyin>bīng fěn</template>
-Ice Grass Jelly
-</Chinese>
-
-### Ice Rice Flour Jelly
-
-<Chinese word="凉虾">
-<template #pinyin>liáng xiā</template>
-Ice Rice Flour Jelly
-</Chinese>
-
 ## Fried Rice Flour Triangle
 
 <Chinese word="三角粑">
