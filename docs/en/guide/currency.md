@@ -15,7 +15,7 @@ import { currencies } from '../../.vitepress/theme/hooks/useCurrency';
     </tr>
   </thead>
   <tbody>
-    <tr v-for="(currency, key) in currencies">
+    <tr v-for="(currency, key) in currencies" :key="currency.unit">
       <td>{{ key }}</td>
       <td>{{ currency.unit }}</td>
       <td>{{ currency.ratio }}</td>

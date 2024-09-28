@@ -7,7 +7,7 @@ Crossing Bridge Rice Noodles
 
 <Description>
 <div><i>Type</i><b>Meal</b></div>
-<div long><i>Ingredients</i><b>Rice noddles</b></div>
+<div><i>Ingredients</i><b>Rice noddles</b></div>
 <div><i>Price</i><b><CNY>20</CNY></b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
 <div><i>Dining Duration</i><b>Minutes</b></div>

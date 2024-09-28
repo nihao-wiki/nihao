@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import { useData } from 'vitepress';
 import { useSidebar } from 'vitepress/theme';
 
@@ -10,10 +10,10 @@ const { hasSidebar } = useSidebar();
   <template v-if="theme.footer && frontmatter.footer !== false && !hasSidebar">
     <div class="sitemap">
       <div class="container">
-        <div class="sitemap-col" v-for="category in theme?.bottomNav || []">
+        <div class="sitemap-col" v-for="category in theme?.bottomNav || []" :key="category.text">
           <div class="sitemap-title">{{ category.text }}</div>
           <ul>
-            <li v-for="item in category?.items || []">
+            <li v-for="item in category?.items || []" :key="item.text">
               <a class="vp-link link" :href="item.link">{{ item.text }}</a>
             </li>
           </ul>

@@ -37,19 +37,19 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
   <tbody>
     <tr>
       <td>European ({{ European.length }})</td>
-      <td><template v-for="(country, i) in European">{{ country.name }}{{ i !== European.length - 1 ? ', ' : '' }}</template></td>
+      <td><template v-for="(country, i) in European" :key="country.name">{{ country.name }}{{ i !== European.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
       <td>American ({{ American.length }})</td>
-      <td><template v-for="(country, i) in American">{{ country.name }}{{ i !== American.length - 1 ? ', ' : '' }}</template></td>
+      <td><template v-for="(country, i) in American" :key="country.name">{{ country.name }}{{ i !== American.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
       <td>Oceanian ({{ Oceanian.length }})</td>
-      <td><template v-for="(country, i) in Oceanian">{{ country.name }}{{ i !== Oceanian.length - 1 ? ', ' : '' }}</template></td>
+      <td><template v-for="(country, i) in Oceanian" :key="country.name">{{ country.name }}{{ i !== Oceanian.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
       <td>Asian ({{ Asian.length }})</td>
-      <td><template v-for="(country, i) in Asian">{{ country.name }}{{ i !== Asian.length - 1 ? ', ' : '' }}</template></td>
+      <td><template v-for="(country, i) in Asian" :key="country.name">{{ country.name }}{{ i !== Asian.length - 1 ? ', ' : '' }}</template></td>
     </tr>
   </tbody>
 </table>

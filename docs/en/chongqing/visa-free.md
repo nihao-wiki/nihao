@@ -13,12 +13,12 @@
 
 List of Countries Entitled Visa Exemption with Direct Flights to Chongqing: Qatar, Singapore, Thailand, United Arab Emirates.
 
-|Origin|Max.Stay|
-|:--|:--|
-|Qatar|30 days|
-|Singapore|30 days|
-|Thailand|30 days|
-|United Arab Emirates|30 days|
+| Origin               | Max.Stay |
+| :------------------- | :------- |
+| Qatar                | 30 days  |
+| Singapore            | 30 days  |
+| Thailand             | 30 days  |
+| United Arab Emirates | 30 days  |
 
 Countries without direct flights to Chongqing can reach the city via other cities in China.
 
@@ -103,7 +103,7 @@ const origin = computed(() => validVisaFreeCountries.value.find(country => count
 const finalDestination = computed(() => countriesList.value.filter(country => country.name !== originName.value));
 </script>
 
-List of Countries Entitled for the 72/144-Hour Visa-Free Transit with Direct Flights to Chongqing: <template v-for="(country, i) in validVisaFreeCountries">{{ country.name }}{{ i === validVisaFreeCountries.length - 1 ? '.' : ', ' }}</template>
+List of Countries Entitled for the 72/144-Hour Visa-Free Transit with Direct Flights to Chongqing: <template v-for="(country, i) in validVisaFreeCountries" :key="country.name">{{ country.name }}{{ i === validVisaFreeCountries.length - 1 ? '.' : ', ' }}</template>
 
 You can also choose Hong Kong or Macao as your final destination.
 
@@ -113,7 +113,7 @@ You can also choose Hong Kong or Macao as your final destination.
 </div>
 <div>
     <select v-model="originName" style="text-align:center;border:1px solid;padding:0 8px;">
-        <option v-for="country in validVisaFreeCountries" :value="country.name">{{ country.name }}</option>
+        <option v-for="country in validVisaFreeCountries" :value="country.name" :key="country.name">{{ country.name }}</option>
     </select>
 </div>
 </Flex>
@@ -131,7 +131,7 @@ You can also choose Hong Kong or Macao as your final destination.
     </tr>
   </thead>
   <tbody>
-    <tr v-for="(country) in finalDestination">
+    <tr v-for="(country) in finalDestination" :key="country.name">
       <td>{{ origin.cities }}</td>
       <td>Chongqing</td>
       <td>{{ country.cities }} ({{ country.name }})</td>

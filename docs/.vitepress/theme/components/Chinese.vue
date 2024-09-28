@@ -3,24 +3,26 @@ const props = defineProps(['word', 'as']);
 </script>
 
 <template>
-  <p>
-    <div class="wrapper">
-      <div class="word" v-for="w in props.word.split('')">
-        <div class="text">{{ w }}</div>
-        <div class="dash middle"></div>
-        <div class="dash vertical"></div>
-      </div>
-      <div class="description">
-        <div><slot name="pinyin"></slot> <slot name="ipa"></slot> <Speech :as="props.as || props.word"></Speech></div>
-        <div><slot></slot></div>
-      </div>
+  <div class="wrapper">
+    <div class="word" v-for="w in props.word.split('')" :key="w">
+      <div class="text">{{ w }}</div>
+      <div class="dash middle"></div>
+      <div class="dash vertical"></div>
     </div>
-  </p>
+    <div class="description">
+      <div>
+        <slot name="pinyin"></slot> <slot name="ipa"></slot>
+        <Speech :as="props.as || props.word"></Speech>
+      </div>
+      <div><slot></slot></div>
+    </div>
+  </div>
 </template>
 
 <style scoped>
 .wrapper {
   display: flex;
+  padding: 16px 0;
 }
 
 .word {
