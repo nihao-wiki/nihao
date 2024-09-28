@@ -165,7 +165,10 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
     },
     {
       text: 'Cuisine',
-      items: [{ text: '"Intoxicating" Mushroom', link: 'cuisine/mushroom' }],
+      items: [
+        { text: '"Intoxicating" Mushroom', link: 'cuisine/mushroom' },
+        { text: 'Crossing Bridge Noddles', link: 'cuisine/crossingbridge' },
+      ],
     },
   ];
 }
@@ -212,6 +215,7 @@ function sidebarChengdu(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'First Impressions', link: 'impressions' },
         { text: 'Panda Base', link: 'panda' },
+        { text: 'Cuisine', link: 'cuisine' },
       ],
     },
   ];
