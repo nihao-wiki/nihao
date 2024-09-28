@@ -65,7 +65,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         },
         {
           text: 'Chengdu',
-          link: '../chengdu/impressions',
+          link: '../sichuan/chengdu/impressions',
         },
         {
           text: 'Qingdao',
@@ -208,15 +208,23 @@ function sidebarQingdao(): DefaultTheme.SidebarItem[] {
   ];
 }
 
-function sidebarChengdu(): DefaultTheme.SidebarItem[] {
+function sidebarSichuan(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Chengdu',
       items: [
-        { text: 'First Impressions', link: 'impressions' },
-        { text: 'Panda Base', link: 'panda' },
-        { text: 'Cuisine', link: 'cuisine' },
+        { text: 'First Impressions', link: 'chengdu/impressions' },
+        { text: 'Panda Base', link: 'chengdu/panda' },
+        { text: 'Spicy Cuisine', link: 'chengdu/cuisine' },
       ],
+    },
+    {
+      text: 'Sichuan',
+      items: [{ text: 'Qingcheng Mountain', link: 'qingchengshan' }],
+    },
+    {
+      text: 'Western Sichuan',
+      items: [],
     },
   ];
 }
@@ -270,7 +278,7 @@ export default {
   '/yunnan/': { base: '/yunnan/', items: sidebarYunnan() },
   '/hainan/': { base: '/hainan/', items: sidebarHainan() },
   '/qingdao/': { base: '/qingdao/', items: sidebarQingdao() },
-  '/chengdu/': { base: '/chengdu/', items: sidebarChengdu() },
+  '/sichuan/': { base: '/sichuan/', items: sidebarSichuan() },
   '/beijing/': { base: '/beijing/', items: sidebarBeijing() },
   '/nanjing/': { base: '/nanjing/', items: sidebarNanjing() },
   '/shanghai/': { base: '/shanghai/', items: sidebarShanghai() },
