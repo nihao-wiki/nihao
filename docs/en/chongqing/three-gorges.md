@@ -1,4 +1,4 @@
-# Explore Three Gorges: Unveiling Ancient Culture
+# Three Gorges: Unveiling Ancient Culture
 
 ## The Three Gorges
 

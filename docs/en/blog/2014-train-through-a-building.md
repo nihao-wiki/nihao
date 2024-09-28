@@ -2,7 +2,7 @@
 layout: blog
 ---
 
-# Guess What? I Shot Train Through a Building In 2014
+# I Shot Train Through a Building In 2014
 
 <img src="./assets/mountaincity4k-0002.jpg" />
 

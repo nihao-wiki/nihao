@@ -1,4 +1,4 @@
-# A Feast of Jade: The Flavorful Chronicles of Nanjing's Culinary
+# The Flavorful Cuisine Heritage of Nanjing
 
 ## Nanjing Dapaidang
 

@@ -1,4 +1,4 @@
-# Circling Erhai and Its Ancient Towns by Vehicle
+# Circling Erhai & Its Ancient Towns by Vehicle
 
 ## Erhai Lake
 

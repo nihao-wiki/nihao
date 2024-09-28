@@ -1,4 +1,4 @@
-# Taste of Chengdu: Local Specialties, You Must-Try
+# Taste of Chengdu: Local Specialties, Must-Try
 
 ## Shuangliu Rabbit Head
 

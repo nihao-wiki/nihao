@@ -1,8 +1,9 @@
 <script setup>
-import { data as last } from '../data/lastUpdate.data';
-const title = last?.src?.split?.(/[#\n]/)?.filter(Boolean)?.[0]?.trim();
-const date = last?.timestamp && new Date(last.timestamp).toDateString();
-const route = last?.url?.split?.('/')?.slice?.(2)?.join?.('/');
+import { data } from '../data/pages.data';
+const { lastUpdatePage, titleProblemPages } = data;
+const title = lastUpdatePage?.title;
+const date = lastUpdatePage?.timestamp && new Date(lastUpdatePage.timestamp).toDateString();
+const route = lastUpdatePage?.route;
 </script>
 
 <template>
@@ -12,6 +13,13 @@ const route = last?.url?.split?.('/')?.slice?.(2)?.join?.('/');
       <span>{{ title }}</span>
       <span style="margin-left: 8px">({{ date }})</span>
     </a>
+  </div>
+  <div v-if="titleProblemPages.length > 0" class="container">
+    <div v-for="page in titleProblemPages" :key="page.route">
+      <a :href="page.route">
+        <span>{{ page.title }} ({{ page.problem }}, {{ page.title.length }}, {{ page.gap }})</span>
+      </a>
+    </div>
   </div>
 </template>
 

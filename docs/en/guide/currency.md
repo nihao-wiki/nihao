@@ -1,4 +1,4 @@
-# Exchange Rates & Not-Expensive Expenses in China
+# Is Travel in China Really Expensive?
 
 ## Exchange Rate
 

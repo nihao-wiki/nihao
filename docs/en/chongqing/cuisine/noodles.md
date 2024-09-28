@@ -32,7 +32,7 @@ Xiaomian is the most famous noodles in Chongqing, known for its spicy and numbin
 
 <YouTube link="https://youtu.be/PK8h0rr9c_U?si=WE6ddHRMAapWGgrc&t=24">
 <template #cover><img src="../../assets/youtube/geihanguorenganmengle.jpg" /></template>
-<template #title>how do people in Chongqing wake up to a spicy broth?</template>
+<template #title>How do people in Chongqing wake up to a spicy broth?</template>
 <template #author>大一的吃货生活</template>
 <template #description>Noodles with bone broth are perfect.</template>
 </YouTube>

@@ -1,4 +1,4 @@
-# China's Famous Snow Mountains: Majestic Landscapes
+# China's Snow Mountains: Majestic Landscapes
 
 ## Mount Everest
 

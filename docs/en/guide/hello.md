@@ -1,4 +1,4 @@
-# Top 10 Essential Chinese Phrases for Travel in China
+# Top 10 Chinese Phrases for Travel in China
 
 ## Common Languages
 

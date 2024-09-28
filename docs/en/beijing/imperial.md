@@ -1,4 +1,4 @@
-# Imperial Legacy: Explore Beijing's Royal Monuments
+# Imperial Legacy: Beijing's Royal Monuments
 
 ## The Forbidden City
 

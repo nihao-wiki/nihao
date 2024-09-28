@@ -1,5 +1,5 @@
 
-# Explore Dazu Rock Carvings: Ancient Buddhist Art
+# Dazu Rock Carvings: Ancient Buddhist Art
 
 <Chinese word="大足石刻">
 <template #pinyin>dà zú shí kè</template>
