@@ -1,5 +1,7 @@
 # Circling Erhai & Its Ancient Towns by Vehicle
 
+![Erhai Lake](./assets/around-erhai.jpg)
+
 ## Erhai Lake
 
 Despite the word "hai" implying an ocean in Chinese, Erhai is actually a freshwater lake covering an area of approximately 250 square kilometers. It is the seventh-largest freshwater lake in China, named after its shape which resembles a human ear.
@@ -37,6 +39,10 @@ You can visit the Longkan Ancient Ferry to enjoy Erhai Lake, and then take a sig
 
 ::: info LOCAL TIPS
 Driving around Erhai covers a distance of approximately 150 kilometers. Including stops for sightseeing, the journey typically requires a full day. You can set your navigation route as follows: Start counterclockwise from **Dali Ancient City, heading to Santorini Dali, then Wenbi Village, followed by Shuanglang Ancient Town (with a stop for lunch), then Xizhou Ancient Town, and finally back to Dali Ancient City**.
+:::
+
+::: info LOCAL TIPS
+The train to Lijiang will also pass through this route. If you plan to take the train from Dali to Lijiang, remember to get a seat on the left side.
 :::
 
 ## Dali Ancient City
