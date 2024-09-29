@@ -1,4 +1,4 @@
-# Shanghai's First Impressions: Arrival Guide
+# China Shanghai's First Impressions: Visit Overview
 
 ## Overview
 

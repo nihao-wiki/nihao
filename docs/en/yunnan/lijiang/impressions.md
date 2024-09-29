@@ -1,4 +1,4 @@
-# Lijiang's First Impressions: Arrival Guide
+# China Lijiang's First Impressions: Visit Overview
 
 ## Overview
 

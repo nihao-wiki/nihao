@@ -1,4 +1,4 @@
-# Qingdao Seafood: Flavors from the Yellow Sea
+# China Qingdao Seafood: Flavors from the Yellow Sea
 
 Qingdao, as a coastal city, boasts a rich variety of seafood resources that are closely tied to the natural environment.
 

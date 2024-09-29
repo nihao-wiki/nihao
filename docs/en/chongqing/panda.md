@@ -1,4 +1,4 @@
-# Explore Chongqing Zoo: A Panda Encounter
+# Explore Chongqing Zoo: A Panda Encounter & Animals
 
 ## Chongqing Zoo
 

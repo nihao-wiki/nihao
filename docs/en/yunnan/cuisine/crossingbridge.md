@@ -1,4 +1,4 @@
-# Yunnan's Crossing Bridge Rice Noodles
+# Yunnan's Crossing Bridge Rice Noodles: You Must-Try
 
 <Chinese word="过桥米线">
 <template #pinyin>guò qiáo mǐ xiàn</template>

@@ -1,4 +1,4 @@
-# Imperial Legacy: Beijing's Royal Monuments
+# Imperial Legacy: China Beijing's Royal Monuments
 
 ## The Forbidden City
 

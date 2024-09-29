@@ -1,4 +1,4 @@
-# One Day Urban Tour: See Chongqing's Cyberpunk
+# One Day Urban Tour: Explore Chongqing's Cyberpunk
 
 ![One Day Urban Tour](./assets/chongqing-one-day.jpg)
 

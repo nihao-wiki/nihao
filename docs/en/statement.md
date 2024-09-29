@@ -1,4 +1,4 @@
-# China Travel Advisory: Dos and Don’ts
+# China Travel Advisory Should Know: Dos and Don’ts
 
 Do not hold preconceived notions or biases.<br/>
 Do not engage in racial discrimination.<br/>

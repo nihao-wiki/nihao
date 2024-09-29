@@ -1,4 +1,4 @@
-# Beijing’s Niu Street: Mosques and Halal Food
+# China Beijing’s Niu Street: Mosques and Halal Food
 
 Niu Jie is a historic area rich in cultural heritage, especially known for its strong Hui ethnic culture and Islamic traditions. At the heart of Niu Jie is the Niu Jie Mosque, which was originally established in 966 AD during the Liao Dynasty and is one of the oldest mosques in Northern China and the largest in Beijing. The mosque serves not only as a center for religious activities but also as a hub for community cultural and social events.
 

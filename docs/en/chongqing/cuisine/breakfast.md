@@ -1,4 +1,4 @@
-# Chongqing's Morning Flavors: "Five Greats"
+# Chongqing's Morning Flavors: Soy Milk & "Five Greats"
 
 Chongqing breakfast features the "Five Greats", which include Soy Milk, Fried Dough Sticks, Fried Glutinous Rice Cakes, Glutinous Rice Balls and Oily Tea.
 

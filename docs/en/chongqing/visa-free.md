@@ -5,7 +5,7 @@
 #    site: FlightsFrom.com
 ---
 
-# Visa-Free Transit Guide to Chongqing
+# Visa-Free Transit Guide to Visit Chongqing China
 
 ## Visa-Free
 

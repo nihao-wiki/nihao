@@ -1,4 +1,4 @@
-# Three Gorges: Unveiling Ancient Culture
+# The Three Gorges: Explore Unveiling Ancient Culture
 
 ::: info LOCAL TIPS
 The Three Gorges are more than 400 kilometers from the urban area of Chongqing, and it takes about 2 hours by train to reach them, so you need to allow plenty of time for your trip.

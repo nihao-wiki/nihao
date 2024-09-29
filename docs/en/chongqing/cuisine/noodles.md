@@ -1,4 +1,4 @@
-# Chongqing Noddles: Xiaomian & Hidden Treats
+# Must-Try: Chongqing Noddles: Xiaomian & Hidden Treats
 
 ## Xiaomian
 

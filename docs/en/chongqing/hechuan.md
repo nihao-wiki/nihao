@@ -1,4 +1,4 @@
-# Fishing City: A Fortress in Chongqing
+# Explore The Fishing City: A Fortress in Chongqing
 
 <Chinese word="钓鱼城">
 <template #pinyin>diào yú chéng</template>

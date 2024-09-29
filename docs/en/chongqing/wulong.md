@@ -1,4 +1,4 @@
-# Karst of Wulong: A Natural Wonder Tour
+# Karst of Wulong: A Natural Wonder Tour in Chongqing
 
 Wulong Karst is a stunning natural wonder located in Wulong District, Chongqing. Known for its unique karst topography, the area features dramatic landscapes formed by the dissolution of soluble rocks such as limestone.
 

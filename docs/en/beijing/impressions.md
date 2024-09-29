@@ -1,4 +1,4 @@
-# Beijing's First Impressions: Arrival Guide
+# China Beijing's First Impressions: Visit Overview
 
 ## Overview
 
