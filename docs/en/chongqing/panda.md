@@ -31,3 +31,5 @@ Chongqing Zoo currently has more than 20 giant pandas, making it one of the zoos
 ::: info LOCAL TIPS
 You can take Line 2 of the monorail, the same line that goes through the Liziba station building, and it will take you directly to the zoo station.
 :::
+
+![Chongqing Zoo](./assets/zoo-navi.jpg)
