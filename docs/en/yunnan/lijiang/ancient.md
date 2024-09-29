@@ -5,14 +5,14 @@
 Lijiang Ancient City is a well-preserved minority ancient town and is recognized as a UNESCO World Heritage site. The history of the ancient city dates back to the Song and Yuan dynasties, with a history spanning over 800 years. Its distinctive features include unique architectural styles and an intricate network of waterways. Most of the buildings here retain the style of the Ming and Qing dynasties, primarily constructed with wooden structures. The water channels within the ancient city originate from the melted snow waters of Yulong Snow Mountain, flowing through every corner of the ancient town.
 
 <YouTube link="https://youtu.be/UI5kl3ynt_k?si=Mwt4-jG_nKwsnur3&t=69">
-<template #cover><img src="../../assets/youtube/chinese-hospitality-left-us-speechless.jpg" /></template>
+<template #cover><img src="../../assets/youtube/chinese-hospitality-left-us-speechless.jpg" alt="Chinese Hospitality Left us Speechless" /></template>
 <template #title>Chinese Hospitality Left us Speechless</template>
 <template #author>Two Mad Explorers</template>
 <template #description>Today we are exploring the real Lijiang in Yunnan. We meet some incredibly friendly locals and have a good laugh with them.</template>
 </YouTube>
 
 <YouTube link="https://youtu.be/aZTqN-jM2Iw?si=poiEh1VXmFoIxD-4">
-<template #cover><img src="../../assets/youtube/beyond-the-trip-viaggio-atemppo.jpg" /></template>
+<template #cover><img src="../../assets/youtube/beyond-the-trip-viaggio-atemppo.jpg" alt="Beyond The Trip" /></template>
 <template #title>Beyond The Trip - Viaggio a Tempo Indeterminato</template>
 <template #author>Two Mad Explorers</template>
 <template #description>Ci sono molti stereotipi sulla Cina e sui suoi abitanti. Oggi andiamo a vedere se quelli più comuni sono veri o falsi. E mentre facciamo queste ricerche, rimaniamo sconvolti da Lijiang e da quello che vediamo.</template>
@@ -38,7 +38,7 @@ The 'Si Fang' in 'Si Fang Street' refers to the east, south, west, and north. Th
 You can see an ancient pictographic script in Lijiang Ancient City, known as Dongba script. Dongba script is primarily used for religious texts, historical records, and folk literary works, written and interpreted by Dongba priests. Dongba priests are religious and cultural leaders in the Naxi society, responsible for preserving these documents and using them in religious ceremonies.
 
 <YouTube link="https://youtu.be/bPcIqGPF5Kg?si=UQZKvbGBk0wSSt2d">
-<template #cover><img src="../../assets//youtube//discover-a-place-you-wont-expect-in-china.jpg" /></template>
+<template #cover><img src="../../assets//youtube//discover-a-place-you-wont-expect-in-china.jpg" alt="Lijiang" /></template>
 <template #title>اكتشفت مكان ماتتوقعه بالصين ! - Lijiang</template>
 <template #author>Ahmed Alshammari</template>
 <template #description></template>

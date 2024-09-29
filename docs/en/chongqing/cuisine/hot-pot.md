@@ -36,7 +36,7 @@ In the cooking process, ingredients are individually prepared in broth, requirin
 Above all, it is <u>a social dining style</u> where friends and family eat together at a shared table. It is typically enjoyed by ; eating it solo might seem a bit unusual.
 
 <YouTube link="https://youtu.be/cVUobDfBDNs?si=q2Zpk2v9j3b6oZ0t&t=605">
-<template #cover><img src="../../assets/youtube/finally-met-my-hero.jpg" /></template>
+<template #cover><img src="../../assets/youtube/finally-met-my-hero.jpg" alt="Finally met my hero" /></template>
 <template #title>Finally met my hero | واخيراً التقيت بفناني المفضل </template>
 <template #author>Lao Wang in China</template>
 <template #description>I met an excellent actor, and we've been trying to meet up for about two years. Today, we finally did, and he said he'd take me to a great place to eat. We'll see how the taste and price feel.</template>
@@ -89,7 +89,7 @@ When you step into a hotpot restaurant, the very first thing you'll be asked is 
 Hotpot is one of the most famous spicy dishes in China, particularly in the regions of Chongqing and Sichuan. However, to say that hotpot is the spiciest food in China might be somewhat exaggerated, as it depends on individual preferences for spiciness and the level of spiciness in the hotpot base chosen.
 
 <YouTube link="https://youtu.be/loowjkkfAr8?si=4ijg00jTowHzdiVe&t=186">
-<template #cover><img src="../../assets/youtube//trying-the-spiciest-dish-in-china.jpg" /></template>
+<template #cover><img src="../../assets/youtube//trying-the-spiciest-dish-in-china.jpg" alt="TRYING THE SPICIEST DISH IN CHINA" /></template>
 <template #title>TRYING THE SPICIEST DISH IN CHINA</template>
 <template #author>JetLag Warriors</template>
 <template #description>Guided by my Chinese friend, we had hotpot in an ancient town on the outskirts of Chongqing; I tried duck blood for the first time and it was actually pretty good.</template>
@@ -134,7 +134,7 @@ If you choose spicy broth, you'll be asked is how spicy you'd prefer.
 </table>
 
 <YouTube link="https://youtu.be/bKJTaqQBObk?si=u9vXLi4Q20FGgGip&t=736">
-<template #cover><img src="../../assets/youtube/i-went-to-the-8d-city.jpg" /></template>
+<template #cover><img src="../../assets/youtube/i-went-to-the-8d-city.jpg" alt="I Went to the World's Only 8D City of Future" /></template>
 <template #title>I Went to the World's Only 8D City of Future</template>
 <template #author>PPPeter</template>
 <template #description>PPPeter is taking on various levels of spicy hotpot, including the insanely spicy, and he's not using any oil dip. Can PPPeter survive?</template>
@@ -225,7 +225,7 @@ Here are some popular ingredients that are essential to the Chongqing hotpot exp
 </table>
 
 <YouTube link="https://youtu.be/UC_3bzHe484?si=1IDBo_5pR_Lt7HDR&t=564">
-<template #cover><img src="../../assets/youtube/crazy-nightlife-in-chongqing-left-me-speechless.jpg" /></template>
+<template #cover><img src="../../assets/youtube/crazy-nightlife-in-chongqing-left-me-speechless.jpg" alt="CRAZY NIGHTLIFE in Chongqing Left Me SPEECHLESS" /></template>
 <template #title>CRAZY NIGHTLIFE in Chongqing Left Me SPEECHLESS!</template>
 <template #author>Emeka Iwueze</template>
 <template #description>I explored Chongqing at night with my new friend. We visited Hongyadong, also known as Hongya Cave. It's especially beautiful at night when illuminated by lights. Afterwards, we went for some local sweets.</template>

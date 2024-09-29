@@ -25,7 +25,7 @@ Traveling by high-speed train to Dazu takes around half an hour, but it requires
 :::
 
 <YouTube link="https://youtu.be/Elwv7_oyPZ0?si=3_Qs7WG90Jr8KZ7x">
-<template #cover><img src="../assets/youtube/the-amazing-dazu-rock-carvings.jpg" /></template>
+<template #cover><img src="../assets/youtube/the-amazing-dazu-rock-carvings.jpg" alt="The AMAZING DAZU Rock Carvings" /></template>
 <template #title>The AMAZING DAZU Rock Carvings - CHONGQING</template>
 <template #author>Nick in China</template>
 <template #description>This UNESCO World Heritage Site needs to be seen to be believed. With the oldest carvings dating from the Tang Dynasty in the 800's and the majority from the Southern Song dynasty in the 1100's there is some real history here.</template>
@@ -36,7 +36,7 @@ Traveling by high-speed train to Dazu takes around half an hour, but it requires
 Baoding Mountain is considered the highlight of the Dazu Rock Carvings, featuring grand scale, exquisite carving, and rich content. The most famous part is Dafo Bay.
 
 <YouTube link="https://youtu.be/_bWD6edQdA0?si=hD-0HNvceMZJbU7l&t=863">
-<template #cover><img src="../assets/youtube/we-are-shocked-by-what-this-country-offers.jpg" /></template>
+<template #cover><img src="../assets/youtube/we-are-shocked-by-what-this-country-offers.jpg" alt="We are Shocked by what this country Offers" /></template>
 <template #title>We are Shocked by what this country Offers!</template>
 <template #author>Jack Torr & Sophia</template>
 <template #description>We explore the ancient Dazu Rock Carvings, a UNESCO World Heritage site. We also dive into a spectacular rock concert held in a massive local stadium. Buddhist, Taoist, and Confucian sculptures dating back to 7th century.</template>

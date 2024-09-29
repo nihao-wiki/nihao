@@ -26,7 +26,7 @@ Mushrooms in Yunnan are diverse and can be difficult to identify; every year, th
 In Yunnan, where there is a rich diversity of wild mushrooms, the Mushroom Hot Pot is a beloved culinary delight. However, some wild mushrooms contain toxins that can lead to mushroom poisoning if they are not correctly identified or prepared. One form of mild poisoning is sometimes referred to as the "little people" effect because certain toxins can induce hallucinations, causing people to see visions of elves or "little people."
 
 <YouTube link="https://youtu.be/DCWZirRWGUo?si=LOcivksEYN9lAg-x">
-<template #cover><img src="../../assets/youtube/magic-mushroom-hotpot-in-yunan.jpg" /></template>
+<template #cover><img src="../../assets/youtube/magic-mushroom-hotpot-in-yunan.jpg" alt="MAGIC MUSHROOM HOTPOT in Yunnan" /></template>
 <template #title>MAGIC MUSHROOM HOTPOT in Yunnan, China</template>
 <template #author>Two Mad Explorers</template>
 <template #description>We had to try the wild mushroom hotpot of Yunnan, China.</template>

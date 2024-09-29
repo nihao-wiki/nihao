@@ -23,7 +23,7 @@ Shuangliu Rabbit Head
 The rabbit head is usually split in half to better absorb the flavors, then marinated with spices such as chili peppers and Sichuan peppercorns, and cooked using methods such as boiling or braising, resulting in a delicious and spicy flavor. For first-time tasters, it may require some adaptation.
 
 <YouTube link="https://youtu.be/JyV6HgPoaUw?si=Pr5ulLDesAjO6vxf&t=308">
-<template #cover><img src="../../assets/youtube/wangping-strrect-eats-chengdu.jpg" /></template>
+<template #cover><img src="../../assets/youtube/wangping-strrect-eats-chengdu.jpg" alt="Wangping Street Eats" /></template>
 <template #title>Wangping Street Eats, Chengdu Sichuan China 🇨🇳</template>
 <template #author>Wilko Wanders</template>
 <template #description>A walk to Wangping street for some awesome Sichuan food, yes, that's a rabbit head in the thumbnail, they eyes go pop when you suck them out! I also hit up a century egg dish with eggplant and peppers, a beef dish called ...</template>

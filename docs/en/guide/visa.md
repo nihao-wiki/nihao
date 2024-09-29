@@ -12,7 +12,7 @@ reference:
 
 ## 30-Day Visa-Free Entry
 
-Albania, Antigua and Barbuda, Armenia, The Bahamas, Barbados, Belarus, Bosnia and Herzegovina, Dominica, Ecuador, Fiji, Georgia, Grenada, Kazakhstan, Maldives, Mauritius, Qatar, San Marino, Serbia, Seychelles, Singapore, Surinam, Thailand, Tonga, United Arab Emirates.
+Countries with 30-day visa-free entry: Albania, Antigua and Barbuda, Armenia, The Bahamas, Barbados, Belarus, Bosnia and Herzegovina, Dominica, Ecuador, Fiji, Georgia, Grenada, Kazakhstan, Maldives, Mauritius, Qatar, San Marino, Serbia, Seychelles, Singapore, Surinam, Thailand, Tonga, United Arab Emirates.
 
 Visa-free entry does not equate to unlimited stay or residence in the agreement country. According to the requirements of the agreement, individuals holding the relevant passport are generally only permitted to stay for no more than 30 days after visa-free entry. If the holder needs to stay longer than 30 days, they should apply for residency procedures as soon as possible according to the requirements.
 

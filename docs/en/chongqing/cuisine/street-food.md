@@ -8,7 +8,7 @@ Fried Rice Flour Triangle
 </Chinese>
 
 <YouTube link="https://youtu.be/SXRvH0SRKlk?si=_QBQVI7tig3BBS6n&t=623">
-<template #cover><img src="../../assets/youtube/insane-street-food-in-chongqing.jpg" /></template>
+<template #cover><img src="../../assets/youtube/insane-street-food-in-chongqing.jpg" alt="INSANE Street Food in Chongqing" /></template>
 <template #title>INSANE Street Food in Chongqing, CHINA (2024)</template>
 <template #author>KSquared</template>
 <template #description>The snacks at the night market in downtown Chongqing are beyond description—so delicious and tempting that it's 'too dangerous' to stop eating.</template>
@@ -24,7 +24,7 @@ Grilled Sweet Potato Skin
 </Chinese>
 
 <YouTube link="https://youtu.be/j22aObnfhG4?si=xO7KrOkcmKT3NJp2&t=860">
-<template #cover><img src="../../assets/youtube/everything-i-ate-in-chongqing.jpg" /></template>
+<template #cover><img src="../../assets/youtube/everything-i-ate-in-chongqing.jpg" alt="Everything I ate in Chongqing" /></template>
 <template #title>Everything I ate in Chongqing, China (ULTIMATE STREET FOOD TOUR)</template>
 <template #author>JetLag Warriors</template>
 <template #description>Chongqing street food has completely captivated me. Once you get used to the spiciness, it becomes incredibly tasty; but at first, it can be quite a tingling surprise. I would give it a five-star rating.</template>
@@ -64,7 +64,7 @@ Grilled Pig Brain
 </Description>
 
 <YouTube link="https://youtu.be/vTCuLOAKbgQ?si=rAmlN0TlDvd2eXrg&t=261">
-<template #cover><img src="../../assets/youtube/chongqing-food-street.jpg" /></template>
+<template #cover><img src="../../assets/youtube/chongqing-food-street.jpg" alt="Chongqing Food Street" /></template>
 <template #title>Chongqing Food Street</template>
 <template #author>Tucker Eats</template>
 <template #description>Not just brains, other things I don’t really enjoy too, the grilled frog however. It’s a grilled delight. I’d insert a frog pun here, but I’m not clever enough. There’s also mashed potato and a baked durian.</template>

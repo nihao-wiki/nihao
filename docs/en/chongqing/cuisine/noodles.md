@@ -24,14 +24,14 @@ Small Noddles
 Xiaomian is the most famous noodles in Chongqing, known for its spicy and numbing flavor. The noodles are typically made from high-gluten flour, and its main characteristics are its spicy condiments and simple garnishes such as crushed peanuts, scallions, Sichuan pepper powder, and chili oil.
 
 <YouTube link="https://youtu.be/ZehhL5mXV4c?si=KvMraWn0R9m9woSD&t=80">
-<template #cover><img src="../../assets/youtube/my-italian-family-tried-chongqing-noodles-for-the-first-time.jpg" /></template>
+<template #cover><img src="../../assets/youtube/my-italian-family-tried-chongqing-noodles-for-the-first-time.jpg" alt="My Italian Family Tried Chongqing Noodles for the First Time" /></template>
 <template #title>My Italian Family Tried Chongqing Noodles for the First Time</template>
 <template #author>Luca&Rachele</template>
 <template #description>My Italian family's first visit to the mountain city of Chongqing, marveling at its beauty! Chongqing noodles really suit Italian palates.</template>
 </YouTube>
 
 <YouTube link="https://youtu.be/PK8h0rr9c_U?si=WE6ddHRMAapWGgrc&t=24">
-<template #cover><img src="../../assets/youtube/geihanguorenganmengle.jpg" /></template>
+<template #cover><img src="../../assets/youtube/geihanguorenganmengle.jpg" alt="How do people in Chongqing wake up to a spicy broth?" /></template>
 <template #title>How do people in Chongqing wake up to a spicy broth?</template>
 <template #author>大一的吃货生活</template>
 <template #description>Noodles with bone broth are perfect.</template>
@@ -61,7 +61,7 @@ Mashed Pea and Minced Pork Xiaomian
 A combination of mashed peas and minced pork sauce creates a noodle dish with distinct layers of sweetness and savory flavors.
 
 <YouTube link="https://youtu.be/NX7Pjd92Hdo?si=s9VLFz8GuSKzzjOt&t=168">
-<template #cover><img src="../../assets/youtube/i-found-heaven-in-chongqing.jpg" /></template>
+<template #cover><img src="../../assets/youtube/i-found-heaven-in-chongqing.jpg" alt="I found heaven in Chongqing and I'M NEVER LEAVING!" /></template>
 <template #title>I found heaven in Chongqing and I'M NEVER LEAVING!</template>
 <template #author>Blondie in China</template>
 <template #description>I'm taking on the challenge of seeing how much delicious food I can get for 50 RMB. Sitting on the curb next to the surreal 3D cityscape, eating Chongqing noodles, is truly a fantastic experience.</template>
@@ -90,7 +90,7 @@ Rice Noddles
 In Chongqing, rice noodles are just as popular as xiaomian, and their preparation is largely similar to that of small noodles, with variations such as beef rice noodles and chicken offal rice noodles being common options.
 
 <YouTube link="https://youtu.be/Hgq1LoAqMgg?si=P5VjeSEI-fVuQ-g_&t=616">
-<template #cover><img src="../../assets/youtube/the-best-noodles-in-the-world.jpg" /></template>
+<template #cover><img src="../../assets/youtube/the-best-noodles-in-the-world.jpg" alt="The BEST Noodles in the WORLD!!" /></template>
 <template #title>The BEST Noodles in the WORLD!!! Chinese FIRE NOODLE + </template>
 <template #author>The Food Ranger</template>
 <template #description>Street Food Tour of Chongqing - EXTREME!!!</template>
@@ -121,7 +121,7 @@ In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子<
 <Speech>抄手</Speech>(Chao Shou) usually have pork as the main ingredient, and sometimes other meats such as shrimp or chicken are added, along with seasonings like scallions and ginger. The wrapper is thin and soft, typically using specialized Chao Shou wrappers that are smaller and more delicate than dumpling wrappers. Chongqing-style Chao Shou generally has a richer and spicier flavor profile.
 
 <YouTube link="https://youtu.be/vLV_43p_3qU?si=sI-jptDxGbSUyOgQ&t=1888">
-<template #cover><img src="../../assets/youtube//exploring-ancient-town-in-chongqing.jpg" /></template>
+<template #cover><img src="../../assets/youtube//exploring-ancient-town-in-chongqing.jpg" alt="Exploring Ancient Town in Chongqing, China" /></template>
 <template #title>Exploring Ancient Town in Chongqing, China</template>
 <template #author>Two Mad Explorers</template>
 <template #description>We're exploring an ancient town on the outskirts of Chongqing and successfully found our way into a Chongqing restaurant where traditional noodles and chicken soup chaoshou made a lasting impression.</template>

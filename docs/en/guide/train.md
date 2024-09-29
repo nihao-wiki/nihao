@@ -1,17 +1,34 @@
 # HighSpeed: China's Advanced Rail Travel
 
-::: info LOCAL TIPS
-Check passport validity, ensuring it has at least six months remaining beyond the travel period. Purchase tickets in advance to avoid queuing at the station and wasting time. Chinese trains have a very high punctuality rate; it is recommended to arrive at the station 30 minutes before departure.
-:::
+China's railway system is highly advanced and can be categorized into several types:
+
+| Type                      | Speed    |
+| :------------------------ | :------- |
+| **High-Speed Rail (G-train)** | 250 km/h |
+| **Electric Multiple Units (D-train)** | 200 km/h |
+| Intercity Trains (C-train) | 200 km/h |
+| Rapid Trains (K-train) | 120 km/h |
+| Express Trains (T-train) and Direct Express Trains (Z-train) | 160 km/h |
+| Ordinary Fast Trains (P-train) and Ordinary Passenger Trains (L-train) | 120 km/h |
+
+
 
 <YouTube link="https://youtu.be/1Yger7RaOsE?si=PtqOwSdLDp8AOdiq">
-<template #cover><img src="../assets/youtube/chinas-trains-are-incredible-chengdu-to-chongqing.jpg" /></template>
+<template #cover><img src="../assets/youtube/chinas-trains-are-incredible-chengdu-to-chongqing.jpg" alt="China's Trains are INCREDIBLE" /></template>
 <template #title>China's Trains are INCREDIBLE</template>
 <template #author>Two Mad Explorers</template>
 <template #description>China's High speed rail network is largest railway system on earth. Today, we take an incredibly fast bullet train from Chengdu to Chongqing, China. </template>
 </YouTube>
 
+More than 12,000 trains operate daily in China, among which over a thousand are high-speed trains and electric multiple units. Smoking is strictly prohibited throughout the journey, and passengers are encouraged to maintain a quiet and clean carriage environment. These trains can deliver you to your destination smoothly and quickly.
+
 ## Booking Online
+
+You can purchase train tickets with cash at the station, but it is more recommended to book them online using an app, which is more convenient.
+
+::: info LOCAL TIPS
+Check passport validity, ensuring it has at least six months remaining beyond the travel period. Purchase tickets in advance to avoid queuing at the station and wasting time. Chinese trains have a very high punctuality rate; it is recommended to arrive at the station 30 minutes before departure.
+:::
 
 ### 12306
 

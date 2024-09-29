@@ -14,7 +14,7 @@ During summer, due to the fishing moratorium implemented in the Qingdao sea area
 :::
 
 <YouTube link="https://youtu.be/vY2x2kXZ_hE?si=IBpVbtPVdv0w_WkR">
-<template #cover><img src="../assets/youtube/this-is-seafood-heaven-in-qingdao.jpg" /></template>
+<template #cover><img src="../assets/youtube/this-is-seafood-heaven-in-qingdao.jpg" alt="This is SEAFOOD HEAVEN in Qingdao" /></template>
 <template #title>This is SEAFOOD HEAVEN in Qingdao, China</template>
 <template #author>Two Mad Explorers</template>
 <template #description>We came to Qingdao, China for this. We are enjoying some real Qingdao seafood and German pork knuckle at the Tsingtao flagship store.</template>

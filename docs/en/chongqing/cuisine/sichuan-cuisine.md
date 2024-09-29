@@ -24,7 +24,7 @@ Bean Curd with Rice
 The main ingredient of douhua rice is smooth douhua (tofu pudding), served with condiments, rice, and other dishes, forming a simple yet delicious meal.
 
 <YouTube link="https://youtu.be/XbbREufg8z4?si=B3tnZJ9hNqq755gN&t=428">
-<template #cover><img src="../../assets/youtube/chinese-streect-food-tour-in-chongqing.jpg" /></template>
+<template #cover><img src="../../assets/youtube/chinese-streect-food-tour-in-chongqing.jpg" alt="Chinese Street Food Tour in Chongqing, China" /></template>
 <template #title>Chinese Street Food Tour in Chongqing, China | BEST Alleyway Food in China</template>
 <template #author>The Food Ranger</template>
 <template #description>I made my way to Chongqing, in search of the best Chinese street food and unique Chinese Sichuan food. I found a ton of street food and specialty Chongqing snacks. There was a lot of Chinese street food on every corner.</template>

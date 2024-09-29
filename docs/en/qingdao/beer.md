@@ -17,7 +17,7 @@ Tsingtao Beer was founded in 1903 by German brewers and is one of the earliest b
 The Tsingtao Beer Museum is located at the original site of the Tsingtao Brewery and serves as an important venue for showcasing the history and development of Tsingtao Beer. Not only does it preserve the historical appearance of the old factory buildings, but it also introduces visitors to the brewing process, the brand story of Tsingtao Beer, and related beer culture through multimedia displays and physical exhibits. Visitors can learn about the journey of Tsingtao Beer from its establishment to becoming an international brand and have the opportunity to taste fresh beer here.
 
 <YouTube link="https://youtu.be/eG6hGEBYaG0?si=wr62pObhkPMUhGgH&t=381">
-<template #cover><img src="../assets/youtube/chinese-beer-served-in-a-plastic-bag.jpg" /></template>
+<template #cover><img src="../assets/youtube/chinese-beer-served-in-a-plastic-bag.jpg" alt="Chinese Beer Served In A Plastic Bag?!" /></template>
 <template #title>Chinese Beer Served In A Plastic Bag?! They Feel Like They’re In Germany!</template>
 <template #author>田纳西Jay和Ari</template>
 <template #description>第一次喝袋装的中国啤酒，太有意思了！</template>

@@ -11,7 +11,7 @@ Every winter, thousands of seagulls fly from the distant regions of Siberia to s
 The seagulls generally roost overnight in Cuihu Park.
 
 <YouTube link="https://youtu.be/WPvPZPllV4M?si=5ncHmzQY7AkjzPds">
-<template #cover><img src="../../assets/youtube/china-is-collapsing-we-dont-think-so.jpg" /></template>
+<template #cover><img src="../../assets/youtube/china-is-collapsing-we-dont-think-so.jpg" alt="China is Collapsing?" /></template>
 <template #title>China is Collapsing? We Don't Think so...</template>
 <template #author>Two Mad Explorers</template>
 <template #description>We receive messages and comments every day about how "China is falling apart" or "China is collapsing" but we find that the more we explore China, the more we find that this is simply not the truth.</template>
@@ -26,7 +26,7 @@ Because there are many people feeding the seagulls, the best time for the experi
 Taking the cable car allows visitors to enjoy panoramic views of Dianchi Lake and the city of Kunming, providing a unique perspective of the landscape.
 
 <YouTube link="https://youtu.be/4NXieWrJLKM?si=TanaHwOKEAvgFwKf&t=1104">
-<template #cover><img src="../../assets/youtube/we-cant-believe-this-is-kunming.jpg" /></template>
+<template #cover><img src="../../assets/youtube/we-cant-believe-this-is-kunming.jpg" alt="We Can't Believe THIS is Kunming China" /></template>
 <template #title>We Can't Believe THIS is Kunming China</template>
 <template #author>Two Mad Explorers</template>
 <template #description>Today, we are exploring the western mountains of Kunming city. Yunnan has some incredible scenery and Xishan in Kunming is certainly no exception.</template>
