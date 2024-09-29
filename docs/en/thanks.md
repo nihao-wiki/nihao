@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Special Thanks
+ignoreCheck: true
 ---
 
 <script setup>

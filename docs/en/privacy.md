@@ -1,4 +1,8 @@
-# Nihao.wiki Privacy Policy
+---
+ignoreCheck: true
+---
+
+# Privacy Policy
 
 > Effective Date: Sep 1, 2024
 

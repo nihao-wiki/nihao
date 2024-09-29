@@ -1,3 +1,7 @@
+---
+ignoreCheck: true
+---
+
 # How to Contribute
 
 Nihao's community is growing incredibly fast and if you're reading this, there's a good chance you're ready to join it. So... welcome!

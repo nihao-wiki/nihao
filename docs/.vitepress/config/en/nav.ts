@@ -46,11 +46,11 @@ export function nav(): DefaultTheme.NavItem[] {
           link: '/beijing/impressions',
           activeMatch: '/beijing/',
         },
-        {
-          text: 'Shanghai',
-          link: '/shanghai/impressions',
-          activeMatch: '/shanghai/',
-        },
+        // {
+        //   text: 'Shanghai',
+        //   link: '/shanghai/impressions',
+        //   activeMatch: '/shanghai/',
+        // },
         {
           text: 'Chengdu',
           link: '/sichuan/chengdu/impressions',
@@ -61,11 +61,11 @@ export function nav(): DefaultTheme.NavItem[] {
           link: '/hainan/sanya/impressions',
           activeMatch: '/hainan/',
         },
-        {
-          text: 'Hangzhou',
-          link: '/hangzhou/impressions',
-          activeMatch: '/hangzhou/',
-        },
+        // {
+        //   text: 'Hangzhou',
+        //   link: '/hangzhou/impressions',
+        //   activeMatch: '/hangzhou/',
+        // },
         {
           text: 'Qingdao',
           link: '/qingdao/impressions',

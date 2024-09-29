@@ -51,14 +51,14 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
           text: 'Beijing',
           link: '../beijing/impressions',
         },
-        {
-          text: 'Shanghai',
-          link: '../shanghai/impressions',
-        },
-        {
-          text: 'Hangzhou',
-          link: '../hangzhou/impressions',
-        },
+        // {
+        //   text: 'Shanghai',
+        //   link: '../shanghai/impressions',
+        // },
+        // {
+        //   text: 'Hangzhou',
+        //   link: '../hangzhou/impressions',
+        // },
         {
           text: 'Chongqing',
           link: '../chongqing/impressions',
