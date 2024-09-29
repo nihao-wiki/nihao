@@ -1,4 +1,4 @@
-# Lijiang Ancient City Beside the Snow Mountain
+# Lijiang: Ancient Cities Beside the Snow Mountain
 
 ![Lijiang](./assets/lijiang.jpg)
 

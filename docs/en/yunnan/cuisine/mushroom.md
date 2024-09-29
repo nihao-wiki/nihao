@@ -1,4 +1,4 @@
-# Mushroom Hot Pot That's Truly 'Intoxicating'
+# Yunnan Mushroom Hot Pot That's Truly 'Intoxicating'
 
 <Chinese word="野生菌火锅">
 <template #pinyin>yě shēng jūn huǒ guō</template>

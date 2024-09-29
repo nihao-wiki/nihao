@@ -1,4 +1,4 @@
-# Chengdu Panda Base: Home to Giant Pandas
+# Chengdu Panda Base: Home to Hundreds Giant Pandas
 
 The Chengdu Research Base of Giant Panda Breeding is located approximately 10 kilometers from the city center and is one of the most important centers in the world for the protection, research, and breeding of giant pandas.
 

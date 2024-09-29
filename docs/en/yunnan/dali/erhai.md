@@ -1,4 +1,4 @@
-# Circling Erhai & Its Ancient Towns by Vehicle
+# Circling Erhai Lake & Its Ancient Towns by Vehicle
 
 ![Erhai Lake](./assets/around-erhai.jpg)
 

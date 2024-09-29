@@ -1,4 +1,4 @@
-# Sanya's Tropical Shores and Seafood Trip
+# Hainan Sanya's Tropical Shores and Seafood Favor Trip
 
 ## Yalong Bay
 

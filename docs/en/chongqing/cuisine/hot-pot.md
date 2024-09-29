@@ -1,4 +1,4 @@
-# Chongqing Hot Pot: Local Flavor & Must-Tries
+# Chongqing Hot Pot Guide: Local Flavor & Must-Tries
 
 ## Introduction
 

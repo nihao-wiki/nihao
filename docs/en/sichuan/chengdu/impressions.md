@@ -1,4 +1,4 @@
-# Chengdu's First Impressions: Arrival Guide
+# Sichuan Chengdu's First Impressions: Visit Overview
 
 ## Overview
 

@@ -54,13 +54,12 @@ export default createContentLoader('en/**/*.md', {
       const title = parseTitle(rawData.html);
       // SEO: check title
       if (process.env.NODE_ENV === 'development' && title && !rawData?.frontmatter?.ignoreCheck) {
-        const suffixLength = 13;
-        const tooLong = title.length > 60 - suffixLength;
-        const tooShort = title.length < 50 - suffixLength;
+        const tooLong = title.length > 60;
+        const tooShort = title.length < 50;
         if (tooLong || tooShort) {
           titleProblemPages.push({
             title,
-            gap: tooLong ? 60 - title.length - suffixLength : 50 - title.length - suffixLength,
+            gap: tooLong ? 60 - title.length : 50 - title.length,
             problem: tooLong ? 'too long' : 'too short',
             route: getRoute(rawData.url),
             ...rawData,

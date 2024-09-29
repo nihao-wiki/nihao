@@ -1,4 +1,4 @@
-# Discover Chongqing's Hidden Street Eats
+# Must-Try: Discover Chongqing's Hidden Street Eats
 
 ## Fried Rice Flour Triangle
 

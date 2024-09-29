@@ -1,4 +1,4 @@
-# China's Snow Mountains: Majestic Landscapes
+# China's Snow Mountains: Explore Majestic Landscapes
 
 ## Mount Everest
 

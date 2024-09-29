@@ -1,4 +1,4 @@
-# Tsingtao Beer: Qingdao's Brewing Tradition
+# Tsingtao Beer: China Qingdao's Brewing Tradition
 
 <Chinese word="青岛啤酒">
 <template #pinyin>qīng dǎo pí jiǔ</template>

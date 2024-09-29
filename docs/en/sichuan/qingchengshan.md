@@ -1,4 +1,4 @@
-# Sichuan Qingcheng Mountain: Daoist Holy Site
+# Sichuan Qingcheng Mountain: the Daoist Holy Site
 
 <Chinese word="青城山">
 <template #pinyin>qīng chéng shān</template>

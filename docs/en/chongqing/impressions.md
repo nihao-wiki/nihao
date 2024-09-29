@@ -1,4 +1,4 @@
-# Chongqing's First Impressions: Arrival Guide
+# China Chongqing's First Impressions: Visit Overview
 
 ## Overview
 

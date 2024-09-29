@@ -1,4 +1,4 @@
-# HighSpeed: China's Advanced Rail Travel
+# HighSpeed Train: China's Advanced Railway Travel
 
 China's railway system is highly advanced and can be categorized into several types:
 

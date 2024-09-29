@@ -1,4 +1,4 @@
-# Discovering The Mysterious Land of Daughters
+# Lijiang: Discovering The Mysterious Land of Daughters
 
 ## Lake Lugu
 
