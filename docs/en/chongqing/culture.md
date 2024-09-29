@@ -20,14 +20,14 @@ Laojundong
 Laojundong is a historic Taoist sanctuary. It is situated on Laojun Mountain at an altitude of approximately 600 meters, facing the Chongqing urban area and offering a commanding view that includes the Chaotianmen Triangle.
 
 <YouTube link="https://youtu.be/Vb0m7_MIWbk?si=NMn6uyeUS8YRjNwU&t=91">
-<template #cover><img src="../assets/youtube/this-is-why-I-love-china-temples-motorbike-markets.jpg" /></template>
+<template #cover><img src="../assets/youtube/this-is-why-I-love-china-temples-motorbike-markets.jpg" alt="THIS IS WHY I LOVE CHINA!" /></template>
 <template #title>THIS IS WHY I LOVE CHINA! Temples, Motorbikes, Markets - Chongqing vlog</template>
 <template #author>Ride with Gabi</template>
 <template #description>My last video in Chongqing, China. In this video, we are going to check out a beautiful Taoist temple, the ancient town of Chongqing and some Chinese motorbikes.</template>
 </YouTube>
 
 <YouTube link="https://youtu.be/ubmyiaAGfns?si=TdQhtyn345Il0VyE&t=1147">
-<template #cover><img src="../assets/youtube/la-cina-e-un-posto-da-pazzi.jpg" /></template>
+<template #cover><img src="../assets/youtube/la-cina-e-un-posto-da-pazzi.jpg" alt="la città più ASSURDA che non conoscevi" /></template>
 <template #title>la città più ASSURDA che non conoscevi! la CINA è un posto da pazzi!</template>
 <template #author>Nicolò Balini</template>
 <template #description>Hiking up a mountain in Chongqing to find a Daoist temple, it was dark by the time I arrived; going back the next day, I saw some stunning views of Chongqing from there; Chongqing is worth staying a few more days.</template>

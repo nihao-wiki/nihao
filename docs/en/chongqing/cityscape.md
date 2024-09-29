@@ -15,7 +15,7 @@
 "Skywalk Cloud Stroll" is a high-altitude observation experience at Raffles City Chongqing. It offers visitors the opportunity to overlook the urban landscape of Chongqing from hundreds of meters above the ground. Such a height provides a sense of the city's expanse and beauty, while also bringing a certain level of thrill.
 
 <YouTube link="https://youtu.be/ui-I6Jg7Qsc?si=TJKyX1QGnK_SRfX7&t=959">
-<template #cover><img src="../assets/youtube/chongqing-the-city-that-defies-expectations.jpg" /></template>
+<template #cover><img src="../assets/youtube/chongqing-the-city-that-defies-expectations.jpg" alt="Chongqing: The City That Defies Expectations" /></template>
 <template #title>Chongqing: The City That Defies Expectations</template>
 <template #author>Wilko Wanders</template>
 <template #description>China’s Mega City Chongqing Blew my mind 🤯 and not just because of the spicy hotpots! 🌶️</template>
@@ -39,7 +39,7 @@ KuixingLou
 </Description>
 
 <YouTube link="https://youtu.be/oRiCTslilJo?si=7sQ-qtAe11a8YKqo">
-<template #cover><img src="../assets/youtube/chongqing-is-one-another-level.jpg" /></template>
+<template #cover><img src="../assets/youtube/chongqing-is-one-another-level.jpg" alt="Chongqing Is On Another Level" /></template>
 <template #title>Chongqing Is On Another Level</template>
 <template #author>Skan Escapes</template>
 <template #description>A city built upon landscapes of hills , rivers, and valleys.
@@ -54,7 +54,7 @@ You may have already seen it online, that place where you think you're on the 1s
 You can walk to Kuixinglou for a visit, and then take Line 2 of the monorail from the nearby Linjiangmen Station to reach Liziba Station.
 :::
 
-## Liziba Light Rail Passing Through a Building 
+## Liziba Light Rail Passing Through a Building
 
 <Chinese word="李子坝">
 <template #pinyin>lǐ zǐ bà</template>
@@ -74,14 +74,14 @@ Liziba
 The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
 
 <YouTube link="https://youtu.be/qAwbioLzTkk?si=tLuCzXjMDcMGuJd7&t=439">
-<template #cover><img src="../assets/youtube/жителей.jpg" /></template>
+<template #cover><img src="../assets/youtube/жителей.jpg" alt="33 млн жителей. Огромный китайский мегаполис и самое красивое метро" /></template>
 <template #title>33 млн жителей. Огромный китайский мегаполис и самое красивое метро</template>
 <template #author>Касё Гасанов</template>
 <template #description>Taking the Chongqing Light Rail, I arrived at the most famous online celebrity check-in spot.</template>
 </YouTube>
 
 <YouTube link="https://youtu.be/sr_3l726CV4?si=PRiwUD4rgxUXVQeU&t=335">
-<template #cover><img src="../assets/youtube/getting-lost-in-chongqing-china-vlog.jpg" /></template>
+<template #cover><img src="../assets/youtube/getting-lost-in-chongqing-china-vlog.jpg" alt="GETTING LOST IN CHONGQING! CHINA VLOG" /></template>
 <template #title>GETTING LOST IN CHONGQING! CHINA VLOG</template>
 <template #author>Ride with Gabi</template>
 <template #description>After walking ten minutes from the Liziba monorail through the building, I was completely lost in Chongqing, following endless steps into a mysterious place.</template>
@@ -128,7 +128,7 @@ The Eighteen Steps
 The Eighteen Steps is located in the heart of Chongqing and is an ancient street known for its steep steps, which total eighteen in number, hence the name 'Eighteen Steps.' The Eighteen Steps has witnessed the transformation of Chongqing from ancient times to the present day, and it features many preserved traditional buildings.
 
 <YouTube link="https://youtu.be/sWm6Jk-dzCs?si=Y4K0GAIuhlTMVD0y&t=475">
-<template #cover><img src="../assets/youtube/this-is-why-china-surpasses-the-west.jpg" /></template>
+<template #cover><img src="../assets/youtube/this-is-why-china-surpasses-the-west.jpg" alt=">هذا هو سبب تفوق الصين على الغرب " /></template>
 <template #title>هذا هو سبب تفوق الصين على الغرب ! - Chongqing</template>
 <template #author>Ahmed Alshammari</template>
 <template #description></template>
@@ -170,7 +170,7 @@ Nanshan
 Nanshan, also known as South Mountain, is a scenic area in the Nan'an District of Chongqing. It offers some of the best views of the city and is particularly known for its breathtaking night scenes. From the top of Nanshan, you can enjoy panoramic views of Chongqing, including its impressive skyline, the convergence of the Yangtze and Jialing rivers, and the city's many bridges and lights.
 
 <YouTube link="https://youtu.be/ek8eN4VxbjA?si=aB3YnHZYmWuVE7RT&t=960">
-<template #cover><img src="../assets/youtube/chongqing-chinas-mega-city-you-havent-heard-of.jpg" /></template>
+<template #cover><img src="../assets/youtube/chongqing-chinas-mega-city-you-havent-heard-of.jpg" alt="Chongqing - CHINA'S MEGA CITY - YOU haven't heard of!" /></template>
 <template #title>Chongqing - CHINA'S MEGA CITY - YOU haven't heard of!</template>
 <template #author>Joel Friend</template>
 <template #description>Away from the hustle and bustle of 32 million people, We found a hidden trail leading to a sky forest bar where We could watch the city sunset; We found the magic spot.</template>
@@ -205,6 +205,7 @@ Hongya Cave, also known as Hongyadong, is a famous landmark and tourist attracti
 Hongyadong is particularly known for its distinctive architectural style and its lively atmosphere, especially during the evening when the lights come on. It has become a popular spot for tourists and locals alike to experience the unique culture and nightlife of Chongqing.
 
 Hongyadong Lighting Schedule:
+
 - Lighting Time: 8:00 PM to 10:00 PM
 - Best Viewing Time: After 7:00 PM in winter, after 8:00 PM in summer
 
@@ -232,14 +233,14 @@ The Two Rivers Tour
 The Two Rivers Tour usually passes by some famous landmarks, such as Chaotianmen, Hongyadong, and Nanbin Road. The night tour of the two rivers is particularly charming because when night falls, the lights on both banks shine brilliantly, presenting another kind of beauty to the entire city.
 
 <YouTube link="https://youtu.be/hCgd58A-tFU?si=j-uNzN0_0qhQfxFK&t=997">
-<template #cover><img src="../assets/youtube/inside-chinas-monster-city.jpg" /></template>
+<template #cover><img src="../assets/youtube/inside-chinas-monster-city.jpg" alt="INSIDE CHINA’S MONSTER CITY" /></template>
 <template #title>INSIDE CHINA’S MONSTER CITY - Chongqing</template>
 <template #author>JetLag Warriors</template>
 <template #description>This city is built on a mountain, there are many peculiar buildings. Warning: it's very easy to get lost here! So we boarded a night cruise to see Chongqing's night lights; It's truly stunning.</template>
 </YouTube>
 
 <YouTube link="https://youtu.be/0Yt5R3_af6A?si=oGzkYr6pzUmFaPYk&t=627">
-<template #cover><img src="../assets/youtube/china-in-night.jpg" /></template>
+<template #cover><img src="../assets/youtube/china-in-night.jpg" alt="China at NIGHT..." /></template>
 <template #title>China at NIGHT...</template>
 <template #author>Jack Torr & Sophia</template>
 <template #description></template>

@@ -16,7 +16,7 @@
 </Description>
 
 <YouTube link="https://youtu.be/0kfhyOKM888?si=AzCMWcMNKhRYBnCb">
-<template #cover><img src="../assets/youtube/the-biggest-city-on-earch-youve-never-heard-of.jpg" /></template>
+<template #cover><img src="../assets/youtube/the-biggest-city-on-earch-youve-never-heard-of.jpg" alt="The Biggest City on Earth You've Never Heard Of" /></template>
 <template #title>The Biggest City on Earth You've Never Heard Of</template>
 <template #author>PPPeter</template>
 <template #description>With population of 32,000,000, Chongqing, China is the biggest city on Earth. Its unbelievable area makes it also the largest city in the world.</template>
@@ -32,7 +32,7 @@ Chongqing, which covers 82,300 square kilometers—twice the size of the Netherl
 - **Hotpot Capital**: It is the birthplace of hotpot and has over 32,000 hotpot restaurants.
 
 <YouTube link="https://youtu.be/D2RATbbd9DU?si=obU1QSqT3voZkypr&t=52">
-<template #cover><img src="../assets/youtube/arriving-in-china-our-first-impressions.jpg" /></template>
+<template #cover><img src="../assets/youtube/arriving-in-china-our-first-impressions.jpg" alt="Our First Impressions" /></template>
 <template #title>Our First Impressions</template>
 <template #author>Jack Torr & Sophia</template>
 </YouTube>
@@ -68,7 +68,7 @@ Payments via Alipay, WeChat, and cash will be accepted.
 </Flex>
 
 <YouTube link="https://youtu.be/rZb_P7xDVJo?si=K3LCgMCUFiqGQIXr&t=391">
-<template #cover><img src="../assets/youtube/entering-the-largest-city-in-the-world.jpg" /></template>
+<template #cover><img src="../assets/youtube/entering-the-largest-city-in-the-world.jpg" alt="Entering The Largest City in the World" /></template>
 <template #title>Entering The Largest City in the World</template>
 <template #author>KSquared</template>
 <template #description>It took only five minutes to fill out the entry forms, and I couldn't wait to jump into a yellow taxi. The driver didn't need GPS, navigating through places that felt like underground parking lots...</template>
@@ -93,7 +93,7 @@ Some basic food items in China, such as rice, noodles, and cooking oil, typicall
 Here are some price references for Chongqing: Cola 500ml for <CNY>3.5</CNY>, Mineral Water 5L for <CNY>8.5</CNY>, Beef 500g for <CNY>75</CNY> and Tomato 500g for <CNY>1.5</CNY>.
 
 <YouTube link="https://youtu.be/6-5wmhpnT_k?si=EWA77ir71zaZr9sI">
-<template #cover><img src="../assets/youtube/full-supermarket-tour-in-china.jpg" /></template>
+<template #cover><img src="../assets/youtube/full-supermarket-tour-in-china.jpg" alt="Full Supermarket Tour in China" /></template>
 <template #title>Full Supermarket Tour in China (Shocking Prices)</template>
 <template #author>Two Mad Explorers</template>
 <template #description>Exploring a local supermarket in Chongqing, the prices were surprisingly cheap; We managed to buy everything We wanted for just 20 euros.</template>

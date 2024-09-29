@@ -13,14 +13,14 @@ It is just to the north of the ancient city, visible from there; if you wake up 
 :::
 
 <YouTube link="https://youtu.be/MPw4SaS-C-M?si=0aht8SZ4ZBQzZLe7&t=169">
-<template #cover><img src="../../assets/youtube/americans-in-china-not-what-we-expected.jpg" /></template>
+<template #cover><img src="../../assets/youtube/americans-in-china-not-what-we-expected.jpg" alt="AMERICANS IN CHINA" /></template>
 <template #title>AMERICANS IN CHINA (not what we expected)</template>
 <template #author>Gone with the Wynns</template>
 <template #description>China is not all what we expected and trust me, as a couple of Americans, we certainly had some reservations about trekking through the country without a real plan. </template>
 </YouTube>
 
 <YouTube link="https://youtu.be/GzcvGQoOilE?si=KC3my4Wv-YYyGZDS">
-<template #cover><img src="../../assets/youtube/you-need-oxygen-canisters-to-breathe-here.jpg" /></template>
+<template #cover><img src="../../assets/youtube/you-need-oxygen-canisters-to-breathe-here.jpg" alt="You need oxygen canisters to breathe here" /></template>
 <template #title>You need oxygen canisters to breathe here! - Dragon Snow Mountain Lijiang</template>
 <template #author>Wilko Wanders</template>
 <template #description>I climb to the highest peak of my life, (4,680 metres / 15,354 feet above sea level). It's a pretty fast climb too (There may be a cable car involved). As you ascend so quickly you need oxygen canisters to help you avoid altitude sickness! </template>
@@ -33,14 +33,14 @@ Tiger Leaping Gorge is one of the deepest gorges in the world, known for its spe
 The gorge is divided into three sections: Upper, Middle, and Lower, with the Upper section being the most famous, attracting hikers and adventure enthusiasts. Visitors can hike along well-marked trails and enjoy the breathtaking views of the gorge while experiencing the cultures of the Lisu and Naxi peoples who live along the route.
 
 <YouTube link="https://youtu.be/56slic7jCXo?si=g-OfCsUpohrybNFG">
-<template #cover><img src="../../assets/youtube/our-craziest-adventure-in-china-tiger-leaping-gorege.jpg" /></template>
+<template #cover><img src="../../assets/youtube/our-craziest-adventure-in-china-tiger-leaping-gorege.jpg" alt="Our Craziest Adventure in China Tiger Leaping Gorge" /></template>
 <template #title>Our Craziest Adventure in China Tiger Leaping Gorge</template>
 <template #author>Two Mad Explorers</template>
 <template #description>This is the Tiger Leaping Gorge. We will be hiking over the next 48 hours through the mountains of Yunnan, China.</template>
 </YouTube>
 
 <YouTube link="https://youtu.be/FLl67iF74Bc?si=qansKoc-Q03d9mWh">
-<template #cover><img src="../../assets/youtube/chinas-natural-beauty-is-insame-tiger-leaping-gorege.png" /></template>
+<template #cover><img src="../../assets/youtube/chinas-natural-beauty-is-insame-tiger-leaping-gorege.png" alt="China's Natural Beauty is INSANE Tiger Leaping Gorge" /></template>
 <template #title>China's Natural Beauty is INSANE Tiger Leaping Gorge</template>
 <template #author>Two Mad Explorers</template>
 <template #description>Today we are continuing our journey across the Tiger Leaping Gorge.</template>
