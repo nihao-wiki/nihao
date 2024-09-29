@@ -22,4 +22,4 @@ All data collected are stored on aforementioned 3rd party services and are subje
 
 ## Questions
 
-If you have any questions about this Privacy Policy or our practices, please [contact us](/contact).
+If you have any questions about this Privacy Policy or our practices, please contact us.
