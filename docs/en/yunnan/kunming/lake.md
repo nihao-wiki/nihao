@@ -10,7 +10,7 @@ Every winter, thousands of seagulls fly from the distant regions of Siberia to s
 
 The seagulls generally roost overnight in Cuihu Park.
 
-<YouTube link="https://youtu.be/4NXieWrJLKM?si=TanaHwOKEAvgFwKf&t=1104">
+<YouTube link="https://youtu.be/WPvPZPllV4M?si=5ncHmzQY7AkjzPds">
 <template #cover><img src="../../assets/youtube/china-is-collapsing-we-dont-think-so.jpg" alt="China is Collapsing?" /></template>
 <template #title>China is Collapsing? We Don't Think so...</template>
 <template #author>Two Mad Explorers</template>
