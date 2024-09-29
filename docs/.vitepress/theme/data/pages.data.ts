@@ -53,7 +53,7 @@ export default createContentLoader('en/**/*.md', {
     rawData.forEach((rawData) => {
       const title = parseTitle(rawData.html);
       // SEO: check title
-      if (process.env.NODE_ENV === 'development' && title) {
+      if (process.env.NODE_ENV === 'development' && title && !rawData?.frontmatter?.ignoreCheck) {
         const suffixLength = 13;
         const tooLong = title.length > 60 - suffixLength;
         const tooShort = title.length < 50 - suffixLength;

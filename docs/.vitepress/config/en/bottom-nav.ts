@@ -47,10 +47,6 @@ export function bottomNav(): DefaultTheme.NavItem[] {
           text: 'Statement',
           link: '/statement',
         },
-        {
-          text: 'Contact Us',
-          link: '/contact',
-        },
       ],
     },
     {
@@ -63,15 +59,6 @@ export function bottomNav(): DefaultTheme.NavItem[] {
         {
           text: 'Thanks',
           link: '/thanks',
-        },
-      ],
-    },
-    {
-      text: 'Sponsor',
-      items: [
-        {
-          text: 'Sponsor',
-          link: '/sponsor',
         },
       ],
     },

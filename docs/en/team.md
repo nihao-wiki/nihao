@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Join Our Team: Contribute to Maintaining Together'
+ignoreCheck: true
 ---
 
 <script setup>

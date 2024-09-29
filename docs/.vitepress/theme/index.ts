@@ -9,7 +9,7 @@ import Map from './components/Map/index.vue';
 import YouTube from './components/YouTube.vue';
 import Weekdays from './components/Weekdays.vue';
 import NavReddit from './components/NavReddit.vue';
-import Ads from './components/Ads.vue';
+// import Ads from './components/Ads.vue';
 import Chinese from './components/Chinese.vue';
 import CNY from './components/CNY.vue';
 import CurrencyBar from './components/CurrencyBar.vue';
@@ -38,7 +38,7 @@ export default {
       'home-hero-image': () => h(HomeHeroImage),
       'home-hero-after': () => h(Latest),
       'doc-footer-before': () => h(References),
-      'aside-ads-before': () => h(Ads),
+      // 'aside-ads-before': () => h(Ads),
       'nav-bar-content-after': () => h(CurrencyBar),
       'nav-screen-content-after': () => h(CurrencyScreen),
     });
