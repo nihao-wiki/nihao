@@ -7,6 +7,7 @@
 <div><i>Activities</i><b>Sightseeing</b></div>
 <div><i>Crowd Level</i><b>Crowd</b></div>
 <div><i>Ticket Price</i><b><CNY>25</CNY></b></div>
+<div><i>Navigation</i><b><Navigation position="106.510211,29.501103" name="Chongqing Zoo" /></b></div>
 </Description>
 
 The zoo was opened to the public in January 1955. It covers an area of 43.5 hectares.

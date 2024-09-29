@@ -9,6 +9,7 @@
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b><CNY>198</CNY></b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
+<div><i>Navigation</i><b><Navigation position="106.58737,29.564933" name="Skywalk Cloud Stroll" /></b></div>
 </Description>
 
 "Skywalk Cloud Stroll" is a high-altitude observation experience at Raffles City Chongqing. It offers visitors the opportunity to overlook the urban landscape of Chongqing from hundreds of meters above the ground. Such a height provides a sense of the city's expanse and beauty, while also bringing a certain level of thrill.
@@ -33,7 +34,8 @@ KuixingLou
 <div><i>Activities</i><b>Check-in</b></div>
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b>Free</b></div>
-<div><i>Recommendation</i><b>Not Recommended</b></div>
+<div><i>Recommendation</i><b>Optional</b></div>
+<div><i>Navigation</i><b><Navigation position="106.573596,29.560241" name="KuixingLou" /></b></div>
 </Description>
 
 <YouTube link="https://youtu.be/oRiCTslilJo?si=7sQ-qtAe11a8YKqo">
@@ -66,6 +68,7 @@ Liziba
 <div><i>Crowd Level</i><b>Crowd</b></div>
 <div><i>Ticket Price</i><b>Free</b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
+<div><i>Navigation</i><b><Navigation position="106.537323,29.552874" name="Liziba Station" /></b></div>
 </Description>
 
 The Liziba Light Rail passing through a building is a unique urban feature in Chongqing, where a light rail line actually runs through a high-rise residential building. This phenomenon has become a popular tourist attraction due to its novelty and the impressive engineering involved.
@@ -96,7 +99,8 @@ Mountain City Trails
 <div><i>Activities</i><b>Strolling</b></div>
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b>Free</b></div>
-<div><i>Recommendation</i><b>Recommended</b></div>
+<div><i>Recommendation</i><b>Optional</b></div>
+<div><i>Navigation</i><b><Navigation position="106.566715,29.550486" name="Mountain City Trails" /></b></div>
 </Description>
 
 Mountain City Trails typically refer to pedestrian paths built in mountainous cities to facilitate travel for pedestrians. In China, Chongqing is a famous mountain city with many characteristic mountain city trails. These trails are not only a choice for daily commuting for locals but also popular attractions for tourists to experience the unique terrain and culture of Chongqing.
@@ -118,6 +122,7 @@ The Eighteen Steps
 <div><i>Crowd Level</i><b>Crowd</b></div>
 <div><i>Ticket Price</i><b>Free</b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
+<div><i>Navigation</i><b><Navigation position="106.573046,29.551019" name="The Eighteen Steps" /></b></div>
 </Description>
 
 The Eighteen Steps is located in the heart of Chongqing and is an ancient street known for its steep steps, which total eighteen in number, hence the name 'Eighteen Steps.' The Eighteen Steps has witnessed the transformation of Chongqing from ancient times to the present day, and it features many preserved traditional buildings.
@@ -142,6 +147,7 @@ Yangtze River Cable Car
 <div><i>Crowd Level</i><b>Very Crowd</b></div>
 <div><i>Ticket Price</i><b><CNY>20</CNY> to <CNY>30</CNY></b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
+<div><i>Navigation</i><b><Navigation position="106.586316,29.556428" name="Yangtze River Cable Car" /></b></div>
 </Description>
 
 The Yangtze River Cable Car is a cable car system that crosses the Yangtze River in Chongqing, China. It was originally designed and used as a means of public transportation in Chongqing, China. Over time, it has become a popular tourist attraction while still serving as a form of transit for locals.
@@ -191,6 +197,7 @@ Hongyadong
 <div><i>Crowd Level</i><b>Very Crowd</b></div>
 <div><i>Ticket Price</i><b>Free</b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
+<div><i>Navigation</i><b><Navigation position="106.577827,29.562356" name="Hongyadong" /></b></div>
 </Description>
 
 Hongya Cave, also known as Hongyadong, is a famous landmark and tourist attraction in Chongqing. It is a multi-level complex featuring traditional Sichuan-style architecture. The buildings are built into the side of a cliff, overlooking the Jialing River, and are illuminated at night, creating a spectacular sight.
