@@ -45,7 +45,7 @@ Luohan Temple
 <div><i>Activities</i><b>Sightseeing</b></div>
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b><CNY>20</CNY></b></div>
-<div><i>Recommendation</i><b>Not Recommended</b></div>
+<div><i>Recommendation</i><b>Optional</b></div>
 </Description>
 
 Luohan Temple, initially constructed during the Zhiping period of the Northern Song Dynasty (1064–1067), was renovated in the 11th year of Emperor Guangxu's reign during the Qing Dynasty (1885).

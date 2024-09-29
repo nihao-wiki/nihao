@@ -11,6 +11,7 @@ import Weekdays from './components/Weekdays.vue';
 import NavReddit from './components/NavReddit.vue';
 // import Ads from './components/Ads.vue';
 import Chinese from './components/Chinese.vue';
+import Navigation from './components/Navigation.vue';
 import CNY from './components/CNY.vue';
 import CurrencyBar from './components/CurrencyBar.vue';
 import CurrencyScreen from './components/CurrencyScreen.vue';
@@ -31,6 +32,7 @@ export default {
     app.component('Chinese', Chinese);
     app.component('CNY', CNY);
     app.component('Description', Description);
+    app.component('Navigation', Navigation);
     app.component('blog', Blog);
   },
   Layout() {

@@ -10,7 +10,7 @@ Fishing City
 <div><i>Activities</i><b>Sightseeing</b></div>
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b><CNY>60</CNY></b></div>
-<div><i>Recommendation</i><b>Not Recommended</b></div>
+<div><i>Recommendation</i><b>Optional</b></div>
 </Description>
 
 Fishing City is an ancient city with a long history and also a marvel in the military history of both China and the world. Located on the banks of the Jialing River in Hechuan District, Chongqing, it sits atop a small hill called Fishing Mountain.
