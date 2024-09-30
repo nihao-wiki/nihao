@@ -170,7 +170,7 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
         { text: 'Flowers', link: 'cuisine/flowercake' },
       ],
     },
-  ],
+  ];
 }
 
 function sidebarHainan(): DefaultTheme.SidebarItem[] {
