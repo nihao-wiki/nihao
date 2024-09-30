@@ -167,9 +167,10 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
       items: [
         { text: '"Intoxicating" Mushroom', link: 'cuisine/mushroom' },
         { text: 'Crossing Bridge Noddles', link: 'cuisine/crossingbridge' },
+        { text: 'Flowers', link: 'cuisine/flowercake' },
       ],
     },
-  ];
+  ],
 }
 
 function sidebarHainan(): DefaultTheme.SidebarItem[] {
