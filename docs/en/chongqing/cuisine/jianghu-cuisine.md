@@ -50,6 +50,8 @@ Taro Chicken is made with chicken and taro, stewed with hot pot seasoning, which
 
 ## County Cuisine
 
+With its vast territory, Chongqing boasts unique delicacies in its more remote suburban areas, some of which have earned a reputation for their deliciousness. Today, these culinary treasures can be found anywhere.
+
 ### Bishan Rabbit
 
 <Chinese word="璧山兔">
@@ -57,12 +59,16 @@ Taro Chicken is made with chicken and taro, stewed with hot pot seasoning, which
 Bishan Rabbit
 </Chinese>
 
+Bishan is 50 kilometers away from the city center. Bishan rabbit is renowned for its tender rabbit meat and its spicy, numbing, fresh, and aromatic taste.
+
 ### Laifeng Fish
 
 <Chinese word="来凤鱼">
 <template #pinyin>lái fèng yú</template>
 Laifeng Fish
 </Chinese>
+
+LaiFeng Fish also hails from Bishan and is considered the pioneer of Jianghu cuisine. Various Jianghu dishes have adopted cooking methods from it.
 
 ### Wanzhou Grilled Fish
 
