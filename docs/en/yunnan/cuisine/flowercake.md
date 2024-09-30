@@ -17,3 +17,7 @@ Flower Cake
 </Description>
 
 Yunnan is renowned for its abundance of flowers, and among these, rose pastries stand out. These popular sweets are made using Yunnan's special edible roses as an ingredient. Rose pastries are typically made fresh on-site, and they are best enjoyed while still warm from the oven. They can also be packaged into gift boxes, making them convenient to carry around.
+
+## Rose Jam
+
+Yunnan rose jam is made from edible roses and honey, with a fresh, sweet taste and a rich, fragrant flavor. It can be spread on bread, yogurt, and other foods.
