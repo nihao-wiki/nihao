@@ -48,6 +48,24 @@ Taro Chicken
 
 Taro Chicken is made with chicken and taro, stewed with hot pot seasoning, which renders the chicken fall-off-the-bone tender and the taro soft and creamy, offering a perfect mouthfeel. Particularly the taro often leaves locals craving for more.
 
+## Gross Blood in Mong Kok
+
+<Chinese word="Maoxuewang">
+<template #pinyin>máo xuè wàng</template>
+Maoxuewang
+</Chinese>
+
+Maoxuewang is one of the pioneers of the "jianghu" style dishes from Chongqing, originating from the ancient town of Ciqikou. Its main ingredients include duck blood, tripe, luncheon meat, and other ingredients, all cooked together in a spicy and numbing red oil broth, resulting in a distinctly spicy and numbing flavor.
+
+## Sour Fish
+
+<Chinese word="酸菜鱼">
+<template #pinyin>suān cài yú</template>
+Sour Fish
+</Chinese>
+
+Sour Fish is one of the pioneering dishes of Chongqing's "jianghu" cuisine. It is made primarily with grass carp and pickled vegetables, and is cooked to achieve a tangy and spicy flavor that is quite appetizing.
+
 ## County Cuisine
 
 With its vast territory, Chongqing boasts unique delicacies in its more remote suburban areas, some of which have earned a reputation for their deliciousness. Today, these culinary treasures can be found anywhere.
