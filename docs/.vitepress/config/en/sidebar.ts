@@ -94,17 +94,17 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
     {
       text: 'Chongqing',
       items: [
-        { text: 'How to Arrive', link: 'visa-free' },
+        { text: 'Visa', link: 'visa-free' },
         { text: 'First Impressions', link: 'impressions' },
         {
           text: 'Essential Routes',
-          items: [{ text: 'One Day Urban Tour', link: 'cityscape' }],
+          items: [{ text: '8D Cyberpunk', link: 'cityscape' }],
         },
         {
           text: 'Optional Routes',
           items: [
             { text: 'Panda, Zoo', link: 'panda' },
-            { text: 'Cultural Journey', link: 'culture' },
+            { text: 'Cultural', link: 'culture' },
           ],
         },
         {
