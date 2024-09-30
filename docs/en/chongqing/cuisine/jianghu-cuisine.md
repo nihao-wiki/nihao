@@ -4,9 +4,11 @@
 <template #pinyin>má là</template>
 </Chinese>
 
-Chongqing cuisine can itself be seen as a subcategory of Sichuan cuisine, particularly known as Chongqing <Speech>江湖菜</Speech>(Jianghu cuisine).
+Chongqing cuisine can itself be seen as a subcategory of Sichuan cuisine, particularly known as Chongqing Jianghu cuisine.
 
-It's known for its bold and spicy flavors, reflecting the culinary traditions of the local "jianghu" or "river and lake" culture. This term often connotes a more rustic and less refined style of cooking compared to formal Sichuanese cuisine, with an emphasis on hearty and flavorful dishes.
+It's known for its bold and spicy flavors, reflecting the culinary traditions of the local "jianghu" or "river and lake" culture.
+
+Heavy use of oil, salt, chili, Sichuan pepper, and MSG are characteristics of Jianghu cuisine, with the liberal use of Sichuan pepper being particularly distinctive. People are often struck by the generous amount of chili used, but typically, Jianghu cuisine uses even more Sichuan pepper than chili. After dining on Jianghu cuisine, locals often break out in a sweat and experience a numbing sensation in their mouths, but they enjoy this refreshing feeling, akin to the carefree demeanor of wandering heroes in the Jianghu.
 
 ## Chicken Cuisine
 
