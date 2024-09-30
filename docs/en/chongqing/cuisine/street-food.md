@@ -34,6 +34,8 @@ Traditionally, it is plain with no fillings.
 
 ## Chongqing-Style Barbecue
 
+Chongqing barbecue is distinctive, but among its offerings, I believe the unique variety is the trio of vegetarian dishes. They are rich in flavor and inexpensive, yet remain appealing without becoming monotonous. Many locals have grown up eating these dishes.
+
 ### Grilled Sweet Potato Skin
 
 <Chinese word="烤苕皮" as="烤芍皮">
