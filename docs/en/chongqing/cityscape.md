@@ -28,7 +28,7 @@ Chongqing Raffles is a new landmark building that integrates offices, a hotel, a
 
 The observation deck on the top floor of Raffles can serve as your starting point for sightseeing. You can walk on the top of its Crystal Sky Bridge, which is 250 meters high, and experience a 360-degree view of Chongqing.
 
-<YouTube link="https://youtu.be/ui-I6Jg7Qsc?si=TJKyX1QGnK_SRfX7&t=959">
+<YouTube link="https://youtu.be/oRiCTslilJo?si=7sQ-qtAe11a8YKqo"">
 <template #cover><img src="../assets/youtube/chongqing-the-city-that-defies-expectations.jpg" alt="Chongqing: The City That Defies Expectations" /></template>
 <template #title>Chongqing: The City That Defies Expectations</template>
 <template #author>Wilko Wanders</template>
@@ -53,7 +53,7 @@ KuixingLou
 <div><i>Navigation</i><b><Navigation position="106.573596,29.560241" name="KuixingLou" /></b></div>
 </Description>
 
-<YouTube link="https://youtu.be/oRiCTslilJo?si=7sQ-qtAe11a8YKqo">
+<YouTube link="https://youtu.be/ui-I6Jg7Qsc?si=TJKyX1QGnK_SRfX7&t=959>
 <template #cover><img src="../assets/youtube/chongqing-is-one-another-level.jpg" alt="Chongqing Is On Another Level" /></template>
 <template #title>Chongqing Is On Another Level</template>
 <template #author>Skan Escapes</template>
