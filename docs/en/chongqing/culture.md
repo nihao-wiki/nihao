@@ -15,6 +15,7 @@ Laojundong
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b>Free</b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
+<div long><i>Distance</i><b>6km, 20min from downtown</b></div>
 </Description>
 
 Laojundong is a historic Taoist sanctuary. It is situated on Laojun Mountain at an altitude of approximately 600 meters, facing the Chongqing urban area and offering a commanding view that includes the Chaotianmen Triangle.
