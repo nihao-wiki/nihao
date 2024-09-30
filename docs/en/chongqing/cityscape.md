@@ -2,8 +2,20 @@
 
 ![One Day Urban Tour](./assets/chongqing-one-day.jpg)
 
-## Skywalk Cloud Stroll
+## Chongqing Raffles
 
+Chongqing Raffles is a new landmark building that integrates offices, a hotel, apartments, a shopping mall, and an observation deck. You can stay at the InterContinental Hotel in Chongqing Raffles, or choose an Airbnb within the building.
+
+<Flex>
+<div>Chongqing Raffles is a new landmark building that integrates offices, a hotel, apartments, a shopping mall, and an observation deck. You can walk on the top of its Crystal Sky Bridge, which is 250 meters high, and experience a 360-degree view of Chongqing.
+<p>This building is located at Chaotianmen, where the Yangtze River meets the Jialing River. Due to the different sediment contents in the two rivers, you can observe the unique spectacle of the two colors of river water. This place was an important dock in ancient Chongqing. It was also the main gate used for welcoming officials and receiving imperial edicts in ancient times, hence the name "Facing Heaven Gate".</p>
+</div>
+<div><img src="./assets/raffles.jpg" alt="Chongqing Raffles"/></div>
+</Flex>
+
+#### Skywalk Cloud Stroll
+
+<br/>
 <Description>
 <div><i>Best Time to Visit</i><b>Daytime</b></div>
 <div><i>Duration of Stay</i><b>1 Hour</b></div>
@@ -14,14 +26,7 @@
 <div><i>Navigation</i><b><Navigation position="106.58737,29.564933" name="Skywalk Cloud Stroll" /></b></div>
 </Description>
 
-Chongqing Raffles is a new landmark building that integrates offices, a hotel, apartments, a shopping mall, and an observation deck. You can walk on the top of its Crystal Sky Bridge, which is 250 meters high, and experience a 360-degree view of Chongqing.
-
-<Flex>
-<div style="width:50%;">Chongqing Raffles is a new landmark building that integrates offices, a hotel, apartments, a shopping mall, and an observation deck. You can walk on the top of its Crystal Sky Bridge, which is 250 meters high, and experience a 360-degree view of Chongqing.
-<p>This building is located at Chaotianmen, where the Yangtze River meets the Jialing River. Due to the different sediment contents in the two rivers, you can observe the unique spectacle of the 'yin and yang' waters. This place was an important dock in ancient Chongqing. It was also the main gate used for welcoming officials and receiving imperial edicts in ancient times, hence the name "Facing Heaven Gate".</p>
-</div>
-<div style="width:50%;"><img src="./assets/raffles.jpg" alt="Chongqing Raffles"/></div>
-</Flex>
+The observation deck on the top floor of Raffles can serve as your starting point for sightseeing. You can walk on the top of its Crystal Sky Bridge, which is 250 meters high, and experience a 360-degree view of Chongqing.
 
 <YouTube link="https://youtu.be/ui-I6Jg7Qsc?si=TJKyX1QGnK_SRfX7&t=959">
 <template #cover><img src="../assets/youtube/chongqing-the-city-that-defies-expectations.jpg" alt="Chongqing: The City That Defies Expectations" /></template>
@@ -29,6 +34,7 @@ Chongqing Raffles is a new landmark building that integrates offices, a hotel, a
 <template #author>Wilko Wanders</template>
 <template #description>China’s Mega City Chongqing Blew my mind 🤯 and not just because of the spicy hotpots! 🌶️</template>
 </YouTube>
+
 
 ## KuixingLou
 
