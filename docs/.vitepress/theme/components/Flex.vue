@@ -9,6 +9,8 @@
   }
   .flex > div {
     padding-right: 8px;
+    min-height: 50%;
+    flex: 1;
   }
   .flex > div:nth-last-child(1) {
     padding-right: 0;
