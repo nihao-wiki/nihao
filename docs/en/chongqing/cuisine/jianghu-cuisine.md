@@ -19,6 +19,8 @@ Heavy use of oil, salt, chili, Sichuan pepper, and MSG are characteristics of Ji
 Spicy Chili Chicken
 </Chinese>
 
+Spicy Chili Chicken is entirely red in color, with red chilies making up the main content. The chicken pieces are usually cut smaller than the chili peppers and stir-fried until quite dry, which helps them absorb the flavors better. Dryness and fragrance are hallmarks of this dish. Searching for the chicken amidst the chilies is part of the fun for locals; chatting while picking through the dish for chicken pieces is where the joy lies, and a bottle of beer completes the experience.
+
 ### Sliced Green Pepper Chicken
 
 <Chinese word="尖椒鸡">
@@ -26,9 +28,9 @@ Spicy Chili Chicken
 Sliced Green Pepper Chicken
 </Chinese>
 
-The main ingredients for <Speech>尖椒鸡</Speech>(Sliced Green Pepper Chicken) include chicken, green peppers, dried chili peppers, and other seasonings such as Sichuan peppercorns, ginger, and garlic.
+Sliced Green Pepper Chicken primarily uses pointed peppers and green Sichuan peppercorns, thus it is more numbing and presents a bright green color overall. The chicken is also cut into small, bite-sized pieces that are quite chewy. More oil is used in the cooking process, and over time, the spiciness and numbing flavors infuse into the oil, making the taste more intense. Local daredevils might even mix the oil and peppers with noodles, which would be extremely spicy.
 
-In addition to Sliced Green Pepper Chicken, there are also <Speech>尖椒兔</Speech>(Spicy Pepper Rabbit) and <Speech>花椒鸡</Speech>(Sichuan Peppercorn Chicken). These dishes share similarities in appearance, preparation methods, and flavors, but each has its own unique taste.
+There is also a dish called "Sliced Green Pepper Rabbit," which differs by using rabbit meat, giving it a more tender and springy texture. It is equally memorable.
 
 <YouTube link="https://youtu.be/rNs1n45_xfk?si=-06fiV4QdaCcUfzU">
 <template #cover><img src="../../assets/youtube/lost-the-sense-of-taste.jpg" alt="lost the sense of taste" /></template>
@@ -44,12 +46,7 @@ In addition to Sliced Green Pepper Chicken, there are also <Speech>尖椒兔</Sp
 Taro Chicken
 </Chinese>
 
-### Spring Water Chicken
-
-<Chinese word="泉水鸡">
-<template #pinyin>quán shuǐ jī</template>
-Spring Water Chicken
-</Chinese>
+Taro Chicken is made with chicken and taro, stewed with hot pot seasoning, which renders the chicken fall-off-the-bone tender and the taro soft and creamy, offering a perfect mouthfeel. Particularly the taro often leaves locals craving for more.
 
 ## County Cuisine
 
@@ -67,16 +64,20 @@ Bishan Rabbit
 Laifeng Fish
 </Chinese>
 
-### Wanzhou-style Grilled Fish
+### Wanzhou Grilled Fish
 
 <Chinese word="万州烤鱼">
 <template #pinyin>wàn zhōu kǎo yú</template>
-Wanzhou-style Grilled Fish
+Wanzhou Grilled Fish
 </Chinese>
 
-### Qianjiang-style Chicken Offal
+Wanzhou Grilled Fish originates from Wanzhou, which is over 200 kilometers away from the urban area. The cleaned fish is first clamped in an iron holder and grilled over charcoal. It is then cooked in a blend of red oil, chili, and other seasonings. The exterior of the fish is crispy, whereas the interior is fresh, tender, and juicy. Accompanied by side dishes such as konjac and potatoes, this dish has won the continuous acclaim of many locals. 
+
+### Qianjiang Chicken Offal
 
 <Chinese word="黔江鸡杂">
 <template #pinyin>qián jiāng jī zá</template>
-Qianjiang-style Chicken Offal
+Qianjiang Chicken Offal
 </Chinese>
+
+Qianjiang Chicken Offal originates from Qianjiang, which is over 200 kilometers away from central Chongqing. It is a dry pot dish made with chicken hearts, gizzards, intestines, and livers, served with locally-specific pickled chili peppers and pickled turnips. The sweet and sour pickled turnips paired with the sour and spicy pickled chilies create a unique sensory experience that is very appetizing and complements rice well. When locals eat this dish, they tend to unconsciously eat a few more bowls of rice. 
