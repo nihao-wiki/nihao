@@ -109,16 +109,16 @@ Wonton
 <div><i>Flavor</i><b>Adjustable Spiciness</b></div>
 <div><i>Price</i><b><CNY>16</CNY> to <CNY>25</CNY></b></div>
 <div><i>Vegetarian</i><b>No</b></div>
-<div><i>Note</i><b>May Contain Pork</b></div>
+<div><i>Note</i><b>Contain Pork</b></div>
 <div><i>Recommendation</i><b>Normal</b></div>
 <div><i>Dining Duration</i><b>Minutes</b></div>
 <div><i>Dining Method</i><b>Dine-in</b></div>
 <div><i>Commonness</i><b>Very Common</b></div>
 </Description>
 
-In Chinese culinary culture, <Speech>抄手</Speech>(Chao Shou), <Speech>饺子</Speech>(Dumplings), and <Speech>馄饨</Speech>(Wontons) are all popular traditional foods. Although they share some similarities in appearance, there are distinct differences in their preparation methods, shapes, and ways of eating.
+In Chinese culinary culture, Chao Shou, Dumplings, and Wontons are all popular traditional foods. Although they share some similarities in appearance, there are distinct differences in their preparation methods, shapes, and ways of eating.
 
-<Speech>抄手</Speech>(Chao Shou) usually have pork as the main ingredient, and sometimes other meats such as shrimp or chicken are added, along with seasonings like scallions and ginger. The wrapper is thin and soft, typically using specialized Chao Shou wrappers that are smaller and more delicate than dumpling wrappers. Chongqing-style Chao Shou generally has a richer and spicier flavor profile.
+It usually have pork as the main ingredient, and sometimes other meats such as shrimp or chicken are added, along with seasonings like scallions and ginger. The wrapper is thin and soft, typically using specialized Chao Shou wrappers that are smaller and more delicate than dumpling wrappers. Chongqing-style Chao Shou generally has a richer and spicier flavor.
 
 <YouTube link="https://youtu.be/vLV_43p_3qU?si=sI-jptDxGbSUyOgQ&t=1888">
 <template #cover><img src="../../assets/youtube//exploring-ancient-town-in-chongqing.jpg" alt="Exploring Ancient Town in Chongqing, China" /></template>
@@ -163,8 +163,8 @@ Cold Noodles
 <div><i>Ingredients</i><b>Wheat Flour</b></div>
 <div><i>Flavor</i><b>Adjustable Spiciness</b></div>
 <div><i>Price</i><b><CNY>8</CNY> to <CNY>15</CNY></b></div>
-<div><i>Vegetarian</i><b>Can Be Made</b></div>
-<div><i>Note</i><b>May Contain Pork</b></div>
+<div><i>Vegetarian</i><b>Yes</b></div>
+<div><i>Note</i><b>-</b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
 <div><i>Dining Duration</i><b>Minutes</b></div>
 <div><i>Dining Method</i><b>Dine-in</b></div>

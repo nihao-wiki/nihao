@@ -200,7 +200,7 @@ The dry version, known as "<Speech as="甘油碟">干油碟</Speech>(dry oil dip
 
 Here are some popular ingredients that are essential to the Chongqing hotpot experience:
 
-### Dessert
+### Desserts
 
 <table>
   <thead>
@@ -231,6 +231,8 @@ Here are some popular ingredients that are essential to the Chongqing hotpot exp
 <template #description>I explored Chongqing at night with my new friend. We visited Hongyadong, also known as Hongya Cave. It's especially beautiful at night when illuminated by lights. Afterwards, we went for some local sweets.</template>
 </YouTube>
 
+### Drinks
+
 <table>
   <thead>
     <tr>
@@ -249,6 +251,11 @@ Here are some popular ingredients that are essential to the Chongqing hotpot exp
       <td><Speech>王老吉</Speech>(Cooling Tea)</td>
       <td>Cooling Herbal Tea</td>
       <td>Mitigating Spiciness</td>
+    </tr>
+    <tr>
+      <td><Speech>啤酒</Speech>(Beer)</td>
+      <td>Beer</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
