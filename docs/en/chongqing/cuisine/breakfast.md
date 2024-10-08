@@ -2,7 +2,7 @@
 
 Chongqing breakfast features the "Five Greats", which include Soy Milk, Fried Dough Sticks, Fried Glutinous Rice Cakes, Glutinous Rice Balls and Oily Tea.
 
-### Soy Milk and Fried Dough Sticks
+### Soy Milk
 
 <Chinese word="豆浆">
 <template #pinyin>dòu jiāng</template>
@@ -23,6 +23,8 @@ Soy Milk
 </Description>
 
 Sweet Soy Milk is a very popular traditional Chinese beverage, especially during breakfast. It is made from yellow soybeans and goes through the processes of soaking, grinding, boiling, and straining.
+
+### Fried Dough Sticks
 
 <Chinese word="油条">
 <template #pinyin>yóu tiáo</template>
@@ -66,11 +68,11 @@ Fried Glutinous Rice Cakes
 
 Rice cake pieces are typically shaped into flat forms and then deep-fried in hot oil until golden brown. The exterior is crispy, while the interior remains soft and glutinous, offering a unique contrast in texture. The fried rice cake pieces retain the characteristic stickiness of glutinous rice. In Chongqing, rice cake pieces often contain Sichuan pepper, giving them a distinctive flavor.
 
-### Fried Glutinous Rice Cakes
+### Glutinous Rice Dumplings
 
 <Chinese word="糯米团">
 <template #pinyin>nuò mǐ tuán</template>
-Fried Glutinous Rice Cakes
+Glutinous Rice Dumplings
 </Chinese>
 
 <Description>
