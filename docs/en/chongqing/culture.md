@@ -55,6 +55,13 @@ The Great Buddha Hall houses many treasures of Buddhist art, including statues o
 
 Within the temple grounds, there is an ancient rock formation over 20 meters long that contains more than 400 Song Dynasty rock-carved Buddha images. Among these are the reclining Buddha in nirvana (commonly known as the 'sleeping Buddha'), Guanyin statues, and images of devotees, all of which exhibit a style similar to that of the Dazu Baoding Hill carvings.
 
+<YouTube link="https://youtu.be/HDYAy3dKdn8?si=QNPVOSVGNAlmNBnD&t=1064">
+<template #cover><img src="../assets/youtube/the-world-will-never-believe-this-china.jpg" alt="THE WORLD WILL NEVER BELIEVE THIS IS CHINA" /></template>
+<template #title>THE WORLD WILL NEVER BELIEVE THIS IS CHINA</template>
+<template #author>Jay and Karolina</template>
+<template #description></template>
+</YouTube>
+
 ::: info LOCAL TIPS
 Luohan Temple is located near Jiefangbei in the center of Chongqing; it is within walking distance. Alternatively, you can take Line 1 of the monirail to Xiaoshizi Station, and it’s just over a hundred meters’ walk away.
 :::

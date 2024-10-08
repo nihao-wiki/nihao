@@ -2,16 +2,14 @@
 
 China's railway system is highly advanced and can be categorized into several types:
 
-| Type                      | Speed    |
-| :------------------------ | :------- |
-| **High-Speed Rail (G-train)** | 250 km/h |
-| **Electric Multiple Units (D-train)** | 200 km/h |
-| Intercity Trains (C-train) | 200 km/h |
-| Rapid Trains (K-train) | 120 km/h |
-| Express Trains (T-train) and Direct Express Trains (Z-train) | 160 km/h |
+| Type                                                                   | Speed    |
+| :--------------------------------------------------------------------- | :------- |
+| **High-Speed Rail (G-train)**                                          | 250 km/h |
+| **Electric Multiple Units (D-train)**                                  | 200 km/h |
+| Intercity Trains (C-train)                                             | 200 km/h |
+| Rapid Trains (K-train)                                                 | 120 km/h |
+| Express Trains (T-train) and Direct Express Trains (Z-train)           | 160 km/h |
 | Ordinary Fast Trains (P-train) and Ordinary Passenger Trains (L-train) | 120 km/h |
-
-
 
 <YouTube link="https://youtu.be/1Yger7RaOsE?si=PtqOwSdLDp8AOdiq">
 <template #cover><img src="../assets/youtube/chinas-trains-are-incredible-chengdu-to-chongqing.jpg" alt="China's Trains are INCREDIBLE" /></template>
@@ -21,6 +19,23 @@ China's railway system is highly advanced and can be categorized into several ty
 </YouTube>
 
 More than 12,000 trains operate daily in China, among which over a thousand are high-speed trains and electric multiple units. Smoking is strictly prohibited throughout the journey, and passengers are encouraged to maintain a quiet and clean carriage environment. These trains can deliver you to your destination smoothly and quickly.
+
+### Seating Classes
+
+For High-Speed Rail (G-train) and Electric Multiple Units (D-train):
+
+| Class          | Description                                                       |
+| :------------- | :---------------------------------------------------------------- |
+| Business Class | the highest class, fully reclining seats, priority boarding       |
+| First Class    | Four seats per row (2+2 configuration), Greater space and comfort |
+| Second Class   | Five seats per row (3+2 configuration)                            |
+
+<YouTube link="https://youtu.be/WbAKvKXT95A?si=2_k2E1tWwO1xduCS">
+<template #cover><img src="../assets/youtube/riding-the-worlds-fastest-bullet-train.jpg" alt="Riding the WORLD'S FASTEST Bullet Train From Beijing to Shanghai" /></template>
+<template #title>Riding the WORLD'S FASTEST Bullet Train From Beijing to Shanghai</template>
+<template #author>Jay and Karolina</template>
+<template #description></template>
+</YouTube>
 
 ## Booking Online
 
