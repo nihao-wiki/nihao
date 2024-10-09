@@ -45,6 +45,24 @@ For other trains, there is also:
 <template #description></template>
 </YouTube>
 
+## Meal On Train
+
+### Dining Car
+
+The train has a dining car that offers boxed meals, fast food, and snacks.
+
+### Ordering Delivery
+
+You might want to try ordering delivery while on the train.
+
+Log in to the 12306 official website or use the 12306 App. On the order details page, there is usually an option to order meals. You need to select the station and meal you want to order from. The food will be brought onto the train at that station and delivered to your seat.
+
+Please note that meal ordering is not available at all stations, and you need to place your order before the train arrives at the station. The choice of vendors is limited, but options such as McDonald's and KFC are included.
+
+::: info LOCAL TIPS
+You should plan your meal orders ahead of time. You can check the arrival times at each station in your order details and identify the stations that support ordering and are reached around your mealtime, then make your reservations in advance.
+:::
+
 ## Booking Online
 
 You can purchase train tickets with cash at the station, but it is more recommended to book them online using an app, which is more convenient.
@@ -69,21 +87,3 @@ Check passport validity, ensuring it has at least six months remaining beyond th
 ### Trip.com
 
 [trip.com](https://trip.com/trains/china)
-
-## Meal
-
-### Dining Car
-
-The train has a dining car that offers boxed meals, fast food, and snacks.
-
-### Ordering Delivery
-
-You might want to try ordering delivery while on the train.
-
-Log in to the 12306 official website or use the 12306 App. On the order details page, there is usually an option to order meals. You need to select the station and meal you want to order from. The food will be brought onto the train at that station and delivered to your seat.
-
-Please note that meal ordering is not available at all stations, and you need to place your order before the train arrives at the station. The choice of vendors is limited, but options such as McDonald's and KFC are included.
-
-::: info LOCAL TIPS
-You should plan your meal orders ahead of time. You can check the arrival times at each station in your order details and identify the stations that support ordering and are reached around your mealtime, then make your reservations in advance.
-:::
