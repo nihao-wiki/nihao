@@ -30,6 +30,7 @@ For High Speed Trains (G-train and D-train):
 | First Class    | 4 seats per row (2+2), Greater space and comfort |
 | Second Class   | 5 seats per row (3+2)                            |
 
+For other trains, there is also:
 
 | Class          | Description                                                       |
 | :------------- | :---------------------------------------------------------------- |
