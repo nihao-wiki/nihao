@@ -78,10 +78,6 @@ For example, there is Chongqingxi Station(Chongqing West Railway Station), Chong
 You can purchase train tickets with cash at the station, but it is more recommended to book them online using an app, which is more convenient.
 
 ::: info LOCAL TIPS
-Chinese trains have a very high punctuality rate; it is recommended to arrive at the station 30 minutes before departure.
-:::
-
-::: info LOCAL TIPS
 You can book tickets up to 15 days in advance. Tickets for holidays such as the Spring Festival and National Day are very tight, and it may not be possible to secure them even if you book 15 days ahead. Please try to avoid traveling during these periods if possible.
 :::
 
