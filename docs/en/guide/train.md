@@ -22,13 +22,20 @@ More than 12,000 trains operate daily in China, among which over a thousand are 
 
 ### Seating Classes
 
-For High-Speed Rail (G-train) and Electric Multiple Units (D-train):
+For High Speed Trains (G-train and D-train):
 
 | Class          | Description                                                       |
 | :------------- | :---------------------------------------------------------------- |
-| Business Class | the highest class, fully reclining seats, priority boarding       |
-| First Class    | Four seats per row (2+2 configuration), Greater space and comfort |
-| Second Class   | Five seats per row (3+2 configuration)                            |
+| Business Class | The highest class, fully reclining seats, priority boarding       |
+| First Class    | 4 seats per row (2+2), Greater space and comfort |
+| Second Class   | 5 seats per row (3+2)                            |
+
+
+| Class          | Description                                                       |
+| :------------- | :---------------------------------------------------------------- |
+| Soft Sleeper | Cabins available, each with 4 berths       |
+| Hard Sleeper | Divided into compartments, each with 6 berths |
+| Hard Seat    | Usually 5 seats per row (3+2) |       
 
 <YouTube link="https://youtu.be/WbAKvKXT95A?si=2_k2E1tWwO1xduCS">
 <template #cover><img src="../assets/youtube/riding-the-worlds-fastest-bullet-train.jpg" alt="Riding the WORLD'S FASTEST Bullet Train From Beijing to Shanghai" /></template>
