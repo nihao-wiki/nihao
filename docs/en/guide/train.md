@@ -68,7 +68,11 @@ You should plan your meal orders ahead of time. You can check the arrival times 
 You can purchase train tickets with cash at the station, but it is more recommended to book them online using an app, which is more convenient.
 
 ::: info LOCAL TIPS
-Check passport validity, ensuring it has at least six months remaining beyond the travel period. Purchase tickets in advance to avoid queuing at the station and wasting time. Chinese trains have a very high punctuality rate; it is recommended to arrive at the station 30 minutes before departure.
+Chinese trains have a very high punctuality rate; it is recommended to arrive at the station 30 minutes before departure.
+:::
+
+::: info LOCAL TIPS
+You can book tickets up to 15 days in advance. Tickets for holidays such as the Spring Festival and National Day are very tight, and it may not be possible to secure them even if you book 15 days ahead. Please try to avoid traveling during these periods if possible.
 :::
 
 ### 12306
