@@ -2,6 +2,10 @@
 
 ## Chongqing Zoo
 
+::: info LOCAL TIPS
+Sure, Chengdu is essentially the best place to see pandas. However, if your schedule is tight, visiting the Chongqing Zoo is also a good option.
+:::
+
 <Description>
 <div><i>Best Time to Visit</i><b>Daytime</b></div>
 <div><i>Activities</i><b>Sightseeing</b></div>

@@ -94,21 +94,18 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
     {
       text: 'Chongqing',
       items: [
-        { text: 'Visa', link: 'visa-free' },
-        { text: 'First Impressions', link: 'impressions' },
+        { text: 'Overview', link: 'impressions' },
+        { text: 'Visa Requirements', link: 'visa-free' },
         {
-          text: 'Essential Routes',
-          items: [{ text: '8D Cyberpunk', link: 'cityscape' }],
-        },
-        {
-          text: 'Optional Routes',
+          text: 'Must-see Attractions',
           items: [
+            { text: '8D Cyberpunk', link: 'cityscape' },
             { text: 'Panda, Zoo', link: 'panda' },
-            { text: 'Cultural', link: 'culture' },
           ],
         },
+        { text: 'Religious Cultural', link: 'culture' },
         {
-          text: 'Rural Routes',
+          text: 'Rural Attractions',
           items: [
             { text: 'Dazu Rock Carvings', link: 'dazu' },
             { text: 'Three Gorges', link: 'three-gorges' },
@@ -117,7 +114,7 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
           ],
         },
         {
-          text: 'Sensational Cuisine',
+          text: 'Must-eat Cuisine',
           base: '/chongqing/cuisine/',
           items: [
             { text: 'Noodles', link: 'noodles' },
