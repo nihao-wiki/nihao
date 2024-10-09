@@ -63,6 +63,10 @@ Please note that meal ordering is not available at all stations, and you need to
 You should plan your meal orders ahead of time. You can check the arrival times at each station in your order details and identify the stations that support ordering and are reached around your mealtime, then make your reservations in advance.
 :::
 
+## Train Stations
+
+Cities often have multiple train stations, which are usually distinguished by directions such as east, west, south, and north in Chinese. Be sure not to go to the wrong one, and pay attention to the names to identify them correctly.
+
 ## Booking Online
 
 You can purchase train tickets with cash at the station, but it is more recommended to book them online using an app, which is more convenient.
