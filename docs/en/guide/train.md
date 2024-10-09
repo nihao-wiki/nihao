@@ -69,6 +69,10 @@ Cities often have multiple train stations, which are usually distinguished by di
 
 For example, there is Chongqingxi Station(Chongqing West Railway Station), Chongqingbei Station(Chongqing North Railway Station), and Chongqingnan Station(Chongqing South Railway Station). Chongqing Railway Station refers to Chongqing Caiyunda Railway Station(closed), while Shapingba Railway Station, though it does not include the word "Chongqing" in its name, is also a railway station within Chongqing's city area.
 
+::: info LOCAL TIPS
+"东" (dōng), "南" (nán), "西" (xī), "北" (běi) are the Chinese words for east, south, west, and north respectively.
+:::
+
 ## Booking Online
 
 You can purchase train tickets with cash at the station, but it is more recommended to book them online using an app, which is more convenient.
