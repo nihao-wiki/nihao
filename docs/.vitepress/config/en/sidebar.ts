@@ -94,8 +94,8 @@ function sidebarChongqing(): DefaultTheme.SidebarItem[] {
     {
       text: 'Chongqing',
       items: [
-        { text: 'Visa', link: 'visa-free' },
-        { text: 'First Impressions', link: 'impressions' },
+        { text: 'Overview', link: 'impressions' },
+        { text: 'Visa Requirements', link: 'visa-free' },
         {
           text: 'Must-see Attractions',
           items: [
