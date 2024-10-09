@@ -67,6 +67,8 @@ You should plan your meal orders ahead of time. You can check the arrival times 
 
 Cities often have multiple train stations, which are usually distinguished by directions such as east, west, south, and north in Chinese. Be sure not to go to the wrong one, and pay attention to the names to identify them correctly.
 
+For example, there is Chongqingxi Station(Chongqing West Railway Station), Chongqingbei Station(Chongqing North Railway Station), and Chongqingnan Station(Chongqing South Railway Station). Chongqing Railway Station refers to Chongqing Caiyunda Railway Station(closed), while Shapingba Railway Station, though it does not include the word "Chongqing" in its name, is also a railway station within Chongqing's city area.
+
 ## Booking Online
 
 You can purchase train tickets with cash at the station, but it is more recommended to book them online using an app, which is more convenient.
