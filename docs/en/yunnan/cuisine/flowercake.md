@@ -1,4 +1,4 @@
-# Exploring Yunnan, the World's Floral Capital: Delving into the Edible Rose Tradition
+# Yunnan's Floral Capital: the Edible Rose Tradition
 
 ## Flower Cake
 
