@@ -3,12 +3,28 @@ import { type DefaultTheme } from 'vitepress';
 export function bottomNav(): DefaultTheme.NavItem[] {
   return [
     {
-      text: 'Destination',
+      text: 'Top Destination',
       items: [
-        {
-          text: 'Chongqing',
-          link: '/chongqing/impressions',
-        },
+        // { text: 'Shanghai' },
+        { text: 'Chongqing', link: '/chongqing/impressions' },
+        // { text: 'Zhangjiajie' },
+        // { text: 'Shenzhen' },
+        // { text: 'Dalian' },
+        // { text: 'Guangzhou' },
+        // { text: 'Beijing' },
+        // { text: 'Haerbin' },
+        // { text: 'Wuhan' },
+        // { text: 'Xiamen' },
+        // { text: 'Suzhou' },
+        { text: 'Qingdao', link: '/qingdao/impressions' },
+        { text: 'Lijiang', link: '/yunnan/lijiang/impressions' },
+        { text: 'Nanjing', link: '/nanjing/impressions' },
+        { text: 'Dali', link: '/dali/impressions' },
+        { text: 'Chengdu', link: '/sichuan/chengdu/impressions' },
+        // { text: 'Tianjin' },
+        // { text: 'Changsha' },
+        // { text: "Xi'an" },
+        { text: 'Hangzhou', link: '/hangzhou/impressions' },
       ],
     },
     {
