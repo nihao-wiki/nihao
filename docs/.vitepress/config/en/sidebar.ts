@@ -135,7 +135,7 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
     {
       text: 'Kunming',
       items: [
-        { text: 'First Impressions', link: 'kunming/impressions' },
+        { text: 'Overview', link: 'kunming/impressions' },
         { text: 'Kunming Lake', link: 'kunming/lake' },
         { text: 'Minority Cultures', link: 'kunming/minority' },
       ],
@@ -143,21 +143,21 @@ function sidebarYunnan(): DefaultTheme.SidebarItem[] {
     {
       text: 'Dali',
       items: [
-        { text: 'First Impressions', link: 'dali/impressions' },
+        { text: 'Overview', link: 'dali/impressions' },
         { text: 'Around Erhai Lake', link: 'dali/erhai' },
       ],
     },
     {
       text: 'Lijiang',
       items: [
-        { text: 'First Impressions', link: 'lijiang/impressions' },
+        { text: 'Overview', link: 'lijiang/impressions' },
         { text: 'Ancient Towns', link: 'lijiang/ancient' },
         { text: 'Alpine Wonders', link: 'lijiang/wonders' },
       ],
     },
     {
       text: 'Xishuangbanna',
-      items: [{ text: 'First Impressions', link: 'xishuangbanna/impressions' }],
+      items: [{ text: 'Overview', link: 'xishuangbanna/impressions' }],
     },
     {
       text: 'Cuisine',
@@ -174,12 +174,12 @@ function sidebarHainan(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Haikou',
-      items: [{ text: 'First Impressions', link: 'haikou/impressions' }],
+      items: [{ text: 'Overview', link: 'haikou/impressions' }],
     },
     {
       text: 'Sanya',
       items: [
-        { text: 'First Impressions', link: 'sanya/impressions' },
+        { text: 'Overview', link: 'sanya/impressions' },
         { text: 'Coastline Experience', link: 'sanya/coastline' },
       ],
     },
@@ -191,7 +191,7 @@ function sidebarQingdao(): DefaultTheme.SidebarItem[] {
     {
       text: 'Qingdao',
       items: [
-        { text: 'First Impressions', link: 'impressions' },
+        { text: 'Overview', link: 'impressions' },
         {
           text: 'Cuisine',
           items: [
@@ -210,7 +210,7 @@ function sidebarSichuan(): DefaultTheme.SidebarItem[] {
     {
       text: 'Chengdu',
       items: [
-        { text: 'First Impressions', link: 'chengdu/impressions' },
+        { text: 'Overview', link: 'chengdu/impressions' },
         { text: 'Panda Base', link: 'chengdu/panda' },
         { text: 'Spicy Cuisine', link: 'chengdu/cuisine' },
       ],
@@ -231,7 +231,7 @@ function sidebarBeijing(): DefaultTheme.SidebarItem[] {
     {
       text: 'Beijing',
       items: [
-        { text: 'First Impressions', link: 'impressions' },
+        { text: 'Overview', link: 'impressions' },
         { text: 'Imperial Traces', link: 'imperial' },
         { text: 'Halal Culture', link: 'halal' },
       ],
@@ -244,7 +244,7 @@ function sidebarNanjing(): DefaultTheme.SidebarItem[] {
     {
       text: 'Nanjing',
       items: [
-        { text: 'First Impressions', link: 'impressions' },
+        { text: 'Overview', link: 'impressions' },
         { text: 'Cuisine', link: 'cuisine' },
       ],
     },
@@ -255,7 +255,7 @@ function sidebarShanghai(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Shanghai',
-      items: [{ text: 'First Impressions', link: 'impressions' }],
+      items: [{ text: 'Overview', link: 'impressions' }],
     },
   ];
 }
@@ -264,7 +264,7 @@ function sidebarHangzhou(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Hangzhou',
-      items: [{ text: 'First Impressions', link: 'impressions' }],
+      items: [{ text: 'Overview', link: 'impressions' }],
     },
   ];
 }
