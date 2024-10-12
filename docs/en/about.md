@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Special Thanks
+title: 'About Us: Why We Created This'
 ignoreCheck: true
 ---
 
@@ -9,11 +9,19 @@ import {
   VPTeamPage,
   VPTeamPageTitle,
   VPTeamMembers
-} from 'vitepress/theme'
+} from 'vitepress/theme';
 import IraqLaowangzzg from './assets/avatar/Iraq-laowangzzg.jpg'
 import TwoMadExplorers from './assets/avatar/TwoMadExplorers.jpg'
 
 const members = [
+  {
+    avatar: 'https://www.github.com/chiaweilee.png',
+    name: 'Chiawei Lee',
+    title: 'Creator, Chongqing Local',
+  },
+]
+
+const youtubers = [
   {
     avatar: IraqLaowangzzg,
     name: 'Iraq-laowangzzg',
@@ -36,14 +44,28 @@ const members = [
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>
-      Special Thanks
+      About Us
     </template>
     <template #lead>
-      A special thanks to youtuber for
-      sharing yours travel experiences.
+      The development of Nihao.wiki is guided by an domestic
+      team, some of whom have chosen to be featured below.
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
     :members="members"
+  />
+</VPTeamPage>
+
+<VPTeamPage>
+  <VPTeamPageTitle>
+    <template #title>
+      Special Thanks
+    </template>
+    <template #lead>
+      A special thanks to youtubers.
+    </template>
+  </VPTeamPageTitle>
+  <VPTeamMembers
+    :members="youtubers"
   />
 </VPTeamPage>
