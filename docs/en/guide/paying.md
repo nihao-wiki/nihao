@@ -2,6 +2,44 @@
 
 The most popular payment method nowadays is by scanning a code, with common options being Alipay and WeChat Pay; bank cards and credit cards are generally accepted in places like malls and restaurants. Of course, cash can also be used.
 
+::: info LOCAL TIPS
+The history of scan-to-pay in China can be traced back to 2013, making it over a decade old. During this time, the technology has evolved, becoming increasingly secure with continuous improvements and advancements in security measures.
+:::
+
+## Common Methods
+
+### Scan Merchant’s Code
+
+Users scan the QR code provided by the merchant, enter the amount, and then pay. After the payment is made, merchants typically receive an audio notification confirming the successful transaction. This is a common payment method for small vendors, small supermarkets, and restaurants. Both individuals and merchants can use this method.
+
+### Merchant Scan User’s Code
+
+Users present their payment code, which is then scanned by the merchant's device to complete the payment. This method is very common in large supermarkets, and small supermarkets and restaurants may also have portable devices to scan payment codes. This is typically used by merchants.
+
+::: info LOCAL TIPS
+Payment codes can be used to make payments even without an internet connection.
+:::
+
+### Scan to Transfer
+
+Transfer money directly by scanning the collection code of an individual or merchant. This method can also be used for transfers between individuals.
+
+### Official Account/Mini Program Payment
+
+Scan a QR code to enter an official account or mini program to complete the payment.
+
+### Facial Recognition Payment
+
+Verify identity through facial recognition technology and complete the payment without needing to carry a mobile phone.
+
+### Direct payment within the app
+
+When purchasing goods within an app, a payment window will pop up where you can enter your password or use facial recognition to complete the payment.
+
+::: info LOCAL TIPS
+Payment codes can also be used for riding buses, subways, and for medical consultations.
+:::
+
 ## Alipay
 
 <svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="30" height="30"><path d="M186.182 0h651.636Q1024 0 1024 186.182v651.636Q1024 1024 837.818 1024H186.182Q0 1024 0 837.818V186.182Q0 0 186.182 0z" fill="#37BAED"></path><path d="M901.818 670.487c-32.116-9.542-227.607-69.818-273.454-85.41a645.818 645.818 0 0 0 69.818-173.15H525.964v-57.716h211.083v-35.375h-210.85v-96.349h-81.222a15.593 15.593 0 0 0-16.291 13.033v83.316H230.633v35.375h198.05v57.716H265.776v32.117H593.92a576 576 0 0 1-46.545 113.57 778.473 778.473 0 0 0-206.43-49.338c-172.218-16.058-211.781 77.499-218.065 134.517-9.31 86.807 69.818 158.022 186.182 158.022s194.327-53.295 268.334-141.731c94.953 44.683 323.491 142.429 323.491 142.429z m-606.254 74.24c-123.579 0-143.128-77.032-136.611-109.149s42.356-73.774 111.01-73.774a520.378 520.378 0 0 1 234.124 60.741c-59.345 77.499-131.723 122.182-208.523 122.182z m0 0" fill="#FFFFFF"></path></svg>
@@ -10,7 +48,7 @@ Alipay can conveniently bind bank cards and complete transactions for both recei
 
 [Alipay Official Download](https://render.alipay.com/p/s/download)
 
-### Registration
+#### Registration
 
 Alipay already cooperates with 65 financial institutions, among which are Visa and Mastercard, so if you already have a credit card all you have to do is download the Alipay app on your cell phone and register in a few simple steps. However, note that some of the functions only work if you use a Chinese credit (or debit) card.
 
@@ -18,7 +56,7 @@ Once you finish downloading the application, open it and proceed to the registra
 
 The Alipay home page will open, so now you will have to add your credit card: access your profile by clicking on **“Me”** and then click on **“Bank Cards”** and proceed with the compilation or requested information, such as credit card number and your name and last name. Later Alipay will ask you to also enter a password to allow you to make payments with this application.
 
-### Scan & Pay
+#### Scan & Pay
 
 The application is very intuitive and the first useful buttons will be **“Scan”** and **“Pay”**.
 
