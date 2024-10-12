@@ -49,9 +49,9 @@ Taro Chicken
 
 Taro Chicken is made with chicken and taro, stewed with hot pot seasoning, which renders the chicken fall-off-the-bone tender and the taro soft and creamy, offering a perfect mouthfeel. Particularly the taro often leaves locals craving for more.
 
-## Gross Blood in Mong Kok
+## Maoxuewang
 
-<Chinese word="Maoxuewang">
+<Chinese word="毛血旺">
 <template #pinyin>máo xuè wàng</template>
 Maoxuewang
 </Chinese>
