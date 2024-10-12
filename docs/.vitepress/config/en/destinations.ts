@@ -40,6 +40,7 @@ export const allDestination: Destinations[] = [
     text: 'Lijiang',
     link: '/yunnan/lijiang/impressions',
     activeMatch: '/yunnan/lijiang/',
+    WIP: true,
   },
   {
     text: 'Nanjing',
@@ -72,16 +73,19 @@ export const allDestination: Destinations[] = [
     text: 'Kunming',
     link: '/yunnan/kunming/impressions',
     activeMatch: '/yunnan/kunming/',
+    WIP: true,
   },
   {
     text: 'Dali',
     link: '/yunnan/dali/impressions',
     activeMatch: '/yunnan/dali/',
+    WIP: true,
   },
   {
     text: 'Xishuangbanna',
     link: '/yunnan/xishuangbanna/impressions',
     activeMatch: '/yunnan/xishuangbanna/',
+    WIP: true,
   },
 ];
 
@@ -96,4 +100,6 @@ export const destination: DefaultTheme.NavItemWithLink[] =
 export const srcExclude =
   process.env.NODE_ENV === 'development'
     ? []
-    : allDestination.filter((dest) => dest.WIP).map((dest) => '**/' + dest.link + '.md');
+    : allDestination
+        .filter((dest) => dest.WIP)
+        .map((dest) => '*' + dest.link.split('/').slice(0, -1).join('/') + '/*');

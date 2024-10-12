@@ -47,9 +47,11 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     },
     {
       text: 'Destination',
-      items: destination.map((dest) => {
-        dest.link = '..' + dest.link;
-        return dest;
+      items: destination.map(({link, ...dest}) => {
+        return {
+          link: '..' + link,
+          ...dest,
+        };
       }),
     },
     {
