@@ -7,7 +7,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: 'Guide',
       items: [
         {
-          text: 'Visa',
+          text: 'Visa Strategies',
           link: 'visa',
         },
         {
@@ -15,24 +15,16 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
           link: 'seasons',
         },
         {
-          text: 'Mobile Payment',
+          text: 'Scan-to-Pay',
           link: 'paying',
         },
         {
-          text: 'Communication',
+          text: 'Mobile & Apps',
           link: 'communication',
         },
         {
           text: 'Safety Tips',
           link: 'safety',
-        },
-        {
-          text: 'Expenses',
-          link: 'currency',
-        },
-        {
-          text: 'Say "Nihao"',
-          link: 'hello',
         },
       ],
     },

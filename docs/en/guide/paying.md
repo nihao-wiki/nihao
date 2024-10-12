@@ -1,4 +1,4 @@
-# China Mobile Payments Guide: How to use WeChat & Alipay
+# Scan-to-Pay Surprise: A Guide to Making Payments in China
 
 The most popular payment method nowadays is by scanning a code, with common options being Alipay and WeChat Pay; bank cards and credit cards are generally accepted in places like malls and restaurants. Of course, cash can also be used.
 

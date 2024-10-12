@@ -1,4 +1,4 @@
-# Must-Know Travel in China: Staying Connected with Apps
+# Must-Know Travel in China: Staying Connected & Apps
 
 ## Stay Online
 

@@ -85,16 +85,3 @@ You may choose to stay at a hotel in the city center, which is conveniently clos
 <Map height="40vh" center="106.552003,29.562696" :zoom="13" driving="106.638691,29.717337,airport|106.577708,29.567822,Skyline Viewpoint|106.587897,29.565634,Raffles" points="106.578953,29.562165,Hongyadong|106.530586,29.550659,Liziba Monorail Piercing Building|106.587897,29.565634,Raffles|106.582809,29.557813,Yangtze River Cable Car|106.573579,29.559729,Kuixinglou"></Map>
 
 Four-Star Hotels from <CNY>300</CNY> to <CNY>800</CNY>, Airbnb above <CNY>100</CNY>, and Hostel at <CNY>20</CNY>.
-
-## Prices
-
-Some basic food items in China, such as rice, noodles, and cooking oil, typically have lower prices. In European and American countries, the prices of meat and dairy products are often more reasonable.
-
-Here are some price references for Chongqing: Cola 500ml for <CNY>3.5</CNY>, Mineral Water 5L for <CNY>8.5</CNY>, Beef 500g for <CNY>75</CNY> and Tomato 500g for <CNY>1.5</CNY>.
-
-<YouTube link="https://youtu.be/6-5wmhpnT_k?si=EWA77ir71zaZr9sI">
-<template #cover><img src="../assets/youtube/full-supermarket-tour-in-china.jpg" alt="Full Supermarket Tour in China" /></template>
-<template #title>Full Supermarket Tour in China (Shocking Prices)</template>
-<template #author>Two Mad Explorers</template>
-<template #description>Exploring a local supermarket in Chongqing, the prices were surprisingly cheap; We managed to buy everything We wanted for just 20 euros.</template>
-</YouTube>

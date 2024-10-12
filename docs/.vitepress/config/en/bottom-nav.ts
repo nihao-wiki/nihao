@@ -15,16 +15,20 @@ export function bottomNav(): DefaultTheme.NavItem[] {
           link: '/guide/visa',
         },
         {
-          text: 'Mobile Payment',
+          text: 'Best Seasons',
+          link: '/guide/seasons',
+        },
+        {
+          text: 'Scan-to-Pay',
           link: '/guide/paying',
+        },
+        {
+          text: 'Mobile & Apps',
+          link: '/guide/communication',
         },
         {
           text: 'Safety Tips',
           link: '/guide/safety',
-        },
-        {
-          text: 'Communication',
-          link: '/guide/communication',
         },
       ],
     },
@@ -32,29 +36,12 @@ export function bottomNav(): DefaultTheme.NavItem[] {
       text: 'About',
       items: [
         {
-          text: 'Our Team',
-          link: '/team',
+          text: 'About Us',
+          link: '/about',
         },
         {
           text: 'Privacy Policy',
           link: '/privacy',
-        },
-        {
-          text: 'Statement',
-          link: '/statement',
-        },
-      ],
-    },
-    {
-      text: 'Contribute',
-      items: [
-        {
-          text: 'Contribute',
-          link: '/contribute',
-        },
-        {
-          text: 'Thanks',
-          link: '/thanks',
         },
       ],
     },
