@@ -92,3 +92,8 @@ export const destination: DefaultTheme.NavItemWithLink[] =
         return dest;
       })
     : allDestination.filter((dest) => !dest.WIP);
+
+export const srcExclude =
+  process.env.NODE_ENV === 'development'
+    ? []
+    : allDestination.filter((dest) => dest.WIP).map((dest) => '**/' + dest.link + '.md');

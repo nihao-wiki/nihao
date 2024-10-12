@@ -1,5 +1,5 @@
 import { createRequire } from 'module';
-import { defineConfig, type DefaultTheme } from 'vitepress';
+import { defineConfig } from 'vitepress';
 import { nav } from './nav';
 import { bottomNav } from './bottom-nav';
 import sidebar from './sidebar';
