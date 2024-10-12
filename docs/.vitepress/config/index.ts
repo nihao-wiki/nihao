@@ -2,11 +2,13 @@ import { defineConfig } from 'vitepress';
 import { fileURLToPath, URL } from 'node:url';
 import { en } from './en';
 import pkg from '../../../package.json';
+import { srcExclude } from './en/destinations';
 
 export default defineConfig({
   lang: 'en',
   title: 'Nihao.wiki',
   description: pkg.description,
+  srcExclude,
   locales: {
     root: { label: 'English', ...en },
   },

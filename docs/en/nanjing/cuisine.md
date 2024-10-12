@@ -3,6 +3,7 @@
 ## Nanjing Dapaidang
 
 <Chinese word="南京大排档">
+<template #pinyin>nán jīng dà pái dàng</template>
 Nanjing Dapaidang
 </Chinese>
 

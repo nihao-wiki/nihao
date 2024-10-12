@@ -2,6 +2,7 @@
 
 <Chinese word="麻辣">
 <template #pinyin>má là</template>
+Spicy and Numbing
 </Chinese>
 
 Chongqing cuisine can itself be seen as a subcategory of Sichuan cuisine, particularly known as Chongqing Jianghu cuisine.
