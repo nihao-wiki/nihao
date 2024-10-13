@@ -29,15 +29,6 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     [
       'script',
-      { id: 'register-sw' },
-      `;(() => {
-        if ('serviceWorker' in navigator && location.protocol === 'https:') {
-          navigator.serviceWorker.register('/sw.js')
-        }
-      })()`
-    ],
-    [
-      'script',
       { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-7L0HBZJ593' }
     ],
     [
