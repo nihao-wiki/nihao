@@ -24,7 +24,7 @@ During the peak travel season, it can be very difficult to make reservations for
 During holidays such as the Spring Festival and National Day, the number of domestic trips in China exceeds 500 million.
 :::
 
-<YouTube link="https://youtu.be/2Kg8WGjb0-Q?si=4A8zi_pA_eT1icBS">
+<YouTube link="https://youtu.be/s6zH0DJ40XM?si=xhjWxviUwiFZWvcJ">
 <template #cover><img src="../assets/youtube/we-survived-chinas-people-mountain-people-sea.jpg" alt="Our First Nanjing Duck FEAST in China" /></template>
 <template #title>We SURVIVED CHINA'S PEOPLE MOUNTAIN PEOPLE SEA! 🇨🇳 (WORLD'S MOST MASSIVE CROWDS)</template>
 <template #author>Sun Kissed Bucket List</template>
