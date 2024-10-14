@@ -87,6 +87,13 @@ Xizhou Ancient Town is situated west of Erhai Lake, backed by the Cangshan Mount
 <template #description>It's our very first day in Dali and we can honestly say that we have fallen in love with this city. China never ceases to amaze us when it comes to hospitality, food and amazing scenery.</template>
 </YouTube>
 
+<YouTube link="https://youtu.be/fSQteeMziYw?si=pfpL6CyNq_MhkRF4">
+<template #cover><img src="../../assets/youtube/why-rural-china-is-more-incredible-than-you-think.jpg" alt="Electric Bike Adventure in Dali" /></template>
+<template #title>Why RURAL CHINA is More Incredible Than YOU Think... 🇨🇳</template>
+<template #author>Two Mad Explorers</template>
+<template #description>From ancient villages and stunning rice terraces to the vibrant culture of the Bai people, we went on an unforgettable journey through this beautiful country side of China, specifically from Dali in Yunnan province.</template>
+</YouTube>
+
 ## Shuanglang Ancient Town
 
 Shuanglang Ancient Town is located on the northeast shore of Erhai Lake and is renowned for being surrounded by mountains on three sides and facing Erhai Lake on the other, earning it the accolade of being the "First Scenic Town of Cang-Er Region."
