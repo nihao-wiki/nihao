@@ -18,7 +18,18 @@ If you want to avoid the peak travel season with 1.8 billion trips, you should s
 | **Dragon Boat Festival**                  | May. 30, 2025 – Jun. 1, 2025 |
 | **Mid-Autumn Festival and National Day**  | Oct. 1, 2024 – Oct. 7, 2024  |
 
-During the peak travel season, it can be very difficult to make reservations for accommodations, transportation, and attractions.
+During the peak travel season, it can be very difficult to make reservations for accommodations, transportation, and attractions. In popular tourist areas, due to the high number of visitors, there may be traffic controls implemented, which can make traveling by road quite inconvenient.
+
+::: info LOCAL TIPS
+During holidays such as the Spring Festival and National Day, the number of domestic trips in China exceeds 500 million.
+:::
+
+<YouTube link="https://youtu.be/2Kg8WGjb0-Q?si=4A8zi_pA_eT1icBS">
+<template #cover><img src="../assets/youtube/we-survived-chinas-people-mountain-people-sea.jpg" alt="Our First Nanjing Duck FEAST in China" /></template>
+<template #title>We SURVIVED CHINA'S PEOPLE MOUNTAIN PEOPLE SEA! 🇨🇳 (WORLD'S MOST MASSIVE CROWDS)</template>
+<template #author>Sun Kissed Bucket List</template>
+<template #description></template>
+</YouTube>
 
 ## Best Seasons
 
