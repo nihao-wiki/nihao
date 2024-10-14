@@ -90,7 +90,7 @@ Xizhou Ancient Town is situated west of Erhai Lake, backed by the Cangshan Mount
 <YouTube link="https://youtu.be/fSQteeMziYw?si=pfpL6CyNq_MhkRF4">
 <template #cover><img src="../../assets/youtube/why-rural-china-is-more-incredible-than-you-think.jpg" alt="Electric Bike Adventure in Dali" /></template>
 <template #title>Why RURAL CHINA is More Incredible Than YOU Think... 🇨🇳</template>
-<template #author>Two Mad Explorers</template>
+<template #author>Sun Kissed Bucket List</template>
 <template #description>From ancient villages and stunning rice terraces to the vibrant culture of the Bai people, we went on an unforgettable journey through this beautiful country side of China, specifically from Dali in Yunnan province.</template>
 </YouTube>
 
