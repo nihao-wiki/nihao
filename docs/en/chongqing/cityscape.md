@@ -242,9 +242,14 @@ The Two Rivers Tour
 <div><i>Crowd Level</i><b>Quiet</b></div>
 <div><i>Ticket Price</i><b><CNY>98</CNY> to <CNY>258</CNY></b></div>
 <div><i>Recommendation</i><b>Recommended</b></div>
+<div><i>Location</i><b>Chao Tian Men Wharf (near Raffles City)</b></div>
 </Description>
 
 The Two Rivers Tour usually passes by some famous landmarks, such as Chaotianmen, Hongyadong, and Nanbin Road. The night tour of the two rivers is particularly charming because when night falls, the lights on both banks shine brilliantly, presenting another kind of beauty to the entire city.
+
+The sightseeing cruise departs from Chao Tian Men Wharf, proceeds to the Huanghuayuan Bridge, makes a turn at the confluence of the two rivers, then heads to near the Sheraton Hotel before returning to Chao Tian Men Wharf. The voyage is approximately 20 kilometers, and the tour duration is about 60 minutes.
+
+![One Day Urban Tour](./assets/chongqing-one-day.jpg)
 
 <YouTube link="https://youtu.be/hCgd58A-tFU?si=j-uNzN0_0qhQfxFK&t=997">
 <template #cover><img src="../assets/youtube/inside-chinas-monster-city.jpg" alt="INSIDE CHINA’S MONSTER CITY" /></template>
