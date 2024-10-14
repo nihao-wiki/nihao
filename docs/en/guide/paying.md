@@ -6,7 +6,7 @@ The most popular payment method nowadays is by scanning a code, with common opti
 The history of scan-to-pay in China can be traced back to 2013, making it over a decade old. During this time, the technology has evolved, becoming increasingly secure with continuous improvements and advancements in security measures.
 :::
 
-## Common Methods
+## Methods
 
 ### Scan Merchant’s Code
 
@@ -38,6 +38,17 @@ When purchasing goods within an app, a payment window will pop up where you can 
 
 ::: info LOCAL TIPS
 Payment codes can also be used for riding buses, subways, and for medical consultations.
+:::
+
+## Sources
+
+Mobile payment methods in China support multiple sources of funds for payments.
+- Bank card (debit card/savings card)
+- Credit card
+- Alipay balance/WeChat Wallet balance
+
+::: info LOCAL TIPS
+Using a credit card in China is not always convenient; small merchants typically do not accept credit cards. Using a debit card/savings card is better. However, the most convenient method remains scan-to-pay.
 :::
 
 ## Alipay
