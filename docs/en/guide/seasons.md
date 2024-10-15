@@ -9,20 +9,16 @@ Tourist high seasons in China include the following periods:
 
 ## Peak Seasons
 
-If you want to avoid the peak travel season with 1.8 billion trips, you should steer clear of the following periods when traveling to China.
+If you want to avoid the peak travel season with billion trips, you should steer clear of the following periods when traveling to China.
 
 | Periods                                   | Specific Date                |
 | :---------------------------------------- | :--------------------------- |
 | **Tomb Sweeping Day (Qingming Festival)** | Apr. 4, 2025 – Apr. 6, 2025  |
 | **May Day (Labor Day)**                   | May. 1, 2025 – May. 7, 2025  |
 | **Dragon Boat Festival**                  | May. 30, 2025 – Jun. 1, 2025 |
-| **Mid-Autumn Festival and National Day**  | Oct. 1, 2024 – Oct. 7, 2024  |
+| **Mid-Autumn Festival and National Day**  | Oct. 1, 2025 – Oct. 7, 2025  |
 
-During the peak travel season, it can be very difficult to make reservations for accommodations, transportation, and attractions. In popular tourist areas, due to the high number of visitors, there may be traffic controls implemented, which can make traveling by road quite inconvenient.
-
-::: info LOCAL TIPS
-During holidays such as the Spring Festival and National Day, the number of domestic trips in China exceeds 500 million.
-:::
+During the peak travel season, it can be very difficult to make reservations for accommodations, transportation, and attractions.
 
 <YouTube link="https://youtu.be/s6zH0DJ40XM?si=xhjWxviUwiFZWvcJ">
 <template #cover><img src="../assets/youtube/we-survived-chinas-people-mountain-people-sea.jpg" alt="Our First Nanjing Duck FEAST in China" /></template>
@@ -30,6 +26,13 @@ During holidays such as the Spring Festival and National Day, the number of dome
 <template #author>Sun Kissed Bucket List</template>
 <template #description></template>
 </YouTube>
+
+Potential issues you may encounter during these holidays:
+- **Heavy Crowding**: Popular tourist destinations, restaurants, shopping centers, and transportation hubs can become extremely crowded.
+- **Booking Difficulties**: Difficulty in securing flights or train tickets, limited availability of attraction tickets, and fully booked hotels.
+- **Traffic Control Measures**: Such as suspended bus services in densely populated areas, subway skip-stopping, and vehicle bans, which may require walking.
+- **Price Fluctuations**: The prices for services such as air tickets, hotels, and dining may rise, and could even double.
+- **Tourist Stranding**: In extreme cases, the closure of scenic areas and highway congestion can lead to tourists being stranded, making it impossible for them to leave promptly, and causing disruptions to their daily life and meals.
 
 ## Best Seasons
 
