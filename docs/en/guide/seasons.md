@@ -21,7 +21,7 @@ If you want to avoid the peak travel season with billion trips, you should steer
 During the peak travel season, it can be very difficult to make reservations for accommodations, transportation, and attractions.
 
 <YouTube link="https://youtu.be/s6zH0DJ40XM?si=xhjWxviUwiFZWvcJ">
-<template #cover><img src="../assets/youtube/we-survived-chinas-people-mountain-people-sea.jpg" alt="Our First Nanjing Duck FEAST in China" /></template>
+<template #cover><img src="../assets/youtube/we-survived-chinas-people-mountain-people-sea.jpg" alt="We SURVIVED CHINA'S PEOPLE MOUNTAIN PEOPLE SEA! 🇨🇳 (WORLD'S MOST MASSIVE CROWDS)" /></template>
 <template #title>We SURVIVED CHINA'S PEOPLE MOUNTAIN PEOPLE SEA! 🇨🇳 (WORLD'S MOST MASSIVE CROWDS)</template>
 <template #author>Sun Kissed Bucket List</template>
 <template #description></template>
@@ -33,6 +33,13 @@ Potential issues you may encounter during these holidays:
 - **Traffic Control Measures**: Such as suspended bus services in densely populated areas, subway skip-stopping, and vehicle bans, which may require walking.
 - **Price Fluctuations**: The prices for services such as air tickets, hotels, and dining may rise, and could even double.
 - **Tourist Stranding**: In extreme cases, the closure of scenic areas and highway congestion can lead to tourists being stranded, making it impossible for them to leave promptly, and causing disruptions to their daily life and meals.
+
+<YouTube link="https://youtu.be/V81SIOO7M7Y?si=yEzYT7aOoKeUnoHB">
+<template #cover><img src="../assets/youtube/this-is-how-they-celebrate-chinese-national-day.jpg" alt="This Is How They Celebrate Chinese National Day ( Shanghai)" /></template>
+<template #title>This Is How They Celebrate Chinese National Day ( Shanghai)</template>
+<template #author>Alex Cage</template>
+<template #description>i visited east Nanjing and the bund in shanghai to see how people celebrate the chinese national day here in shanghai. </template>
+</YouTube>
 
 ## Best Seasons
 
