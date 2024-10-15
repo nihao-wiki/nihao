@@ -35,6 +35,12 @@ The observation deck on the top floor of Raffles can serve as your starting poin
 <template #description>China’s Mega City Chongqing Blew my mind 🤯 and not just because of the spicy hotpots! 🌶️</template>
 </YouTube>
 
+<YouTube link="https://youtu.be/NEfTojOvbkM?si=KW4gol34yGeEZe7C&t=921">
+<template #cover><img src="../assets/youtube/i-walked-on-top-of-a-skysraper.jpg" alt="Chongqing: The City That Defies Expectations" /></template>
+<template #title>I WALKED ON TOP OF A SKYSCRAPER WITH @Reporterfy IN CHONGQING</template>
+<template #author>Alina Mcleod</template>
+<template #description>Chongqing is known for many things, including its insanely tall skyscrapers! I have been on many rooftop observation decks, but none were quite like the example that I show at the end of the video :)</template>
+</YouTube>
 
 ## KuixingLou
 

@@ -1,14 +1,21 @@
 # Debunking Myths: How Safe is China for Traveling
 
-## Health and Safety
+## Safety
 
 China has seen significant development in recent years, with a notable improvement in the quality of its citizens. The country has made great strides in environmental hygiene and public safety.
 
 <YouTube link="https://youtu.be/8A3Q-5fpaXI?si=91V4KT28MKJtwlUA">
-<template #cover><img src="../assets/youtube//how-safe-is-china-as-a-foreigner-in-2024.jpg" alt="How Safe is China as a foreigner in 2024?" /></template>
+<template #cover><img src="../assets/youtube/how-safe-is-china-as-a-foreigner-in-2024.jpg" alt="How Safe is China as a foreigner in 2024?" /></template>
 <template #title>How Safe is China as a foreigner in 2024?</template>
 <template #author>Two Mad Explorers</template>
 <template #description>We have been in China for a while now, but how safe have we felt? China is often demonised by the West as being very unsafe for foreigners.</template>
+</YouTube>
+
+<YouTube link="https://youtu.be/oVzConaVlT0?si=PgIHN57RmdekR4I8">
+<template #cover><img src="../assets/youtube/this-is-how-they-treat-foreiners-in-rural-china.jpg" alt="This is how they treat foreigners in Rural China" /></template>
+<template #title>This is how they treat foreigners in Rural China</template>
+<template #author>Alex Cage</template>
+<template #description>i went to rural china a beautiful village to see the real rural china with my own eyes. and i found it very beautiful and very well developed.</template>
 </YouTube>
 
 ## Fair Price

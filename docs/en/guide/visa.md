@@ -1,5 +1,11 @@
 ---
 reference:
+  - title: About Chinese Visa
+    href: http://cs.mfa.gov.cn/wgrlh/lhqz/lhqzjjs/201311/t20131101_961583.shtml
+    site: cs.mfa.gov.cn
+  - title: Visa extension, renewal, reissue
+    href: https://www.shanghai.gov.cn/nw48092/#
+    site: www.shanghai.gov.c
   - title: List of Agreements on Mutual Visa Exemption Between the People’s Republic of China and Foreign Countries
     href: http://cs.mfa.gov.cn/wgrlh/lhqz/lhqzjjs/201202/t20120207_961630.shtml
     site: cs.mfa.gov.cn
@@ -8,48 +14,97 @@ reference:
     site: english.www.gov.cn
 ---
 
+<script setup>
+import { ref, computed } from 'vue'
+import { visaFreeCountries } from './visa';
+
+const European114Hour = computed(() => visaFreeCountries.filter(c => c.continent === 'European' && c.h114));
+const European30Day = computed(() => visaFreeCountries.filter(c => c.continent === 'European' && c.d30));
+const EuropeanHainan = computed(() => visaFreeCountries.filter(c => c.continent === 'European' && c.hainan));
+const American114Hour = computed(() => visaFreeCountries.filter(c => c.continent === 'American' && c.h114));
+const American30Day = computed(() => visaFreeCountries.filter(c => c.continent === 'American' && c.d30));
+const AmericanHainan = computed(() => visaFreeCountries.filter(c => c.continent === 'American' && c.hainan));
+const Oceanian114Hour = computed(() => visaFreeCountries.filter(c => c.continent === 'Oceanian' && c.h114));
+const Oceanian30Day = computed(() => visaFreeCountries.filter(c => c.continent === 'Oceanian' && c.d30));
+const OceanianHainan = computed(() => visaFreeCountries.filter(c => c.continent === 'Oceanian' && c.hainan));
+const Asian114Hour = computed(() => visaFreeCountries.filter(c => c.continent === 'Asian' && c.h114));
+const Asian30Day = computed(() => visaFreeCountries.filter(c => c.continent === 'Asian' && c.d30));
+const AsianHainan = computed(() => visaFreeCountries.filter(c => c.continent === 'Asian' && c.hainan));
+const Africa114Hour = computed(() => visaFreeCountries.filter(c => c.continent === 'Africa' && c.h114));
+const Africa30Day = computed(() => visaFreeCountries.filter(c => c.continent === 'Africa' && c.d30));
+const AfricaHainan = computed(() => visaFreeCountries.filter(c => c.continent === 'Africa' && c.hainan));
+</script>
+
 # Travel Visa Strategies for Foreigners to Visit China
 
 ## 30-Day Visa-Free Entry
 
-Countries with 30-day visa-free entry: Albania, Antigua and Barbuda, Armenia, The Bahamas, Barbados, Belarus, Bosnia and Herzegovina, Dominica, Ecuador, Fiji, Georgia, Grenada, Kazakhstan, Maldives, Mauritius, Qatar, San Marino, Serbia, Seychelles, Singapore, Surinam, Thailand, Tonga, United Arab Emirates.
+<table>
+  <colgroup>
+    <col width="130" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th colspan="2">List of Countries Entitled to the 30-Day Visa-Free Entry</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>European ({{ European30Day.length }})</td>
+      <td><template v-for="(country, i) in European30Day" :key="country.name">{{ country.name }}{{ i !== European30Day.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>American ({{ American30Day.length }})</td>
+      <td><template v-for="(country, i) in American30Day" :key="country.name">{{ country.name }}{{ i !== American30Day.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>Oceanian ({{ Oceanian30Day.length }})</td>
+      <td><template v-for="(country, i) in Oceanian30Day" :key="country.name">{{ country.name }}{{ i !== Oceanian30Day.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>Asian ({{ Asian30Day.length }})</td>
+      <td><template v-for="(country, i) in Asian30Day" :key="country.name">{{ country.name }}{{ i !== Asian30Day.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>Africa ({{ Africa30Day.length }})</td>
+      <td><template v-for="(country, i) in Africa30Day" :key="country.name">{{ country.name }}{{ i !== Africa30Day.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+  </tbody>
+</table>
 
 Visa-free entry does not equate to unlimited stay or residence in the agreement country. According to the requirements of the agreement, individuals holding the relevant passport are generally only permitted to stay for no more than 30 days after visa-free entry. If the holder needs to stay longer than 30 days, they should apply for residency procedures as soon as possible according to the requirements.
 
 ## 144-Hour Transit Visa Exemption
 
-<script setup>
-import { ref, computed } from 'vue'
-import { visaFreeCountries } from './visa';
-
-const European = computed(() => visaFreeCountries.filter(country => country.continent === 'European'));
-const American = computed(() => visaFreeCountries.filter(country => country.continent === 'American'));
-const Oceanian = computed(() => visaFreeCountries.filter(country => country.continent === 'Oceanian'));
-const Asian = computed(() => visaFreeCountries.filter(country => country.continent === 'Asian'));
-</script>
-
 <table>
+  <colgroup>
+    <col width="130" />
+  </colgroup>
   <thead>
     <tr>
-      <th colspan="2">List of Countries Entitled to the 72/144-Hour Visa-Free Transit</th>
+      <th colspan="2">List of Countries Entitled to the 30-Day Visa-Free Entry</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>European ({{ European.length }})</td>
-      <td><template v-for="(country, i) in European" :key="country.name">{{ country.name }}{{ i !== European.length - 1 ? ', ' : '' }}</template></td>
+      <td>European ({{ European114Hour.length }})</td>
+      <td><template v-for="(country, i) in European114Hour" :key="country.name">{{ country.name }}{{ i !== European114Hour.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
-      <td>American ({{ American.length }})</td>
-      <td><template v-for="(country, i) in American" :key="country.name">{{ country.name }}{{ i !== American.length - 1 ? ', ' : '' }}</template></td>
+      <td>American ({{ American114Hour.length }})</td>
+      <td><template v-for="(country, i) in American114Hour" :key="country.name">{{ country.name }}{{ i !== American114Hour.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
-      <td>Oceanian ({{ Oceanian.length }})</td>
-      <td><template v-for="(country, i) in Oceanian" :key="country.name">{{ country.name }}{{ i !== Oceanian.length - 1 ? ', ' : '' }}</template></td>
+      <td>Oceanian ({{ Oceanian114Hour.length }})</td>
+      <td><template v-for="(country, i) in Oceanian114Hour" :key="country.name">{{ country.name }}{{ i !== Oceanian114Hour.length - 1 ? ', ' : '' }}</template></td>
     </tr>
     <tr>
-      <td>Asian ({{ Asian.length }})</td>
-      <td><template v-for="(country, i) in Asian" :key="country.name">{{ country.name }}{{ i !== Asian.length - 1 ? ', ' : '' }}</template></td>
+      <td>Asian ({{ Asian114Hour.length }})</td>
+      <td><template v-for="(country, i) in Asian114Hour" :key="country.name">{{ country.name }}{{ i !== Asian114Hour.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>Africa ({{ Africa114Hour.length }})</td>
+      <td><template v-for="(country, i) in Africa114Hour" :key="country.name">{{ country.name }}{{ i !== Africa114Hour.length - 1 ? ', ' : '' }}</template></td>
     </tr>
   </tbody>
 </table>
@@ -68,15 +123,15 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
   </thead>
   <tbody>
     <tr>
-      <td>Changsha Huanghua<br/>International Airport</td>
+      <td>Changsha Huanghua International Airport</td>
       <td>Hunan Province</td>
     </tr>
     <tr>
-      <td>Harbin Taiping<br/>International Airport</td>
+      <td>Harbin Taiping International Airport</td>
       <td>Harbin</td>
     </tr>
     <tr>
-      <td>Guilin Liangjiang<br/>International Airport</td>
+      <td>Guilin Liangjiang International Airport</td>
       <td>Guilin</td>
     </tr>
     <tr>
@@ -89,123 +144,106 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
 #### Destination
 
 <table>
+  <colgroup>
+    <col width="330" />
+    <col />
+  </colgroup>
   <thead>
     <tr>
       <th>Port</th>
       <th>Destinations for Staying</th>
-      <th>Itinerary Guide</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Beijing Capital<br/>International Airport</td>
-      <td rowspan="7">Beijing Municipality<br/>Tianjin Municipality<br/>Hebei Province</td>
-      <td rowspan="3"><!--<a href="/beijing/visa-free/">Beijing Guide</a>--></td>
+      <td>Beijing Capital International Airport</td>
+      <td rowspan="7">Beijing Municipality, Tianjin Municipality, Hebei Province</td>
     </tr>
     <tr>
-      <td>Beijing Daxing<br/>International Airport</td>
+      <td>Beijing Daxing International Airport</td>
     </tr>
     <tr>
       <td>Beijing West Railway Station</td>
     </tr>
     <tr>
-      <td>Tianjin Binhai<br/>International Airport</td>
-      <td rowspan="2"></td>
+      <td>Tianjin Binhai International Airport</td>
     </tr>
     <tr>
       <td>Tianjin International Cruise Home Port</td>
     </tr>
     <tr>
-      <td>Shijiazhuang Zhengding<br/>International Airport</td>
-      <td rowspan="2"></td>
+      <td>Shijiazhuang Zhengding International Airport</td>
     </tr>
     <tr>
       <td>Port of Qinhuangdao</td>
     </tr>
     <tr>
-      <td>Shanghai Hongqiao<br/>International Airport</td>
-      <td rowspan="10">Shanghai Municipality<br/>Jiangsu Province<br/>Zhejiang Province</td>
-      <td rowspan="4"><!--<a href="/shanghai/visa-free/">Shanghai Guide</a>--></td>
+      <td>Shanghai Hongqiao International Airport</td>
+      <td rowspan="10">Shanghai Municipality, Jiangsu Province, Zhejiang Province</td>
     </tr>
-    <tr><td>Shanghai Pudong<br/>International Airport</td></tr>
+    <tr><td>Shanghai Pudong International Airport</td></tr>
     <tr><td>Port of Shanghai</td></tr>
-    <tr><td>Exit-Entry Port of Shanghai<br/>Railway Station</td></tr>
+    <tr><td>Exit-Entry Port of Shanghai, Railway Station</td></tr>
     <tr>
-      <td>Nanjing Lukou<br/>International Airport</td>
-      <td><!--<a href="/nanjing/visa-free/">Nanjing Guide</a>--></td>
+      <td>Nanjing Lukou International Airport</td>
     </tr>
     <tr>
       <td>Lianyungang Port</td>
-      <td></td>
     </tr>
     <tr>
-      <td>Hangzhou Xiaoshan<br/>International Airport</td>
-      <td><!--<a href="/hangzhou/visa-free/">Hangzhou Guide</a>--></td>
+      <td>Hangzhou Xiaoshan International Airport</td>
     </tr>
     <tr>
-      <td>Ningbo Lishe<br/>International Airport</td>
-      <td rowspan="3"></td>
+      <td>Ningbo Lishe International Airport</td>
     </tr>
     <tr><td>Wenzhou Port</td></tr>
     <tr><td>Zhoushan Port</td></tr>
     <tr>
-      <td>Guangzhou Baiyun<br/>International Airport</td>
+      <td>Guangzhou Baiyun International Airport</td>
       <td rowspan="5">Guangdong Province</td>
-      <td rowspan="2"><!--<a href="/guangzhou/visa-free/">Guangzhou Guide</a>--></td>
     </tr>
     <tr><td>Nansha Port</td></tr>
     <tr>
-      <td>Shenzhen Bao'an<br/>International Airport</td>
-      <td rowspan="2"><!--<a href="/shenzhen/visa-free/">Shenzhen Guide</a>--></td>
+      <td>Shenzhen Bao'an International Airport</td>
     </tr>
     <tr><td>Shekou Port</td></tr>
     <tr>
-      <td>Jieyang Chaoshan<br/>International Airport</td>
-      <td></td>
+      <td>Jieyang Chaoshan International Airport</td>
     </tr>
     <tr>
-      <td>Chengdu Shuangliu<br/>International Airport</td>
-      <td>Chengdu<br/>Leshan<br/>Deyang<br/>Suining<br/>Meishan<br/>Ya'an<br/>Ziyang<br/>Neijiang<br/>Zigong<br/>Luzhou<br/>Yibin</td>
-      <td><!--<a href="/sichuan/chengdu/visa-free/">Chengdu Guide</a>--></td>
+      <td>Chengdu Shuangliu International Airport</td>
+      <td>Chengdu, Leshan, Deyang, Suining, Meishan, Ya'an, Ziyang, Neijiang, Zigong, Luzhou, Yibin</td>
     </tr>
     <tr>
-      <td>Chongqing Jiangbei<br/>International Airport</td>
+      <td>Chongqing Jiangbei International Airport</td>
       <td>Chongqing Municipality</td>
-      <td><a href="/chongqing/visa-free">Chongqing Guide</a></td>
     </tr>
     <tr>
-      <td>Kunming Changshui<br/>International Airport</td>
-      <td rowspan="3">Kunming<br/>Lijiang<br/>Yuxi<br/>Pu'er<br/>Chuxiong<br/>Dali<br/>Xishuangbanna<br/>Honghe<br/>Wenshan</td>
-      <td><!--<a href="/kunming/visa-free/">Kunming Guide</a>--></td>
+      <td>Kunming Changshui International Airport</td>
+      <td rowspan="3">Kunming, Lijiang, Yuxi, Pu'er, Chuxiong, Dali, Xishuangbanna, Honghe, Wenshan</td>
     </tr>
     <tr>
-      <td>Lijiang Sanyi<br/>International Airport</td>
-      <td><!--<a href="/lijiang/visa-free/">Lijiang Guide</a>--></td>
+      <td>Lijiang Sanyi International Airport</td>
     </tr>
     <tr>
       <td>Exit-Entry Port of Mohan Railway Station</td>
-      <td><!--<a href="/xishuangbanna/visa-free/">Xishuangbanna Guide</a>--></td>
     </tr>
     <tr>
-      <td>Xiamen Gaoqi<br/>International Airport</td>
+      <td>Xiamen Gaoqi International Airport</td>
       <td rowspan="2">Xiamen</td>
-      <td rowspan="2"><!--<a href="/xiamen/visa-free/">Xiamen Guide</a>--></td>
     </tr>
     <tr><td>Port of Xiamen</td></tr>
     <tr>
-      <td>Xi'an Xianyang<br/>International Airport</td>
+      <td>Xi'an Xianyang International Airport</td>
       <td>Xi'an and Xianyang</td>
-      <td><!--<a href="/xian/visa-free/">Xi'an Guide</a>--></td>
     </tr>
     <tr>
-      <td>Wuhan Tianhe<br/>International Airport</td>
+      <td>Wuhan Tianhe International Airport</td>
       <td>Wuhan</td>
-      <td><!--<a href="/wuhan/visa-free/">Wuhan Guide</a>--></td>
     </tr>
     <tr>
-      <td>Qingdao Jiaodong<br/>International Airport</td>
+      <td>Qingdao Jiaodong International Airport</td>
       <td rowspan="2">Shandong Province</td>
-      <td rowspan="2"><!--<a href="/qingdao/visa-free/">Qingdao Guide</a>--></td>
     </tr>
     <tr><td>Port of Qingdao</td></tr>
   </tbody>
@@ -213,10 +251,45 @@ const Asian = computed(() => visaFreeCountries.filter(country => country.contine
 
 ## Visa Free Entry to Hainan
 
-List of 59 countries eligible for Visa Free Entry to Hainan: Russia, the United Kingdom, France, Germany, Norway, Ukraine, Italy, Austria, Finland, the Netherlands, Denmark, Switzerland, Sweden, Spain, Belgium, Czech Republic, Estonia, Greece, Hungary, Iceland, Latvia, Lithuania, Malta, Poland, Portugal, Slovakia, Slovenia, Ireland, Cyprus, Bulgaria, Romania, Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, the United States, Canada, Brazil, Mexico, Argentina, Chile, Australia, New Zealand, the Republic of Korea, Japan, Singapore, Malaysia, Thailand, Kazakhstan, the Philippines, Indonesia, Brunei, the United Arab Emirates, Qatar, Monaco, Belarus.
+<table>
+  <colgroup>
+    <col width="130" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th colspan="2">List of Countries Eligible for Visa Free Entry to Hainan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>European ({{ EuropeanHainan.length }})</td>
+      <td><template v-for="(country, i) in EuropeanHainan" :key="country.name">{{ country.name }}{{ i !== EuropeanHainan.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>American ({{ AmericanHainan.length }})</td>
+      <td><template v-for="(country, i) in AmericanHainan" :key="country.name">{{ country.name }}{{ i !== AmericanHainan.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>Oceanian ({{ OceanianHainan.length }})</td>
+      <td><template v-for="(country, i) in OceanianHainan" :key="country.name">{{ country.name }}{{ i !== OceanianHainan.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>Asian ({{ AsianHainan.length }})</td>
+      <td><template v-for="(country, i) in AsianHainan" :key="country.name">{{ country.name }}{{ i !== AsianHainan.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+    <tr>
+      <td>Africa ({{ AfricaHainan.length }})</td>
+      <td><template v-for="(country, i) in AfricaHainan" :key="country.name">{{ country.name }}{{ i !== AfricaHainan.length - 1 ? ', ' : '' }}</template></td>
+    </tr>
+  </tbody>
+</table>
 
 1, People from the above 59 countries can travel to Hainan with valid ordinary passports.<br/>
 2, Travel from or via any other locations outside Chinese territory with a direct flight to Hainan.<br/>
 3, Visa-free entry to Hainan though designated ports of entry in Hainan.<br/>
 4, 30-day stay in Hainan after entry.<br/>
 5, Stay and travel in Hainan administrative area only (subject to the relevant provisions if applicable to a mutual visa exemption agreements signed with China)
+
+## L-Visa
+
+Suitable for short-term tourism, visiting relatives and friends, usually valid for 30 days to 10 years, single or multiple entry.
