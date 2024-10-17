@@ -1,7 +1,7 @@
 {
   "private": true,
   "type": "module",
-  "description": "Your China Travel Guide with Local Tips",
+  "description": "Your China travel guide with local tips: essential visa advice, top attractions, local culinary delights, and premier destinations for unforgettable experiences.",
   "repository": "https://github.com/nihao-wiki/nihao/",
   "license": "MIT",
   "scripts": {
