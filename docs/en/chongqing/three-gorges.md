@@ -1,3 +1,11 @@
+---
+description: "The World-Renowned Three Gorges Are in Chongqing: Recommended Travel Routes to Explore Towering Cliffs and Traces of Ancient Heroes."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing three gorges travel
+---
+
 # The Three Gorges: Explore Unveiling Ancient Culture
 
 ::: info LOCAL TIPS

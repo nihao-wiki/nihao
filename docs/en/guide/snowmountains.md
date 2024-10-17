@@ -1,3 +1,11 @@
+---
+description: "Beyond the Himalayas: Discover China's Other Spectacular Snow-Capped Mountains, Unconquered Peaks, and a Comprehensive List for Aspiring Climbers."
+head:
+  - - meta
+    - name: keywords
+      content: China snow mountains travel
+---
+
 # China's Snow Mountains: Explore Majestic Landscapes
 
 ## Mount Everest

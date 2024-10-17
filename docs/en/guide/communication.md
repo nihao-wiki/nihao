@@ -1,3 +1,11 @@
+---
+description: "Can You Use 5G for Internet Access in China? Five Essential Apps You Need Including Translation, Ride-Hailing, and Food Delivery Services."
+head:
+  - - meta
+    - name: keywords
+      content: China travel Apps
+---
+
 # Must-Know Travel in China: Staying Connected & Apps
 
 ## Stay Online

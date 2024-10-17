@@ -1,3 +1,11 @@
+---
+description: "Experiencing Travel During Chinese Holidays with Over 100 Million Trips: Choosing the Best Time to Visit China and Optimal Seasons for Different Attractions."
+head:
+  - - meta
+    - name: keywords
+      content: China holidays travel, China travel best seasons
+---
+
 # Best Seasons to Visit China: How to Avoiding Crowds
 
 ## High Seasons

@@ -1,4 +1,9 @@
 ---
+description: "The Hottest Chongqing Travel Visa Option: 144-Hour Visa-Free Transit, List of Eligible Countries, and Recommended Itineraries."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing travel visa strategy
 #reference:
 #  - title: All scheduled direct (non-stop) flights from Chongqing (CKG)
 #    href: https://www.flightsfrom.com/CKG?from=CKG&countries=AU,KH,FR,HU,IT,JP,LA,MY,NP,QA,RU,SG,KR,ES,LK,TH,AE,GB,VN&state=1#

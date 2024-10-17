@@ -1,3 +1,10 @@
+---
+description: "Renowned Chongqing Buddhist Rock Carvings: A World Heritage Site – Recommended Tour Routes for Dazu Stone Carvings and How to Depart from Downtown Chongqing."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing travel, Chongqing buddhism attraction
+---
 
 # Dazu Rock Carvings: Explore Ancient Buddhist Art
 

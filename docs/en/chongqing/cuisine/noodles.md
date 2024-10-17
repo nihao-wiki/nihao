@@ -1,3 +1,11 @@
+---
+description: "China's Tastiest Noodles: Chongqing Xiaomian – Essential Eats When Visiting Chongqing, Including Bowl Za Noodles, Laizi Chicken Noodles, Rice Noodles, Wontons, and Dumplings."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing noodles
+---
+
 # Must-Try: Chongqing Noddles: Xiaomian & Hidden Treats
 
 ## Xiaomian

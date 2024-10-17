@@ -1,3 +1,11 @@
+---
+description: "You Won't Believe It! Exploring Chongqing's 8D Cyberpunk City: Must-Visit Sites Like the Mysterious First Floor That's Actually the 23rd, and a Light Rail Through a Building."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing cyberpunk travel
+---
+
 # One Day Urban Tour: Explore Chongqing's Cyberpunk
 
 ![One Day Urban Tour](./assets/chongqing-one-day.jpg)

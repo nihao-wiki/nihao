@@ -1,3 +1,11 @@
+---
+description: "Chongqing's Ancient Battlefield: The Fortress That Withstood Mongol Armies – Recommended Tourist Routes for Diaoyu City in Hechuan District."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing travel
+---
+
 # Explore The Fishing City: A Fortress in Chongqing
 
 <Chinese word="钓鱼城">

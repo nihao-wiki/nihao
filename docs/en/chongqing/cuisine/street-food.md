@@ -1,3 +1,11 @@
+---
+description: "The Most Dangerous Thing About Visiting Chongqing: Its Street Food – Must-Try Snacks Like Sanjiao Baba and Chongqing Skewers."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing street food
+---
+
 # Must-Try: Discover Chongqing's Hidden Street Eats
 
 ## Fried Rice Flour Triangle

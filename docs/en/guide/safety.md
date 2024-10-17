@@ -1,3 +1,11 @@
+---
+description: "Is Traveling to China Safe for Foreigners? Debunking Online Myths: Discover the Safety, Friendliness, and Fair Pricing of Tourism in China."
+head:
+  - - meta
+    - name: keywords
+      content: China travel safety
+---
+
 # Debunking Myths: How Safe is China for Traveling
 
 ## Safety

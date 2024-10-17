@@ -1,4 +1,9 @@
 ---
+description: "Top 4 Popular Visa Strategies for Traveling in China: Exploring 24-Nation 30-Day Waiver, 144-Hour Transit Exemption, Hainan Visa-Free Entry, and 10-Year L-Visa Options."
+head:
+  - - meta
+    - name: keywords
+      content: China travel visa, 30-day visa-free, 72/144-hour transit visa, visa free entry to Hainan, L-Visa
 reference:
   - title: About Chinese Visa
     href: http://cs.mfa.gov.cn/wgrlh/lhqz/lhqzjjs/201311/t20131101_961583.shtml
@@ -82,7 +87,7 @@ Visa-free entry does not equate to unlimited stay or residence in the agreement 
   </colgroup>
   <thead>
     <tr>
-      <th colspan="2">List of Countries Entitled to the 30-Day Visa-Free Entry</th>
+      <th colspan="2">List of Countries Entitled to the 144-Hour Transit Visa Exemption</th>
     </tr>
   </thead>
   <tbody>
