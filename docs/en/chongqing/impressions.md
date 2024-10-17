@@ -1,3 +1,11 @@
+---
+description: "First Impressions of Chongqing: The Magic of the World's Largest City – 8D Cyberpunk Nightscapes, Spicy Cuisine, Warm People, and Feisty Beauties."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing travel
+---
+
 # China Chongqing's First Impressions: Visit Overview
 
 ## Overview

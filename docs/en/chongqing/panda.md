@@ -1,3 +1,11 @@
+---
+description: "Where to See Giant Pandas in Chongqing: A Guide to Visiting the Chongqing Zoo and the Best Way to Experience China's National Treasure."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing panda
+---
+
 # Explore Chongqing Zoo: A Panda Encounter & Animals
 
 ## Chongqing Zoo

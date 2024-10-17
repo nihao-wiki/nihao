@@ -1,15 +1,11 @@
-import { createRequire } from 'module';
 import { defineConfig } from 'vitepress';
 import { nav } from './nav';
 import { bottomNav } from './bottom-nav';
 import sidebar from './sidebar';
 import pkg from '../../../../package.json';
 
-const require = createRequire(import.meta.url);
-
 export const en = defineConfig({
   lang: 'en-US',
-  description: pkg.description,
   themeConfig: {
     nav: nav(),
     // @ts-ignore

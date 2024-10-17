@@ -1,3 +1,11 @@
+---
+description: "Spicy & Numbing: Chongqing's Heavily Flavored Jianghu Dishes – Essential Eats for Your Trip Including Chongqing Spicy Chicken and More."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing jianghu cuisine
+---
+
 # Savor Má Là: Explore the Chongqing Jianghu Cuisine
 
 <Chinese word="麻辣">

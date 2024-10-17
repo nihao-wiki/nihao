@@ -1,3 +1,11 @@
+---
+description: "The Soul of Chongqing Cuisine: Hot Pot—Choosing Between Spicy Broth and Combination Pots, Oil-Based Dips, Must-Try Dishes, and Cooking Times for Tripe."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing hotpot
+---
+
 # Chongqing Hot Pot Guide: Local Flavor & Must-Tries
 
 ## Introduction

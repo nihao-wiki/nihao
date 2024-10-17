@@ -1,3 +1,11 @@
+---
+description: "Is Spicy Noodle Soup a Morning Must in Chongqing? Discover the Real Breakfast Favorites like Soy Milk and Crullers, Plus Insider Tips on Must-Try Meals for Tourists."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing breakfast
+---
+
 # Chongqing's Morning Flavors: Soy Milk & "Five Greats"
 
 Chongqing breakfast features the "Five Greats", which include Soy Milk, Fried Dough Sticks, Fried Glutinous Rice Cakes, Glutinous Rice Balls and Oily Tea.

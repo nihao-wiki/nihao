@@ -1,3 +1,11 @@
+---
+description: "How to Navigate Train Travel in China: From High-Speed Rail Speeds to Online Ticket Booking, Seat Types, Food Delivery, and Finding the Right Train Station."
+head:
+  - - meta
+    - name: keywords
+      content: China train travel, China high speed train
+---
+
 # HighSpeed Train: China's Advanced Railway Travel
 
 China's railway system is highly advanced and can be categorized into several types:

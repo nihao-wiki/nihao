@@ -1,3 +1,11 @@
+---
+description: "Chongqing Religious Tour: Visit Must-See Daoist Origins, Buddhist Temples, and Rock Carvings – A Guide to World Heritage Sites and Pilgrimage Routes in China."
+head:
+  - - meta
+    - name: keywords
+      content: Chongqing travel, Chongqing buddhism attraction, Chongqing taoism attraction
+---
+
 # Explore Chongqing's Cultural: the Ba-Yu Heritage
 
 Chongqing historically was part of the ancient states of Ba and Shu. Ba-Yu culture combines elements from the ancient Ba people and various subsequent cultures, forming its own unique style. Chongqing is home to many significant historical sites, such as the Dazu Rock Carvings and Baidi City. Ancient poets and scholars have left behind numerous poems praising the natural scenery of the Ba-Yu region.
@@ -65,3 +73,7 @@ Within the temple grounds, there is an ancient rock formation over 20 meters lon
 ::: info LOCAL TIPS
 Luohan Temple is located near Jiefangbei in the center of Chongqing; it is within walking distance. Alternatively, you can take Line 1 of the monirail to Xiaoshizi Station, and it’s just over a hundred meters’ walk away.
 :::
+
+## Dazu Rock Carving
+
+For more information, see [Dazu Rock Carving](/chongqing/dazu).
