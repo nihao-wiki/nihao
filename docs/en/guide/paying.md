@@ -18,11 +18,21 @@ The history of scan-to-pay in China can be traced back to 2013, making it over a
 
 ### Scan Merchant’s Code
 
-Users scan the QR code provided by the merchant, enter the amount, and then pay. After the payment is made, merchants typically receive an audio notification confirming the successful transaction. This is a common payment method for small vendors, small supermarkets, and restaurants. Both individuals and merchants can use this method.
+<p>
+<Flex>
+<div>Users scan the QR code provided by the merchant, enter the amount, and then pay. After the payment is made, merchants typically receive an audio notification confirming the successful transaction. This is a common payment method for small vendors, small supermarkets, and restaurants. Both individuals and merchants can use this method.</div>
+<div><img src="./assets/alipay1.jpg" alt="Scan Merchant’s Code" /></div>
+</Flex>
+</p>
 
 ### Merchant Scan User’s Code
 
-Users present their payment code, which is then scanned by the merchant's device to complete the payment. This method is very common in large supermarkets, and small supermarkets and restaurants may also have portable devices to scan payment codes. This is typically used by merchants.
+<p>
+<Flex>
+<div>Users present their payment code, which is then scanned by the merchant's device to complete the payment. This method is very common in large supermarkets, and small supermarkets and restaurants may also have portable devices to scan payment codes. This is typically used by merchants.</div>
+<div><img src="./assets/alipay2.jpg" alt="Merchant Scan User’s Code" /></div>
+</Flex>
+</p>
 
 ::: info LOCAL TIPS
 Payment codes can be used to make payments even without an internet connection.
@@ -74,6 +84,8 @@ Alipay already cooperates with 65 financial institutions, among which are Visa a
 Once you finish downloading the application, open it and proceed to the registration: you’ll first be asked to enter your **cell phone number**, later you’ll receive a message with a numeric code that you’ll have to enter in the app to continue with your registration.
 
 The Alipay home page will open, so now you will have to add your credit card: access your profile by clicking on **“Me”** and then click on **“Bank Cards”** and proceed with the compilation or requested information, such as credit card number and your name and last name. Later Alipay will ask you to also enter a password to allow you to make payments with this application.
+
+![Alipay](./assets/alipay3.jpg)
 
 #### Scan & Pay
 
